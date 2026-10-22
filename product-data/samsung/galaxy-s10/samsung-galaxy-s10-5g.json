@@ -1,0 +1,417 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s10-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S10 5G conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S10 5G",
+        "category": "smartphone",
+        "sub_category": "flagship-5g",
+        "release_year": 2019,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S10-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S10-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s10-5g/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S10 5G 6.7\" QHD+ 8Go RAM Quadruple Capteur 3D TOF 4500mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S10-5G",
+        "Name": "Samsung Galaxy S10 5G - 6.7\" QHD+ - 8Go/256Go - Quadruple Capteur - 4500mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "190000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S10 5G, Galaxy S Series, Smartphone, Android, 5G, 12MP, 4500mAh, Snapdragon 855, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Argent, Noir, Or",
+        "Attribute 1 default": "Argent",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Premier Flagship 5G avec Capteurs 3D TOF et Écran Géant.",
+        "teaser": "Découvrez le Samsung Galaxy S10 5G avec son grand écran Dynamic AMOLED de 6.7 pouces en Quad HD+, son quadruple module photo avec capteurs de profondeur 3D et sa connectivité 5G ultra-rapide.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.7\" Dynamic AMOLED QHD+",
+                "benefice": "Dalle géante lumineuse offrant une précision d'affichage et une netteté exemplaires"
+            },
+            {
+                "feature": "Connectivité 5G & Puce 8nm",
+                "benefice": "Téléchargements ultra-rapides et fluidité d'exécution sans latence"
+            },
+            {
+                "feature": "Quadruple Capteur Photo & 3D TOF",
+                "benefice": "Mesure précise de la profondeur pour des vidéos avec flou d'arrière-plan en direct"
+            },
+            {
+                "feature": "Batterie 4500 mAh & Charge 25W",
+                "benefice": "Grande autonomie quotidienne et recharge rapide filaire et sans fil"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G grand format de référence pour les adeptes de technologies avant-gardistes.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S10 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S10 5G au meilleur prix à Abidjan sur My-eStore. Écran 6.7\" QHD+, 5G, quadruple capteur, 4500mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S10 5G 256Go : Écran QHD+ & 5G | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S10 5G sur My-eStore. Écran Dynamic AMOLED 6.7 pouces Quad HD+, quadruple capteur 3D TOF, batterie 4500 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S10 5G",
+            "lsi_keywords": [
+                "Samsung Galaxy S10 5G Abidjan",
+                "prix Samsung S10 5G",
+                "fiche technique Galaxy S10 5G",
+                "smartphone Samsung grand écran 5G",
+                "Galaxy S10 5G 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S10 5G : Grand Écran 6.7\" QHD+, Quadruple Capteur 3D et 5G",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S10 5G propose un affichage Dynamic AMOLED de 6.7 pouces très lumineux. Cette dalle procure une définition Quad HD Plus détaillée pour tous vos contenus professionnels. De plus, sa puce moderne gravée en 8nm traite vos applications avec une promptitude continue. Le cadre en aluminium renforcé assure une robustesse éprouvée face aux aléas de vos déplacements. Enfin, l'accumulateur de 4500 mAh offre une disponibilité prolongée tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S10 5G",
+            "items": [
+                {
+                    "feature": "Dalle 6.7\" Quad HD+ AMOLED",
+                    "benefice": "Grand confort de lecture et excellente lisibilité en extérieur"
+                },
+                {
+                    "feature": "Quadruple Module Photo avec Capteur 3D",
+                    "benefice": "Mesure fine de la profondeur et vidéos en direct avec flou artistique"
+                },
+                {
+                    "feature": "Connectivité Réseau 5G Véloce",
+                    "benefice": "Téléchargements de fichiers volumineux et streaming ultra-fluide"
+                },
+                {
+                    "feature": "Étanchéité IP68 Certifiée",
+                    "benefice": "Protection complète contre les projections d'eau et les poussières"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Grand Affichage Immersif et Prise en Main Équilibrée",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 6.7 pouces offre un espace confortable pour la lecture de tableaux professionnels. La définition Quad HD Plus permet de distinguer les détails les plus fins sur vos photographies. Le traitement du verre trempé protège efficacement la dalle contre les rayures accidentelles du quotidien. Par ailleurs, la luminosité maximale facilite grandement la consultation des courriels en extérieur. Le design soigné répartit le poids de manière homogène pour limiter la fatigue lors d'un usage prolongé. Vous bénéficiez ainsi d'une excellente ergonomie pour vos sessions multimédias quotidiennes.",
+                    "D'un autre côté, la technologie AMOLED procure des contrastes profonds et des couleurs vives équilibrées. Ce rendu visuel soigné met en valeur vos présentations ainsi que vos vidéos haute définition. Les bordures fines maximisent la surface d'affichage tout en conservant une préhension naturelle et agréable. En outre, la dalle tactile réagit instantanément aux commandes pour une navigation fluide sans saccade. Les lignes épurées s'harmonisent facilement avec vos accessoires professionnels de la même gamme. Ce smartphone associe grand gabarit et finesse pour une utilisation confortable en mobilité."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce gravée en 8nm accomplit les calculs exigeants avec une grande efficacité énergétique. Les huit gigaoctets de mémoire vive soutiennent le fonctionnement simultané de plusieurs applications lourdes. L'espace de stockage généreux accueille sans difficulté vos dossiers professionnels volumineux et vidéos haute fidélité. De surcroît, le dissipateur thermique canalise la chaleur pour maintenir des cadences d'horloge stables. Les algorithmes d'optimisation logicielle facilitent la mise en page et la gestion de vos flux bureautiques. Vous accomplissez vos démarches professionnelles avec une régularité exemplaire.",
+                    "Dans cette optique, le système de charge rapide 25W restaure l'autonomie en un temps très limité. La compatibilité avec la charge à induction offre une grande praticité sur votre bureau personnel. L'architecture matérielle sécurisée Knox isole vos identifiants confidentiels des tentatives d'accès non autorisées. Également, la connectivité cinq G assure des transferts de données volumineux sans ralentissement. Vos visioconférences conservent une stabilité audio et vidéo appréciable en réseau mobile. Ce terminal constitue une référence performante pour les travailleurs connectés."
+                ]
+            },
+            {
+                "h2_title": "Système Photo Quadruple et Autonomie Prolongée",
+                "paragraphs": [
+                    "D'abord, le capteur principal à double ouverture enregistre des clichés équilibrés en toutes circonstances lumineuses. Le système autofocus ultra-rapide verrouille la netteté sur les sujets mobiles sans hésitation. Le capteur 3D TOF mesure les distances avec précision pour découper parfaitement les arrière-plans en vidéo. De même, le capteur ultra grand-angle capture l'ensemble de vos paysages avec une grande fidélité géométrique. Le téléobjectif optique rapproche les sujets éloignés tout en préservant la netteté des textures. Vous créez des albums photographiques soignés directement exploitables pour vos projets.",
+                    "Enfin, l'accumulateur de 4500 mAh procure l'énergie indispensable pour couvrir vos journées les plus intenses. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes d'usage réelles. La fonction de recharge inversée dépanne facilement vos écouteurs sans fil compatibles. Par conséquent, vous travaillez en toute sérénité sans dépendre d'une prise murale permanente. La robustesse globale des composants assure une fiabilité durable sur plusieurs années d'utilisation. Le Galaxy S10 5G représente une solution complète alliant autonomie et innovation technologique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S10 5G",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S10 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.6 x 77.1 x 7.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.198 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 6, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.7\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "3040 x 1440 pixels (Quad HD+), 502 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 9820 (8nm) / Snapdragon 855 avec modem 5G"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go UFS 2.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.5-2.4, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "12 MP, f/2.4, 52mm, Zoom optique 2x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "16 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Capteur Profondeur 3D",
+                            "valeur": "0.3 MP, TOF 3D, f/1.2"
+                        },
+                        {
+                            "label": "Selfie Double (Avant)",
+                            "valeur": "10 MP, f/1.9 + Capteur 3D TOF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, Live focus video, HDR10+"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4500 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Wireless PowerShare 4.5W"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Recharge complète en environ 75 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM (Single SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes ultrasonique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s10-5g/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Argent",
+            "color_en": "Argent",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "190000",
+            "sku_suffix": "8-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Argent",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "190000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Or",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "190000",
+            "sku_suffix": "8-GB-256-GB-OR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Or",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-512-GB-OR"
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO X7 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO X Series",
+        "commercial_name": "Xiaomi POCO X7",
+        "category": "smartphone",
+        "sub_category": "midrange-speed",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-X7",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-X7"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X7"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X7+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G Xiaomi POCO X7 avec écran AMOLED 1.5K 120Hz, processeur Dimensity 7300-Ultra, étanchéité IP68 et batterie 5110 mAh."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7300-Ultra (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "2 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "5110 mAh",
+        "charging_wired": "Charge turbo 45W",
+        "navigation_gps": "GPS, GLONASS, Beidou, Galileo",
+        "card_slot": "Non (double nano-SIM)",
+        "weight": "0.185 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-X7",
+        "Name": "Xiaomi POCO X7 - Dual SIM - Écran AMOLED 1.5K 120Hz - (8 Go|12 Go & 256 Go|512 Go) - 5110 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "215000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO X7, POCO X Series, Smartphone, Android, 5G, Écran 120Hz, Capteur 50MP, 5110mAh, Charge 45W, Dimensity 7300-Ultra, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.185 kg",
+        "Attribute 4 default": "0.185 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "255000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "255000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "255000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme X Series Vitesse et Résistance",
+        "teaser": "Le smartphone 5G Xiaomi POCO X7 associe une dalle AMOLED 1.5K à 120Hz et le processeur MediaTek Dimensity 7300-Ultra. Certifié IP68 contre l'eau et équipé d'une batterie de 5110 mAh avec charge 45W, il offre une robustesse remarquable au quotidien à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran Flow AMOLED 1.5K 120Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Précision d'affichage 1.5K et fluidité dynamique",
+                "technical_detail": "Dalle AMOLED 6.67 pouces (2712 x 1220) avec rafraîchissement 120Hz et luminosité de 1800 nits.",
+                "daily_impact": "Lecture claire et reposante de vos documents sous le fort ensoleillement d'Abidjan."
+            },
+            {
+                "feature_title": "Puce MediaTek Dimensity 7300-Ultra (4 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Architecture économe et exécution multitâche fluide",
+                "technical_detail": "Processeur 8 cœurs cadencé jusqu'à 2.50 GHz avec GPU Mali-G615 et jusqu'à 12 Go de RAM.",
+                "daily_impact": "Lancement instantané de vos applications habituelles et navigation sans ralentissement."
+            },
+            {
+                "feature_title": "Étanchéité Complète Certifiée IP68",
+                "badge": "Robustesse",
+                "lead_benefit": "Résistance à l'eau et aux poussières",
+                "technical_detail": "Châssis renforcé étanche à l'immersion temporaire et résistant aux projections pluvieuses.",
+                "daily_impact": "Utilisation sereine par temps de pluie ou dans des milieux professionnels poussiéreux."
+            },
+            {
+                "feature_title": "Batterie 5110 mAh & Charge Turbo 45W",
+                "badge": "Autonomie",
+                "lead_benefit": "Endurance équilibrée sur plus d'une journée",
+                "technical_detail": "Capacité de 5110 mAh avec recharge rapide 45W via connectique USB Type-C.",
+                "daily_impact": "Disponibilité continue lors de vos déplacements sans dépendance constante aux prises."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO X7 combine écran haute définition 1.5K, étanchéité IP68 et processeur Dimensity 7300-Ultra.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO X7 (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO X7 chez My-eStore. Écran AMOLED 120Hz, puce Dimensity 7300-Ultra et étanchéité IP68 au meilleur tarif garanti à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO X7 512Go : Écran AMOLED 120Hz & IP68 | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO X7 chez My-eStore. Écran AMOLED 120Hz, Dimensity 7300-Ultra et étanchéité IP68 au tarif officiel garanti à Abidjan."
+        },
+        "h1": "Xiaomi POCO X7 : Dimensity 7300-Ultra, Écran 120Hz et Étanchéité IP68",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO X7",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 120Hz",
+                    "benefice": "Fluidité soignée et contraste profond pour une immersion agréable dans vos médias"
+                },
+                {
+                    "feature": "Dimensity 7300-Ultra",
+                    "benefice": "Architecture 4 nm économe offrant une cadence stable sans surchauffe"
+                },
+                {
+                    "feature": "Étanchéité IP68",
+                    "benefice": "Résistance à l'immersion accidentelle et à la poussière pour un usage polyvalent"
+                },
+                {
+                    "feature": "Batterie 5110 mAh 45W",
+                    "benefice": "Autonomie équilibrée soutenue par une recharge filaire rapide et sécurisée"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO X7 élève les critères de résistance et de réactivité mobile. Son écran AMOLED de 6.67 pouces affiche des détails lumineux avec un contraste élevé. De plus, la fréquence de 120Hz apporte une aisance continue à la navigation tactile. Le processeur Dimensity 7300-Ultra prend ainsi en charge vos applications de façon stable. Vous profitez en outre d'une certification IP68 et d'une batterie de 5110 mAh.",
+        "sections": [
+            {
+                "h2_title": "Un Écran AMOLED 120Hz Lumineux et Protégé",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.67 pouces diffuse des couleurs naturelles et des contrastes profonds. La résolution fine restitue chaque caractère avec une netteté appréciable au quotidien. Cette clarté graphique facilite par conséquent la lecture soutenue de longs rapports d'activité. La cadence adaptative de 120Hz fluidifie le défilement de vos fils d'actualité. Cette vitesse d'actualisation réduit ainsi la fatigue oculaire lors des consultations régulières. La luminosité de pointe élevée autorise une visibilité claire en plein soleil.",
+                    "Le verre trempé de protection renforce la face avant face aux chocs accidentels. Cette armature robuste assure donc une durabilité accrue lors de vos trajets quotidiens. Les bordures symétriques minces maximisent la surface d'affichage sans alourdir le format. Le châssis équilibré de 185 grammes assure une tenue en main sans lassitude. Cette prise en main reste par ailleurs stable lors de vos déplacements citadins. Les haut-parleurs stéréo Dolby Atmos créent un espace acoustique limpide pour vos vidéos."
+                ]
+            },
+            {
+                "h2_title": "Puissance Dimensity 7300-Ultra et Fluidité Logicielle",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 7300-Ultra optimise l'utilisation de chaque cœur logique. La finesse de gravure en 4 nanomètres réduit la dissipation de chaleur inutile. Cette sobriété thermique garantit en effet une réactivité continue lors du multitâche intense. La mémoire vive de 12 Go soutient l'ouverture simultanée de nombreux logiciels métiers. Le modem 5G intégré télécharge ainsi les pièces jointes volumineuses sans temps mort. Les flux de données circulent avec fluidité sur tous les réseaux modernes compatibles.",
+                    "Le stockage interne UFS rapide simplifie l'enregistrement instantané de vos fichiers professionnels. Le système Xiaomi HyperOS régule en outre l'attribution de la mémoire vive active. Les processus en arrière-plan s'exécutent discrètement sans ralentir l'application en cours d'utilisation. Le refroidissement interne dissipe rapidement les calories générées durant les calculs denses. La connectivité sans fil assure également des transferts stables avec tous vos périphériques. Vous travaillez avec tranquillité tout au long de votre journée professionnelle connectée."
+                ]
+            },
+            {
+                "h2_title": "Étanchéité IP68 Intégrale et Charge Filaire 45W",
+                "paragraphs": [
+                    "La certification IP68 protège l'appareil contre l'immersion temporaire et la poussière fine. Vous pouvez utiliser votre smartphone sous une averse tropicale sans crainte matérielle. Cette solidité éprouvée évite ainsi les pannes accidentelles en milieu humide ou sableux. Le capteur photo de 50 mégapixels capture des scènes lumineuses et fidèles. Cette stabilisation optique intégrée compense en effet les légers mouvements de la main. La caméra avant fournit des portraits détaillés lors de vos échanges en visioconférence.",
+                    "La batterie de 5110 mAh soutient aisément une longue journée de communication continue. Cette capacité étendue évite d'ailleurs le besoin de recharger l'appareil en soirée. Le chargeur fourni de 45W restaure promptement la charge via le port USB-C. Le système intelligent régule la tension électrique afin de préserver les cellules chimiques. Ces caractéristiques équilibrées renforcent par conséquent la pertinence économique de ce modèle. Le Xiaomi POCO X7 constitue un choix robuste et très fiable à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO X7 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.33 x 74.42 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "185 g (0.185 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis renforcé étanche, façade en verre résistant"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Vert (Green), Argent (Silver)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 68 milliards de couleurs, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~89.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), ratio 20:9 (~446 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (HBM), 1800 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 7300-Ultra (4 nm, Octa-core jusqu'à 2.50 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G615 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 50 MP (f/1.8, OIS) + ultra grand-angle 8 MP + macro 2 MP"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.4, enregistrement 1080p@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo, Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5110 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 45W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), double bande"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X7"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X7+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Fort 200",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/fort200"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "115000",
+        "official_sku": "BV-FORT-200"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G88 Octa-Core",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "FHD+ IPS LCD 90Hz Gorilla Glass 5",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "6 Go",
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 3.1",
+        "camera_main": "50 MP (Capteur Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "16 MP HD",
+        "audio_config": "Haut-parleur Smart-PA stéréo",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "178.4 x 83 x 11.5 mm",
+        "weight": "0.268 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-FORT-200-MASTER",
+        "Name": "Blackview Fort 200",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "115000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Fort 200, Smartphone Durci, FHD+ 90Hz, 50MP, IP68, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 12 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.268 kg",
+        "Attribute 4 default": "0.268 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Fort 200 : Le Smartphone Durci FHD+ 90Hz et 50 MP",
+        "brand_line": "Smartphone résistant Blackview haute performance pour les utilisateurs exigeants.",
+        "marketing_conclusion": "Commandez le Blackview Fort 200 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Fort 200 propose un grand écran 6.78 pouces FHD+ 90Hz Gorilla Glass 5, un processeur Helio G88, un appareil photo 50 MP et une charge 33W avec protection IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Écran 6.78\" FHD+ 90Hz Fluide",
+                "benefice": "Défilement très agréable et clarté d'affichage supérieure."
+            },
+            {
+                "feature": "Puce MediaTek Helio G88 Octa-Core",
+                "benefice": "Exécution rapide des applications et multitâche fluide."
+            },
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Photos d'une netteté remarquable avec des détails précis."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 33W",
+                "benefice": "Autonomie solide et recharge rapide pour repartir vite."
+            }
+        ],
+        "slogan_final": "Blackview Fort 200 — La puissance et l'affichage FHD+ sur le terrain.",
+        "seo": {
+            "meta_title": "Acheter Blackview Fort 200 (6Go/12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview Fort 200 avec écran FHD+ 90Hz 6.78 pouces, capteur 50 MP et étanchéité IP68. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Fort 200, smartphone durci Blackview, prix Abidjan, 90Hz 50MP IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Fort 200",
+            "lsi_keywords": [
+                "Blackview Fort 200",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable FHD+ 90Hz",
+                "meilleur prix Côte d'Ivoire",
+                "Helio G88 Octa-Core",
+                "batterie 5000 mAh",
+                "IP68 IP69K 50MP",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Fort 200 256 Go : FHD+ 90Hz & 50 MP | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview Fort 200. Écran 6.78 pouces FHD+ 90Hz, processeur Helio G88, capteur 50 MP et 256Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Fort 200 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Écran FHD+ 90Hz 6.78 Pouces",
+                    "benefice": "Résolution élevée 2460x1080 procurant un visuel très net."
+                },
+                {
+                    "feature": "Processeur Helio G88 Octa-Core",
+                    "benefice": "Navigation très fluide et réactivité accrue sous DokeOS 3.1."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP ISOCELL",
+                    "benefice": "Clichés précis et détaillés même sous fort ensoleillement."
+                },
+                {
+                    "feature": "Charge Rapide 33W USB-C",
+                    "benefice": "Rétablissement rapide de la charge de votre batterie 5000 mAh."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Fort 200 est un smartphone durci performant et élégant. Cet appareil répond idéalement aux besoins des professionnels exigeants en Côte d'Ivoire. Par ailleurs, la puce MediaTek Helio G88 offre une grande réactivité. De plus, son écran FHD+ de 6.78 pouces 90Hz procure un affichage d'une clarté remarquable. Le verre Corning Gorilla Glass 5 préserve la dalle contre les fentes et les rayures. Sa batterie de 5000 mAh associée à la charge 33W garantit une autonomie sans souci au quotidien. En effet, sa coque certifiée IP68 et IP69K protège efficacement contre l'eau et les impacts. Enfin, vous profitez d'une expérience visuelle d'un haut niveau.",
+        "sections": [
+            {
+                "h2_title": "Écran FHD+ 90Hz Spacieux et Fluidité G88",
+                "paragraphs": [
+                    "Le Blackview Fort 200 se dote d'un écran IPS de 6.78 pouces en résolution Full HD+. Sa définition de 2460 x 1080 pixels permet de lire distinctement les moindres détails de vos documents. De plus, le taux de rafraîchissement de 90 Hz fluidifie les défilements et les transitions d'applications. De surcroît, le processeur Helio G88 à huit cœurs cadencés à 2.0 GHz gère sans difficulté vos tâches lourdes. Les 6 Go ou 12 Go de mémoire RAM assurent un multitâche réactif. Les performances système restent très stables en toute circonstance.",
+                    "La mémoire de stockage interne de 256 Go conserve l'ensemble de vos applications et vidéos. La possibilité d'ajouter une carte MicroSD jusqu'à 1 To étend la capacité du téléphone. En effet, le châssis en caoutchouc renforcé dissipe l'onde de choc lors d'une chute accidentelle. La vitre Gorilla Glass 5 protège l'écran contre les poussières et débris métalliques. Ainsi, votre smartphone conserve sa solidité sur tous vos chantiers."
+                ]
+            },
+            {
+                "h2_title": "Photographie 50 MP et Étanchéité IP68/IP69K",
+                "paragraphs": [
+                    "Le Blackview Fort 200 intègre un capteur photo principal Samsung de 50 Mégapixels de haute précision. Cette caméra restitue des couleurs éclatantes et fidèles pour immortaliser vos rapports de chantier. En outre, la caméra selfie de 16 Mégapixels garantit des visioconférences claires avec vos collaborateurs. Les normes étanches IP68 et IP69K permettent d'utiliser l'appareil sous une forte pluie. La certification MIL-STD-810H confirme sa tolérance aux températures extrêmes et aux chocs. La durabilité est garantie sur tous les terrains.",
+                    "Par ailleurs, le module NFC multifonction facilite la réalisation de vos paiements sécurisés. La connectivité 4G Dual SIM permet de séparer vos lignes personnelles et professionnelles. De plus, la prise Jack 3.5 mm offre le confort d'écoute avec votre casque filaire. Le déverrouillage latéral par empreinte digitale réagit en une fraction de seconde. En somme, cet équipement nomade répond à toutes vos exigences."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie intégrée de 5000 mAh fournit une autonomie longue durée très appréciable. Cet accumulateur vous assure une journée complète d'activité sans recharge intermédiaire. Le système de charge rapide 33W permet de récupérer 50% de charge en seulement 30 minutes. En effet, la gestion logicielle d'Android 13 optimise la consommation de chaque composant interne. Vos appels et navigations se poursuivent en toute fluidité.",
+                    "La prise en main du téléphone reste très agréable malgré son blindage renforcé. Son poids de 268 grammes offre un bon équilibre entre confort et robustesse. Le Blackview Fort 200 s'impose comme une opportunité très séduisante à Abidjan. En somme, son rapport qualité-prix en fait un choix extrêmement compétitif. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Fort 200",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview Fort 200."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "178.4 x 83 x 11.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.268 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.78 pouces IPS LCD FHD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2460 x 1080 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G88 (12 nm) Octa-Core 2.0 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 12 Go LPDDR4X (extensible jusqu'à 24 Go)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 (f/1.8)"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "16 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 33W (USB-C)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 520 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 3.1"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/fort200"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

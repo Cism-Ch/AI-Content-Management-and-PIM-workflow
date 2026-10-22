@@ -1,0 +1,278 @@
+{
+    "template_version": "3.4",
+    "product_type": "screen_extender",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "DCM6",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/dcm6-price"
+            }
+        ],
+        "pricing_reference": "145000",
+        "official_sku": "BV-DCM6"
+    },
+    "key_specifications": {
+        "screen_size": "14.0 pouces Dual Screen",
+        "screen_technology": "FHD IPS Matte LCD",
+        "screen_resolution": "1920 x 1080 pixels x 2",
+        "audio_config": "Double haut-parleur stéréo 2W",
+        "connectivity_ports": "2x USB-C Full-Featured + 1x Mini HDMI",
+        "compatibility": "Windows, macOS, Android, Linux",
+        "dimensions": "355 x 225 x 18 mm",
+        "weight": "1.45 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-DCM6-MASTER",
+        "Name": "Blackview DCM6",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "145000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview DCM6, Écran Étendu Portable, Dual Screen, 14 Pouces, FHD, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.45 kg",
+        "Attribute 4 default": "1.45 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 2 name": "Taille Écran",
+        "Attribute 2 value(s)": "14 Pouces",
+        "Attribute 2 default": "14 Pouces",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "Poids",
+        "Attribute 3 value(s)": "1.45 kg",
+        "Attribute 3 default": "1.45 kg",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview DCM6 : Écran Étendu Portable 14 Pouces FHD USB-C & Mini HDMI",
+        "brand_line": "Moniteur étendu portable double écran Blackview pour doper votre productivité.",
+        "marketing_conclusion": "Commandez le Blackview DCM6 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview DCM6 offre une dalle 14 pouces Full HD, une connectivité USB-C Plug & Play, des haut-parleurs stéréo et une comptabilité universelle.",
+        "features": [
+            {
+                "feature": "Dalle 14.0\" FHD IPS Anti-Reflet",
+                "benefice": "Confort visuel élevé pour travailler sur deux écrans en mobilité."
+            },
+            {
+                "feature": "Connexion USB-C & Mini HDMI",
+                "benefice": "Installation instantanée Plug & Play sans pilote additionnel."
+            },
+            {
+                "feature": "Haut-Parleurs Stéréo Intégrés",
+                "benefice": "Diffusion sonore directe lors de vos visioconférences."
+            },
+            {
+                "feature": "Pied Support Ajustable",
+                "benefice": "Orientation ergonomique selon vos préférences de travail."
+            }
+        ],
+        "slogan_final": "Blackview DCM6 — Votre espace de travail nomade sur deux écrans.",
+        "seo": {
+            "meta_title": "Acheter Blackview DCM6 Écran Portable 14\" à Abidjan | My-eStore",
+            "meta_description": "Découvrez l'écran étendu portable Blackview DCM6 14 pouces FHD avec ports USB-C et Mini HDMI. Boostez votre productivité et achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview DCM6, écran portable Blackview, écran étendu USB-C, prix Abidjan, 14 pouces FHD"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview DCM6",
+            "lsi_keywords": [
+                "Blackview DCM6",
+                "écran portable Blackview Abidjan",
+                "Blackview DCM6 prix",
+                "écran étendu 14 pouces",
+                "moniteur USB-C portable",
+                "écran PC portable Côte d'Ivoire",
+                "achat moniteur nomade Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview DCM6 14\" : Écran FHD & USB-C | My-eStore",
+            "meta_description": "Achetez l'écran étendu portable Blackview DCM6. Dalle 14 pouces Full HD IPS, connectivité USB-C universelle et pied ajustable. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview DCM6 : Spécifications de l'Écran Étendu Portable",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU MONITEUR NOMADE",
+            "items": [
+                {
+                    "feature": "Double Dalle Full HD 14.0 Pouces",
+                    "benefice": "Extension d'affichage nette pour vos tableaux et fenêtres."
+                },
+                {
+                    "feature": "Interface Câble Unique USB-C",
+                    "benefice": "Alimentation et signal vidéo transmis par un seul cordon."
+                },
+                {
+                    "feature": "Boîtier Léger et Résistant",
+                    "benefice": "Transport facile dans la sacoche de votre ordinateur portable."
+                },
+                {
+                    "feature": "Compatibilité Multi-Systèmes",
+                    "benefice": "Fonctionnement direct sur Mac, Windows et smartphones USB-C."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview DCM6 est un moniteur étendu portable 14 pouces très pratique et performant. Cet équipement répond très bien aux besoins des professionnels mobiles et télétravailleurs en Côte d'Ivoire. Par ailleurs, la dalle Full HD IPS assure une lisibilité nette de vos documents. De plus, le branchement par câble USB-C unique simplifie l'installation instantanée. L'intégration de haut-parleurs stéréo permet de suivre vos visioconférences très clairement. Son châssis profilé s'insère sans encombre dans votre sacoche d'ordinateur. Le pied support orientable garantit une inclinaison sur mesure au bureau. Enfin, cet écran portable constitue une solution d'extension d'affichage très judicieuse.",
+        "sections": [
+            {
+                "h2_title": "Écran 14.0 Pouces Full HD et Connectivité USB-C",
+                "paragraphs": [
+                    "Le Blackview DCM6 embarque une dalle IPS mat de 14.0 pouces en résolution Full HD. Sa définition de 1920 x 1080 pixels restitue vos textes et images avec une belle précision. De plus, le traitement anti-reflet protège votre vue contre les lumières directes de bureau. De surcroît, les angles de vision larges de 178 degrés garantissent une visibilité très claire sous tous les angles. Les couleurs restent équilibrées lors de vos travaux graphiques.",
+                    "Cependant, la connectique complète réunit deux ports USB-C multifonctions et une prise Mini HDMI. La transmission du signal vidéo et de l'alimentation s'effectue via un seul câble USB-C. En effet, cette simplicité de raccordement évite l'encombrement de fils sur votre table. Par conséquent, cette organisation matérielle s'avère très appréciable lors de réunions extérieures. Vos présentations gagnent en clarté."
+                ]
+            },
+            {
+                "h2_title": "Compatibilité Universelle et Audio Stéréo",
+                "paragraphs": [
+                    "Le Blackview DCM6 assure une compatibilité totale avec les systèmes Windows, macOS et Android. Cet écran portable fonctionne instantanément dès son branchement sans pilote à installer. En outre, le raccordement à un smartphone compatible transforme votre téléphone en station de travail tactile. De même, les deux haut-parleurs stéréo intégrés diffusent une sonorité claire lors de vos lectures multimédias. Ainsi, la qualité d'écoute reste constante au fil de la journée. Vos réunions se déroulent sereinement.",
+                    "Par ailleurs, les boutons de réglage latéraux permettent d'ajuster le contraste et la luminosité très facilement. De plus, la fonction de rotation automatique adapte l'affichage en mode portrait ou paysage selon vos besoins. Également, la consommation électrique optimisée préserve la batterie de votre ordinateur portable. De surcroît, le pied support pliable assure une excellente stabilité sur n'importe quelle surface. En somme, cet accessoire augmente l'efficacité de vos outils."
+                ]
+            },
+            {
+                "h2_title": "Design Nomade et Finition Soignée",
+                "paragraphs": [
+                    "Le boîtier du Blackview DCM6 associe une grande finesse à un poids maîtrisé de 1.45 kg. Cette légèreté remarquable permet de voyager sans alourdir votre équipement de travail habituel. D'ailleurs, la housse de protection fournie protège l'écran contre les chocs légers et les rayures. En effet, sa finition en alliage d'aluminium confère une touche de modernité hautement séduisante. Vos collaborateurs apprécieront l'élégance du matériel.",
+                    "La silhouette affinée s'intègre parfaitement aux côtés de n'importe quel ordinateur portable. Son rapport qualité-prix en fait une acquisition particulièrement pertinente pour les consultants. D'autre part, le Blackview DCM6 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son ergonomie nomade simplifie la gestion de vos tâches multiples. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview DCM6",
+                "subtitle": "Spécifications matérielles certifiées du moniteur portable Blackview DCM6."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "355 x 225 x 18 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.45 kg"
+                        },
+                        {
+                            "label": "Châssis",
+                            "valeur": "Alliage d'aluminium avec pied support orientable"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "14.0 pouces IPS LCD Mat Anti-Reflet"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Angles de vision",
+                            "valeur": "178° / 178°"
+                        },
+                        {
+                            "label": "Format d'image",
+                            "valeur": "16:9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique & Entrées",
+                    "rows": [
+                        {
+                            "label": "Ports USB-C",
+                            "valeur": "2x USB-C Full-Featured (Vidéo & Alimentation)"
+                        },
+                        {
+                            "label": "Port vidéo HDMI",
+                            "valeur": "1x Mini HDMI"
+                        },
+                        {
+                            "label": "Sortie Audio",
+                            "valeur": "1x Prise Jack 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Double haut-parleur stéréo 2W"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Via câble USB-C connecté à l'ordinateur"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes pris en charge",
+                            "valeur": "Windows 11/10, macOS, Android, Linux, ChromeOS"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play (aucun pilote requis)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ergonomie & Fixation",
+                    "rows": [
+                        {
+                            "label": "Pied de support",
+                            "valeur": "Support dorsal orientable multi-angles"
+                        },
+                        {
+                            "label": "Mode d'affichage",
+                            "valeur": "Paysage & Portrait (Rotation automatique)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/dcm6-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

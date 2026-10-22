@@ -1,0 +1,421 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO F9 Ultra conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO F Series",
+        "commercial_name": "Xiaomi POCO F9 Ultra",
+        "category": "smartphone",
+        "sub_category": "flagship-power",
+        "release_year": 2025,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-F9-ULTRA",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-F9-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/poco-f9-ultra/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone haut de gamme Xiaomi POCO F9 Ultra avec écran 6.9 pouces, processeur Snapdragon 8 Elite Gen 5, batterie de 8050 mAh, charge 100W et étanchéité IP68."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "8050 mAh",
+        "charging_wired": "Charge turbo 100W",
+        "navigation_gps": "GPS double fréquence, GLONASS, Beidou, Galileo, NavIC",
+        "card_slot": "Non (double nano-SIM)",
+        "weight": "0.235 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-F9-ULTRA",
+        "Name": "Xiaomi POCO F9 Ultra - Dual SIM - Écran 6.9\" 144Hz - (12 Go|16 Go & 256 Go|512 Go) - 8050 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "460000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO F9 Ultra, POCO F Series, Smartphone, Android, 5G, Écran 144Hz, Capteur 50MP, 8050mAh, Charge 100W, Snapdragon 8 Elite Gen 5, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bordeaux",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.235 kg",
+        "Attribute 4 default": "0.235 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "460000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bordeaux",
+            "color_en": "Dark Red",
+            "color_code": "BORDEAUX",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "460000",
+            "sku_suffix": "12-GB-256-GB-BORDEAUX"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "16-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bordeaux",
+            "color_en": "Dark Red",
+            "color_code": "BORDEAUX",
+            "ram": "16 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "16-GB-256-GB-BORDEAUX"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "540000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Bordeaux",
+            "color_en": "Dark Red",
+            "color_code": "BORDEAUX",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "540000",
+            "sku_suffix": "16-GB-512-GB-BORDEAUX"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme F Series Flagship",
+        "teaser": "Le smartphone Xiaomi POCO F9 Ultra intègre un écran Flow AMOLED 2K de 6.9 pouces à 144Hz et le processeur Snapdragon 8 Elite Gen 5. Équipé d'une batterie de 8050 mAh avec charge turbo 100W et certification IP68, il répond aux usages intensifs à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran Flow AMOLED 6.9\" 144Hz 2K",
+                "badge": "Affichage",
+                "lead_benefit": "Lisibilité haute définition et réactivité tactile fluide",
+                "technical_detail": "Dalle AMOLED 2K WQHD+ (3200 x 1440) 144Hz avec luminosité jusqu'à 3000 nits et Dolby Vision.",
+                "daily_impact": "Affichage précis de vos documents et lecture confortable en extérieur sous fort ensoleillement."
+            },
+            {
+                "feature_title": "Processeur Snapdragon 8 Elite Gen 5 (3 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Puissance de calcul brute pour le multitâche et les jeux",
+                "technical_detail": "Architecture 8 cœurs haute fréquence avec GPU Adreno 830 et jusqu'à 16 Go de RAM LPDDR5X.",
+                "daily_impact": "Exécution rapide de vos applications lourdes et transitions instantanées sans ralentissement."
+            },
+            {
+                "feature_title": "Batterie 8050 mAh & Charge Turbo 100W",
+                "badge": "Autonomie",
+                "lead_benefit": "Endurance prolongée sur plusieurs journées de travail",
+                "technical_detail": "Capacité étendue de 8050 mAh avec alimentation filaire rapide 100W via port USB-C.",
+                "daily_impact": "Disponibilité continue lors de vos déplacements sans besoin de recharge fréquente."
+            },
+            {
+                "feature_title": "Triple Capteur 50 MP & Étanchéité IP68",
+                "badge": "Polyvalence",
+                "lead_benefit": "Photos détaillées et protection face à l'eau",
+                "technical_detail": "Capteur principal 50 MP stabilisé, téléobjectif 50 MP et châssis certifié IP68.",
+                "daily_impact": "Prises de vue nettes en toute circonstance et sérénité face aux projections de pluie."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO F9 Ultra offre un équilibre solide entre grand affichage, puissance matérielle et réserve énergétique.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO F9 Ultra (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F9 Ultra chez My-eStore. Écran 6.9\" 144Hz, puce Snapdragon 8 Elite Gen 5 et batterie 8050 mAh au meilleur tarif à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO F9 Ultra 512Go : Snapdragon 8 Elite & 8050 mAh | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F9 Ultra chez My-eStore. Écran 6.9\" 144Hz, puce Snapdragon 8 Elite Gen 5, batterie 8050 mAh et charge 100W livrés à Abidjan."
+        },
+        "h1": "Xiaomi POCO F9 Ultra : Snapdragon 8 Elite, Écran 144Hz et Batterie 8050 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO F9 Ultra",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 6.9 pouces 144Hz",
+                    "benefice": "Surface visuelle claire combinant fluidité tactile et définition 2K"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite Gen 5",
+                    "benefice": "Capacité de calcul élevée pour le jeu 3D et le multitâche lourd"
+                },
+                {
+                    "feature": "Batterie étendue 8050 mAh",
+                    "benefice": "Grande autonomie permettant de longs trajets sans recharge intermédiaire"
+                },
+                {
+                    "feature": "Protection intégrale IP68",
+                    "benefice": "Étanchéité complète garantissant une bonne résistance à l'eau"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO F9 Ultra répond aux attentes des utilisateurs professionnels mobiles. Sa dalle AMOLED de 6.9 pouces affiche une résolution 2K lumineuse. De plus, la cadence de 144Hz fluidifie le défilement de vos contenus web. Le processeur Snapdragon 8 Elite accélère ainsi le traitement des applications complexes. Vous bénéficiez en outre d'une batterie robuste de 8050 mAh pour vos déplacements.",
+        "sections": [
+            {
+                "h2_title": "Un Écran Flow AMOLED 144Hz Haute Résolution et Finition Soignée",
+                "paragraphs": [
+                    "La grande dalle de 6.9 pouces procure une immersion visuelle appréciable au quotidien. La résolution WQHD+ affiche des textes nets sans aucun flou perceptible. Cette finesse visuelle facilite par conséquent la lecture prolongée de tableaux professionnels. La technologie LTPO adapte automatiquement le rafraîchissement selon le type de contenu. Cette gestion dynamique permet ainsi d'économiser l'énergie de la batterie au quotidien. Les couleurs restent équilibrées grâce à la couverture chromatique étendue.",
+                    "La luminosité de crête atteint 3000 nits pour les utilisations en extérieur. Le contraste élevé assure donc une excellente lisibilité sous le soleil d'Abidjan. Les angles de vision larges maintiennent la fidélité des images affichées. Le verre Gorilla Glass Armor protège efficacement la façade contre les rayures accidentelles. Ce dos en verre satiné offre par ailleurs une prise en main très agréable. Le châssis en aluminium renforce la structure globale lors de chaque transport."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon 8 Elite et Gestion Multitâche",
+                "paragraphs": [
+                    "La puce Qualcomm Snapdragon 8 Elite offre des capacités de calcul considérables. La finesse de gravure en 3 nanomètres limite les déperditions thermiques indésirables. Cette conception moderne garantit en effet un niveau d'efficacité constant sous forte charge. Le GPU Adreno 830 prend en charge les jeux 3D les plus complexes. La mémoire vive de 16 Go accélère ainsi le passage entre plusieurs programmes ouverts. Les applications lourdes démarrent instantanément sans temps d'attente prolongé.",
+                    "Le stockage interne UFS 4.1 transfère des fichiers volumineux en quelques secondes. Le système de refroidissement dissipe en outre la chaleur générée par le processeur. Les températures internes restent modérées durant les longues sessions de travail collaboratif. Le système Xiaomi HyperOS optimise l'attribution des ressources matérielles en continu. La connectivité 5G assure également des téléchargements mobiles rapides sur les réseaux récents. Vous travaillez avec fluidité lors de tous vos déplacements professionnels réguliers."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Étendue de 8050 mAh et Charge Rapide 100W",
+                "paragraphs": [
+                    "La batterie de 8050 mAh répond aux besoins des utilisateurs les plus mobiles. Une telle capacité soutient deux journées de travail sans branchement électrique. Vous évitez ainsi de transporter un chargeur supplémentaire durant vos journées chargées. Le bloc de charge filaire de 100W remplit la batterie très rapidement. Une brève session de charge restitue en effet plusieurs heures d'autonomie consécutives. La surveillance intelligente préserve la durabilité des cellules chimiques au fil du temps.",
+                    "Le capteur photo principal de 50 mégapixels capture des images très détaillées. La stabilisation optique compense d'ailleurs les mouvements imprévus lors des prises de vue. Le téléobjectif dédié rapproche les sujets lointains avec une grande netteté optique. La certification IP68 protège l'appareil contre la poussière et l'immersion accidentelle. Cette protection assure par conséquent une sécurité matérielle appréciable en milieu humide. Le POCO F9 Ultra constitue un investissement pérenne pour les utilisateurs ivoiriens exigeants."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO F9 Ultra - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.4 x 77.9 x 8.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "235 g (0.235 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en alliage d'aluminium brossé, dos en verre trempé premium"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Bordeaux (Dark Red)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 1.5m"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED LTPO, 68 milliards de couleurs, HDR10+, Dolby Vision"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.9 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2K WQHD+ (3200 x 1440 pixels)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1800 nits (HBM), 3000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go ou 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 50 MP (f/1.6, OIS) + téléobjectif périscopique 50 MP (OIS, 3x) + ultra grand-angle 50 MP"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, HDR"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "8050 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 100W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 1 (DisplayPort, OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/poco-f9-ultra/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

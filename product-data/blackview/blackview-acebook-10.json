@@ -1,0 +1,366 @@
+{
+    "template_version": "3.4",
+    "product_type": "pc_portable",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AceBook 10",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/acebook10"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "350000",
+        "official_sku": "BV-ACEBOOK-10"
+    },
+    "key_specifications": {
+        "processor": "Intel Core High-Performance",
+        "processor_ghz": "Multicoeur haute efficacité",
+        "screen_size": "18.5\"",
+        "screen_technology": "IPS FHD bordures fines",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "60.8 Wh",
+        "ram_options": [
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Windows 11 Familiale",
+        "os_skin": "Windows 11 Native",
+        "camera_main": "Webcam HD 720p avec cache de confidentialité",
+        "camera_selfie": "Webcam HD 720p",
+        "audio_config": "Haut-parleurs stéréo 2x 2W",
+        "audio_tech": "Son HD Stéréo",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Lecteur de carte MicroSD intégré",
+        "charging_wired": "USB-C Charge Rapide 65W",
+        "dimensions": "428.6 x 282.4 x 20.2 mm",
+        "weight": "2.600 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ACEBOOK-10-MASTER",
+        "Name": "Blackview AceBook 10",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "350000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AceBook 10, PC Portable, Ordinateur Portable, Windows 11, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "2.600 kg",
+        "Attribute 4 default": "2.600 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AceBook 10 : La Puissance Grand Écran",
+        "brand_line": "Ordinateur portable professionnel Blackview conçu pour la bureautique et le multimédia.",
+        "marketing_conclusion": "Commandez le Blackview AceBook 10 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview AceBook 10 intègre un grand écran de 18.5 pouces Full HD et une mémoire vive de 16 Go. Il offre un grand confort de travail pour la bureautique et le multitâche.",
+        "features": [
+            {
+                "feature": "Grand Écran 18.5\" FHD",
+                "benefice": "Surface d'affichage très confortable pour travailler sur plusieurs fenêtres."
+            },
+            {
+                "feature": "16 Go de RAM",
+                "benefice": "Mémoire vive importante assurant un multitâche fluide sans ralentissement."
+            },
+            {
+                "feature": "Batterie 60.8 Wh",
+                "benefice": "Excellente autonomie pour travailler sereinement toute la journée."
+            },
+            {
+                "feature": "Châssis Aluminium",
+                "benefice": "Finition élégante et robuste offrant une haute durabilité au quotidien."
+            }
+        ],
+        "slogan_final": "Blackview AceBook 10 — La référence du PC portable grand format.",
+        "seo": {
+            "meta_title": "Acheter Blackview AceBook 10 (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Blackview AceBook 10 avec écran 18.5 pouces et 16 Go de RAM. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AceBook 10, PC portable Blackview, prix Abidjan, ordinateur portable 18.5"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AceBook 10",
+            "lsi_keywords": [
+                "Blackview AceBook 10",
+                "PC portable Blackview",
+                "prix Abidjan",
+                "ordinateur portable 18.5 pouces",
+                "meilleur prix Côte d'Ivoire",
+                "PC 16 Go RAM Abidjan",
+                "SSD 512 Go Abidjan",
+                "Windows 11 bureautique",
+                "achat ordinateur Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AceBook 10 512Go : Écran 18.5\" & 16Go RAM | My-eStore",
+            "meta_description": "Achetez le Blackview AceBook 10 512 Go. Dalle 18.5 FHD, 16 Go de RAM et batterie 60.8 Wh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AceBook 10 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Dalle IPS FHD 18.5 pouces",
+                    "benefice": "Espace de travail étendu avec un très grand confort visuel au quotidien."
+                },
+                {
+                    "feature": "Mémoire 16 Go RAM & SSD rapide",
+                    "benefice": "Ouverture instantanée des logiciels et multitâche professionnel fluide."
+                },
+                {
+                    "feature": "Autonomie Batterie 60.8 Wh",
+                    "benefice": "Plusieurs heures de travail bureautique sans chercher de prise de courant."
+                },
+                {
+                    "feature": "Connectique Complète USB-C & HDMI",
+                    "benefice": "Branchement facile de vos périphériques et d'écrans externes."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview AceBook 10 est un ordinateur portable performant et très complet. Cet appareil répond parfaitement aux besoins des professionnels en Côte d'Ivoire. Sa mémoire vive de 16 Go garantit une réactivité remarquable. De plus, son très grand écran de 18.5 pouces offre un haut confort visuel. Sa batterie de 60.8 Wh assure une autonomie durable tout au long de la journée. Le châssis en alliage d'aluminium procure une excellente solidité. En effet, le système Windows 11 simplifie la gestion de vos projets. Enfin, vous travaillez avec une grande fluidité au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Performance Matérielle et Multitâche Fluide",
+                "paragraphs": [
+                    "La configuration du Blackview AceBook 10 se montre particulièrement réactive. Son processeur multicoeur gère facilement les logiciels de bureautique et les grands tableaux. L'exécution de vos présentations s'effectue sans ralentissement. De surcroît, le système de refroidissement actif maintient l'appareil à bonne température. Les performances restent élevées même lors de longues sessions de travail. Votre productivité quotidienne reste maximale.",
+                    "La mémoire vive de 16 Go permet d'ouvrir de nombreux onglets simultanément. Le disque SSD de 512 Go assure des démarrages de système en quelques secondes. En effet, les transferts de fichiers volumineux s'effectuent à haute vitesse. La fiabilité du stockage SSD sécurise vos données professionnelles. Ainsi, vous travaillez en toute sérénité au bureau comme à la maison."
+                ]
+            },
+            {
+                "h2_title": "Grand Écran Confortable et Autonomie Durable",
+                "paragraphs": [
+                    "La dalle de 18.5 pouces IPS Full HD offre une clarté d'affichage remarquable. Sa résolution de 1920 x 1080 pixels restitue des détails précis et des couleurs naturelles. Le traitement anti-reflets protège votre vue des fatigues visuelles prolongées. Ainsi, la lecture de longs documents texte devient très agréable. Les bordures fines maximisent l'espace de visionnage utile. Vous profitez pleinement de vos vidéos et contenus multimédias.",
+                    "Par ailleurs, la batterie intégrée de 60.8 Wh offre une grande réserve d'énergie. Elle permet d'enchaîner plusieurs heures de travail continu sans prise de courant. De plus, la charge rapide USB-C de 65W permet de récupérer l'autonomie très rapidement. Vous restez mobile et opérationnel lors de vos réunions à Abidjan. En somme, cette autonomie vous libère des contraintes de recharge permanente."
+                ]
+            },
+            {
+                "h2_title": "Connectique Complète et Ergonomie de Clavier",
+                "paragraphs": [
+                    "La connectique du Blackview AceBook 10 intègre tous les ports indispensables. Le port USB-C multifonction gère la charge rapide et la sortie vidéo externe. Les prises USB-A et le port HDMI facilitent le branchement de vos clés et projecteurs. Vous connectez vos accessoires professionnels sans ajouter d'adaptateurs encombrants. En effet, la webcam HD avec cache physique garantit la confidentialité de vos échanges. Vos visioconférences se déroulent en toute sécurité.",
+                    "Le clavier AZERTY grand format offre une frappe silencieuse et très confortable. Le large pavé tactile réagit avec une grande précision aux gestes multi-touch. C'est pourquoi le Blackview AceBook 10 constitue un investissement professionnel très pertinent. De plus, son rapport qualité-prix en fait une solution très compétitive. Enfin, vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AceBook 10",
+                "subtitle": "Spécifications matérielles certifiées du Blackview AceBook 10."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "428.6 x 282.4 x 20.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "2.600 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis aluminium finition premium"
+                        },
+                        {
+                            "label": "Charnière",
+                            "valeur": "Ouverture fluide à 180°"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris (Urban Gray)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran",
+                    "rows": [
+                        {
+                            "label": "Taille",
+                            "valeur": "18.5\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS FHD bordures fines"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1920 x 1080 pixels"
+                        },
+                        {
+                            "label": "Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "300 nits"
+                        },
+                        {
+                            "label": "Revêtement",
+                            "valeur": "Anti-reflets mate"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Intel Core / AMD Performant"
+                        },
+                        {
+                            "label": "GPU dédié",
+                            "valeur": "Intel Iris Xe Graphics"
+                        },
+                        {
+                            "label": "Mémoire vive (RAM)",
+                            "valeur": "16 Go"
+                        },
+                        {
+                            "label": "Stockage SSD/HDD",
+                            "valeur": "512 Go SSD NVMe"
+                        },
+                        {
+                            "label": "Ventilation",
+                            "valeur": "Système de refroidissement silencieux à caloducs"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique & Ports",
+                    "rows": [
+                        {
+                            "label": "USB-C",
+                            "valeur": "1x USB-C multifonction (charge & display)"
+                        },
+                        {
+                            "label": "USB-A",
+                            "valeur": "2x USB 3.0 ultra-rapides"
+                        },
+                        {
+                            "label": "HDMI",
+                            "valeur": "1x HDMI 2.0 pleine taille"
+                        },
+                        {
+                            "label": "Jack Audio",
+                            "valeur": "Prise combinée casque/micro 3.5mm"
+                        },
+                        {
+                            "label": "Lecteur SD",
+                            "valeur": "Lecteur de carte MicroSD intégré"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité (Wh)",
+                            "valeur": "60.8 Wh"
+                        },
+                        {
+                            "label": "Autonomie estimée",
+                            "valeur": "Jusqu'à 8h de travail bureautique"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge 60% en 45 minutes (65W)"
+                        },
+                        {
+                            "label": "Adaptateur",
+                            "valeur": "Adaptateur secteur USB-C 65W fourni"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11ax) haut débit"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Webcam",
+                            "valeur": "Webcam HD 720p avec cache de confidentialité"
+                        },
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Haut-parleurs stéréo 2x 2W"
+                        },
+                        {
+                            "label": "Clavier rétroéclairé",
+                            "valeur": "Clavier AZERTY rétroéclairé grand confort"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Windows 11 Édition Familiale"
+                        },
+                        {
+                            "label": "Sécurité (TPM)",
+                            "valeur": "Puce de sécurité TPM 2.0 intégrée"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/acebook10"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

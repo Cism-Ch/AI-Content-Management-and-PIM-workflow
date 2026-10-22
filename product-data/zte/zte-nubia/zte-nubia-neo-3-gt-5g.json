@@ -1,0 +1,410 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Neo 3 GT 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Neo+3+GT+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Neo+3+GT+5G+specifications"
+            }
+        ],
+        "pricing_reference": "265000",
+        "official_sku": "ZTE-NUBIA-NEO-3-GT-5G"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8200 Ultimate 5G (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 3.1 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "OLED 1.5K 144Hz Gaming 10-bit",
+        "screen_resolution": "2800 x 1260 pixels",
+        "battery_capacity": "6000 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique LPDDR5X",
+        "os": "Android 14",
+        "os_skin": "MyOS 14 Gaming Edition",
+        "camera_main": "Double capteur 50 MP avec stabilisation OIS + 2 MP Macro",
+        "camera_selfie": "16 MP",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra",
+        "audio_tech": "Son spatial DTS:X Ultra & éclairage RGB Gaming",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + BDS + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 80W USB-C avec Bypass Charging",
+        "dimensions": "164.0 x 75.5 x 8.4 mm",
+        "weight": "0.215 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-NEO-3-GT-5G-MASTER",
+        "Name": "ZTE Nubia Neo 3 GT 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "265000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Neo 3 GT 5G, Smartphone Gaming 144Hz, Dimensity 8200, 6000mAh, 80W, 50MP OIS, 5G, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris, Jaune",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.215 kg",
+        "Attribute 4 default": "0.215 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Neo 3 GT 5G : Écran OLED 144Hz Puce Dimensity 8200 et Charge 80W",
+        "brand_line": "Le smartphone gaming d'élite avec dalle OLED 144 Hz, batterie 6000 mAh et recharge ultra rapide 80W.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Neo 3 GT 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Neo 3 GT 5G propose un écran OLED 1.5K 144Hz de 6.78 pouces, la puce Dimensity 8200 Ultimate 3.1 GHz, une batterie 6000 mAh et une charge 80W.",
+        "features": [
+            {
+                "feature": "Dalle OLED 1.5K 144Hz 10-bit",
+                "benefice": "Fluidité graphique maximale pour les compétitions e-sport."
+            },
+            {
+                "feature": "Puce Dimensity 8200 Ultimate (3.1 GHz)",
+                "benefice": "Vitesse de calcul extrême et dissipation thermique par chambre à vapeur."
+            },
+            {
+                "feature": "Batterie 6000 mAh & Charge 80W",
+                "benefice": "Grande autonomie et recharge en moins de 35 minutes."
+            },
+            {
+                "feature": "Gâchettes Tactiles & Éclairage RGB",
+                "benefice": "Contrôle précis en jeu et personnalisation esthétique."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Neo 3 GT 5G — L'expérience e-sport mobile performante à votre portée.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Neo 3 GT 5G (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Neo 3 GT 5G avec écran OLED 144Hz, Dimensity 8200, 6000 mAh et charge 80W. Commandez au meilleur prix chez My-eStore.",
+            "keywords": "ZTE Nubia Neo 3 GT 5G, smartphone gaming 144Hz Abidjan, Dimensity 8200, 6000mAh 80W, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Neo 3 GT 5G",
+            "lsi_keywords": [
+                "ZTE Nubia Neo 3 GT 5G",
+                "smartphone ZTE Nubia Neo 3 GT 5G Abidjan",
+                "ZTE Nubia Neo 3 GT 5G prix",
+                "téléphone gaming oled 144hz 1.5k",
+                "smartphone dimensity 8200 6000 mah 80w",
+                "téléphone jeu vidéo gâchettes tactiles",
+                "achat smartphone e-sport My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Neo 3 GT 5G 256 Go : OLED 144Hz & Dimensity 8200 | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Neo 3 GT 5G. Dalle OLED 1.5K 144Hz, puce Dimensity 8200 (3.1 GHz), batterie 6000 mAh et charge 80W. Livraison sécurisée à Abidjan."
+        },
+        "h1": "ZTE Nubia Neo 3 GT 5G : Dimensity 8200 Ultimate, Écran OLED 144Hz et Batterie 6000 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE NUBIA NEO 3 GT 5G",
+            "items": [
+                {
+                    "feature": "Dalle OLED 1.5K 144Hz",
+                    "benefice": "Fréquence d'images très élevée pour les jeux d'action."
+                },
+                {
+                    "feature": "Puce Dimensity 8200 Ultimate",
+                    "benefice": "Traitement graphique de pointe cadencé à 3.1 GHz."
+                },
+                {
+                    "feature": "Batterie 6000 mAh & Charge 80W",
+                    "benefice": "Endurance durable et ravitaillement express."
+                },
+                {
+                    "feature": "Gâchettes Tactiles Gaming",
+                    "benefice": "Prise en main ergonomique pour viser et tirer rapidement."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Neo 3 GT 5G propulse l'expérience e-sport mobile avec des caractéristiques techniques de pointe. Cet équipement s'adresse directement aux compétiteurs et créateurs de contenu exigeants à Abidjan. En effet, sa dalle OLED de 6.78 pouces en résolution 1.5K atteint une fréquence de 144 Hz. De plus, sa batterie généreuse de 6000 mAh assure une longévité énergétique remarquable. La puce MediaTek Dimensity 8200 Ultimate cadencée à 3.1 GHz garantit une stabilité thermique exemplaire. Par ailleurs, la recharge rapide 80W intègre la charge directe sans échauffement. Enfin, vous commandez sur My-eStore avec une assistance attentive.",
+        "sections": [
+            {
+                "h2_title": "Dalle OLED 1.5K 144Hz et Puce Dimensity 8200 Ultimate",
+                "paragraphs": [
+                    "Le ZTE Nubia Neo 3 GT 5G intègre un écran OLED de 6.78 pouces en résolution 1.5K. Sa fréquence à 144 Hz et son taux tactile procurent une réactivité immédiate lors des duels en ligne. Ainsi, les graphismes les plus complexes s'animent avec une fluidité continue sans saccade. De surcroît, le processeur Dimensity 8200 Ultimate gravé en 4 nanomètres développe une puissance de calcul constante. La mémoire vive de 12 Go garantit des transitions instantanées.",
+                    "Le système de refroidissement multicouche avec chambre à vapeur élargie maintient une température basse sous forte charge. D'ailleurs, le stockage interne de 256 Go ou 512 Go accueille vos jeux lourds sans contrainte d'espace. En outre, la connectivité 5G assure des téléchargements très rapides avec une latence réseau minimale. Le châssis futuriste avec éclairage RGB personnalisable enrichit l'ergonomie générale. Vous profitez d'une machine de jeu complète et équilibrée."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 50 MP OIS et Son Spatial DTS:X Ultra",
+                "paragraphs": [
+                    "Le module photographique principal de 50 Mégapixels dispose d'une stabilisation optique de l'image OIS. Cette optique capture des clichés très nets même lors de prises de vue nocturnes ou en mouvement. De plus, le capteur macro dédié permet de photographier des sujets minuscules avec précision. La caméra frontale de 16 Mégapixels assure des diffusions en direct d'une netteté appréciable. Ainsi, vos contenus visuels bénéficient d'un excellent piqué photographique.",
+                    "Les haut-parleurs stéréo avec son spatial DTS:X Ultra procurent une immersion acoustique remarquable lors de vos parties. En effet, vous localisez avec précision la provenance des bruits de pas de vos adversaires. Également, la puce NFC facilite vos échanges sans contact de proximité en toute sécurité. Le capteur d'empreintes digitales sous l'écran assure un déverrouillage instantané et fluide. Vous disposez d'un outil multimédia moderne et complet."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6000 mAh et Charge Ultra Rapide 80W",
+                "paragraphs": [
+                    "La batterie de 6000 mAh fournit une alimentation solide capable de couvrir plusieurs journées d'utilisation intensive. Cette grande capacité vous libère de toute obligation de recharger votre smartphone en cours de partie. Par ailleurs, la technologie de charge rapide 80W rétablit rapidement la réserve d'énergie. En effet, quelques dizaines de minutes suffisent pour retrouver l'intégralité de l'autonomie en USB-C. Vos sessions de jeu se déroulent en toute sérénité.",
+                    "Le smartphone affiche un poids de 215 grammes avec des finitions en jaune mécha et noir cybernétique. D'autre part, la solidité du châssis en métal protège les composants internes face aux aléas quotidiens. En somme, le ZTE Nubia Neo 3 GT 5G réunit un affichage 144 Hz et une batterie de 6000 mAh. Vous pouvez valider votre commande en toute sécurité sur My-eStore. Le service de livraison dessert rapidement l'ensemble de la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Neo 3 GT 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE Nubia Neo 3 GT 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.0 x 75.5 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.215 kg (215 g)"
+                        },
+                        {
+                            "label": "Style visuel",
+                            "valeur": "Design Mecha Cyberpunk avec bandeaux LED RGB personnalisables"
+                        },
+                        {
+                            "label": "Gâchettes de jeu",
+                            "valeur": "Gâchettes tactiles Shoulder Triggers à haute réactivité"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Jaune (Mecha Yellow), Noir (Cyber Black)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.78 pouces (~90.5% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "OLED 1.5K, 1 milliard de couleurs (10-bit), 144 Hz"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2800 x 1260 pixels, 20:9, ~452 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz"
+                        },
+                        {
+                            "label": "Taux d'échantillonnage tactile",
+                            "valeur": "720 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 8200 Ultimate 5G (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G610 MC6"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Refroidissement",
+                            "valeur": "Chambre à vapeur multicouche en cuivre et graphène"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14 Gaming Edition"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, stabilisation optique OIS, PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30/60 fps, 1080p à 30/60 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh (Li-Po haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge ultra-rapide 80W filaire"
+                        },
+                        {
+                            "label": "Technologie spéciale",
+                            "valeur": "Bypass Charging (alimentation directe sans chauffe)"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6e tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales optique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Neo+3+GT+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Neo+3+GT+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Gris",
+            "color_fr": "Gris",
+            "color_en": "Mecha Gray"
+        },
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Jaune",
+            "color_fr": "Jaune",
+            "color_en": "Cyber Yellow"
+        },
+        {
+            "ram": "12 Go",
+            "rom": "512 Go",
+            "storage": "512 Go",
+            "color": "Gris",
+            "color_fr": "Gris",
+            "color_en": "Mecha Gray"
+        },
+        {
+            "ram": "12 Go",
+            "rom": "512 Go",
+            "storage": "512 Go",
+            "color": "Jaune",
+            "color_fr": "Jaune",
+            "color_en": "Cyber Yellow"
+        }
+    ]
+}

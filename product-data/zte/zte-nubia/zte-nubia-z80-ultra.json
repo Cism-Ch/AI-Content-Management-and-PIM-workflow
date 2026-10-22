@@ -1,0 +1,415 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Z80 Ultra",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z80+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z80+Ultra+specifications"
+            }
+        ],
+        "pricing_reference": "825000",
+        "official_sku": "ZTE-NUBIA-Z80-ULTRA"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "765000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "825000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "950000",
+            "sku_suffix": "1TB-16GB-NOIR"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Pro (3 nm) Octa-Core",
+        "processor_ghz": "Fréquence 4.5 GHz",
+        "screen_size": "6.90 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Sans Bords et Sans Poinçon",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "6500 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X",
+        "os": "Android 15",
+        "os_skin": "Nebula AIOS",
+        "camera_main": "Triple capteur OIS (50 MP 35mm Sony LYT-900 1 pouce à ouverture variable + 50 MP 13mm + 64 MP 85mm Périscope)",
+        "camera_selfie": "16 MP sous l'écran (UDC 8e génération)",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra et Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & charge sans fil 50W",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS tri-band + GLONASS + BDS + Galileo + QZSS",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 90W filaire + 50W sans fil",
+        "dimensions": "164.5 x 77.5 x 8.7 mm",
+        "weight": "0.230 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-Z80-ULTRA-MASTER",
+        "Name": "ZTE Nubia Z80 Ultra",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "825000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Z80 Ultra, Snapdragon 8 Elite Pro, Capteur 1 Pouce, IP69, 6500mAh, 90W 50W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.230 kg",
+        "Attribute 4 default": "0.230 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Z80 Ultra : Capteur 1 Pouce 35mm Snapdragon 8 Elite Pro et Batterie 6500 mAh",
+        "brand_line": "Le sommet absolu de la photographie mobile associant capteur 1 pouce, recharge 90W/50W et étanchéité IP69.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Z80 Ultra sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Z80 Ultra réunit la puce Snapdragon 8 Elite Pro, un capteur principal 1\" de 35mm à ouverture variable, un écran 144Hz sans encoche et une batterie 6500 mAh.",
+        "features": [
+            {
+                "feature": "Capteur 1 Pouce Sony LYT-900 (35mm)",
+                "benefice": "Prises de vue très lumineuses avec ouverture variable mécanique de f/1.4 à f/4.0."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite Pro (4.5 GHz)",
+                "benefice": "Vitesse d'exécution maximale pour l'intelligence artificielle générative locale."
+            },
+            {
+                "feature": "Dalle AMOLED 144Hz Sans Poinçon",
+                "benefice": "Affichage plein écran intégral avec caméra invisible sous l'écran."
+            },
+            {
+                "feature": "Batterie 6500 mAh & Charge 90W/50W",
+                "benefice": "Grande autonomie et recharge sans fil à haute vitesse."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Z80 Ultra — La référence majeure de l'ingénierie visuelle et mobile.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Z80 Ultra (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Z80 Ultra avec capteur 1 pouce 35mm, Snapdragon 8 Elite Pro, 6500 mAh, charge sans fil 50W et IP69. Achetez sur My-eStore.",
+            "keywords": "ZTE Nubia Z80 Ultra, smartphone capteur 1 pouce Abidjan, Snapdragon 8 Elite Pro, IP69 6500mAh, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Z80 Ultra",
+            "lsi_keywords": [
+                "ZTE Nubia Z80 Ultra",
+                "smartphone ZTE Nubia Z80 Ultra Abidjan",
+                "ZTE Nubia Z80 Ultra prix",
+                "téléphone capteur 1 pouce 35mm sony lyt 900",
+                "smartphone snapdragon 8 elite pro 1to",
+                "téléphone charge sans fil 50w ip69",
+                "achat smartphone prestige My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Z80 Ultra 512 Go : Capteur 1\" & Snapdragon 8 Elite | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Z80 Ultra. Capteur 1 pouce Sony LYT-900 (35mm), Snapdragon 8 Elite Pro, batterie 6500 mAh et charge 90W/50W. Livraison à Abidjan."
+        },
+        "h1": "ZTE Nubia Z80 Ultra : Snapdragon 8 Elite Pro, Écran OLED 144Hz et Batterie 6500 mAh",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA Z80 ULTRA",
+            "items": [
+                {
+                    "feature": "Capteur 1\" Sony LYT-900 (35mm)",
+                    "benefice": "Surface optique géante pour capter toute la lumière nocturne."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite Pro",
+                    "benefice": "Traitement de pointe cadencé à 4.5 GHz avec architecture Oryon."
+                },
+                {
+                    "feature": "Dalle AMOLED 144Hz Sans Bords",
+                    "benefice": "Vision intégrale sans encoche pour un confort visuel total."
+                },
+                {
+                    "feature": "Recharge Sans Fil 50 Watts",
+                    "benefice": "Alimentation par induction à très haute cadence."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Z80 Ultra concrétise l'alliance entre l'optique professionnelle et l'informatique mobile de pointe. Cet équipement répond aux exigences des photographes experts et dirigeants d'entreprise à Abidjan. En effet, son objectif 35 millimètres intègre un capteur Sony LYT-900 d'un pouce complet. Sa dalle AMOLED 1.5K de 6.85 pouces fonctionne à 144 Hz avec une caméra sous l'écran. La puce Qualcomm Snapdragon 8 Elite Pro assure un traitement d'image très rapide. Par ailleurs, la batterie de 6500 mAh avec charge sans fil 50W offre une autonomie durable. Enfin, son châssis en céramique et métal garantit une robustesse appréciable au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Capteur 1 Pouce Sony LYT-900 et Ouverture Variable",
+                "paragraphs": [
+                    "Le ZTE Nubia Z80 Ultra intègre le capteur Sony LYT-900 d'un pouce doté d'une focale humaine de 35 millimètres. Ce grand capteur associé à un diaphragme variable de f/1.4 à f/4.0 capture une lumière abondante. De plus, le capteur ultra grand-angle de 50 Mégapixels et le téléobjectif périscope 64 Mégapixels complètent l'équipement. Ainsi, chaque scène bénéficie d'une plage dynamique étendue sans bruit numérique. La caméra frontale de 16 Mégapixels sous l'écran reste invisible.",
+                    "La touche mécanique latérale permet d'ajuster l'exposition et de déclencher la prise de vue avec précision. D'ailleurs, les commandes manuelles autorisent un contrôle direct de la sensibilité ISO. En outre, la connectivité 5G assure des téléversements très rapides de vos fichiers volumineux. Le boîtier en céramique et métal procure une prise en main très noble. Vous profitez d'un outil photographique moderne et robuste."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 8 Elite Pro 3nm et Écran 144Hz",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite Pro gravé en 3 nanomètres déploie une fréquence de 4.5 GHz. Cette puissance de calcul soutient l'exécution instantanée des traitements photographiques par intelligence artificielle. L'écran AMOLED de 6.85 pouces affiche une définition 1.5K avec une fluidité cadencée à 144 Hz. La mémoire vive de 16 Go en LPDDR5X garantit un multitâche sans latence. Ainsi, les applications professionnelles s'exécutent avec une réactivité immédiate.",
+                    "Le stockage interne atteignant 1 To accueille des milliers d'enregistrements vidéo en très haute définition. En effet, la norme UFS 4.0 accélère les débits de transfert de données au quotidien. Également, la puce NFC multifonction simplifie vos paiements sécurisés sans contact. Les haut-parleurs stéréo avec son spatial DTS:X Ultra assurent une écoute sonore détaillée. Vous bénéficiez d'une expérience multimédia très équilibrée."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6500 mAh, Charge 90W/50W et Indice IP69",
+                "paragraphs": [
+                    "La batterie haute capacité de 6500 mAh au silicium-carbone procure une alimentation solide pour plus de deux jours. Cette grande endurance libère l'esprit de toute contrainte lors de vos déplacements prolongés. Par ailleurs, la technologie de charge rapide 90W filaire et 50W sans fil rétablit rapidement l'énergie. En effet, quelques dizaines de minutes suffisent pour retrouver l'intégralité de l'autonomie. Vos journées s'organisent avec une grande sérénité.",
+                    "Le smartphone présente un poids de 232 grammes avec des finitions en noir onyx, argent lunaire et bleu stellaire. D'autre part, la double certification IP68 et IP69 garantit une étanchéité complète contre l'eau et les poussières. En somme, le ZTE Nubia Z80 Ultra réunit capteur 1 pouce, puissance 3nm et charge sans fil 50W. Vous pouvez valider votre commande en toute sécurité sur My-eStore. Le service de livraison rapide dessert la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Z80 Ultra",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Z80 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.3 x 77.1 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.232 kg (232 g)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 et IP69 (résistant aux immersions prolongées et jets haute pression à 80°C)"
+                        },
+                        {
+                            "label": "Bouton photo physique",
+                            "valeur": "Touche mécanique bi-étage dédiée avec mise au point tactile"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir Onyx (Onyx Black), Argent Lunaire (Lunar Silver), Bleu Stellaire (Stellar Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.8% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED BOE Q9+ 10-bit, 144 Hz, bordures ultra fines de 1.20 mm, UDC sans encoche"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, 20:9, ~430 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "2200 nits (pic), gradation PWM 2592 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Pro (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core Oryon (2x4.50 GHz Phoenix L + 6x3.60 GHz Phoenix M)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X (débit 9600 Mbps)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go / 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 15 avec interface Nebula AIOS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal 35mm (1 Pouce)",
+                            "valeur": "50 MP (Sony LYT-900, 1.0\", ouverture mécanique variable f/1.4 à f/4.0, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle 13mm",
+                            "valeur": "50 MP (f/1.8, OmniVision OV50D, 1/2.88\", 122˚, autofocus macro 2.5 cm)"
+                        },
+                        {
+                            "label": "Téléobjectif périscope 85mm",
+                            "valeur": "64 MP (f/2.2, OmniVision OV64B, 1/2.0\", zoom optique 3.5x, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran UDC 8e génération avec IA)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60/120 fps, 1080p à 30/60/120/240 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6500 mAh (Technologie Silicium-Carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge filaire",
+                            "valeur": "Charge ultra-rapide 90W filaire"
+                        },
+                        {
+                            "label": "Puissance de charge sans fil",
+                            "valeur": "Charge rapide sans fil 50W par induction"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 5, USB Power Delivery 3.0"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.2 Gen 2 réversible avec sortie DisplayPort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Communication spéciale",
+                            "valeur": "Communication satellite bidirectionnelle (appels et messages d'urgence)"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be) tri-band 2x2 MIMO"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE et aptX Lossless"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra et Snapdragon Sound"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales ultrasonique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z80+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z80+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

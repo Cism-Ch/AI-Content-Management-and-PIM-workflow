@@ -1,0 +1,325 @@
+{
+    "template_version": "3.4",
+    "product_type": "wearable",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "BV100 Smart Glasses",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/bv100-ai-glasses-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "45000",
+        "official_sku": "BV-BV100"
+    },
+    "key_specifications": {
+        "processor": "Puce Audio Bluetooth 5.3 AI Smart Assistant",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "220 mAh (110 mAh par branche)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio smart glasses",
+        "os_skin": "Contrôles tactiles sur branches",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Haut-parleurs stéréo ouverts directifs à double micro",
+        "audio_tech": "Son Open-Ear HD & Réduction de bruit ENC",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "Charge Magnétique USB",
+        "dimensions": "150 x 49 x 40 mm",
+        "weight": "0.0457 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-BV100-MASTER",
+        "Name": "Blackview BV100 Smart Glasses",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "45000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview BV100, Lunettes Intelligentes, Audio Open-Ear, Bluetooth 5.3, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Clair",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.0457 kg",
+        "Attribute 4 default": "0.0457 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview BV100 Smart Glasses : Les Lunettes Audio Intelligentes",
+        "brand_line": "Lunettes intelligentes Blackview intégrant haut-parleurs open-ear et assistant vocal.",
+        "marketing_conclusion": "Commandez les Blackview BV100 Smart Glasses sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les lunettes intelligentes Blackview BV100 associent un son open-ear directif, la connectivité Bluetooth 5.3, des verres de protection et une batterie de 220 mAh.",
+        "features": [
+            {
+                "feature": "Acoustique Open-Ear HD",
+                "benefice": "Écoute sonore claire sans isoler des bruits de l'environnement."
+            },
+            {
+                "feature": "Bluetooth 5.3 & Assistant IA",
+                "benefice": "Appairage rapide et commandes vocales instantanées au quotidien."
+            },
+            {
+                "feature": "Protection Anti-Lumière Bleue",
+                "benefice": "Verres protecteurs limitant la fatigue visuelle face aux écrans."
+            },
+            {
+                "feature": "Poids Plume 45.7g & Autonomie 6h",
+                "benefice": "Port très léger et confortable tout au long de la journée."
+            }
+        ],
+        "slogan_final": "Blackview BV100 — La technologie audio directement sur votre regard.",
+        "seo": {
+            "meta_title": "Acheter Blackview BV100 Smart Glasses à Abidjan | My-eStore",
+            "meta_description": "Découvrez les lunettes audio Blackview BV100 Smart Glasses avec Bluetooth 5.3 et son Open-Ear. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview BV100, lunettes intelligentes Blackview, prix Abidjan, audio Open-Ear 5.3"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview BV100 Smart Glasses",
+            "lsi_keywords": [
+                "Blackview BV100",
+                "lunettes intelligentes Blackview",
+                "prix Abidjan",
+                "lunettes audio Bluetooth Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "audio Open-Ear HD",
+                "batterie 220 mAh",
+                "Bluetooth 5.3",
+                "achat lunettes connectées Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview BV100 Smart Glasses : Audio Open-Ear & 220mAh | My-eStore",
+            "meta_description": "Achetez les lunettes audio Blackview BV100 Smart Glasses. Son Open-Ear HD, puce Bluetooth 5.3 et batterie 220 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview BV100 Smart Glasses : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Diffusions Audio Open-Ear",
+                    "benefice": "Haut-parleurs orientés vers l'oreille préservant l'attention extérieure."
+                },
+                {
+                    "feature": "Verres de Protection UV400",
+                    "benefice": "Filtrage efficace des rayons ultraviolets et de la lumière bleue."
+                },
+                {
+                    "feature": "Double Micro ENC Appels",
+                    "benefice": "Prises de parole claires lors de vos conversations en déplacement."
+                },
+                {
+                    "feature": "Design Ergonomique 45.7g",
+                    "benefice": "Monture ultra-légère épousant confortablement le visage."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview BV100 Smart Glasses sont des lunettes audio intelligentes et performantes. Cet équipement répond parfaitement aux besoins des utilisateurs connectés en Côte d'Ivoire. Par ailleurs, la puce Bluetooth 5.3 assure une transmission sonore d'une grande fluidité. De plus, les haut-parleurs directs diffusent un son clair tout en restant à l'écoute des environs. La batterie de 220 mAh répartie sur les branches offre jusqu'à 6 heures d'écoute continue. En effet, sa monture légère de 45.7 grammes procure un confort de port prolongé. Enfin, vous profitez de votre musique et de vos appels en toute simplicité.",
+        "sections": [
+            {
+                "h2_title": "Conception Open-Ear et Protection Visuelle",
+                "paragraphs": [
+                    "Les Blackview BV100 Smart Glasses intègrent une technologie audio open-ear directive. Cette configuration diffuse le son directement vers vos oreilles sans obstruer le canal auriculaire. De plus, la clarté des haut-parleurs restitue des voix très intelligibles pour vos appels. De surcroît, les verres certifiés UV400 protègent votre vue contre la lumière bleue des écrans. La fatigue oculaire diminue considérablement lors des sessions de travail. L'expérience d'utilisation reste très plaisante au quotidien.",
+                    "La monture élégante s'adapte confortablement à la morphologie de votre visage. Cette ergonomie soignée évite les points de pression gênants sur les tempes. En effet, la résistance contre les éclaboussures préserve les composants de la pluie fine. Les branches antidérapantes assurent un maintien très stable lors de vos déplacements à Abidjan. Ainsi, vous portez vos lunettes intelligentes en toute sérénité."
+                ]
+            },
+            {
+                "h2_title": "Connexion Bluetooth 5.3 et Commandes Tactiles",
+                "paragraphs": [
+                    "Le composant Bluetooth 5.3 offre un appairage immédiat avec votre smartphone. La portée du signal s'étend jusqu'à 10 mètres sans aucune coupure. En outre, les capteurs tactiles situés sur les branches permettent de piloter vos pistes musicales. Vous contrôlez le volume et répondez aux appels d'un simple effleurement du doigt. La gestion des commandes quotidiennes devient particulièrement intuitive. L'utilisation gagne en confort et en rapidité.",
+                    "Par ailleurs, l'activation de l'assistant vocal s'effectue d'une touche rapide. Vous pouvez lancer des recherches vocales ou envoyer un message sans sortir votre téléphone. De plus, le système de débruitage ENC des microphones garantit une voix limpide en appel. Cette clarté vocale simplifie grandement vos échanges professionnels en extérieur. En somme, cette technologie nomade améliore votre réactivité."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Quotidienne et Recharge Magnétique",
+                "paragraphs": [
+                    "Les lunettes Blackview BV100 abritent une batterie double de 220 mAh. Cet accumulateur fournit jusqu'à 6 heures d'écoute musicale continue ou 5 heures d'appel. Les branches intègrent un connecteur de charge magnétique rapide très pratique. Vous rechargez entièrement les lunettes en seulement 1 heure et 30 minutes. En effet, la gestion d'énergie intelligente prolonge l'autonomie en mode veille jusqu'à 100 heures. Vos lunettes restent toujours prêtes pour vos rendez-vous.",
+                    "La finition moderne confère aux lunettes un style chic adapté à toutes les tenues. Son poids plume de 45.7 grammes se fait oublier après quelques minutes de port. Les Blackview BV100 Smart Glasses représentent un produit innovant et pratique à Abidjan. En somme, leur rapport qualité-prix en fait une opportunité très intéressante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview BV100 Smart Glasses",
+                "subtitle": "Spécifications matérielles certifiées des lunettes intelligentes Blackview BV100."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions monture",
+                            "valeur": "150 x 49 x 40 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.0457 kg (45.7 g)"
+                        },
+                        {
+                            "label": "Type de verres",
+                            "valeur": "Verres anti-lumière bleue & Protection UV400"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Lunettes audio connectées Open-Ear"
+                        },
+                        {
+                            "label": "Coloris monture",
+                            "valeur": "Noir, Clair"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Technologie audio",
+                            "valeur": "Haut-parleurs directionnels Open-Ear"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Double microphone HD avec réduction de bruit ENC"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "ENC pour appels téléphoniques"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "220 mAh (110 mAh dans chaque branche)"
+                        },
+                        {
+                            "label": "Autonomie musique",
+                            "valeur": "Jusqu'à 6 heures en lecture continue"
+                        },
+                        {
+                            "label": "Autonomie appels",
+                            "valeur": "Jusqu'à 5 heures de communication"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 100 heures"
+                        },
+                        {
+                            "label": "Système de charge",
+                            "valeur": "Câble magnétique USB-A (1h30)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri, Google Assistant & IA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Capteurs tactiles sur les deux branches"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance aux éclaboussures et sueur IPX4"
+                        },
+                        {
+                            "label": "Changement de verres",
+                            "valeur": "Compatible avec verres correcteurs de vue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge magnétique USB inclus"
+                        },
+                        {
+                            "label": "Étui",
+                            "valeur": "Étui de protection rigide et chiffon de nettoyage"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/bv100-ai-glasses-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

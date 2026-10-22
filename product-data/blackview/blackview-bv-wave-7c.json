@@ -1,0 +1,316 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Wave 7C",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Support",
+                "url": "https://support.blackview.hk/product/wave7c"
+            },
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/"
+            }
+        ],
+        "pricing_reference": "49000",
+        "official_sku": "BV-WAVE-7C"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.56 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "64 Go",
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur Smart-PA",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "165.3 x 76.7 x 8.85 mm",
+        "weight": "0.200 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-WAVE-7C-MASTER",
+        "Name": "Blackview Wave 7C",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "49000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Wave 7C, Smartphone 4G, 6.56 Pouces, 5000mAh, 90Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.200 kg",
+        "Attribute 4 default": "0.200 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Wave 7C : Smartphone Équilibré Écran 6.56 Pouces 90Hz",
+        "brand_line": "Smartphone 4G élégant Blackview combinant fluidité et autonomie.",
+        "marketing_conclusion": "Commandez le Blackview Wave 7C sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Wave 7C dispose d'un écran 90Hz de 6.56 pouces, d'une puce Octa-Core T606, d'un capteur 13 MP et d'une batterie 5000 mAh.",
+        "features": [
+            {
+                "feature": "Écran HD+ 6.56\" 90Hz",
+                "benefice": "Défilement très fluide pour vos réseaux sociaux et vidéos."
+            },
+            {
+                "feature": "Puce Unisoc Tiger T606 Octa-Core",
+                "benefice": "Lancement rapide des applications sans ralentissement."
+            },
+            {
+                "feature": "Batterie 5000 mAh Haute Capacité",
+                "benefice": "Utilisation prolongée durant plus d'une journée entière."
+            },
+            {
+                "feature": "Boîtier Fin 8.85 mm",
+                "benefice": "Design moderne et élégance assurée lors de la prise en main."
+            }
+        ],
+        "slogan_final": "Blackview Wave 7C — L'équilibre idéal entre fluidité et autonomie.",
+        "seo": {
+            "meta_title": "Acheter Blackview Wave 7C (4Go/64Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Wave 7C avec écran 90Hz 6.56 pouces, batterie 5000 mAh et processeur T606. Commandez au meilleur prix à Abidjan chez My-eStore.",
+            "keywords": "Blackview Wave 7C, smartphone Blackview, prix Abidjan, 6.56 pouces 5000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Wave 7C",
+            "lsi_keywords": [
+                "Blackview Wave 7C",
+                "smartphone Blackview Abidjan",
+                "Blackview Wave 7C prix",
+                "smartphone 6.56 pouces 90Hz",
+                "batterie 5000 mAh",
+                "Unisoc Tiger T606",
+                "achat smartphone Côte d'Ivoire",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "Blackview Wave 7C 90Hz : 6.56\" & 5000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Wave 7C. Écran 90Hz 6.56 pouces, processeur Tiger T606, 4Go RAM et batterie 5000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Wave 7C : Fiche Technique et Performances Détaillées",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN REGARD",
+            "items": [
+                {
+                    "feature": "Dalle HD+ 90Hz Immersive",
+                    "benefice": "Excellente visibilité visuelle pour la lecture et le streaming."
+                },
+                {
+                    "feature": "Processeur Octa-Core Polyvalent",
+                    "benefice": "Navigation Web et jeux occasionnels parfaitement fluides."
+                },
+                {
+                    "feature": "Batterie 5000 mAh Longue Durée",
+                    "benefice": "Tranquillité énergétique complète tout au long de la journée."
+                },
+                {
+                    "feature": "Lecteur d'Empreinte Latéral",
+                    "benefice": "Déverrouillage instantané et sécurisé de votre téléphone."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Wave 7C est un smartphone fluide et particulièrement bien équilibré. Cet appareil s'adapte très bien aux besoins quotidiens des utilisateurs en Côte d'Ivoire. Par ailleurs, sa puce Unisoc Tiger T606 assure un fonctionnement réactif. De plus, son écran de 6.56 pouces à 90 Hz offre une navigation agréable. La batterie de 5000 mAh vous permet de communiquer sans interruption. Son boîtier affiné de 8.85 mm garantit une prise en main très élégante. L'interface DokeOS 4.0 sous Android 13 facilite le contrôle des dossiers. Enfin, ce smartphone propose un rapport qualité-prix très avantageux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.56 Pouces 90Hz et Puce Tiger T606",
+                "paragraphs": [
+                    "Le Blackview Wave 7C intègre un écran IPS de 6.56 pouces en définition HD+. Sa résolution de 1612 x 720 pixels affiche vos visuels avec une clarté remarquable. De plus, le taux de rafraîchissement de 90 Hz apporte une grande douceur lors du défilement des pages. De surcroît, le processeur Tiger T606 à huit cœurs cadencés à 1.6 GHz prend en charge vos applications. Les 4 Go de mémoire RAM garantissent une stabilité appréciable au quotidien.",
+                    "La mémoire interne de 64 Go ou 128 Go stocke l'ensemble de vos documents importants. La présence d'un port MicroSD permet d'ajouter une carte mémoire jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM et la carte mémoire sans restriction. Cette disposition pratique facilite l'utilisation de deux lignes téléphoniques distinctes. Vos fichiers restent toujours facilement accessibles à tout instant."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 13 MP et Équipement Pratique",
+                "paragraphs": [
+                    "Le Blackview Wave 7C possède un capteur photo arrière de 13 Mégapixels avec Flash LED. Cet objectif capture avec soin vos paysages et souvenirs de famille. En outre, la caméra frontale de 8 Mégapixels s'avère très adaptée pour les visioconférences claires. De même, les modes de prises de vue optimisent la luminosité selon l'environnement. Ainsi, la prise de vue se montre rapide et naturelle au quotidien. Vos souvenirs sont conservés avec précision.",
+                    "Par ailleurs, le haut-parleur Smart-PA restitue des appels vocaux et musiques d'une belle netteté. De plus, la prise casque 3.5 mm vous permet de brancher votre casque filaire préféré. Également, la puce GPS multicanal assure une géolocalisation très précise durant vos déplacements. De surcroît, la connectivité Wi-Fi et le Bluetooth 5.0 maintiennent des connexions stables. En somme, ce modèle rassemble tous les outils essentiels."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Ergonomie Soignée",
+                "paragraphs": [
+                    "La batterie de 5000 mAh offre une réserve énergétique particulièrement confortable. Cet accumulateur vous permet de profiter de vos morceaux musicaux et vidéos sans crainte. Le port USB-C moderne simplifie le raccordement de votre chargeur au quotidien. En effet, la gestion intelligente de l'énergie sous Android 13 prolonge la durée d'utilisation. Vos journées se déroulent en toute sérénité.",
+                    "La silhouette affinée de 8.85 mm confère une tenue en main naturelle. Son poids contenu de 200 grammes s'emporte facilement lors de vos trajets. Le Blackview Wave 7C constitue un choix très pertinent pour s'équiper à Abidjan. En somme, sa conception moderne en fait une opportunité hautement recommandable. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Wave 7C",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Wave 7C."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "165.3 x 76.7 x 8.85 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.200 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Coque fine avec motif texturé au dos"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.56 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1612 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go / 128 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Support",
+                        "url": "https://support.blackview.hk/product/wave7c"
+                    },
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

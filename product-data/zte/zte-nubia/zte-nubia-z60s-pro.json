@@ -1,0 +1,457 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Z60S Pro",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z60S+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z60S+Pro+specifications"
+            }
+        ],
+        "pricing_reference": "425000",
+        "official_sku": "ZTE-NUBIA-Z60S-PRO"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "425000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "485000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "545000",
+            "sku_suffix": "1TB-16GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Silver",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "425000",
+            "sku_suffix": "256GB-12GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Silver",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "485000",
+            "sku_suffix": "512GB-16GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Silver",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "545000",
+            "sku_suffix": "1TB-16GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "425000",
+            "sku_suffix": "256GB-12GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "485000",
+            "sku_suffix": "512GB-16GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "545000",
+            "sku_suffix": "1TB-16GB-BLEU-CIEL"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 Leading Version (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 3.36 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "AMOLED 1.5K 120Hz avec verre Longxi Glass",
+        "screen_resolution": "2800 x 1260 pixels",
+        "battery_capacity": "5100 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X",
+        "os": "Android 14",
+        "os_skin": "MyOS 14.5",
+        "camera_main": "Triple capteur OIS (50 MP 35mm Sony IMX906 + 50 MP 13mm Ultra Grand-Angle + 8 MP 80mm Téléobjectif)",
+        "camera_selfie": "16 MP",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra et Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & communication satellite",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band + GLONASS + BDS + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge rapide 80W USB-C",
+        "dimensions": "163.6 x 76.0 x 8.9 mm",
+        "weight": "0.220 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-Z60S-PRO-MASTER",
+        "Name": "ZTE Nubia Z60S Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "425000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Z60S Pro, 35mm Sony IMX906, Snapdragon 8 Gen 2, AMOLED 1.5K, 5100mAh, 80W, 5G, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Blanc, Bleu Ciel",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.220 kg",
+        "Attribute 4 default": "0.220 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Z60S Pro : Optique 35mm Sony IMX906 Snapdragon 8 Gen 2 et Écran 1.5K",
+        "brand_line": "Le smartphone haut de gamme avec focale humaine 35 mm stabilisée OIS et communication satellite.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Z60S Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Z60S Pro réunit la puce Snapdragon 8 Gen 2 cadencée à 3.36 GHz, un capteur 35mm Sony IMX906 OIS, un écran 1.5K 120Hz et une charge rapide 80W.",
+        "features": [
+            {
+                "feature": "Optique 35 mm Sony IMX906 OIS",
+                "benefice": "Perspective photo naturelle et piqué remarquable pour le portrait."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 2 (3.36 GHz)",
+                "benefice": "Vitesse de calcul éprouvée et multitâche fluide en 16 Go RAM."
+            },
+            {
+                "feature": "Dalle AMOLED 1.5K 120Hz Longxi Glass",
+                "benefice": "Résistance élevée aux chocs et lisibilité sous forte lumière."
+            },
+            {
+                "feature": "Batterie 5100 mAh & Charge 80W",
+                "benefice": "Autonomie constante et recharge complète en 35 minutes."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Z60S Pro — L'harmonie photographique de la focale 35 mm dans votre main.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Z60S Pro (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Z60S Pro avec capteur 35mm Sony IMX906 OIS, Snapdragon 8 Gen 2, écran 1.5K et charge 80W. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Nubia Z60S Pro, smartphone photo 35mm Abidjan, Snapdragon 8 Gen 2, 1.5K AMOLED 80W, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Z60S Pro",
+            "lsi_keywords": [
+                "ZTE Nubia Z60S Pro",
+                "smartphone ZTE Nubia Z60S Pro Abidjan",
+                "ZTE Nubia Z60S Pro prix",
+                "téléphone photo 35mm sony imx906",
+                "smartphone snapdragon 8 gen 2 80w",
+                "téléphone amoled 1.5k 120hz zte",
+                "achat smartphone photo My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Z60S Pro 256 Go : 35mm Sony IMX906 & Écran 1.5K | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Z60S Pro. Optique 35 mm Sony IMX906 OIS, Snapdragon 8 Gen 2, dalle 1.5K 120Hz et charge 80W. Livraison sécurisée à Abidjan."
+        },
+        "h1": "ZTE Nubia Z60S Pro : Snapdragon 8 Gen 2, Écran 1.5K 120Hz et Capteur 50 MP 35mm OIS",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA Z60S PRO",
+            "items": [
+                {
+                    "feature": "Capteur 35 mm Sony IMX906",
+                    "benefice": "Cadrage photographique de référence sans déformation."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Gen 2",
+                    "benefice": "Haut niveau de réactivité sur l'ensemble de vos applications."
+                },
+                {
+                    "feature": "Verre Renforcé Longxi Glass",
+                    "benefice": "Protection supérieure contre les rayures du quotidien."
+                },
+                {
+                    "feature": "Charge Rapide 80 Watts",
+                    "benefice": "Recharge dynamique pour vos journées chargées."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Z60S Pro célèbre la pureté du cadrage à 35 millimètres pour immortaliser vos scènes de vie. Cet équipement répond idéalement aux attentes des photographes nomades et professionnels à Abidjan. En effet, son capteur principal Sony IMX906 de 50 Mégapixels intègre une stabilisation optique OIS. De plus, sa dalle AMOLED 1.5K de 6.78 pouces fonctionne à une fréquence fluide de 120 Hz. La puce Qualcomm Snapdragon 8 Gen 2 assure un traitement d'image très rapide. Par ailleurs, la batterie de 5100 mAh avec charge 80W soutient vos activités quotidiennes. Enfin, son ergonomie soignée offre une tenue en main naturelle tout au long de la journée.",
+        "sections": [
+            {
+                "h2_title": "Optique 35 mm Sony IMX906 et Triple Capteur OIS",
+                "paragraphs": [
+                    "Le ZTE Nubia Z60S Pro intègre un objectif 35 mm avec capteur Sony IMX906 de 50 Mégapixels. Cette configuration optique évite les distorsions sur les visages lors des portraits de rue. De plus, le capteur ultra grand-angle de 50 Mégapixels et le téléobjectif 80 mm stabilisé complètent la panoplie. Ainsi, vous couvrez l'ensemble des situations visuelles avec une homogénéité colorimétrique constante. La caméra frontale de 16 Mégapixels assure des visioconférences nettes.",
+                    "Le curseur mécanique latéral permet de lancer directement l'appareil photo en une fraction de seconde. D'ailleurs, les modes de prise de vue dédiés permettent de capturer le ciel étoilé avec facilité. En outre, la connectivité 5G assure une transmission rapide de vos fichiers haute résolution. La finition texturée du dos procure une préhension très stable en main. Vous profitez d'un outil photographique moderne et maniable."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 1.5K 120Hz et Puce Snapdragon 8 Gen 2",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.78 pouces en résolution 1.5K est protégée par le verre Longxi Glass. Cette précision d'affichage procure un confort visuel élevé sous le soleil d'Abidjan. De plus, la fréquence de 120 Hz élimine les saccades lors du défilement de vos contenus. Le processeur Qualcomm Snapdragon 8 Gen 2 cadencé à 3.36 GHz assure une excellente réactivité. La mémoire vive de 12 Go ou 16 Go prend en charge un multitâche sans latence.",
+                    "Le stockage interne de 256 Go ou 512 Go accueille l'ensemble de vos applications et vidéos sans saturation. En effet, la norme UFS 4.0 accélère les débits de transfert de données au quotidien. Également, la puce NFC intégrée permet de régler vos achats sans contact en toute sécurité. Les haut-parleurs stéréo avec son spatial DTS:X Ultra assurent une écoute sonore détaillée. Vous disposez d'un ensemble multimédia très équilibré."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5100 mAh et Charge Rapide 80W",
+                "paragraphs": [
+                    "La batterie de 5100 mAh délivre une alimentation constante capable de couvrir une journée complète d'activité intensive. Cette autonomie solide vous permet de mener vos entretiens et reportages sans contrainte. Par ailleurs, la technologie de charge rapide 80W permet de remplir rapidement la réserve énergétique. En effet, une trentaine de minutes de charge en USB-C suffit pour retrouver l'intégralité de l'autonomie. Vos déplacements s'organisent avec sérénité.",
+                    "Le smartphone affiche un poids de 220 grammes avec des coloris en noir classique, argent et bleu saphir. D'autre part, la qualité d'assemblage témoigne de la rigueur de fabrication de la gamme ZTE Nubia. En somme, le ZTE Nubia Z60S Pro réunit des performances optiques de référence et une vitesse d'exécution élevée. Vous pouvez commander ce modèle en toute sécurité sur My-eStore. Le service de livraison dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Z60S Pro",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Z60S Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 76.0 x 8.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.220 kg (220 g)"
+                        },
+                        {
+                            "label": "Verre de protection",
+                            "valeur": "Verre ultra-résistant Longxi Durable Glass"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Black), Argent (Silver), Bleu Saphir (Aqua Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.78 pouces (~89.5% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED 1.5K, 1 milliard de couleurs (10-bit), 120 Hz"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2800 x 1260 pixels, 20:9, ~452 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1200 nits (pic), gradation PWM 2160 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 2 Leading Version (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.36 GHz Cortex-X3 + 2x2.8 GHz Cortex-A715 + 2x2.8 GHz Cortex-A710 + 3x2.0 GHz Cortex-A510)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 740 (719 MHz)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14.5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal 35mm",
+                            "valeur": "50 MP (f/1.59, Sony IMX906, 1/1.56\", stabilisation optique OIS, PDAF)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle 13mm",
+                            "valeur": "50 MP (f/2.0, 1/2.88\", 125˚, autofocus macro 2.5 cm)"
+                        },
+                        {
+                            "label": "Téléobjectif 80mm",
+                            "valeur": "8 MP (f/2.4, zoom optique 3x, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.5)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60/120 fps, 1080p à 30/60 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5100 mAh (Li-Po haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 80W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.1 réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Communication spéciale",
+                            "valeur": "Communication satellite bidirectionnelle (appels et SMS)"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 / 6E / 6 (802.11 a/b/g/n/ac/ax/be) tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra et Snapdragon Sound"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales optique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z60S+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z60S+Pro+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

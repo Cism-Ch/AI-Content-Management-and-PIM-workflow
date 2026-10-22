@@ -1,0 +1,393 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Axon 60 Ultra",
+        "generation_date": "2026-09-02"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Axon+60+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Axon+60+Ultra+specifications"
+            }
+        ],
+        "pricing_reference": "550000",
+        "official_sku": "ZTE-AXON-60-ULTRA"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Obsidian Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "550000",
+            "sku_suffix": "512GB-12GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Obsidian Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "620000",
+            "sku_suffix": "1TB-16GB-NOIR"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 3.2 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "OLED 1.5K 120Hz 2160Hz PWM",
+        "screen_resolution": "2800 x 1260 pixels",
+        "battery_capacity": "6000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X",
+        "os": "Android 14",
+        "os_skin": "MyOS 14",
+        "camera_main": "Triple capteur 50 MP (Principal 35mm OIS + Ultra Grand-Angle 50 MP OIS + Capteur Macro)",
+        "camera_selfie": "32 MP",
+        "audio_config": "Haut-parleurs Stéréo DTS:X Ultra",
+        "audio_tech": "Son spatial DTS:X Ultra & Réduction de bruit IA",
+        "connectivity_nfc": "NFC Multifonction & Connectivité Satellite",
+        "navigation_gps": "GPS dual-band + GLONASS + BDS + GALILEO",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 80W",
+        "dimensions": "163.2 x 73.5 x 8.6 mm",
+        "weight": "0.215 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-AXON-60-ULTRA-MASTER",
+        "Name": "ZTE Axon 60 Ultra",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "550000",
+        "Categories": "Smartphones > ZTE > Axon Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Axon 60 Ultra, Snapdragon 8 Gen 2, 6000mAh, Charge 80W, Satellite, 50MP OIS, IP68, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go, 1 To",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.215 kg",
+        "Attribute 4 default": "0.215 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Axon 60 Ultra : Batterie 6000 mAh Snapdragon 8 Gen 2 et Satellite",
+        "brand_line": "Le smartphone porte-étendard avec batterie carbone-silicium et connectivité par satellite.",
+        "marketing_conclusion": "Commandez votre ZTE Axon 60 Ultra sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Axon 60 Ultra intègre un écran OLED 1.5K 120Hz de 6.78 pouces, la puce Snapdragon 8 Gen 2, une batterie 6000 mAh avec charge 80W et la double communication satellite.",
+        "features": [
+            {
+                "feature": "Écran OLED 1.5K 120Hz 2160Hz PWM",
+                "benefice": "Protection oculaire avancée et finesse d'affichage élevée."
+            },
+            {
+                "feature": "Batterie 6000 mAh & Charge 80W",
+                "benefice": "Autonomie remarquable sur plusieurs jours et charge très véloce."
+            },
+            {
+                "feature": "Double Capteur Photo 50 MP OIS",
+                "benefice": "Clichés stables d'une grande fidélité de jour comme de nuit."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 2 & IP68",
+                "benefice": "Puissance maximale et résistance certifiée à l'eau et à la poussière."
+            }
+        ],
+        "slogan_final": "ZTE Axon 60 Ultra — Fiabilité extrême et autonomie supérieure pour vos exigences.",
+        "seo": {
+            "meta_title": "Acheter ZTE Axon 60 Ultra (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Axon 60 Ultra avec batterie 6000 mAh, écran 1.5K OLED 120Hz, Snapdragon 8 Gen 2 et charge 80W. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Axon 60 Ultra, smartphone satellite Abidjan, batterie 6000mAh, Snapdragon 8 Gen 2, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Axon 60 Ultra",
+            "lsi_keywords": [
+                "ZTE Axon 60 Ultra",
+                "smartphone ZTE Axon 60 Ultra Abidjan",
+                "ZTE Axon 60 Ultra prix",
+                "téléphone batterie 6000 mah",
+                "smartphone connectivité satellite",
+                "téléphone snapdragon 8 gen 2",
+                "achat téléphone étanche ip68 My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Axon 60 Ultra 512Go : Satellite & 6000mAh | My-eStore",
+            "meta_description": "Achetez le ZTE Axon 60 Ultra. Batterie 6000 mAh carbone-silicium, écran OLED 1.5K 120Hz, puce Snapdragon 8 Gen 2 et charge 80W. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Axon 60 Ultra : Snapdragon 8 Gen 2, Écran OLED 1.5K et Batterie 6000 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE AXON 60 ULTRA",
+            "items": [
+                {
+                    "feature": "Batterie Silicium-Carbone 6000 mAh",
+                    "benefice": "Autonomie exceptionnelle sans alourdir le téléphone."
+                },
+                {
+                    "feature": "Écran OLED 1.5K Confort Oculaire",
+                    "benefice": "Affichage précis avec gradation PWM 2160 Hz anti-fatigue."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Gen 2",
+                    "benefice": "Vitesse d'exécution irréprochable pour tous les usages."
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68",
+                    "benefice": "Protection efficace contre l'eau et les poussières."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Axon 60 Ultra répond aux exigences matérielles d'une utilisation mobile intensive. Sa batterie au silicium-carbone de 6000 mAh assure ainsi une autonomie continue sur deux journées complètes. La dalle OLED 1.5K de 6.78 pouces procure un affichage précis tout en préservant le confort visuel. Le processeur Snapdragon 8 Gen 2 maintient en outre une réactivité instantanée sous de lourdes charges logicielles. La certification IP68 protège enfin le châssis contre les projections d'eau et les poussières du quotidien.",
+        "sections": [
+            {
+                "h2_title": "Dalle OLED 1.5K 120Hz et Puce Snapdragon 8 Gen 2",
+                "paragraphs": [
+                    "L'écran OLED de 6.78 pouces affiche une définition détaillée de 2800 par 1260 pixels. La gradation PWM haute fréquence à 2160 Hz réduit efficacement la fatigue oculaire lors des sessions prolongées. Le taux de rafraîchissement adaptatif à 120 Hz apporte également une grande fluidité lors du défilement tactile. L'architecture thermique optimisée dissipe la chaleur dégagée par la puce Qualcomm Snapdragon 8 Gen 2. Ce composant gravé en 4 nanomètres stabilise donc la consommation énergétique au cours des tâches intenses.",
+                    "La mémoire vive de 12 Go ou 16 Go en LPDDR5X soutient une exécution multitâche fluide. Le stockage flash UFS 4.0 permet d'ailleurs un lancement quasi instantané des applications les plus lourdes. Ce volume interne atteint jusqu'à 1 To pour conserver tous vos documents de travail. La compatibilité 5G-Advanced stabilise la transmission des flux de données sur les réseaux cellulaires modernes. L'appareil conserve par conséquent une cadence de travail véloce à chaque moment de la journée."
+                ]
+            },
+            {
+                "h2_title": "Double Capteur 50 MP OIS et Technologie Satellite",
+                "paragraphs": [
+                    "Le module optique arrière associe deux capteurs haute résolution de 50 Mégapixels. Le bloc principal stabilise mécaniquement l'image grâce à une suspension optique OIS réactive. Les prises de vue nocturnes conservent une netteté précise avec un bruit numérique contenu. L'objectif ultra grand-angle de 50 Mégapixels capture aussi des scènes étendues sans aucune déformation latérale. Le traitement d'image par processeur neural équilibre les contrastes lumineux sur chaque cliché.",
+                    "La caméra frontale de 32 Mégapixels garantit des communications vidéo nettes pour vos réunions professionnelles. Le système de communication bidirectionnelle par satellite permet notamment d'envoyer des messages d'urgence hors réseau. Cette fonctionnalité sécurise vos déplacements isolés quand la couverture cellulaire fait défaut. Les haut-parleurs stéréo diffusent par ailleurs un son spatial DTS:X clair et équilibré. Le châssis rigide offre une prise en main stable adaptée à toutes vos manipulations courantes."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Silicium 6000 mAh et Charge Rapide 80W",
+                "paragraphs": [
+                    "La technologie de batterie silicium-carbone loge 6000 mAh dans un profil mince et ergonomique. Cette densité énergétique élevée garantit de plus une disponibilité constante lors des journées chargées. Le protocole de charge rapide filaire à 80W restaure rapidement l'autonomie du téléphone. Quelques minutes de branchement suffisent de fait pour récupérer de nombreuses heures de fonctionnement continu. La régulation thermique évite toute élévation de température excessive pendant le cycle de charge.",
+                    "Le boîtier noir obsidian affiche un poids maîtrisé de 215 grammes bien réparti en main. La biométrie sous écran assure un déverrouillage réactif et sécurisé. Le ZTE Axon 60 Ultra combine ainsi productivité élevée et robustesse matérielle au quotidien. Vous pouvez passer commande directement sur la boutique My-eStore pour équiper votre quotidien. Le service de livraison dessert la ville d'Abidjan avec rapidité et un suivi rigoureux."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Axon 60 Ultra",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Axon 60 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.2 x 73.5 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.215 kg (215 g)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 (résistant à l'eau et à la poussière)"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Obsidian Black)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.78 pouces (~90.5% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "OLED 1.5K, 1 milliard de couleurs, gradation 2160Hz PWM"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2800 x 1260 pixels, ~452 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Certification oculaire",
+                            "valeur": "SGS Low Blue Light"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 2 (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.2 GHz Cortex-X3 + 2x2.8 GHz + 2x2.8 GHz + 3x2.0 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 740"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go / 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.6, 35mm, OIS, PDAF multi-directionnel)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.0, 120˚, OIS, autofocus)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur de profondeur / macro assisté par IA"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "32 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, HDR10+, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh (Silicium-Carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge ultra-rapide 80W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, USB Power Delivery 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G-Advanced, 5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Connectivité Satellite",
+                            "valeur": "Double communication satellite bidirectionnelle (Voix et SMS)"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6/7 tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.1 réversible"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+60+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+60+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

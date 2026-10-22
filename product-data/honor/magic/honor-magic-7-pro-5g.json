@@ -1,0 +1,391 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "honor-magic-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Honor Magic 7 Pro conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Honor",
+        "product_line": "HONOR Magic Serie",
+        "commercial_name": "Honor Magic 7 Pro",
+        "category": "smartphone",
+        "sub_category": "ultra-flagship",
+        "release_year": 2024,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HONOR-MAGIC-7-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HONOR-MAGIC-7-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Honor Official Store",
+                "url": "https://www.honor.com/fr/phones/honor-magic7-pro/spec/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Honor+Magic+7+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Honor+Magic+7+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Honor Magic 7 Pro 6.8\" LTPO OLED 120Hz Snapdragon 8 Elite 200MP OIS 5270mAh 100W IP68/IP69 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "HONOR-MAGIC-7-PRO-5G",
+        "Name": "Honor Magic 7 Pro - 6.8\" LTPO OLED 120Hz - 16Go/512Go - 200MP Périscope OIS - 5270mAh 100W - IP68/IP69 - 5G - Dual SIM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "650000",
+        "Categories": "Smartphones > Honor > Magic Series",
+        "Tags": "Honor, Magic 7 Pro, HONOR Magic Serie, Smartphone, Android, 5G, LTPO OLED 120Hz, 200MP Périscope, 5270mAh, Snapdragon 8 Elite, IP68 IP69, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Argent, Bleu, Noir",
+        "Attribute 1 default": "Argent",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.223 kg",
+        "Attribute 4 default": "0.223 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Excellence LTPO OLED 120Hz avec Téléobjectif 200MP, Snapdragon 8 Elite et IP69.",
+        "teaser": "Découvrez le smartphone d'élite Honor Magic 7 Pro propulsé par la puce Snapdragon 8 Elite, un écran LTPO OLED de 6.8 pouces, un téléobjectif périscope 200MP et une étanchéité IP68/IP69.",
+        "top_features_detailed": [
+            {
+                "feature": "Puce Flagship Snapdragon 8 Elite",
+                "benefice": "Capacité de traitement de pointe pour vos applications les plus complexes"
+            },
+            {
+                "feature": "Téléobjectif Périscope 200MP & Capteur Variable",
+                "benefice": "Clichés haute précision et zoom optique stable en toutes circonstances lumineuses"
+            },
+            {
+                "feature": "Batterie Silicium-Carbone 5270 mAh 100W",
+                "benefice": "Autonomie remarquable sur deux jours avec recharge sans fil rapide 80W"
+            },
+            {
+                "feature": "Double Certification Étanchéité IP68 & IP69",
+                "benefice": "Protection certifiée contre l'immersion et les projections d'eau à haute pression"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G ultra-haut de gamme associant processeur de pointe, téléobjectif 200MP et batterie innovante au silicium-carbone.",
+        "trust_badges": [
+            "Garantie Officielle Honor",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Honor Magic 7 Pro (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Honor Magic 7 Pro au meilleur prix à Abidjan sur My-eStore. Snapdragon 8 Elite, 200MP périscope, batterie 5270mAh, IP68/IP69 et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Honor Magic 7 Pro 512Go : Snapdragon 8 & 200MP | My-eStore",
+            "meta_description": "Découvrez le Honor Magic 7 Pro sur My-eStore. Écran LTPO OLED 6.8 pouces 120Hz, Snapdragon 8 Elite, 200MP périscope OIS, batterie 5270 mAh 100W et IP69.",
+            "focus_keyword": "Honor Magic 7 Pro",
+            "lsi_keywords": [
+                "Honor Magic 7 Pro Abidjan",
+                "prix Honor Magic 7 Pro",
+                "fiche technique Magic 7 Pro",
+                "smartphone Snapdragon 8 Elite",
+                "Honor Magic 7 Pro 512Go"
+            ]
+        },
+        "h1": "Honor Magic 7 Pro : Écran 6.8\" LTPO OLED 120Hz, Snapdragon 8 Elite et Téléobjectif 200MP OIS",
+        "intro_paragraph": "En premier lieu, le Honor Magic 7 Pro associe la puce Snapdragon 8 Elite et un téléobjectif de 200 mégapixels. Sa dalle LTPO OLED de 6.8 pouces procure une immersion visuelle remarquable pour l'ensemble de vos activités quotidiennes. De plus, son capteur photo principal à ouverture variable f/1.4 capte la lumière avec une très grande précision. La batterie au silicium-carbone de 5270 mAh garantit une disponibilité énergétique continue lors de vos déplacements exigeants. Enfin, la double certification IP68 et IP69 procure une étanchéité complète contre l'immersion et les jets d'eau.",
+        "experience_box": {
+            "box_title": "Points Clés du Honor Magic 7 Pro",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite (3nm)",
+                    "benefice": "Vitesse d'exécution de très haut niveau pour la productivité et le multitâche intensif"
+                },
+                {
+                    "feature": "Téléobjectif Périscope 200MP OIS",
+                    "benefice": "Grossissement optique d'une clarté remarquable pour les détails éloignés"
+                },
+                {
+                    "feature": "Batterie Silicium-Carbone 5270 mAh",
+                    "benefice": "Autonomie sécurisante sur deux jours avec Honor SuperCharge filaire 100W et sans fil 80W"
+                },
+                {
+                    "feature": "Double Certification IP68 & IP69",
+                    "benefice": "Résistance éprouvée contre la poussière, l'immersion et les jets d'eau à haute température"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Écran LTPO OLED 120Hz et Protection Certifiée IP69",
+                "paragraphs": [
+                    "D'un côté, la dalle LTPO OLED de 6.8 pouces propose un taux de rafraîchissement adaptatif de 1 à 120 Hz. Cette modulation intelligente optimise la consommation d'énergie tout en conservant une fluidité d'affichage absolument irréprochable. Le verre ultra-résistant Honor NanoCrystal Shield protège efficacement la face avant contre les chutes et les frottements. Par ailleurs, la luminosité maximale de 5000 nits autorise une lecture limpide en plein soleil en milieu extérieur. Les bordures délicatement courbées épousent naturellement la paume pour assurer une tenue en main sûre et stable. Vous profitez ainsi d'un confort visuel de premier ordre pour consulter l'ensemble de vos documents professionnels.",
+                    "D'un autre côté, la double certification IP68 et IP69 assure une protection totale face aux immersions et projections. Ce blindage hermétique protège les circuits électroniques internes lors d'intempéries soudaines ou d'éclaboussures accidentelles. Les matériaux haut de gamme confèrent à l'appareil une élégance intemporelle adaptée aux contextes de direction. En outre, la technologie de reconnaissance faciale 3D garantit un déverrouillage biométrique hautement sécurisé même dans l'obscurité. Les finitions satinées au dos limitent l'adhérence des traces de doigts au cours de vos manipulations quotidiennes. Ce smartphone unit raffinement mécanique et résistance matérielle au bénéfice direct de votre productivité nomade."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon 8 Elite et Honor SuperCharge 100W",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8 Elite gravée en 3 nanomètres traite les charges intensives avec célérité. La mémoire vive spacieuse de 16 Go permet un passage instantané entre vos logiciels d'entreprise les plus lourds. Le stockage interne de 512 Go accueille vos volumineux fichiers multimédias ainsi que vos bases de données. De surcroît, le système de refroidissement liquide multicouche dissipe rapidement la chaleur pour préserver une cadence régulière. L'interface MagicOS 9 intègre des fonctions d'intelligence artificielle contextuelles qui optimisent la gestion de votre planning. Vous réalisez vos démarches professionnelles avec une constance et une rapidité opérationnelle tout à fait exemplaires.",
+                    "Dans cette optique, l'accumulateur au silicium-carbone de 5270 mAh dispense une autonomie sereine sur deux journées complètes. La technologie filaire SuperCharge 100W rétablit promptement la totalité de la charge lors d'une courte pause. La recharge par induction sans fil 80W procure un confort d'alimentation très pratique sur votre bureau. Également, les haut-parleurs stéréo symétriques certifiés délivrent une restitution acoustique précise pour tous vos entretiens audio. Le lecteur d'empreintes digital ultrasonique sous l'écran offre un déverrouillage quasi instantané même avec les doigts mouillés. Cet équipement technologique complet répond avec rigueur aux exigences des utilisateurs professionnels les plus connectés."
+                ]
+            },
+            {
+                "h2_title": "Système Photo 200MP et Téléobjectif Périscope",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 50 mégapixels bénéficie d'une ouverture variable physique de f/1.4 à f/2.0. Cette optique motorisée ajuste la profondeur de champ pour valoriser les portraits et maîtriser la luminosité ambiante. Le téléobjectif périscope de 200 mégapixels rapproche les détails éloignés avec une netteté remarquable sans perte optique. De même, le capteur frontal de 50 mégapixels avec capteur 3D rehausse la clarté de vos visioconférences. Les moteurs de traitement photographique éliminent le bruit numérique pour restituer des contrastes fidèles à la réalité. Vous enregistrez des séquences vidéo en haute définition prêtes pour vos communications professionnelles ou familiales.",
+                    "En conséquence, la compatibilité 5G intégrée garantit des transferts de données continus lors de vos déplacements internationaux. L'algorithme de gestion thermique préserve durablement l'intégrité de la batterie au fil des cycles de recharge. Cette fiabilité technologique garantit un fonctionnement harmonieux et sécurisé sur plusieurs années d'usage intensif. Par conséquent, vous disposez d'un smartphone d'élite conçu pour accomplir l'ensemble de vos missions sans compromis. Les matériaux durables sélectionnés confirment la maîtrise industrielle d'un appareil positionné au sommet de sa catégorie. Ce modèle constitue un investissement pérenne associant puissance de pointe, autonomie généreuse et performances photographiques avancées."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Honor Magic 7 Pro",
+                "subtitle": "Spécifications matérielles complètes du Honor Magic 7 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.7 x 77.1 x 8.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.223 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade NanoCrystal Shield, dos en verre texturé, cadre en aluminium aérospatial"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 et IP69 (Immersion jusqu'à 1.5 m pendant 30 min et jets haute pression)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes digitales ultrasonique sous l'écran, Face Unlock 3D infrarouge"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.8\" LTPO OLED, 1.07 milliard de couleurs, Dolby Vision, HDR Vivid"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "FHD+ (1280 x 2800 pixels), ~453 ppi"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "1-120 Hz adaptatif LTPO"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "5000 nits (crête HDR), 1600 nits (globale)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Honor Giant Rhinoceros Glass (NanoCrystal Shield)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm) Octa-Core (2x4.32 GHz Oryon & 6x3.53 GHz Oryon)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Puce d'Efficacité",
+                            "valeur": "Efficacité énergétique certifiée Classe A"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.4-f/2.0 variable, 1/1.3\", Laser AF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif Périscope",
+                            "valeur": "200 MP, f/2.6, 1/1.4\", zoom optique 3x, zoom numérique jusqu'à 100x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Capteur Ultra Grand-Angle",
+                            "valeur": "50 MP, f/2.0, 122˚, AF macro 2.5 cm"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "50 MP, f/2.0 + Capteur 3D TOF (reconnaissance faciale biométrique et profondeur)"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "4K à 30/60fps, 1080p à 30/60/120/240fps, HDR 10-bit, gyro-EIS, OIS"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo certifiés DTS:X Ultra, son spatialisé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "5270 mAh (Silicium-Carbone de 3ème génération)"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "Honor SuperCharge 100W"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Honor Wireless SuperCharge 80W"
+                        },
+                        {
+                            "label": "Charge Inversée",
+                            "valeur": "Oui (filaire et sans fil)"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.2 Gen 1, DisplayPort 1.2, OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "5G, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (double veille) ou eSIM selon région"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be), dual-band, Wi-Fi Direct"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4, A2DP, LE, aptX HD, LDAC"
+                        },
+                        {
+                            "label": "NFC & Infrarouge",
+                            "valeur": "Oui, NFC multifonction et émetteur infrarouge"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec MagicOS 9"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Honor Official Store",
+                        "url": "https://www.honor.com/fr/phones/honor-magic7-pro/spec/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Honor+Magic+7+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Honor+Magic+7+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Argent",
+            "color_en": "Shadow Grey",
+            "color_code": "ARGENT",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "650000",
+            "sku_suffix": "16-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Breeze Blue",
+            "color_code": "BLEU",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "650000",
+            "sku_suffix": "16-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "650000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        }
+    ]
+}

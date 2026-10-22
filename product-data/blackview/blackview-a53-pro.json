@@ -1,0 +1,381 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "A53 Pro",
+        "generation_date": "2026-07-27"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/a53pro"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "BV-A53-PRO"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G35 Octa-Core 2.3 GHz",
+        "processor_ghz": "2.3 GHz Octa-Core",
+        "screen_size": "6.5\"",
+        "screen_technology": "IPS LCD",
+        "screen_resolution": "HD+ 720 x 1600 pixels",
+        "battery_capacity": "5080 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "64 Go"
+        ],
+        "ram_extension": "Jusqu'à 7 Go",
+        "os": "Android 12",
+        "os_skin": "Doke OS 3.0",
+        "camera_main": "13 MP (Sony IMX258)",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur avec prise jack 3.5 mm",
+        "audio_tech": "Son HD Stéréo",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS, GLONASS, Beidou, Galileo",
+        "card_slot": "Triple slot (2x Nano SIM + MicroSD)",
+        "charging_wired": "USB-C 10W",
+        "dimensions": "164.6 x 76.85 x 9.4 mm",
+        "weight": "0.195 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-A53-PRO-MASTER",
+        "Name": "Blackview A53 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "95000",
+        "Categories": "Smartphones > Blackview > A Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview A53 Pro, Smartphone, Android, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Gris",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.195 kg",
+        "Attribute 4 default": "0.195 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview A53 Pro : L'Équilibre Mobile au Quotidien",
+        "brand_line": "Équipement high-tech Blackview pensé pour une utilisation fluide et fiable.",
+        "marketing_conclusion": "Commandez le Blackview A53 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview A53 Pro intègre un écran de 6.5 pouces HD+ et une batterie solide de 5080 mAh. Il assure une gestion efficace de vos tâches professionnelles et personnelles.",
+        "features": [
+            {
+                "feature": "Processeur Octa-Core",
+                "benefice": "Puce MediaTek Helio G35 garantissant une exécution réactive des applications."
+            },
+            {
+                "feature": "Écran Confortable 6.5\"",
+                "benefice": "Dalle HD+ offrant une bonne visibilité pour la lecture de vos documents."
+            },
+            {
+                "feature": "Batterie 5080 mAh",
+                "benefice": "Grande autonomie permettant de tenir une journée entière sans recharger."
+            },
+            {
+                "feature": "Triple Slot Cartes",
+                "benefice": "Logement indépendant pour deux cartes SIM et une carte mémoire MicroSD."
+            }
+        ],
+        "slogan_final": "Blackview A53 Pro — L'essentiel du smartphone moderne.",
+        "seo": {
+            "meta_title": "Acheter Blackview A53 Pro (4Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Blackview A53 Pro avec écran 6.5 pouces et batterie 5080 mAh. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview A53 Pro, smartphone Blackview, prix Abidjan, fiche technique A53 Pro"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview A53 Pro",
+            "lsi_keywords": [
+                "Blackview A53 Pro",
+                "smartphone Blackview",
+                "prix Abidjan",
+                "fiche technique A53 Pro",
+                "meilleur prix Côte d'Ivoire",
+                "smartphone 64 Go Abidjan",
+                "batterie 5080 mAh",
+                "MediaTek Helio G35",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview A53 Pro 64Go : Écran 6.5\" & 5080mAh | My-eStore",
+            "meta_description": "Achetez le Blackview A53 Pro 64 Go. Dalle 6.5 HD+, processeur Helio G35 et batterie 5080 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview A53 Pro : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Puce MediaTek Helio G35",
+                    "benefice": "Huit cœurs cadencés à 2.3 GHz pour un multitâche stable au quotidien."
+                },
+                {
+                    "feature": "Affichage HD+ 6.5 pouces",
+                    "benefice": "Grand écran clair avec un rapport taille-boîtier avantageux de 87%."
+                },
+                {
+                    "feature": "Autonomie Robuste 5080 mAh",
+                    "benefice": "Jusqu'à 22 heures d'appel continu et plusieurs jours en veille."
+                },
+                {
+                    "feature": "Triple Slot Cartes",
+                    "benefice": "Logement indépendant pour deux cartes Nano SIM et une MicroSD."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview A53 Pro est un smartphone complet et polyvalent. Cet appareil s'adapte parfaitement aux exigences des professionnels en Côte d'Ivoire. Son processeur MediaTek Helio G35 assure une navigation fluide. De plus, son grand écran de 6.5 pouces offre un réel confort visuel. En effet, sa batterie de 5080 mAh garantit une excellente autonomie quotidienne. La finition texturée du dos procure une prise en main agréable. L'interface Doke OS 3.0 simplifie l'accès à vos outils. Enfin, vous profitez d'un téléphone réactif et fiable.",
+        "sections": [
+            {
+                "h2_title": "Performance Matérielle et Fluidité du Système",
+                "paragraphs": [
+                    "Le Blackview A53 Pro s'appuie sur une architecture matérielle équilibrée. Son processeur MediaTek Helio G35 cadencé à 2.3 GHz gère efficacement vos activités quotidiennes. Le basculement entre vos applications reste fluide et agréable sans ralentissement. De surcroît, l'appareil conserve une température de fonctionnement stable même lors de sessions prolongées. Par ailleurs, la consommation d'énergie reste maîtrisée par la puce. Les performances système restent constantes tout au long de la journée.",
+                    "Les 4 Go de mémoire vive s'accompagnent d'une extension virtuelle. Cette technologie permet d'allouer de la RAM supplémentaire pour un multitâche encore plus réactif. En effet, le stockage interne de 64 Go accueille facilement vos documents et photos. Vous pouvez ajouter une carte MicroSD allant jusqu'à 256 Go. Ainsi, vous conservez vos fichiers importants toujours à portée de main en déplacement."
+                ]
+            },
+            {
+                "h2_title": "Affichage Confortable et Autonomie Durable",
+                "paragraphs": [
+                    "La dalle de 6.5 pouces IPS HD+ délivre une belle clarté d'affichage. Sa définition de 720 x 1600 pixels rend la lecture des textes très confortable. La luminosité de l'écran permet une bonne lisibilité en extérieur. Ainsi, vous pouvez consulter vos courriels et vos réseaux sociaux en toute simplicité. Le taux d'occupation de l'écran favorise une immersion visuelle agréable. Le visionnage de vidéos devient très divertissant.",
+                    "Par ailleurs, la batterie intégrée de 5080 mAh offre une autonomie remarquable. Elle couvre largement une journée d'utilisation intensive sans nécessiter de recharge intermédiaire. La gestion énergétique intelligente de Doke OS optimise chaque pourcentage de charge. Vous restez joignable lors de vos déplacements professionnels à Abidjan. En somme, cette grande réserve d'énergie apporte une sérénité totale au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Photographie Polyvalente et Interface Épurée",
+                "paragraphs": [
+                    "Le module photo principal de 13 mégapixels capte des images nettes et bien détaillées. Son capteur Sony IMX258 restitue des couleurs naturelles lors de vos prises de vue. De plus, le capteur frontal de 8 mégapixels convient parfaitement aux appels vidéo professionnels. Vos visioconférences conservent un rendu clair et naturel en tout lieu. Plusieurs modes de prise de vue facilitent vos clichés quotidiens. Vous immortalisez vos souvenirs très simplement.",
+                    "L'interface Doke OS 3.0 basée sur Android 12 se montre très intuitive. Elle propose des icônes claires et des options de personnalisation pratiques. De plus, les fonctions de confidentialité protègent efficacement vos données personnelles. Le Blackview A53 Pro s'impose comme une option économique et performante. Enfin, son rapport qualité-prix en fait une solution très avantageuse au quotidien."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview A53 Pro",
+                "subtitle": "Spécifications matérielles certifiées du Blackview A53 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.6 x 76.85 x 9.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.195 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Polycarbonate texturé anti-traces"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Standard (non étanche)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir, Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran",
+                    "rows": [
+                        {
+                            "label": "Taille",
+                            "valeur": "6.5\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (720 x 1600 pixels)"
+                        },
+                        {
+                            "label": "Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "400 nits"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G35 (MT6765V/CB)"
+                        },
+                        {
+                            "label": "CPU / GPU",
+                            "valeur": "Octa-Core 2.3 GHz / PowerVR GE8320"
+                        },
+                        {
+                            "label": "Mémoire vive (RAM)",
+                            "valeur": "4 Go"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "Jusqu'à 7 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "64 Go"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "MicroSD extensible jusqu'à 256 Go"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "13 MP (Sony IMX258, f/2.2)"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "Non supporté"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "Non supporté"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "8 MP (Samsung S5K4H7)"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "1080p @ 30fps"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleur avec prise jack 3.5 mm"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Son HD Stéréo"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5080 mAh Li-Po"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "10W USB-C"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Non disponible"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Charge complète en 2h30"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE / 3G / 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 802.11 b/g/n, Bluetooth 5.0, GPS, GLONASS, Beidou, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Triple slot (2x Nano SIM + MicroSD)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android 12 avec surcouche Doke OS 3.0"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour de sécurité de base"
+                        },
+                        {
+                            "label": "Sans-fil Général",
+                            "valeur": "Wi-Fi, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Non disponible"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Mode Beautification IA"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/a53pro"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

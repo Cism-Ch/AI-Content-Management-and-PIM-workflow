@@ -1,0 +1,455 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-a-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy A26 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy A Series",
+        "commercial_name": "Samsung Galaxy A26",
+        "category": "smartphone",
+        "sub_category": "midrange-entry",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-A26",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-A26"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-a26-5g/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+A26"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+A26+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy A26 6.7\" Super AMOLED 120Hz 50MP OIS 5000mAh IP67 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-A26",
+        "Name": "Samsung Galaxy A26 - 6.7\" Super AMOLED 120Hz - 6Go/128Go - 50MP - 5000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "180000",
+        "Categories": "Smartphones > Samsung > Galaxy A Series",
+        "Tags": "Samsung, Galaxy A26, Galaxy A Series, Smartphone, Android, 5G, Super AMOLED, Écran 120Hz, 50MP, 5000mAh, Exynos 1280, IP67, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Vert, Rose",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Affichage Super AMOLED 120Hz avec Étanchéité IP67 et Capteur 50MP OIS.",
+        "teaser": "Découvrez le Samsung Galaxy A26 avec son écran Super AMOLED 120Hz de 6.7 pouces, son capteur photo 50MP stabilisé, sa protection IP67 et sa batterie de 5000 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.7\" Super AMOLED 120Hz",
+                "benefice": "Dalle lumineuse ultra-fluide pour le streaming vidéo et les réseaux sociaux"
+            },
+            {
+                "feature": "Capteur Photo 50MP avec OIS",
+                "benefice": "Prises de vue nettes et lumineuses sans flou de bougé"
+            },
+            {
+                "feature": "Protection Certifiée IP67",
+                "benefice": "Résistance éprouvée contre la poussière et les immersions dans l'eau"
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge Rapide",
+                "benefice": "Autonomie sereine sur deux jours pour vos usages professionnels et personnels"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G équilibré alliant superbe écran Super AMOLED, étanchéité IP67 et autonomie sécurisante.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy A26 (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy A26 au meilleur prix à Abidjan sur My-eStore. Écran 6.7\" Super AMOLED 120Hz, 50MP OIS, 5000mAh, IP67 et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy A26 128Go : Super AMOLED & IP67 | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy A26 sur My-eStore. Écran Super AMOLED 6.7 pouces 120Hz, capteur 50MP OIS, batterie 5000 mAh, protection IP67 et 5G rapide.",
+            "focus_keyword": "Samsung Galaxy A26",
+            "lsi_keywords": [
+                "Samsung Galaxy A26 Abidjan",
+                "prix Samsung Galaxy A26",
+                "fiche technique Galaxy A26",
+                "smartphone Super AMOLED IP67 5G",
+                "Galaxy A26 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy A26 : Écran 6.7\" Super AMOLED 120Hz, Capteur 50MP OIS et IP67",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy A26 apporte l'étanchéité IP67 sur un segment très accessible. Sa grande dalle de 6.7 pouces procure une fluidité visuelle exemplaire grâce à son rafraîchissement de 120 Hz. De plus, son processeur octa-core gère sans ralentissement vos flux d'applications habituels. Le châssis au profil fin de 7.7 millimètres assure une prise en main très agréable au creux de la paume. Enfin, son accumulateur de 5000 mAh procure une autonomie rassurante sur plusieurs journées de travail.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy A26",
+            "items": [
+                {
+                    "feature": "Dalle 6.7\" Super AMOLED 120Hz",
+                    "benefice": "Grand confort d'affichage et fluidité exemplaire pour la navigation quotidienne"
+                },
+                {
+                    "feature": "Capteur Photo 50MP avec OIS",
+                    "benefice": "Prises de vue équilibrées et stabilisation optique pour des vidéos nettes"
+                },
+                {
+                    "feature": "Protection Certifiée IP67",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions dans l'eau"
+                },
+                {
+                    "feature": "Batterie 5000 mAh Longue Durée",
+                    "benefice": "Autonomie sécurisante pour couvrir l'ensemble de vos activités quotidiennes"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Super AMOLED 120Hz et Conception Soignée",
+                "paragraphs": [
+                    "D'un côté, la technologie Super AMOLED de 6.7 pouces propose des contrastes prononcés pour le visionnage de vos vidéos. Le rafraîchissement adaptatif de 120 Hz garantit un défilement de texte très souple sans effet de saccade. La protection en verre trempé renforce la face avant contre les rayures et frottements du quotidien. Par ailleurs, la luminosité maximale permet une lecture aisée sous un fort éclairage en extérieur. Les bordures maîtrisées maximisent le confort visuel tout en conservant une préhension naturelle et agréable. Vous profitez ainsi d'un confort multimédia adapté pour toutes vos applications mobiles.",
+                    "D'un autre côté, la certification IP67 protège efficacement les composants électroniques contre la pluie et l'immersion accidentelle dans l'eau. Cette robustesse éprouvée vous permet d'utiliser votre téléphone en extérieur sans la moindre inquiétude. Les contrastes profonds mettent en valeur vos photographies ainsi que vos présentations professionnelles. En outre, la sensibilité de la couche tactile garantit une réactivité immédiate pour la saisie de vos messages. Les finitions contemporaines apportent une allure sobre qui convient à tous les environnements. Ce modèle allie élégance sobre et durabilité mécanique au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Performances 5G et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce moderne traite rapidement les requêtes exigeantes et le traitement multimédia courant. La mémoire vive spacieuse assure un passage sans attente entre vos différents logiciels de messagerie. Le stockage interne spacieux accueille l'ensemble de vos documents, musiques et galeries photos sans saturation. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des cadences stables et régulières. Les outils logiciels facilitent la navigation fluide et la personnalisation de votre espace de travail. Vous accomplissez vos tâches quotidiennes avec une régularité et une promptitude appréciables.",
+                    "Dans cette optique, la technologie de charge rapide 25W rétablit promptement l'autonomie lors d'une courte pause. La compatibilité avec le réseau mobile cinq G assure des débits rapides lors de vos déplacements urbains. Le module de sécurité Knox isole vos codes d'accès et vos données confidentielles de manière étanche. Également, les haut-parleurs stéréo intégrés délivrent une restitution acoustique claire pour tous vos appels téléphoniques. Le capteur d'empreintes biométrique sous la dalle offre un déverrouillage instantané et très sécurisé. Ce smartphone constitue une solution équilibrée et durable pour votre productivité nomade."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 50 mégapixels enregistre des scènes nettes et détaillées en toutes circonstances. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. L'objectif ultra grand-angle élargit le champ pour capturer des panoramas complets et des portraits de groupe. De même, le capteur macro dédié permet de réaliser des plans rapprochés nets et riches en détails. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous obtenez des photos équilibrées prêtes à être partagées avec vos proches.",
+                    "Enfin, l'accumulateur de 5000 mAh vous accompagne sereinement pendant deux journées habituelles de travail. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes réelles de travail. La gestion de l'alimentation préserve la durée de vie des composants au fil des recharges successives. Par conséquent, vous conservez une totale autonomie lors de vos déplacements professionnels ou personnels. Les composants durables sont sélectionnés pour préserver leur capacité au fil des cycles de charge. Le Galaxy A26 constitue un investissement accessible associant innovation et autonomie."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy A26",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy A26."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.0 x 77.5 x 7.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.200 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre avant Gorilla Glass, Châssis ergonomique, Dos satiné"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP67 (Résistant à l'eau jusqu'à 1m pendant 30 min et poussière)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.7\" Super AMOLED, 120Hz"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "FHD+ (1080 x 2340 pixels), 385 ppi"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1000 nits (HBM)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Exynos 1280 (5nm) Octa-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 6 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "MicroSD jusqu'à 1 To (slot partagé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "8 MP, f/2.2"
+                        },
+                        {
+                            "label": "Capteur Macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Capteur Selfie",
+                            "valeur": "13 MP, f/2.2"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 30 fps, 1080p à 30/60 fps, Gyro-EIS"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5000 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 5 (802.11ac), Bluetooth 5.3, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Dual SIM (Nano-SIM, double veille)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes sous l'écran, Samsung Knox"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "6 ans de mises à jour système et sécurité garanties"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-a26-5g/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+A26"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+A26+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Peach Pink",
+            "color_code": "ROSE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Peach Pink",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Peach Pink",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-256-GB-ROSE"
+        }
+    ]
+}

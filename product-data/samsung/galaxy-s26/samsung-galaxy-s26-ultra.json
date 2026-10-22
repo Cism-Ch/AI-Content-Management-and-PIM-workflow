@@ -1,0 +1,529 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s26-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S26 Ultra conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S26 Ultra",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S26-ULTRA",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S26-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S26+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S26+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S26 Ultra 6.9\" QHD+ 120Hz 200MP S-Pen 5000mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S26-ULTRA",
+        "Name": "Samsung Galaxy S26 Ultra - 6.9\" QHD+ 120Hz - 12Go/256Go - 200MP - S-Pen - 5000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "1350000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S26 Ultra, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 200MP, 5000mAh, S-Pen, Galaxy AI, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Violet, Bleu, Noir, Blanc, Argent, Or Rose",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Sommet Technologique et Créatif avec Stylet S-Pen.",
+        "teaser": "Découvrez le Samsung Galaxy S26 Ultra avec son châssis en titane, son capteur photo principal de 200 mégapixels, son stylet S-Pen intégré et sa batterie de 5000 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur Principal 200MP & Zoom 5x",
+                "benefice": "Précision photographique remarquable avec double téléobjectif optique stabilisé"
+            },
+            {
+                "feature": "Stylet S-Pen Intégré au Châssis",
+                "benefice": "Prise de notes manuscrites, retouche précise et contrôle à distance de vos présentations"
+            },
+            {
+                "feature": "Écran 6.9\" QHD+ Verre Anti-Reflet",
+                "benefice": "Lisibilité sans reflet en plein soleil et fluidité adaptative 120 Hz permanente"
+            },
+            {
+                "feature": "Structure Titane & Batterie 5000mAh",
+                "benefice": "Solidité renforcée et autonomie prolongée pour vos journées professionnelles"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone de référence pour les créateurs de contenu et les professionnels exigeant le maximum de polyvalence.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S26 Ultra (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S26 Ultra au meilleur prix à Abidjan sur My-eStore. Écran 6.9\" QHD+, 200MP, S-Pen intégré, châssis titane et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S26 Ultra 256Go : 200MP, S-Pen & Titane | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S26 Ultra sur My-eStore. Capteur 200MP, stylet S-Pen, écran 6.9 pouces QHD+ 120Hz, châssis en titane et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S26 Ultra",
+            "lsi_keywords": [
+                "Samsung Galaxy S26 Ultra Abidjan",
+                "prix Samsung S26 Ultra",
+                "fiche technique Galaxy S26 Ultra",
+                "smartphone Samsung S-Pen 5G",
+                "Galaxy S26 Ultra 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S26 Ultra : Capteur 200MP, Stylet S-Pen et Conception Titane",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S26 Ultra intègre un cadre en titane très robuste. Son grand écran de 6.9 pouces dispose d'un traitement réduisant notablement les reflets lumineux. De plus, le stylet S-Pen intégré facilite la prise de notes manuscrites et les croquis précis. La configuration photographique quadruplée atteint une définition maximale de deux cents mégapixels. Enfin, l'accumulateur de 5000 mAh soutient les flux de travail professionnels les plus intenses.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S26 Ultra",
+            "items": [
+                {
+                    "feature": "Quadruple Module Photo 200MP",
+                    "benefice": "Zoom optique étendu jusqu'à 5x et enregistrement vidéo 8K professionnel"
+                },
+                {
+                    "feature": "Stylet S-Pen Connecté",
+                    "benefice": "Écriture naturelle et commandes gestuelles sans contact direct"
+                },
+                {
+                    "feature": "Cadre Titane & Verre Résistant",
+                    "benefice": "Protection supérieure contre les chocs et rayures du quotidien"
+                },
+                {
+                    "feature": "Batterie 5000mAh & Charge 45W",
+                    "benefice": "Autonomie solide pour deux jours de productivité continue"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Haute Précision et Châssis en Titane",
+                "paragraphs": [
+                    "D'un côté, la dalle Dynamic AMOLED 2X de 6.9 pouces propose une définition Quad HD Plus remarquable. Le traitement de surface spécifique diminue significativement les reflets gênants en environnement très éclairé. La rigidité du châssis en titane protège efficacement les composants électroniques internes contre les chutes. Par ailleurs, la compatibilité avec le stylet S-Pen offre une précision au millimètre pour le dessin. Les lignes ergonomiques facilitent la saisie de texte à deux mains pour vos rédactions. Vous visualisez tous vos documents complexes avec un confort de lecture optimal et constant.",
+                    "D'un autre côté, le taux de rafraîchissement adaptatif module la fréquence d'affichage de 1 à 120 Hz. Cette variation continue permet de réduire la consommation électrique sur les interfaces statiques. La fidélité colorimétrique certifiée répond aux exigences strictes des graphistes et photographes mobiles. En outre, la résistance à l'eau IP68 permet une utilisation sereine sous les intempéries locales. Les bordures plates limitent les touches accidentelles sur les bords lors de la frappe. Ce smartphone combine une allure sobre avec des matériaux de fabrication haut de gamme."
+                ]
+            },
+            {
+                "h2_title": "Architecture Matérielle et Productivité Avancée",
+                "paragraphs": [
+                    "Tout d'abord, la puce gravée en technologie 2nm exécute les calculs lourds avec une promptitude exemplaire. La mémoire vive allant jusqu'à seize gigaoctets soutient le traitement simultané de plusieurs applications professionnelles. Le stockage rapide accueille de volumineux fichiers vidéo ainsi que des banques de photos complètes. De surcroît, la chambre à vapeur élargie évacue efficacement la chaleur lors des sessions soutenues. Les fonctionnalités d'intelligence artificielle locale traitent vos traductions instantanées sans nécessiter de connexion internet. Vous gagnez en efficacité opérationnelle sur tous vos projets numériques professionnels.",
+                    "Dans cette optique, l'environnement logiciel sécurisé Knox isole vos données confidentielles des menaces extérieures. La reconnaissance biométrique par empreinte ultrasonique déverrouille l'appareil avec rapidité sous l'écran. La compatibilité réseau 5G ultrarapide accélère l'envoi de pièces jointes lourdes lors de vos réunions. Également, la norme sans fil Wi-Fi 7 garantit un débit stable à votre domicile ou bureau. La synchronisation automatique avec vos ordinateurs simplifie le transfert de vos documents de travail. L'ensemble forme un écosystème bureautique complet accessible directement depuis votre poche."
+                ]
+            },
+            {
+                "h2_title": "Photographie 200MP et Autonomie Professionnelle",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 200 mégapixels restitue des détails microscopiques sur chaque prise de vue. Le double téléobjectif optique permet de zoomer à 3x et 5x sans perte de qualité. La stabilisation optique de l'image compense les mouvements pour maintenir des séquences vidéo parfaitement fluides. De même, le mode portrait applique un flou d'arrière-plan précis autour de votre sujet principal. L'enregistrement vidéo 8K conserve une netteté d'image optimale pour vos montages professionnels futurs. Vous capturez des souvenirs nets et fidèles en toutes conditions lumineuses.",
+                    "Enfin, l'accumulateur haute capacité de 5000 mAh assure une disponibilité énergétique tout au long de la journée. Le protocole de charge filaire 45W restaure rapidement l'autonomie lors d'une courte pause au bureau. La gestion logicielle de l'alimentation réduit la consommation passive des applications fonctionnant en arrière-plan. Par conséquent, vous travaillez en toute confiance sans craindre une coupure inopinée de votre terminal. La durabilité éprouvée des cellules de batterie garantit des performances stables sur plusieurs années. Le Galaxy S26 Ultra répond aux besoins des utilisateurs les plus rigoureux et actifs."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S26 Ultra",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S26 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 78.1 x 7.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.214 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Armor (anti-reflet), Cadre en Titane"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Accessoire Intégré",
+                            "valeur": "Stylet S-Pen connecté Bluetooth à faible latence (2.8ms)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.9\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X, LTPO"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "3120 x 1440 pixels (Quad HD+)"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif (1-120Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Octa-Core Hautes Performances (Gravure 2nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go / 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "200 MP, f/1.7, 24mm, Multi-directional PDAF, Laser AF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif Périscope",
+                            "valeur": "50 MP, f/3.4, 115mm, Zoom optique 5x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif 3x",
+                            "valeur": "10 MP, f/2.4, 67mm, Zoom optique 3x, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 13mm, 120˚, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "12 MP, f/2.2, 26mm, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 30 fps, 4K à 60/120 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5000 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "45W rapide (Super Fast Charging 2.0)"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "65% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo, UWB"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "One UI basé sur Android"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Jusqu'à 7 ans de mises à jour système et sécurité"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI (Traduction instantanée, Retouche intelligente, Circle to Search)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S26+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S26+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Violet",
+            "color_en": "Cobalt Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1350000",
+            "sku_suffix": "12-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Cobalt Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1755000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Cobalt Violet",
+            "color_code": "VIOLET",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2160000",
+            "sku_suffix": "16-GB-1-TB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1350000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1755000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2160000",
+            "sku_suffix": "16-GB-1-TB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1350000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1755000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2160000",
+            "sku_suffix": "16-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1350000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1755000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2160000",
+            "sku_suffix": "16-GB-1-TB-BLANC"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1350000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1755000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2160000",
+            "sku_suffix": "16-GB-1-TB-ARGENT"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1350000",
+            "sku_suffix": "12-GB-256-GB-OR-ROSE"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1755000",
+            "sku_suffix": "12-GB-512-GB-OR-ROSE"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2160000",
+            "sku_suffix": "16-GB-1-TB-OR-ROSE"
+        }
+    ]
+}

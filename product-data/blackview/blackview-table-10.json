@@ -1,0 +1,273 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Table 10",
+        "generation_date": "2026-07-29"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/table-10-price"
+            }
+        ],
+        "pricing_reference": "105000",
+        "official_sku": "BV-TABLE-10"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Moniteur IPS 60Hz",
+        "processor_ghz": "Signal vidéo USB Type-C & Mini HDMI",
+        "screen_size": "23.8 pouces",
+        "screen_technology": "FHD IPS LCD Mat Antireflet 100% sRGB",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation USB-C / Secteur)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Windows, Mac, Android, Linux",
+        "os_skin": "Menu OSD Tactile",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Deux Haut-parleurs Stéréo Intégrés",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "N/A",
+        "card_slot": "N/A",
+        "charging_wired": "Port d'alimentation USB Type-C / DC",
+        "dimensions": "612 x 327 x 32.8 mm",
+        "weight": "1.910 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TABLE-10-MASTER",
+        "Name": "Blackview Table 10",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "105000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview Table 10, Moniteur Portable 23.8 pouces, Ecran Extendeur, USB-C HDMI, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.910 kg",
+        "Attribute 4 default": "1.910 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Table 10 : Moniteur Portable 23.8 Pouces FHD IPS USB-C Mini HDMI Haut-Parleurs",
+        "brand_line": "Le grand écran moniteur portable Blackview idéal pour doubler la surface de travail de votre PC.",
+        "marketing_conclusion": "Commandez le Blackview Table 10 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Table 10 propose une large dalle IPS de 23.8 pouces FHD antireflet, une connectivité USB-C et Mini HDMI universelle, ainsi que des haut-parleurs stéréo.",
+        "features": [
+            {
+                "feature": "Grand Écran 23.8\" FHD IPS",
+                "benefice": "Surface d'affichage très large pour le travail multimoteur."
+            },
+            {
+                "feature": "Connexion USB-C & Mini HDMI",
+                "benefice": "Raccordement immédiat sans installation de pilote."
+            },
+            {
+                "feature": "Dalle Mat Antireflet 100% sRGB",
+                "benefice": "Rendu des couleurs précis et confort visuel prolongé."
+            },
+            {
+                "feature": "Deux Haut-Parleurs Stéréo",
+                "benefice": "Diffusion sonore directe pour vos réunions et vidéos."
+            }
+        ],
+        "slogan_final": "Blackview Table 10 — L'extension d'affichage grand format pour votre bureau.",
+        "seo": {
+            "meta_title": "Acheter Blackview Table 10 Moniteur 23.8\" à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable grand format 23.8\" FHD Blackview Table 10 avec ports USB-C et HDMI. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Table 10, ecran portable 23.8 pouces, prix Abidjan, moniteur usb-c hdmi"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Table 10",
+            "lsi_keywords": [
+                "Blackview Table 10",
+                "moniteur portable 23.8 pouces Blackview Abidjan",
+                "Blackview Table 10 prix",
+                "ecran exterieur pc portable",
+                "moniteur usb-c hdmi bureau",
+                "accessoire informatique Côte d'Ivoire",
+                "achat ecran portable Table 10 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Table 10 Moniteur : Écran 23.8\" FHD & USB-C | My-eStore",
+            "meta_description": "Achetez le moniteur portable Blackview Table 10. Écran 23.8\" FHD IPS, connectique USB-C/HDMI, haut-parleurs et pied réglable. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Table 10 : Spécifications du Moniteur Portable 23.8 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU MONITEUR 23.8 POUCES",
+            "items": [
+                {
+                    "feature": "Dalle IPS Grand Format 23.8 Pouces",
+                    "benefice": "Confort visuel de travail similaire à un écran fixe."
+                },
+                {
+                    "feature": "Connectique Polyvalente USB-C & HDMI",
+                    "benefice": "Compatibilité totale avec ordinateurs et consoles."
+                },
+                {
+                    "feature": "Haut-Parleurs Stéréo Intégrés",
+                    "benefice": "Restitution audio directe sans enceinte externe."
+                },
+                {
+                    "feature": "Traitement Mat Antireflet",
+                    "benefice": "Atténuation efficace des reflets gênants en bureau."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Table 10 est un moniteur portable grand format particulièrement moderne et pratique. Cet équipement convient très bien aux professionnels en télétravail et graphistes en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 23.8 pouces en définition Full HD offre une lisibilité visuelle très claire. De plus, son traitement antireflet protège la vue lors des longues sessions. L'alimentation via le port USB-C permet de travailler en toute sérénité sans encombrement. Son châssis affiné de 32.8 mm garantit une stabilité très agréable sur table. La compatibilité Plug and Play sous Windows et Mac simplifie l'accès à tous vos projets. Enfin, ce grand écran portable constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 23.8 Pouces Full HD et Dalle IPS Antireflet",
+                "paragraphs": [
+                    "Le Blackview Table 10 intègre une grande dalle IPS de 23.8 pouces en définition Full HD. Sa résolution de 1920 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, l'espace chromatique 100% sRGB garantit une fidélité des couleurs appréciable. De surcroît, les angles de vision larges de 178 degrés préservent la lisibilité en réunion. L'affichage reste parfaitement fluide.",
+                    "La structure rigide assure une excellente tenue sur n'importe quelle surface de travail. Le pied rabattable permet de régler l'inclinaison visuelle en un instant. En effet, le filtre de lumière bleue intégré préserve vos yeux des fatigues nocturnes. Cette conception soignée protège le moniteur en toutes circonstances. Vos fenêtres de travail restent toujours bien organisées à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Connectique USB-C, Mini HDMI et Son Stéréo",
+                "paragraphs": [
+                    "Le Blackview Table 10 embarque un port USB Type-C complet gérant le signal vidéo et l'alimentation. Cet équipement permet de relier votre ordinateur portable via un unique câble pratique. En outre, l'entrée Mini HDMI s'avère très pratique pour connecter des appareils classiques. Les deux haut-parleurs stéréo intégrés optimisent la restitution sonore avec netteté. Ainsi, la prise jack 3.5mm autorise l'écoute confidentielle au casque. La précision audio reste constante.",
+                    "Par ailleurs, les boutons de réglage latéraux gèrent facilement la luminosité et le contraste. De plus, le mode d'affichage écran secondaire duplique ou étend votre bureau. Également, la faible consommation énergétique convient parfaitement aux stations mobiles. De surcroît, le revêtement mat empêche l'apparition des empreintes de doigts. En somme, ce moniteur portable réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Ergonomie de Bureau et Transport Facile",
+                "paragraphs": [
+                    "La conception ergonomique du moniteur procure une productivité professionnelle supérieure. Cette installation d'écran secondaire vous permet de consulter deux documents en parallèle. D'ailleurs, l'étui de protection fourni sert de support réglable lors de vos réunions. En effet, la compatibilité universelle autorise le raccordement de votre smartphone. Vos activités de bureau se poursuivent sans interruption.",
+                    "La silhouette épurée offre une tenue sur table stable et très agréable visuellement. Son poids maîtrisé de 1.91 kg témoigne du soin apporté à la structure. D'autre part, le Blackview Table 10 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa grande taille de 23.8 pouces en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Table 10",
+                "subtitle": "Spécifications matérielles certifiées du moniteur portable Blackview Table 10."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "612 x 327 x 32.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.910 kg"
+                        },
+                        {
+                            "label": "Support",
+                            "valeur": "Pied intégré pliable multiposition & Housse de protection"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "23.8 pouces IPS LCD Mat"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Couleurs & Angles",
+                            "valeur": "100% sRGB, Angles de vision 178°/178°"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique & Ports",
+                    "rows": [
+                        {
+                            "label": "Port USB Type-C",
+                            "valeur": "2x USB Type-C (Signal vidéo DisplayPort & Alimentation PD)"
+                        },
+                        {
+                            "label": "Port HDMI",
+                            "valeur": "1x Mini HDMI"
+                        },
+                        {
+                            "label": "Sortie Audio",
+                            "valeur": "Prise jack casque 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Haut-Parleurs",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Deux haut-parleurs stéréo intégrés (2x 2W)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alimentation & Énergie",
+                    "rows": [
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Via USB-C (PC ou adaptateur secteur inclus)"
+                        },
+                        {
+                            "label": "Consommation",
+                            "valeur": "Classe A (Faible consommation)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes pris en charge",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS, Consoles de jeu"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/table-10-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

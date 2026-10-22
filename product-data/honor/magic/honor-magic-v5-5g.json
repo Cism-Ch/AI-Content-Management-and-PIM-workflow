@@ -1,0 +1,391 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "honor-magic-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Honor Magic V5 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Honor",
+        "product_line": "HONOR Magic Serie",
+        "commercial_name": "Honor Magic V5",
+        "category": "smartphone",
+        "sub_category": "foldable-flagship",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HONOR-MAGIC-V5-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HONOR-MAGIC-V5-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Honor Official Store",
+                "url": "https://www.honor.com/fr/phones/honor-magic-v5/spec/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Honor+Magic+V5"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Honor+Magic+V5+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Honor Magic V5 Écran pliable 7.95\" LTPO OLED 120Hz Snapdragon 8 Elite 50MP OIS 5820mAh IP58/IP59 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "HONOR-MAGIC-V5-5G",
+        "Name": "Honor Magic V5 - 7.95\" Pliable LTPO OLED 120Hz - 16Go/512Go - Triple 50MP OIS - 5820mAh 66W - IP58/IP59 - 5G - Dual SIM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "1050000",
+        "Categories": "Smartphones > Honor > Magic Series",
+        "Tags": "Honor, Magic V5, HONOR Magic Serie, Smartphone, Smartphone Pliable, Android, 5G, LTPO OLED 120Hz, Triple 50MP OIS, 5820mAh, Snapdragon 8 Elite, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Or, Blanc Crème, Noir",
+        "Attribute 1 default": "Or",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.222 kg",
+        "Attribute 4 default": "0.222 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Ingénierie Pliable 4.2mm avec Double LTPO OLED 120Hz, Snapdragon 8 Elite et 5820mAh.",
+        "teaser": "Découvrez le smartphone pliable ultra-fin Honor Magic V5 doté d'un écran intérieur de 7.95 pouces, de la puce Snapdragon 8 Elite, d'un triple capteur 50MP et d'une batterie 5820 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Conception Pliable Ultra-Fine 4.2 mm",
+                "benefice": "Épaisseur record dépliée et charnière titane assurant une portabilité exceptionnelle"
+            },
+            {
+                "feature": "Double Écran LTPO OLED 120Hz",
+                "benefice": "Confort visuel supérieur de 7.95 pouces à l'intérieur et 6.43 pouces en façade"
+            },
+            {
+                "feature": "Puce Flagship Snapdragon 8 Elite",
+                "benefice": "Capacité multitâche remarquable pour faire tourner plusieurs logiciels simultanément"
+            },
+            {
+                "feature": "Batterie Silicium-Carbone 5820 mAh",
+                "benefice": "Autonomie sécurisante sur deux journées complètes avec SuperCharge 66W"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone pliant de référence associant finesse de 4.2 mm, écran grand format de 7.95 pouces et autonomie solide de 5820 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Honor",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Honor Magic V5 (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Honor Magic V5 pliant au meilleur prix à Abidjan sur My-eStore. Écran 7.95\" 120Hz, Snapdragon 8 Elite, 5820mAh, IP59 et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Honor Magic V5 512Go : Pliable 7.95\" & 5820mAh | My-eStore",
+            "meta_description": "Découvrez le Honor Magic V5 sur My-eStore. Écran pliable LTPO OLED 7.95 pouces 120Hz, Snapdragon 8 Elite, triple 50MP OIS, batterie 5820 mAh et IP58/IP59.",
+            "focus_keyword": "Honor Magic V5",
+            "lsi_keywords": [
+                "Honor Magic V5 Abidjan",
+                "prix Honor Magic V5",
+                "fiche technique Magic V5",
+                "smartphone pliable Honor",
+                "Honor Magic V5 512Go"
+            ]
+        },
+        "h1": "Honor Magic V5 : Écran Pliable 7.95\" LTPO 120Hz, Snapdragon 8 Elite et Triple 50MP OIS",
+        "intro_paragraph": "En premier lieu, le Honor Magic V5 repousse l'ingénierie pliable avec une épaisseur dépliée de 4.2 millimètres. Son écran interne pliable de 7.95 pouces offre un espace de travail équivalent à une véritable tablette nomade. De plus, sa charnière en titane ultralégère assure une ouverture souple et une durabilité mécanique éprouvée. La batterie au silicium-carbone de 5820 mAh garantit une disponibilité continue pour vos journées professionnelles chargées. Enfin, la puce Snapdragon 8 Elite gère le multitâche sur deux applications simultanées sans aucun ralentissement.",
+        "experience_box": {
+            "box_title": "Points Clés du Honor Magic V5",
+            "items": [
+                {
+                    "feature": "Écran Pliable 7.95\" LTPO OLED",
+                    "benefice": "Espace d'affichage généreux pour consulter vos tableaux et documents avec un grand confort"
+                },
+                {
+                    "feature": "Châssis Titane Ultra-Fin 4.2 mm",
+                    "benefice": "Prise en main naturelle et compacité record pour un smartphone pliable haut de gamme"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite (3nm)",
+                    "benefice": "Puissance de calcul de premier ordre pour exécuter vos applications de productivité"
+                },
+                {
+                    "feature": "Batterie Silicium-Carbone 5820 mAh",
+                    "benefice": "Autonomie sécurisante de longue durée avec Honor SuperCharge 66W filaire et 50W sans fil"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Conception Pliable 4.2mm et Double Écran LTPO OLED",
+                "paragraphs": [
+                    "D'un côté, l'écran externe de 6.43 pouces autorise une utilisation normale du smartphone d'une seule main. Le passage à l'écran déplié de 7.95 pouces transforme instantanément votre expérience visuelle en grand format. Le verre NanoCrystal Glass protège l'écran externe contre les rayures et chutes de la vie quotidienne. Par ailleurs, les deux dalles LTPO adaptatives de 1 à 120 Hz conservent une fluidité exemplaire en toutes circonstances. La charnière en titane nouvelle génération réduit le pli central jusqu'à le rendre quasiment imperceptible au toucher. Vous profitez ainsi d'un confort de lecture remarquable pour annoter vos documents et présentations d'affaires.",
+                    "D'un autre côté, la certification IP58 et IP59 garantit une résistance fiable face aux poussières et jets d'eau. Ce niveau de protection préserve la structure articulée lors d'averses imprévues ou d'éclaboussures en extérieur. Le profil affiné de 9 millimètres une fois replié assure une préhension semblable à un smartphone traditionnel. En outre, la couche tactile ultra-sensible réagit immédiatement à la saisie de texte et au stylet optionnel. Les coloris raffinés mettent en valeur les lignes fluides du cadre usiné avec une grande précision. Ce smartphone pliant allie compacité remarquable et robustesse éprouvée pour accompagner vos missions quotidiennes."
+                ]
+            },
+            {
+                "h2_title": "Performances Snapdragon 8 Elite et Batterie Silicium 5820 mAh",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8 Elite gravée en 3 nanomètres traite les charges intensives avec aisance. La mémoire vive spacieuse de 16 Go permet un basculement fluide entre plusieurs fenêtres actives en écran partagé. L'espace de stockage interne de 512 Go accueille vos nombreux dossiers ainsi que vos photographies sans saturation. De surcroît, le circuit thermique dissipe harmonieusement les calories pour préserver une stabilité opératoire constante. L'interface MagicOS optimise l'affichage multitâche en proposant un agencement automatique de vos logiciels ouverts. Vous bénéficiez d'une réactivité continue et d'une ergonomie logicielle pensée pour les professionnels nomades.",
+                    "Dans cette optique, l'accumulateur au silicium-carbone de 5820 mAh assure une couverture énergétique sécurisante sur deux jours. La technologie filaire Honor SuperCharge 66W rétablit promptement la réserve d'énergie lors d'une courte pause. La recharge sans fil rapide 50W procure un confort d'alimentation très pratique sur votre poste de travail. Également, les haut-parleurs stéréo symétriques délivrent une acoustique spatiale précise pour vos réunions vidéo à distance. Le lecteur biométrique placé sur la tranche offre un déverrouillage instantané et ergonomique quelle que soit l'ouverture. Cet équipement complet constitue une solution pérenne pour optimiser l'ensemble de vos démarches de travail mobiles."
+                ]
+            },
+            {
+                "h2_title": "Système Photo Triple 50MP et Polyvalence Pliable",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 50 mégapixels stabilisé capture des images équilibrées aux teintes fidèles et naturelles. La stabilisation optique OIS neutralise les micro-mouvements pour assurer des prises de vue nettes en toutes circonstances. Le téléobjectif périscope de 50 mégapixels rapproche les détails éloignés avec une clarté optique d'une grande précision. De même, les deux caméras selfies de 20 mégapixels garantissent une qualité vidéo identique plié ou déplié. Les algorithmes de traitement nocturne ajustent l'exposition pour restituer des contrastes harmonieux dans les environnements sombres. Vous enregistrez des photographies nettes prêtes à être partagées instantanément avec vos partenaires ou proches.",
+                    "En conséquence, la connectivité 5G ultra-rapide assure des échanges de données ininterrompus lors de vos trajets urbains. L'optimisation énergétique logicielle adapte la consommation selon vos habitudes réelles de travail sur double écran. Cette gestion soignée de l'alimentation préserve la longévité de la batterie sur plusieurs années d'utilisation. Par conséquent, vous travaillez en toute sérénité sans appréhender de baisse d'autonomie en pleine journée nomade. Les matériaux durables et certifiés témoignent d'une fabrication de prestige conçue pour résister aux pliages répétés. Ce modèle représente un investissement équilibré réunissant compacité pliable, endurance batterie et productivité grand format sans compromis."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Honor Magic V5",
+                "subtitle": "Spécifications matérielles complètes du Honor Magic V5."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions (Déplié)",
+                            "valeur": "156.8 x 145.9 x 4.2 mm"
+                        },
+                        {
+                            "label": "Dimensions (Plié)",
+                            "valeur": "156.8 x 74.3 x 9.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.222 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Charnière en alliage de titane Honor Luban, cadre en magnésium aérospatial, dos en verre NanoCrystal"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP58 et IP59 (Résistance à l'immersion dans l'eau et aux jets d'eau sous pression)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes digitales capacitif monté sur le côté, reconnaissance faciale 2D"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Interne (Pliable)",
+                            "valeur": "7.95\" Foldable LTPO OLED, 1.07 milliard de couleurs, Dolby Vision"
+                        },
+                        {
+                            "label": "Définition Écran Interne",
+                            "valeur": "2156 x 2344 pixels, ~402 ppi, 1-120 Hz adaptatif"
+                        },
+                        {
+                            "label": "Écran Externe",
+                            "valeur": "6.43\" LTPO OLED, 1060 x 2376 pixels, 1-120 Hz, verre NanoCrystal Glass 2.0"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "Jusqu'à 5000 nits (crête HDR)"
+                        },
+                        {
+                            "label": "Support Stylet",
+                            "valeur": "Oui, compatible stylet Honor Magic-Pen sur les deux écrans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm) Octa-Core"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Efficacité Énergétique",
+                            "valeur": "Certifiée Classe B"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.6, 1/1.56\", PDAF multidirectionnel, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif Périscope",
+                            "valeur": "50 MP, f/3.0, zoom optique, PDAF, OIS"
+                        },
+                        {
+                            "label": "Capteur Ultra Grand-Angle",
+                            "valeur": "50 MP, f/2.0, 122˚, AF macro"
+                        },
+                        {
+                            "label": "Caméras Frontales (Selfie)",
+                            "valeur": "20 MP (écran externe) + 20 MP (écran interne), f/2.2, 4K à 30fps"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "4K à 30/60fps, 1080p à 30/60fps, gyro-EIS, OIS"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo certifiés DTS:X Ultra"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "5820 mAh (Silicium-Carbone double cellule)"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "Honor SuperCharge 66W"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Honor Wireless SuperCharge 50W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.1 Gen 1, DisplayPort 1.2, OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "5G, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (double veille) ou eSIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be), dual-band, Wi-Fi Direct"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3, A2DP, LE, aptX HD, LDAC"
+                        },
+                        {
+                            "label": "NFC & Infrarouge",
+                            "valeur": "Oui, NFC multifonction et émetteur infrarouge"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec MagicOS 9"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Honor Official Store",
+                        "url": "https://www.honor.com/fr/phones/honor-magic-v5/spec/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Honor+Magic+V5"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Honor+Magic+V5+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Or",
+            "color_en": "Dawn Gold",
+            "color_code": "OR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "1050000",
+            "sku_suffix": "16-GB-512-GB-OR"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Ivory White",
+            "color_code": "BLANC-CREME",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "1050000",
+            "sku_suffix": "16-GB-512-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "1050000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        }
+    ]
+}

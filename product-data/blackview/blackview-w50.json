@@ -1,0 +1,289 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "W50",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/w50-pro-price"
+            }
+        ],
+        "pricing_reference": "25000",
+        "official_sku": "BV-W50"
+    },
+    "key_specifications": {
+        "processor": "Puce Smartwatch Realtek Low-Power",
+        "processor_ghz": "Connectivité Bluetooth 5.2 HD Call",
+        "screen_size": "1.39 pouces",
+        "screen_technology": "TFT HD Tactile Résistant PANDA Glass",
+        "screen_resolution": "360 x 360 pixels",
+        "battery_capacity": "370 mAh (Jusqu'à 10 jours d'utilisation)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Android & iOS",
+        "os_skin": "Application InfoWear / GloryFit",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Haut-parleur étanche & Microphone HD",
+        "audio_tech": "Appels Bluetooth & Assistant Vocal",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "Suivi via GPS du smartphone",
+        "card_slot": "N/A",
+        "charging_wired": "Chargeur Magnétique 2-pin USB",
+        "dimensions": "47.5 x 14.5 mm",
+        "weight": "0.056 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-W50-MASTER",
+        "Name": "Blackview W50",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "25000",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Blackview Smartwatches, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "Blackview, Blackview W50, Montre Connectée, Appels Bluetooth, Étanche IP68, 370mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Noir | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.056 kg",
+        "Attribute 4 default": "0.056 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview W50 : Montre Connectée Incassable Écran 1.39 Pouces Appels Bluetooth Étanche 2ATM",
+        "brand_line": "La montre connectée renforcée Blackview conçue pour les baroudeurs et sportifs exigeants.",
+        "marketing_conclusion": "Commandez la Blackview W50 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview W50 associe un écran rond de 1.39 pouces en verre PANDA Glass, les appels Bluetooth, plus de 100 modes sportifs et une étanchéité 2ATM.",
+        "features": [
+            {
+                "feature": "Écran 1.39\" Verre PANDA Glass",
+                "benefice": "Résistance élevée aux rayures et aux chocs directs."
+            },
+            {
+                "feature": "Appels Bluetooth & Haut-Parleur HD",
+                "benefice": "Passez et recevez vos appels directement au poignet."
+            },
+            {
+                "feature": "Étanchéité 2 ATM & Norme IP68",
+                "benefice": "Utilisation sereine sous la pluie et lors des séances de sport."
+            },
+            {
+                "feature": "Autonomie 10 Jours (370 mAh)",
+                "benefice": "Suivi continu de la santé sans recharges fréquentes."
+            }
+        ],
+        "slogan_final": "Blackview W50 — La robustesse au service de votre santé.",
+        "seo": {
+            "meta_title": "Acheter Blackview W50 Montre Connectée à Abidjan | My-eStore",
+            "meta_description": "Découvrez la montre connectée incassable Blackview W50 avec écran 1.39\", appels Bluetooth et étanchéité 2ATM. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview W50, montre connectée incassable, prix Abidjan, appels bluetooth 2ATM"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview W50",
+            "lsi_keywords": [
+                "Blackview W50",
+                "montre connectee Blackview Abidjan",
+                "Blackview W50 prix",
+                "montre connectee incassable 2ATM",
+                "montre appels bluetooth homme",
+                "accessoire sport Côte d'Ivoire",
+                "achat montre W50 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview W50 Montre Connectée : Écran 1.39\" & Appels BT | My-eStore",
+            "meta_description": "Achetez la montre connectée Blackview W50. Écran 1.39\" HD PANDA Glass, appels Bluetooth, 100+ modes sport et batterie 370 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview W50 : Spécifications de la Montre Connectée Incassable",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU BOÎTIER RENFORCÉ",
+            "items": [
+                {
+                    "feature": "Dalle HD 1.39 Pouces 360 x 360 px",
+                    "benefice": "Lisibilité visuelle nette en plein soleil."
+                },
+                {
+                    "feature": "Boîtier Antichoc & Verre Résistant",
+                    "benefice": "Conception robuste pour résister aux impacts."
+                },
+                {
+                    "feature": "Suivi de Santé 24h/24 SpO2 & Cardiaque",
+                    "benefice": "Surveillance continue de vos paramètres vitaux."
+                },
+                {
+                    "feature": "Autonomie Remarquable de 370 mAh",
+                    "benefice": "Endurance jusqu'à 30 jours en veille."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview W50 est une montre connectée incassable particulièrement robuste et élégante. Cet équipement convient très bien aux sportifs et professionnels actifs en Côte d'Ivoire. Par ailleurs, sa dalle tactile de 1.39 pouce en définition HD offre une lisibilité visuelle très claire. De plus, son verre PANDA Glass résiste très bien aux rayures. La batterie de 370 mAh permet de travailler en toute sérénité pendant 10 jours d'affilée. Son boîtier affiné de 14.5 mm garantit une prise en main très agréable. L'application dédiée sous Android et iOS simplifie l'accès à vos données de santé. Enfin, cette montre étanche constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 1.39 Pouces HD et Verre PANDA Glass",
+                "paragraphs": [
+                    "La Blackview W50 intègre une dalle tactile HD de 1.39 pouce en résolution 360 x 360 pixels. Sa vitre haute résistance restitue des détails d'une clarté impressionnante. De plus, la luminosité élevée gère facilement la lecture en plein soleil. De surcroît, le cadran renforcé protège la montre des chocs lors des activités outdoor. Votre montre reste protégée.",
+                    "La structure rigide conserve une stabilité remarquable face aux variations de température. Le changement de bracelet en silicone s'effectue en un instant. En effet, le boîtier étanche résiste aux projections d'eau en toutes circonstances. Cette conception soignée convient parfaitement aux entraînements physiques. Vos mesures sportives restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Appels Bluetooth HD, Suivi de Santé et 100+ Sports",
+                "paragraphs": [
+                    "La Blackview W50 embarque un haut-parleur et un microphone haute définition intégrés. Cet équipement audio permet de passer des appels téléphoniques clairs depuis votre poignet. En outre, le capteur optique s'avère très pratique pour mesurer votre fréquence cardiaque en continu. La voix de votre interlocuteur reste très claire. Ainsi, la synchronisation Bluetooth 5.2 assure une réception instantanée de vos notifications. La précision des alertes reste constante.",
+                    "Par ailleurs, les 100 modes sportifs intégrés analysent vos calories brûlées. De plus, le suivi de la saturation en oxygène SpO2 surveille votre fatigue. Également, la fonction d'analyse du sommeil aide à mieux récupérer. De surcroît, le contrôle de la musique simplifie vos séances de sport. En somme, cette montre connectée réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 370 mAh et Étanchéité 2 ATM",
+                "paragraphs": [
+                    "La batterie intégrée de 370 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant 10 jours sans recharge. D'ailleurs, le connecteur magnétique inclus garantit un chargement rapide en moins de deux heures. En effet, l'étanchéité 2 ATM protège les composants internes contre l'immersion. Vos activités nautiques légères se poursuivent sans interruption.",
+                    "La silhouette épurée avec boîtier en alliage de zinc offre une tenue naturelle et légère. Son poids de 56 grammes témoigne du soin apporté au confort quotidien. D'autre part, la Blackview W50 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, ses appels Bluetooth en font une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview W50",
+                "subtitle": "Spécifications matérielles certifiées de la montre connectée Blackview W50."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "47.5 x 14.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.056 kg"
+                        },
+                        {
+                            "label": "Boîtier & Verre",
+                            "valeur": "Alliage de zinc renforcé & Verre PANDA Glass anti-rayures"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Noir, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "1.39 pouce TFT HD Tactile"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "360 x 360 pixels"
+                        },
+                        {
+                            "label": "Personnalisation",
+                            "valeur": "100+ cadrans personnalisables via l'application"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctions Téléphonie & Audio",
+                    "rows": [
+                        {
+                            "label": "Appels Bluetooth",
+                            "valeur": "Émission et réception d'appels via haut-parleur et micro intégrés"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Support des commandes vocales smartphone"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 Low Energy"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Suivi de Santé",
+                    "rows": [
+                        {
+                            "label": "Fréquence cardiaque",
+                            "valeur": "Capteur optique PPG suivi 24h/24"
+                        },
+                        {
+                            "label": "Oxygène sanguin",
+                            "valeur": "Mesure du taux de SpO2"
+                        },
+                        {
+                            "label": "Analyse du sommeil",
+                            "valeur": "Suivi des phases de sommeil profond et léger"
+                        },
+                        {
+                            "label": "Modes sportifs",
+                            "valeur": "100+ modes d'entraînement (Course, Vélo, Fitness, Marche)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "370 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "7 à 10 jours en utilisation normale, 30 jours en veille"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "2 ATM / IP68 (Résistant à la sueur, pluie et immersions légères)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes supportés",
+                            "valeur": "Android 6.0 ou supérieur, iOS 9.0 ou supérieur"
+                        },
+                        {
+                            "label": "Application compagnon",
+                            "valeur": "InfoWear / GloryFit"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/w50-pro-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

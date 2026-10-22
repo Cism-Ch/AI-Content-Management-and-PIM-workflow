@@ -1,0 +1,226 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia A76",
+        "generation_date": "2026-09-02"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A76"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A76+specifications"
+            }
+        ],
+        "pricing_reference": "85000",
+        "official_sku": "ZTE-NUBIA-A76"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 662 (11 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.50 pouces",
+        "screen_technology": "IPS LCD Affichage Net",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "64 Go"
+        ],
+        "ram_extension": "Extensible via mémoire virtuelle",
+        "os": "Android 15",
+        "os_skin": "MyOS 15",
+        "camera_main": "13 MP avec autofocus et flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur multimédia avec prise jack 3.5mm",
+        "audio_tech": "Son clair pour communications",
+        "connectivity_nfc": "Non spécifié",
+        "navigation_gps": "GPS + GLONASS",
+        "card_slot": "Dual Nano SIM / Port MicroSD dédié",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "164.0 x 76.0 x 8.6 mm",
+        "weight": "0.191 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-A76-MASTER",
+        "Name": "ZTE Nubia A76",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "85000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Nubia A76, Smartphone 4G, Snapdragon 662, 13MP, 5000mAh, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.191 kg",
+        "Attribute 4 default": "0.191 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia A76 : Puce Snapdragon 662 Écran 6.5\" et Batterie 5000 mAh",
+        "brand_line": "Le smartphone fiable et autonome avec puce Qualcomm Snapdragon 662.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia A76 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia A76 associe le processeur Snapdragon 662, un écran de 6.5 pouces, un capteur photo 13 MP et une batterie endurante de 5000 mAh.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 662 Octa-Core",
+                "benefice": "Stabilité logicielle et efficacité énergétique pour vos usages."
+            },
+            {
+                "feature": "Écran Confortable 6.5\" IPS",
+                "benefice": "Affichage net et lisible pour vos consultations quotidiennes."
+            },
+            {
+                "feature": "Batterie Longue Durée 5000 mAh",
+                "benefice": "Autonomie sereine sans devoir recharger en cours de journée."
+            },
+            {
+                "feature": "Capteur Photo 13 MP & Selfie 8 MP",
+                "benefice": "Photos et appels vidéo clairs avec vos contacts."
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia A76 (4Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia A76 au meilleur prix à Abidjan sur My-eStore. Processeur Snapdragon 662, écran 6.5 pouces, capteur 13 MP et batterie 5000 mAh."
+        }
+    },
+    "long_description": {
+        "h1": "ZTE Nubia A76 : Puce Snapdragon 662, Batterie 5000 mAh et Écran 6.50\"",
+        "intro_paragraph": "Le ZTE Nubia A76 propose une solution éprouvée pour les personnes à la recherche d'un smartphone fiable à Abidjan. En effet, sa puce Qualcomm Snapdragon 662 assure un fonctionnement stable de vos outils préférés. Sa dalle de 6.5 pouces restitue des images lisibles en toute occasion. De plus, son capteur photo principal de 13 Mégapixels permet d'enregistrer vos moments précieux. Par ailleurs, la batterie de 5000 mAh garantit une très bonne endurance tout au long du jour. Vous achetez votre appareil en toute tranquillité sur My-eStore.",
+        "sections": [
+            {
+                "title": "Puce Snapdragon 662 et Écran 6.5 Pouces",
+                "paragraphs": [
+                    "Le ZTE Nubia A76 intègre le processeur Qualcomm Snapdragon 662 composé de huit cœurs cadencés à 2.0 GHz. Cette puce reconnue offre un bon compromis entre réactivité et gestion de l'énergie. Ainsi, vos applications de messagerie fonctionnent sans ralentissement excessif. La mémoire vive de 4 Go soutient une utilisation quotidienne fluide.",
+                    "L'écran de 6.5 pouces affiche une définition HD Plus de 1600 par 720 pixels. En effet, cette dalle IPS offre des angles de vision confortables pour lire vos messages. D'ailleurs, les bordures contenues facilitent la prise en main globale. Vous profitez d'un affichage agréable pour consulter vos informations."
+                ]
+            },
+            {
+                "title": "Prises de Vue 13 MP et Ergonomie Pratique",
+                "paragraphs": [
+                    "Le module photo principal de 13 Mégapixels capture des clichés nets sous une bonne lumière ambiante. Cet objectif convient parfaitement pour photographier des documents ou des scènes de rue. De plus, le capteur frontal de 8 Mégapixels restitue des appels vidéo de qualité. Vous restez facilement en contact avec vos collègues et votre famille.",
+                    "Le système Android 15 intègre une interface simple et claire pour tous les utilisateurs. En outre, le capteur d'empreintes digitales latéral garantit un accès instantané et sécurisé. La prise jack 3.5 mm permet de brancher vos casques audio standards. Cet ensemble d'équipements répond avec exactitude aux besoins essentiels."
+                ]
+            },
+            {
+                "title": "Batterie 5000 mAh et Solidité Quotidienne",
+                "paragraphs": [
+                    "La batterie de 5000 mAh fournit une autonomie très satisfaisante pour l'ensemble de votre journée. Par ailleurs, la gestion énergétique du processeur Snapdragon optimise la consommation en veille. Vous utilisez votre téléphone pour vos appels réguliers sans inquiétude de panne sèche. Vos journées de travail se déroulent ainsi avec une grande aisance.",
+                    "Le châssis présente une finition sobre avec un poids équilibré de 191 grammes. Ainsi, l'appareil se manipule confortablement lors de vos déplacements en ville. En somme, ce smartphone réunit des composants fiables à un tarif particulièrement accessible. Vous pouvez finaliser votre commande en toute sérénité sur le site My-eStore. La livraison à Abidjan s'effectue dans des délais très rigoureux."
+                ]
+            }
+        ],
+        "full_specs": {
+            "design_physique": {
+                "Dimensions": "164.0 x 76.0 x 8.6 mm",
+                "Poids": "0.191 kg (191 g)",
+                "Matériaux": "Châssis robuste, coque résistante",
+                "Coloris officiels": "Noir (Black)"
+            },
+            "affichage_ecran": {
+                "Taille de l'écran": "6.50 pouces (~83.5% ratio écran-corps)",
+                "Technologie de dalle": "IPS LCD",
+                "Définition": "HD+ (1600 x 720 pixels, 20:9, ~270 ppi)",
+                "Fréquence de rafraîchissement": "60 Hz",
+                "Particularité": "Dalle compacte et lumineuse"
+            },
+            "performances_systeme": {
+                "Processeur (SoC)": "Qualcomm Snapdragon 662 (11 nm)",
+                "Architecture CPU": "Octa-Core (4x2.0 GHz Kryo 260 Gold + 4x1.8 GHz Kryo 260 Silver)",
+                "Puce graphique (GPU)": "Adreno 610",
+                "Mémoire RAM": "4 Go",
+                "Stockage interne": "64 Go (extensible via carte microSDXC)",
+                "Système d'exploitation": "Android 15 avec interface MyOS"
+            },
+            "photographie_video": {
+                "Capteur principal arrière": "13 MP (f/2.2, autofocus, flash LED)",
+                "Caméra frontale (Selfie)": "8 MP (f/2.0)",
+                "Enregistrement vidéo": "1080p à 30 fps"
+            },
+            "batterie_alimentation": {
+                "Capacité de la batterie": "5000 mAh (Li-Po non amovible)",
+                "Puissance de charge": "Charge 10W standard",
+                "Protocole de charge": "USB Type-C"
+            },
+            "connectivite_reseau": {
+                "Réseaux cellulaires": "4G LTE, 3G, 2G",
+                "Carte SIM": "Dual Nano SIM",
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac dual-band",
+                "Bluetooth": "Bluetooth 5.0 avec A2DP et LE",
+                "Prise casque": "Jack 3.5 mm",
+                "Port USB": "USB Type-C 2.0"
+            },
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A76"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A76+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "seo": {
+            "meta_title": "ZTE Nubia A76 64Go : Snapdragon 662 & 5000mAh | My-eStore",
+            "meta_description": "Fiche technique du ZTE Nubia A76. Processeur Snapdragon 662, écran 6.5 pouces, capteur photo 13 MP et batterie 5000 mAh au meilleur prix à Abidjan."
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "4 Go",
+            "rom": "64 Go",
+            "storage": "64 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Black"
+        }
+    ]
+}

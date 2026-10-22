@@ -1,0 +1,384 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade V70",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V70"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V70+specifications"
+            }
+        ],
+        "pricing_reference": "119000",
+        "official_sku": "ZTE-BLADE-V70"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Glacier Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "119000",
+            "sku_suffix": "256GB-8GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Olive Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "119000",
+            "sku_suffix": "256GB-8GB-VERT"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Sunshine Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "119000",
+            "sku_suffix": "256GB-8GB-OR"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Processeur Huit Cœurs 2.0 GHz",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.70 pouces",
+        "screen_technology": "IPS LCD 120Hz avec Live Island 2.0",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 20 Go via RAM dynamique",
+        "os": "Android 14",
+        "os_skin": "MyOS 14",
+        "camera_main": "108 MP Ultra Haute Résolution avec IA et grand capteur 1/1.67\"",
+        "camera_selfie": "16 MP",
+        "audio_config": "Haut-parleur avec traitement sonore DTS",
+        "audio_tech": "Son spatial DTS Audio & prise 3.5mm",
+        "connectivity_nfc": "Non disponible sur ce modèle",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 22.5W USB-C",
+        "dimensions": "165.0 x 76.0 x 8.2 mm",
+        "weight": "0.190 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-V70-MASTER",
+        "Name": "ZTE Blade V70",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "119000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade V70, 108MP, Écran 120Hz, 8Go RAM, 256Go, 5000mAh, Charge 22.5W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Vert, Or",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.190 kg",
+        "Attribute 4 default": "0.190 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade V70 : Capteur 108 MP Écran 120Hz 8 Go RAM et 256 Go",
+        "brand_line": "Le smartphone polyvalent doté d'un capteur photo 108 MP, d'un écran 120 Hz et de 8 Go de RAM.",
+        "marketing_conclusion": "Commandez votre ZTE Blade V70 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade V70 propose un capteur photo principal de 108 MP, un écran 120Hz de 6.7 pouces avec Live Island 2.0, 8 Go de RAM et 256 Go de stockage.",
+        "features": [
+            {
+                "feature": "Appareil Photo Principal 108 MP",
+                "benefice": "Définition photographique très élevée et détails précis."
+            },
+            {
+                "feature": "Écran 6.7\" 120Hz & Live Island 2.0",
+                "benefice": "Affichage ultra fluide et interface interactive moderne."
+            },
+            {
+                "feature": "Mémoire 8 Go RAM & 256 Go ROM",
+                "benefice": "Multitâche très réactif et grand volume de stockage."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 22.5W",
+                "benefice": "Excellente autonomie avec remise à niveau rapide."
+            }
+        ],
+        "slogan_final": "ZTE Blade V70 — La puissance de la photographie 108 MP accessible à tous.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade V70 (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Blade V70 avec appareil photo 108 MP, écran 120Hz, 8 Go RAM, 256 Go et charge 22.5W. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Blade V70, smartphone 108MP Abidjan, 120Hz, 8Go RAM 256Go, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade V70",
+            "lsi_keywords": [
+                "ZTE Blade V70",
+                "smartphone ZTE Blade V70 Abidjan",
+                "ZTE Blade V70 prix",
+                "téléphone photo 108 mégapixels",
+                "smartphone 8 go ram 256 go",
+                "téléphone écran 120hz 6.7 pouces",
+                "achat smartphone zte My-eStore",
+                "livraison téléphone Abidjan"
+            ],
+            "meta_title": "ZTE Blade V70 256 Go : Capteur 108 MP & Dalle 120Hz | My-eStore",
+            "meta_description": "Achetez le ZTE Blade V70. Appareil photo 108 MP, écran 6.7 pouces 120Hz avec Live Island 2.0, 8 Go RAM et 256 Go. Livraison soignée et rapide à Abidjan."
+        },
+        "h1": "ZTE Blade V70 : Capteur 108 MP, Écran 120Hz et Batterie 5000 mAh",
+        "experience_box": {
+            "box_title": "LES ATOUTS MAJEURS DU ZTE BLADE V70",
+            "items": [
+                {
+                    "feature": "Capteur Principal 108 MP",
+                    "benefice": "Grande finesse de capture même lors de recadrages."
+                },
+                {
+                    "feature": "Dalle 120Hz Live Island 2.0",
+                    "benefice": "Animations rapides et gestion pratique des alertes."
+                },
+                {
+                    "feature": "Mémoire Vive 8 Go Physique",
+                    "benefice": "Fluidité remarquable entre plusieurs applications."
+                },
+                {
+                    "feature": "Batterie 5000 mAh Durable",
+                    "benefice": "Disponibilité continue pour toute la journée."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade V70 franchit une étape importante en intégrant un capteur photo haute définition de 108 Mégapixels. Cet appareil s'adresse directement aux utilisateurs recherchant de la netteté à Abidjan. En effet, sa dalle de 6.7 pouces à 120 Hz garantit une réactivité visuelle continue. De plus, la fonction Live Island 2.0 affiche vos informations utiles au sommet de l'écran. La mémoire vive de 8 Go soutient un fonctionnement multitâche particulièrement stable. Par ailleurs, la batterie de 5000 mAh avec charge 22.5W sécurise vos déplacements. Ce modèle délivre ainsi une expérience moderne et fiable pour chaque moment de la journée.",
+        "sections": [
+            {
+                "h2_title": "Dalle 120Hz avec Live Island 2.0 et Mémoire 8 Go RAM",
+                "paragraphs": [
+                    "Le ZTE Blade V70 propose un écran spacieux de 6.7 pouces avec une fréquence fluide de 120 Hz. Cette vitesse d'affichage améliore nettement la lisibilité lors du défilement des pages web. Ainsi, les vidéos et les applications s'exécutent avec une souplesse visuelle constante. De surcroît, le processeur huit cœurs cadencé à 2.0 GHz traite efficacement vos tâches régulières. La mémoire vive de 8 Go permet de basculer instantanément d'un logiciel à un autre.",
+                    "Le stockage interne de 256 Go offre un espace très confortable pour conserver vos souvenirs et documents. D'ailleurs, un port pour carte microSD autorise une extension supplémentaire en cas de besoin. En outre, la connectivité 4G assure des téléchargements stables sur tous les réseaux locaux. Le format bien proportionné offre une prise en main très agréable. Vous profitez d'une réactivité constante pour l'ensemble de vos activités."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 108 MP et Caméra Selfie 16 MP",
+                "paragraphs": [
+                    "Le capteur photographique principal de 108 Mégapixels capte une grande quantité de lumière grâce à sa grande surface. Cet objectif restitue des détails très précis sur les paysages comme sur les portraits de famille. De plus, le traitement d'image par intelligence artificielle optimise la colorimétrie de façon naturelle. La caméra frontale de 16 Mégapixels assure des appels vidéo nets pour vos réunions à distance. Ainsi, vos clichés bénéficient d'un excellent piqué photographique.",
+                    "La prise jack 3.5 mm et le système audio DTS garantissent une expérience sonore agréable au casque. En effet, les tonalités restent équilibrées pour la musique comme pour le visionnage de films. Également, le port USB Type-C simplifie la connexion quotidienne pour la charge. Le capteur d'empreintes digitales latéral assure un déverrouillage fluide et hautement sécurisé. Vous disposez d'un outil multimédia complet et polyvalent."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 22.5W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh délivre une alimentation constante pour répondre aux exigences des journées chargées. Cette endurance solide évite les interruptions imprévues au cours de vos déplacements professionnels. Par ailleurs, la technologie de charge rapide 22.5W permet de faire le plein d'énergie en peu de temps. En effet, une courte pause suffit pour retrouver une autonomie opérationnelle. Vos communications se poursuivent en toute quiétude.",
+                    "Le smartphone affiche un poids léger de 190 grammes avec des finitions en noir, vert et or. D'autre part, la texture arrière soignée résiste efficacement aux frottements du quotidien. En somme, le ZTE Blade V70 associe une optique 108 MP et une grande mémoire à un tarif mesuré. Vous pouvez faire votre achat en toute sérénité sur la plateforme My-eStore. Le service de livraison rapide dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade V70",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade V70."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "165.0 x 76.0 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.190 kg (190 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, coque soignée anti-traces"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Glaze Black), Vert (Starlight Green), Or (Sunshine Gold)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.70 pouces (~86.2% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD avec fonction Live Island 2.0"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1600 x 720 pixels, 20:9, ~262 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Octa-Core 2.0 GHz"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Huit cœurs cadencés jusqu'à 2.0 GHz"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go (extensible jusqu'à 20 Go via RAM dynamique)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "108 MP (f/1.8, grand capteur 1/1.67\", PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteurs auxiliaires",
+                            "valeur": "Capteurs IA pour scènes et profondeur"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 22.5W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son optimisé DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V70"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V70+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

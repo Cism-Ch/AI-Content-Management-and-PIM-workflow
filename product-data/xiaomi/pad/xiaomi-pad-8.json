@@ -1,0 +1,435 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-pad-v3.4-align-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Pad 8 alignée sur xiaomi_models_parent.csv et données constructeur mi.com."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Pad Series",
+        "commercial_name": "Xiaomi Pad 8",
+        "category": "tablet",
+        "sub_category": "tablet-midrange-premium",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-PAD-8",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-PAD-8"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/fr/product/xiaomi-pad-8/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+8"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+8+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi Pad 8 avec écran 11.2 pouces 144Hz processeur Snapdragon 8s Gen 4 batterie 9200 mAh et charge 45W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8s Gen 4 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "9200 mAh",
+        "charging_wired": "Charge rapide 45W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "Sans slot microSD",
+        "weight": "0.485 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-PAD-8",
+        "Name": "Xiaomi Pad 8 - Écran 11.2\" 3.2K 144Hz - (8 Go|12 Go & 128 Go|256 Go|512 Go) - 9200 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "285000",
+        "Categories": "Tablettes > Xiaomi > Xiaomi Pad",
+        "Tags": "Xiaomi, Pad 8, Xiaomi Pad Series, Tablette Android, Wi-Fi 6e, Écran 144Hz 3.2K, 13MP, Batterie 9200mAh, Snapdragon 8s Gen 4, Stylet Magnétique, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Bleu, Vert",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.485 kg",
+        "Attribute 4 default": "0.485 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi",
+        "Attribute 5 default": "Wi-Fi",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "345000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "475000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "345000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "475000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "345000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "475000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Xiaomi Pad",
+        "teaser": "La tablette tactile Xiaomi Pad 8 associe le processeur Snapdragon 8s Gen 4 à un écran IPS de 11.2 pouces 3.2K cadencé à 144Hz. Sa généreuse batterie de 9200 mAh avec charge 45W garantit une autonomie prolongée pour tous vos usages bureautiques et multimédias.",
+        "top_features_detailed": [
+            {
+                "label": "Puce Snapdragon 8s Gen 4 (4 nm)",
+                "detail": "Gravure moderne de 4 nanomètres assurant une réactivité constante et une excellente maîtrise thermique."
+            },
+            {
+                "label": "Écran 11.2\" 3.2K 144Hz",
+                "detail": "Précision d'image de 3200 x 2136 pixels au ratio 3:2 avec fluidité d'affichage adaptative."
+            },
+            {
+                "label": "Batterie Durable 9200 mAh",
+                "detail": "Autonomie étendue sur plusieurs journées avec recharge rapide filaire de 45W."
+            },
+            {
+                "label": "Quatre Haut-Parleurs Stéréo",
+                "detail": "Immersion sonore Dolby Atmos offrant une grande netteté pour les cours en ligne et vidéos."
+            }
+        ],
+        "marketing_conclusion": "La tablette Android moderne associant écran 3.2K 144Hz, puce Snapdragon 8s Gen 4 et batterie de 9200 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Pad 8 à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Pad 8 à Abidjan chez My-eStore. Écran 11.2 pouces 3.2K 144Hz, Snapdragon 8s Gen 4 et batterie 9200 mAh 45W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Pad 8",
+            "lsi_keywords": [
+                "Snapdragon 8s Gen 4",
+                "tablette Xiaomi 11.2 pouces",
+                "écran 144Hz 3.2K",
+                "batterie 9200 mAh 45W",
+                "HyperOS 3 tablette"
+            ],
+            "meta_title": "Xiaomi Pad 8 128 Go : Snapdragon 8s Gen 4 & Écran 144Hz | My-eStore",
+            "meta_description": "Découvrez la Xiaomi Pad 8 avec Snapdragon 8s Gen 4, dalle 11.2 pouces 144Hz 3.2K et batterie 9200 mAh 45W. Fiche technique complète chez My-eStore."
+        },
+        "h1": "Xiaomi Pad 8 : Snapdragon 8s Gen 4, Écran 144Hz 3.2K et Batterie 9200 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI PAD 8",
+            "items": [
+                {
+                    "feature": "Qualcomm Snapdragon 8s Gen 4",
+                    "benefice": "Fonctionnement fluide et économe adapté aux cours et à la bureautique."
+                },
+                {
+                    "feature": "Affichage 11.2 Pouces 3.2K 144Hz",
+                    "benefice": "Défilement sans saccades et finesse de lettrage remarquable sur chaque page."
+                },
+                {
+                    "feature": "Autonomie 9200 mAh avec 45W",
+                    "benefice": "Disponibilité continue sur plusieurs journées de travail sans fil à la patte."
+                },
+                {
+                    "feature": "Conception Métallique Allégée",
+                    "benefice": "Poids plume de 485 grammes pour un transport aisé dans toutes vos sacoches."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Pad 8 apporte une solution moderne aux professionnels et aux étudiants actifs. Son processeur Qualcomm Snapdragon 8s Gen 4 prend en charge les flux bureautiques sans aucun ralentissement. En effet, les applications documentaires s'ouvrent rapidement grâce à la gravure efficiente en 4 nanomètres. De plus, l'écran 3.2K de 11.2 pouces facilite la consultation de longs dossiers techniques. Ainsi, cet outil ergonomique accompagne tous vos projets d'études et de divertissement quotidien.",
+        "sections": [
+            {
+                "h2_title": "Finition Aluminium Affinée et Écran IPS 3.2K 144Hz",
+                "paragraphs": [
+                    "Le boîtier en alliage d'aluminium affiche un profil compact d'une épaisseur de 5.75 mm. Son poids de 485 grammes autorise une manipulation commode sans la moindre gêne physique. La coque métallique protège parfaitement l'électronique embarquée contre les contraintes du transport. Par ailleurs, la texture satinée repousse efficacement les traces d'usure en utilisation nomade. La prise en main reste très agréable en lecture verticale comme en affichage panoramique. En outre, les bordures harmonieuses valorisent l'affichage sur toute la surface de la dalle.",
+                    "La dalle IPS de 11.2 pouces développe une résolution soignée de 3200 x 2136 pixels. Le format 3:2 élargit l'espace vertical pour visualiser confortablement des grilles de calculs. D'ailleurs, le taux de rafraîchissement adaptatif atteint 144 Hz pour un défilement très fluide. La prise en charge Dolby Vision garantit une colorimétrie équilibrée lors de séances visuelles. Le filtre antireflet atténue la fatigue oculaire lors des longues consultations sous lumière directe. Enfin, le calibrage d'usine restitue chaque nuance graphique avec un réalisme appréciable."
+                ]
+            },
+            {
+                "h2_title": "Efficience du Snapdragon 8s Gen 4 et Gestion de Mémoire",
+                "paragraphs": [
+                    "Le chipset Snapdragon 8s Gen 4 regroupe des cœurs rapides pour traiter vos logiciels bureautiques. Cette puce assure l'ouverture immédiate des plateformes collaboratives et des navigateurs internet. En effet, la puce graphique intégrée stabilise l'animation de vos contenus vidéo récents. La mémoire vive LPDDR5X soutient un multitâche fiable sans temps de rechargement intempestif. Le passage d'un devoir académique à une réunion virtuelle s'effectue sans difficulté. De plus, la gestion énergétique minimise le dégagement de chaleur sur le châssis arrière.",
+                    "La mémoire flash interne conserve l'ensemble de vos archives de cours et documents volumineux. Les cadences de transfert accélèrent l'exportation des exposés scolaires et dossiers d'analyse. Par conséquent, la gestion de gros volumes de fichiers s'exécute avec promptitude. L'interface Xiaomi HyperOS organise logiquement l'attribution de la puissance aux applications actives. La disposition des fenêtres multiples permet de consulter plusieurs sources d'information simultanément. Ainsi, vous bénéficiez d'une expérience productive constante tout au long de vos projets."
+                ]
+            },
+            {
+                "h2_title": "Audio Quatre Haut-Parleurs, Batterie 9200 mAh et Stylet Actif",
+                "paragraphs": [
+                    "Quatre transducteurs acoustiques indépendants diffusent une ambiance sonore ample et bien découpée. Le décodage Dolby Atmos restitue fidèlement la tessiture des voix lors des conférences éducatives. De surcroît, la caméra frontale de 8 mégapixels cadre proprement vos entretiens virtuels. Le microphone directionnel neutralise les bruits résiduels au sein de votre pièce d'études. Le capteur dorsal de 13 mégapixels convertit vos documents écrits en fichiers numériques. En conséquence, le partage de comptes rendus textuels devient simple et instantané.",
+                    "La batterie de 9200 mAh procure une réserve d'énergie rassurante pour deux journées. Vous travaillez en bibliothèque sans devoir constamment chercher un accès au secteur. Grâce à la charge filaire 45W, la tablette récupère promptement sa capacité énergétique. Cette commodité de rechargement raccourcit les temps morts entre deux créneaux d'activité. La puce Wi-Fi 6e garantit un débit régulier lors des téléversements de présentations. Enfin, le port USB Type-C supporte la synchronisation rapide avec vos disques externes."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Pad 8",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Pad 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "251.22 x 173.42 x 5.75 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.485 kg (485 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Alliage d'aluminium monobloc ultra-fin"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Gray), Bleu (Blue), Vert (Green)"
+                        },
+                        {
+                            "label": "Accessoires compatibles",
+                            "valeur": "Clavier magnétique détachable et stylet actif Xiaomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'écran",
+                            "valeur": "IPS LCD, Dolby Vision, HDR10"
+                        },
+                        {
+                            "label": "Diagonale",
+                            "valeur": "11.2 pouces (ratio 3:2)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "3.2K (3200 x 2136 pixels), 345 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144 Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "800 nits typique"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8s Gen 4 (4 nm, Octa-Core)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 735"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP, f/2.2, autofocus, flash LED"
+                        },
+                        {
+                            "label": "Enregistrement vidéo dorsal",
+                            "valeur": "4K à 30 fps, 1080p à 30/60 fps"
+                        },
+                        {
+                            "label": "Caméra avant",
+                            "valeur": "8 MP, f/2.2, centrage automatique"
+                        },
+                        {
+                            "label": "Enregistrement vidéo frontal",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité nominale",
+                            "valeur": "9200 mAh (Lithium-Polymère)"
+                        },
+                        {
+                            "label": "Puissance de charge filaire",
+                            "valeur": "45 W (USB Power Delivery)"
+                        },
+                        {
+                            "label": "Autonomie annoncée",
+                            "valeur": "Jusqu'à 16 heures de lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Réseaux sans fil",
+                            "valeur": "Wi-Fi 6e (802.11 a/b/g/n/ac/ax) bi-bande"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Version 5.4 avec support audio HD"
+                        },
+                        {
+                            "label": "Connecteur filaire",
+                            "valeur": "USB Type-C 3.2 Gen 1 (sortie vidéo DisplayPort)"
+                        },
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo avec certification Dolby Atmos"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/fr/product/xiaomi-pad-8/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+8"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+8+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

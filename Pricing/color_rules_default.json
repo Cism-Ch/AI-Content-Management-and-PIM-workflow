@@ -1,0 +1,27 @@
+{
+  "_comment": "Fichier de règles de couleur pour wc_csv_toolkit.py colors / all",
+
+  "sku_map": {
+    "NASCO-NAS-INV-M9N1-MIRROR":  "Noir Miroir",
+    "NASCO-NAS-INV-M12N1-MIRROR": "Noir Miroir",
+    "NASCO-NAS-INV-M18N1-MIRROR": "Noir Miroir",
+    "NASCO-NAS-M9N1-MIRROR":      "Noir Miroir",
+    "NASCO-NAS-M12N1-MIRROR":     "Noir Miroir",
+    "NASCO-NAS-M18N1-MIRROR":     "Noir Miroir",
+    "NASCO-NAS-M24N1-MIRROR":     "Noir Miroir",
+    "NASCO-NAS-M24N1-N":          "Blanc / Bande Silver"
+  },
+
+  "keyword_rules": [
+    ["MIRROR",              "Noir Miroir"],
+    ["MIROIR",              "Noir Miroir"],
+    ["BLACK",               "Noir"],
+    ["SILVER|BANDE.SILVER", "Blanc / Bande Silver"],
+    ["INOX",                "Inox"],
+    ["GRIS",                "Gris"],
+    ["BLANC.GRIS|BLANC-GRIS","Blanc / Gris"],
+    ["BLUE|BLEU",           "Bleu"]
+  ],
+
+  "fallback": "Blanc"
+}

@@ -1,0 +1,337 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AirBuds 7",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Support",
+                "url": "https://support.blackview.hk/product/airbuds7"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "26000",
+        "official_sku": "BV-AIRBUDS-7"
+    },
+    "key_specifications": {
+        "processor": "Puce Bluetooth 5.3 Low Power",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "470 mAh (boîtier) / 40 mAh (écouteur)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio TWS",
+        "os_skin": "Affichage LED de charge natif",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Drivers 13 mm dynamiques haute fidélité",
+        "audio_tech": "Débruitage ENC & Écran LED numérique",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "55.8 x 48.8 x 29.5 mm",
+        "weight": "0.0335 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AIRBUDS-7-MASTER",
+        "Name": "Blackview AirBuds 7",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "60",
+        "Regular price": "26000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AirBuds 7, Écouteurs Sans Fil, TWS, Bluetooth 5.3, Écran LED, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.0335 kg",
+        "Attribute 4 default": "0.0335 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AirBuds 7 : Ergonomie TWS avec Écran LED",
+        "brand_line": "Écouteurs sans fil Blackview avec affichage numérique de batterie.",
+        "marketing_conclusion": "Commandez les Blackview AirBuds 7 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les écouteurs Blackview AirBuds 7 proposent un écran LED indiquant le niveau de charge, des haut-parleurs de 13 mm et une autonomie globale de 30 heures.",
+        "features": [
+            {
+                "feature": "Écran LED Numérique",
+                "benefice": "Affichage précis du pourcentage de charge en temps réel."
+            },
+            {
+                "feature": "Bluetooth 5.3 Rapide",
+                "benefice": "Appairage instantané et liaison sans fil réactive."
+            },
+            {
+                "feature": "Débruitage ENC Appels",
+                "benefice": "Réduction des bruits environnants pour des appels limpides."
+            },
+            {
+                "feature": "Boîtier 470 mAh Autonomie 30h",
+                "benefice": "Grande réserve d'énergie permettant de nombreuses recharges."
+            }
+        ],
+        "slogan_final": "Blackview AirBuds 7 — Le contrôle numérique de votre son.",
+        "seo": {
+            "meta_title": "Acheter Blackview AirBuds 7 (TWS Écran LED) à Abidjan | My-eStore",
+            "meta_description": "Découvrez les écouteurs sans fil Blackview AirBuds 7 avec écran LED et batterie 470 mAh. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AirBuds 7, écouteurs sans fil Blackview, prix Abidjan, écran LED audio"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AirBuds 7",
+            "lsi_keywords": [
+                "Blackview AirBuds 7",
+                "écouteurs sans fil Blackview",
+                "prix Abidjan",
+                "écouteurs Bluetooth Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écouteurs TWS 30h",
+                "boîtier 470 mAh",
+                "Bluetooth 5.3",
+                "achat écouteurs Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AirBuds 7 : Écran LED & Autonomie 30h | My-eStore",
+            "meta_description": "Achetez les écouteurs Blackview AirBuds 7. Puce Bluetooth 5.3, écran LED de charge et boîtier 470 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AirBuds 7 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Écran Numérique LED",
+                    "benefice": "Suivi visuel direct du niveau de charge de chaque écouteur."
+                },
+                {
+                    "feature": "Drivers 13 mm HD",
+                    "benefice": "Acoustique équilibrée offrant un son riche et détaillé."
+                },
+                {
+                    "feature": "Débruitage ENC pour Appels",
+                    "benefice": "Maintien de la clarté vocale lors de vos appels extérieurs."
+                },
+                {
+                    "feature": "Format Ultra-Léger 33.5g",
+                    "benefice": "Boîtier compact et ergonomique facile à transporter."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview AirBuds 7 sont des écouteurs sans fil modernes et très performants. Cet équipement répond parfaitement aux besoins des utilisateurs connectés en Côte d'Ivoire. Par ailleurs, la puce Bluetooth 5.3 assure une liaison audio très fluide. De plus, la réduction de bruit ENC clarifie la transmission de vos appels. Les haut-parleurs de 13 mm restituent un son équilibré et dynamique. L'écran LED de charge affiche en direct l'énergie disponible dans le boîtier. En effet, la conception des embouts offre un confort d'écoute prolongé. Enfin, vous profitez de votre musique en toute liberté.",
+        "sections": [
+            {
+                "h2_title": "Rendu Acoustique et Débruitage ENC",
+                "paragraphs": [
+                    "Les Blackview AirBuds 7 s'appuient sur des transducteurs dynamiques de 13 mm. Cette configuration audio restitue un son équilibré pour vos musiques et vidéos. De plus, les aigus restent très limpides sans provoquer d'agressivité d'écoute. De surcroît, le filtrage de bruit ENC diminue les sons ambiants dérangeants lors des appels. La voix reste parfaitement compréhensible pour vos interlocuteurs. L'expérience d'écoute globale demeure très plaisante au quotidien.",
+                    "L'embout en silicone s'adapte confortablement à l'anatomie de votre oreille. Cette isolation passive réduit efficacement les gênes dues aux bruits extérieurs. En effet, le maintien en oreille reste ferme lors de vos déplacements à Abidjan. La certification contre l'humidité protège les composants électroniques. Ainsi, vous écoutez vos morceaux préférés en toute sérénité."
+                ]
+            },
+            {
+                "h2_title": "Affichage LED Précis et Ergonomie Tactile",
+                "paragraphs": [
+                    "Le boîtier des Blackview AirBuds 7 intègre un écran numérique LED très clair. Cet affichage vous renseigne exactement sur la batterie restante dans le boîtier. En outre, le composant Bluetooth 5.3 offre un appairage immédiat dès l'ouverture. La portée du signal s'étend jusqu'à 10 mètres sans aucune coupure. Vous pilotez la musique et vos appels via des capteurs tactiles réactifs. La gestion des commandes devient simple et intuitive.",
+                    "Par ailleurs, l'assistant vocal se sollicite d'une simple pression tactile. Vous passez des appels ou lancez des recherches sans toucher au téléphone. De plus, chaque écouteur s'utilise indépendamment en mode mono selon votre besoin. Cette option s'avère très pratique pour économiser la batterie lors des appels. En somme, cette grande souplesse convient parfaitement à votre quotidien."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Globale 30h et Boîtier 470 mAh",
+                "paragraphs": [
+                    "Le boîtier de charge intègre une batterie efficace de 470 mAh. Chaque écouteur offre jusqu'à 6 heures d'écoute continue sans recharge. Le boîtier autorise plusieurs recharges complètes pendant vos déplacements. Vous bénéficiez ainsi d'une autonomie globale atteignant 30 heures au total. En effet, la recharge s'effectue rapidement via un port USB-C. Vos écouteurs restent toujours prêts à l'emploi.",
+                    "La finition soignée du boîtier offre une prise en main douce et naturelle. Son poids plume de 33.5 grammes le rend totalement imperceptible en poche. Les écouteurs AirBuds 7 représentent un choix judicieux pour vos besoins audio à Abidjan. En somme, leur rapport qualité-prix en fait une opportunité très intéressante. Vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AirBuds 7",
+                "subtitle": "Spécifications matérielles certifiées des écouteurs Blackview AirBuds 7."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "55.8 x 48.8 x 29.5 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.0335 kg (boîtier + écouteurs)"
+                        },
+                        {
+                            "label": "Poids par écouteur",
+                            "valeur": "3.7 g"
+                        },
+                        {
+                            "label": "Affichage",
+                            "valeur": "Écran LED numérique de niveau de batterie"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "13 mm dynamiques haute fidélité"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Impédance",
+                            "valeur": "32 Ohms"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction de bruit environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Autonomie écouteurs",
+                            "valeur": "Jusqu'à 6h d'écoute continue"
+                        },
+                        {
+                            "label": "Autonomie avec boîtier",
+                            "valeur": "Jusqu'à 30h grâce au boîtier de 470 mAh"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "1h30 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C Charge Rapide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP, HSP"
+                        },
+                        {
+                            "label": "Connexion automatique",
+                            "valeur": "Appairage rapide à l'ouverture du boîtier"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri & Google Assistant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Commandes tactiles intuitives sur la tige"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance à l'eau et à la sueur IPX7"
+                        },
+                        {
+                            "label": "Mode Mono/Stéréo",
+                            "valeur": "Utilisation indépendante de chaque écouteur"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Microphone HD avec débruitage ENC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Embouts silicone",
+                            "valeur": "3 tailles d'embouts fournies (S/M/L)"
+                        },
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Boîtier",
+                            "valeur": "Boîtier de charge intelligent avec écran LED"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Support",
+                        "url": "https://support.blackview.hk/product/airbuds7"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

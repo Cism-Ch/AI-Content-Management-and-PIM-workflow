@@ -1,0 +1,316 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Shark 8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/shark-8-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "BV-SHARK-8"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "2.4K FHD+ IPS LCD 120Hz Smart-Display",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "64 MP (Samsung ISOCELL GW3) avec Flash LED",
+        "camera_selfie": "13 MP HD (Samsung ISOCELL)",
+        "audio_config": "Haut-parleur Smart-K Box & Prise Jack 3.5mm",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "168.5 x 76.6 x 8.4 mm",
+        "weight": "0.198 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-SHARK-8-MASTER",
+        "Name": "Blackview Shark 8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "95000",
+        "Categories": "Smartphones > Blackview > Shark Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Shark 8, Smartphone 6.78 pouces, 120Hz, 64MP, 5000mAh, 33W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Or | Gris",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.198 kg",
+        "Attribute 4 default": "0.198 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Shark 8 : Smartphone 6.78 Pouces 2.4K 120Hz Helio G99 64 MP 5000 mAh 33W",
+        "brand_line": "Le smartphone stylé et ultra-fluide Blackview équipé d'une caméra 64 MP et d'un écran 120 Hz.",
+        "marketing_conclusion": "Commandez le Blackview Shark 8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Shark 8 combine un grand écran 6.78 pouces 2.4K à 120 Hz, un capteur photo de 64 MP, la puce Helio G99 et une batterie de 5000 mAh avec charge 33W.",
+        "features": [
+            {
+                "feature": "Écran 6.78\" 2.4K FHD+ 120Hz",
+                "benefice": "Fluidité remarquable et couleurs éclatantes lors des jeux."
+            },
+            {
+                "feature": "Capteur Photo 64 MP Samsung",
+                "benefice": "Clichés haute résolution très détaillés en toutes conditions."
+            },
+            {
+                "feature": "Processeur Helio G99 6nm",
+                "benefice": "Performances réactives et excellente sobriété énergétique."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 33W",
+                "benefice": "Recharge rapide pour retrouver 50% d'autonomie en 15 minutes."
+            }
+        ],
+        "slogan_final": "Blackview Shark 8 — La vitesse et le style à chaque instant.",
+        "seo": {
+            "meta_title": "Acheter Blackview Shark 8 (8Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Shark 8 avec écran 6.78\" 120Hz, caméra 64 MP et processeur Helio G99. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Shark 8, smartphone 120Hz, prix Abidjan, 64MP 5000mAh 33W"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Shark 8",
+            "lsi_keywords": [
+                "Blackview Shark 8",
+                "smartphone 120Hz Blackview Abidjan",
+                "Blackview Shark 8 prix",
+                "téléphone 64 MP 6.78 pouces",
+                "téléphone helio g99 5000 mAh",
+                "smartphone tendance Côte d'Ivoire",
+                "achat téléphone Shark 8 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Shark 8 256 Go : Écran 6.78\" 120Hz & 64 MP | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Shark 8. Écran 6.78\" 2.4K 120Hz, caméra 64 MP, batterie 5000 mAh 33W et puce Helio G99. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Shark 8 : Spécifications du Smartphone 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA FLUIDITÉ 120HZ",
+            "items": [
+                {
+                    "feature": "Écran FHD+ 2.4K 120 Hz",
+                    "benefice": "Défilement parfait et grand confort visuel."
+                },
+                {
+                    "feature": "Capteur 64 MP ISOCELL GW3",
+                    "benefice": "Prises de vue haute définition riches en contrastes."
+                },
+                {
+                    "feature": "Recharge Rapide 33W USB-C",
+                    "benefice": "Récupération d'énergie véloce au quotidien."
+                },
+                {
+                    "feature": "Puce Helio G99 6nm",
+                    "benefice": "Multitâche rapide sans aucun échauffement."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Shark 8 est un smartphone 120Hz particulièrement performant et raffiné. Cet équipement convient très bien aux passionnés de photographie et jeux vidéo en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.78 pouces en définition 2.4K offre une lisibilité visuelle très claire. De plus, son taux de rafraîchissement de 120 Hz apporte une fluidité constante. La batterie généreuse de 5000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.4 mm garantit une prise en main très agréable. L'interface DokeOS 4.0 sous Android 13 simplifie l'accès à toutes vos applications. Enfin, ce smartphone moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.78 Pouces 120Hz et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview Shark 8 intègre une grande dalle IPS de 6.78 pouces en définition 2.4K. Sa résolution de 2460 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, la fréquence dynamique de 120 Hz améliore la réactivité tactile dans vos jeux. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 8 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go ou 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le téléphone en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 64 MP, Puce NFC et Moteur ArcSoft",
+                "paragraphs": [
+                    "Le Blackview Shark 8 embarque un capteur photo principal de 64 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en extérieur. En outre, la caméra frontale de 13 Mégapixels s'avère très pratique pour les autoportraits clairs. Les algorithmes d'image ArcSoft 7.0 optimisent le rendu des couleurs même sous faible éclairage. Ainsi, la captation vidéo en haute résolution immortalise vos moments précieux. La précision d'image reste constante.",
+                    "Par ailleurs, la puce NFC multifonction permet des paiements rapides sans contact. De plus, le capteur d'empreintes digitales latéral garantit un accès sécurisé immédiat. Également, le module GPS quadruples réseaux assure un guidage très précis lors de vos déplacements. De surcroît, la prise jack 3.5mm autorise l'écoute de musique haute fidélité. En somme, ce smartphone réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 5000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption durant de longues heures. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la gestion thermique intelligente préserve la batterie lors des sessions de jeu. Vos activités quotidiennes se poursuivent sans interruption.",
+                    "La silhouette épurée de 8.4 mm offre une tenue en main naturelle et très légère. Son poids contenu de 198 grammes témoigne de l'ergonomie apportée au châssis. D'autre part, le Blackview Shark 8 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa fluidité 120Hz en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Shark 8",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Shark 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.5 x 76.6 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.198 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Dos dégradé irisé anti-traces"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu (Galaxy Blue), Or (Blaze Gold), Gris (Gray)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.78 pouces IPS LCD 2.4K FHD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2460 x 1080 pixels (396 ppi)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go UFS 2.2 (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "64 MP (Samsung ISOCELL GW3, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP HD (Samsung ISOCELL 3L6)"
+                        },
+                        {
+                            "label": "Traitements d'image",
+                            "valeur": "Algorithmes ArcSoft 7.0 & Mode Nuit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/shark-8-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

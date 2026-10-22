@@ -1,0 +1,430 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-14-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 14 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 14 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-standard",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-14-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-14-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone Xiaomi Redmi Note 14 4G avec capteur 108MP écran AMOLED 120Hz processeur Helio G99-Ultra et batterie 5500 mAh."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99-Ultra (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et prise casque 3.5mm",
+        "battery_capacity": "5500 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.196 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-14-4G",
+        "Name": "Xiaomi Redmi Note 14 4G - Dual SIM - Écran 6.67\" AMOLED 120Hz - (6 Go & 128 Go / 8 Go & 256 Go) - 5500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "125000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 14 4G, Redmi Note 14, Smartphone, 4G, Écran AMOLED, Écran 120Hz, Capteur 108MP, 5500mAh, Charge 33W, Helio G99 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Violet | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.196 kg",
+        "Attribute 4 default": "0.196 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Lime Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Mist Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "145000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Lime Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "145000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Mist Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "145000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "145000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "L'Affichage AMOLED 120Hz et l'Endurance 5500 mAh avec Capteur 108 MP.",
+        "teaser": "Le smartphone Xiaomi Redmi Note 14 4G associe un écran AMOLED 120Hz lumineux et une batterie généreuse de 5500 mAh. Équipé d'un capteur photo 108 MP et du processeur Helio G99-Ultra, il assure une réactivité optimale pour vos applications et contenus multimédias.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran AMOLED 120Hz",
+                "benefice": "Affichage net aux couleurs vives et défilement doux pour vos applications favorites"
+            },
+            {
+                "feature": "Batterie Étendue 5500 mAh",
+                "benefice": "Excellente réserve d'énergie pour tenir plus d'une journée en usage continu"
+            },
+            {
+                "feature": "Capteur Principal 108 MP",
+                "benefice": "Photographies précises avec zoom intégré 3x pour saisir chaque détail important"
+            },
+            {
+                "feature": "Double Haut-Parleurs Stéréo",
+                "benefice": "Restitution audio équilibrée certifiée Dolby Atmos pour vos vidéos et appels"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone équilibré pensé pour offrir endurance renforcée et affichage AMOLED de qualité.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 14 4G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi Redmi Note 14 4G à Abidjan chez My-eStore. Écran AMOLED 120Hz, capteur 108MP et batterie 5500 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 14 4G 256 Go : 108 MP & AMOLED | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 14 4G chez My-eStore. Écran AMOLED 120Hz, capteur photo 108 MP et batterie 5500 mAh au meilleur prix garanti à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 14 4G",
+            "lsi_keywords": [
+                "Xiaomi Redmi Note 14 4G Abidjan",
+                "Redmi Note 14 prix Côte d'Ivoire",
+                "smartphone AMOLED pas cher",
+                "Redmi Note 14 batterie 5500 mAh",
+                "Xiaomi Redmi Note 14 4G fiche technique"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 14 4G : Capteur 108 MP, Écran AMOLED 120Hz et Batterie 5500 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 14 4G",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 120Hz",
+                    "benefice": "Dalle 6.67 pouces lumineuse aux contrastes profonds et défilement fluide"
+                },
+                {
+                    "feature": "Capteur Photo 108 MP",
+                    "benefice": "Traitement d'image précis pour des clichés détaillés et lumineux en toute circonstance"
+                },
+                {
+                    "feature": "Batterie 5500 mAh & 33W",
+                    "benefice": "Autonomie solide de deux jours et recharge rapide pour repartir rapidement"
+                },
+                {
+                    "feature": "Puce Helio G99-Ultra",
+                    "benefice": "Processeur 6 nm stable et économe pour vos applications bureautiques et jeux"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi Redmi Note 14 4G perfectionne la recette de la polyvalence. Son panneau AMOLED de 6.67 pouces à 120Hz déploie des noirs d'une profondeur appréciable. De plus, l'appareil photo dorsal de 108 mégapixels garantit une finesse de capture lumineuse. La puce Helio G99-Ultra gère vos flux applicatifs avec une grande constance thermique. Enfin, son accumulateur renforcé de 5500 mAh assure une disponibilité sans interruption à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran AMOLED 120Hz Lumineux et Protecteur",
+                "paragraphs": [
+                    "La dalle AMOLED restitue des couleurs riches avec un rapport de contraste saisissant. Par conséquent, la consultation en extérieur demeure nette et parfaitement lisible sous le soleil. Le rafraîchissement adaptatif à 120Hz assure des animations douces lors du défilement des pages. Les bordures d'écran discrètes renforcent l'immersion visuelle lors du visionnage de séries. De surcroît, le filtre matériel réduit l'émission des rayonnements bleus fatigants. Vos yeux restent ainsi détendus pendant les lectures numériques nocturnes prolongées.",
+                    "Le verre renforcé protège la surface avant contre les éraflures métalliques usuelles. En outre, la coque arrière bénéficie d'une texture agréable limitant les glissements accidentels. Deux haut-parleurs stéréo certifiés Dolby Atmos restituent une scène sonore ample et équilibrée. Le capteur biométrique positionné sous la dalle permet une ouverture d'écran instantanée. D'autre part, la prise jack 3.5 mm conserve la compatibilité avec vos casques filaires. Le profil sobre apporte une note d'élégance moderne à l'usage journalier."
+                ]
+            },
+            {
+                "h2_title": "Précision du Capteur 108 MP et Polyvalence Visuelle",
+                "paragraphs": [
+                    "Le capteur dorsal de 108 mégapixels enregistre des prises de vue très détaillées. Effectivement, les textures subtiles ressortent fidèlement lors des prises en lumière diurne. L'agrandissement sans perte 3x permet de cadrer précisément un sujet éloigné. Le traitement d'image dynamique régule automatiquement l'exposition des zones trop claires. Ainsi, vous réussissez chaque instantané de vie de famille ou de fête locale. Le rendu des teintes de peaux conserve une justesse naturelle très équilibrée.",
+                    "La caméra frontale de 16 mégapixels délivre des portraits bien définis en visioconférence. Dès lors, vos appels vidéo familiaux bénéficient d'une qualité visuelle très rassurante. Des modes créatifs variés enrichissent la capture selon vos inspirations artistiques spontanées. L'enregistrement vidéo en haute fluidité stabilise efficacement vos déplacements à pied. Par ailleurs, le mode nuit améliore la luminosité des ruelles sombres sans bruit. Ce module photo polyvalent convient parfaitement aux exigences des partages sur internet."
+                ]
+            },
+            {
+                "h2_title": "Puce Économe Helio G99-Ultra et Batterie de 5500 mAh",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G99-Ultra gravé en 6 nanomètres allie dynamisme et efficacité. Par conséquent, vos logiciels bureautiques s'ouvrent sans la moindre hésitation matérielle. Les huit cœurs régulent la consommation selon les besoins effectifs de chaque application. La mémoire vive dynamique soutient une exécution stable de plusieurs tâches simultanées. De plus, le lecteur microSD autorise l'ajout de stockage externe pour vos vidéos. Cette conception technique cohérente préserve une grande régularité dans la durée.",
+                    "L'accumulateur d'une réserve de 5500 mAh accorde jusqu'à deux journées d'autonomie complète. En effet, vous vaquez à vos occupations professionnelles sans appréhension de décharge. Le chargeur filaire de 33W restitue promptement l'énergie utile sur prise murale. Une demi-heure de branchement suffit pour retrouver une bonne moitié de batterie. Enfin, les composants d'alimentation respectent les normes de sécurité thermique les plus strictes. Ce smartphone représente une option particulièrement fiable et judicieuse pour les consommateurs."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 14 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.3 x 76.6 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "196 g (0.196 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Vert (Lime Green), Violet (Mist Purple), Bleu (Ocean Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 120Hz, 1200 nits en pic"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~87.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2400 x 1080 pixels), format 20:9 (~395 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G99-Ultra (6 nm, 8 cœurs jusqu'à 2.20 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC (emplacement hybride)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "108 MP, f/1.8, 24mm (grand-angle), 1/1.67\", PDAF"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.4, vidéo 1080p@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5500 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge rapide filaire 33W (Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (A2DP, LE)"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+4G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

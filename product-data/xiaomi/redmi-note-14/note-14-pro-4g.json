@@ -1,0 +1,443 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-14-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 14 Pro 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 14 Pro 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-photo",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-14-PRO-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-14-PRO-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone Xiaomi Redmi Note 14 Pro 4G doté d'un capteur 200MP OIS processeur Helio G100-Ultra écran AMOLED 120Hz et verre Gorilla Glass Victus 2."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G100-Ultra (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "5500 mAh",
+        "charging_wired": "Charge rapide 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.180 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-14-PRO-4G",
+        "Name": "Xiaomi Redmi Note 14 Pro 4G - Dual SIM - Écran 6.67\" AMOLED 120Hz - (8 Go & 128 Go / 256 Go / 12 Go & 512 Go) - 5500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "180000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 14 Pro 4G, Redmi Note 14, Smartphone, 4G, Écran AMOLED, Écran 120Hz, Capteur 200MP, 5500mAh, Charge 45W, Helio G100 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Violet | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go | 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.180 kg",
+        "Attribute 4 default": "0.180 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Aurora Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "200000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Aurora Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "200000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "200000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Aurora Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Maîtrise Photographique 200 MP OIS avec Protection Gorilla Glass Victus 2.",
+        "teaser": "Le smartphone Xiaomi Redmi Note 14 Pro 4G intègre un capteur photo de 200 MP avec stabilisation optique OIS et le processeur Helio G100-Ultra. Protégé par du verre renforcé Gorilla Glass Victus 2 et doté d'une batterie de 5500 mAh avec charge 45W, il excelle en polyvalence.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur Photo 200 MP OIS",
+                "benefice": "Prises de vue haute définition avec stabilisation matérielle pour des clichés précis"
+            },
+            {
+                "feature": "Verre Gorilla Glass Victus 2",
+                "benefice": "Robustesse éprouvée contre les chutes accidentelles sur surfaces rugueuses"
+            },
+            {
+                "feature": "Batterie 5500 mAh 45W",
+                "benefice": "Grande autonomie quotidienne et recharge prompte par câble USB-C"
+            },
+            {
+                "feature": "Écran AMOLED 120Hz",
+                "benefice": "Défilement très doux et contrastes profonds pour tous vos contenus multimédias"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone photographique performant conçu pour réussir vos prises de vue au quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 14 Pro 4G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi Redmi Note 14 Pro 4G à Abidjan chez My-eStore. Capteur 200MP OIS, verre Victus 2 et batterie 5500 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 14 Pro 4G 256 Go : 200MP & 5500 mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 14 Pro 4G chez My-eStore. Capteur 200 MP OIS, Gorilla Glass Victus 2 et batterie 5500 mAh à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 14 Pro 4G",
+            "lsi_keywords": [
+                "Xiaomi Redmi Note 14 Pro 4G Abidjan",
+                "Redmi Note 14 Pro prix Côte d'Ivoire",
+                "smartphone 200MP pas cher",
+                "Redmi Note 14 Pro Victus 2",
+                "Xiaomi Redmi Note 14 Pro 4G fiche technique"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 14 Pro 4G : Capteur 200 MP OIS, Helio G100-Ultra et Batterie 5500 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 14 Pro 4G",
+            "items": [
+                {
+                    "feature": "Capteur Photo 200 MP OIS",
+                    "benefice": "Prises de vue haute fidélité stabilisées éliminant les flous de bougé"
+                },
+                {
+                    "feature": "Verre Victus 2 & AMOLED 120Hz",
+                    "benefice": "Protection supérieure contre les chocs et affichage éclatant d'un milliard de teintes"
+                },
+                {
+                    "feature": "Puce Helio G100-Ultra",
+                    "benefice": "Architecture 6 nm fluide et économe sans chauffe excessive au quotidien"
+                },
+                {
+                    "feature": "Batterie 5500 mAh & 45W",
+                    "benefice": "Endurance remarquable de deux journées avec regain rapide d'énergie"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi Redmi Note 14 Pro 4G affine son positionnement photographique d'élite. Son module dorsal de 200 mégapixels stabilisé mécaniquement enregistre des clichés d'une clarté remarquable. De plus, son verre Corning Gorilla Glass Victus 2 garantit une protection supérieure contre les chocs. La puce Helio G100-Ultra gère vos applications et divertissements avec une cadence régulière. Enfin, son accumulateur de 5500 mAh avec charge 45W assure une disponibilité sans faille à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Système Photo 200 MP avec Stabilisation Optique OIS",
+                "paragraphs": [
+                    "Le capteur de 200 mégapixels capture une quantité abondante d'informations visuelles sur chaque scène. Par conséquent, les agrandissements numériques révèlent des détails minuscules sans grain parasite désagréable. La stabilisation optique intégrée corrige immédiatement les micro-oscillations involontaires de la main. Cette mécanique garantit des clichés nets même lors des prises de vue nocturnes spontanées. De surcroît, le traitement logiciel optimise les ombres pour préserver la véracité des textures. Vos prises photographiques urbaines s'imposent ainsi par leur équilibre visuel naturel.",
+                    "L'objectif ultra grand-angle permet de saisir de vastes panoramas architecturaux en plein air. En outre, la lentille macro dédiée enregistre la finesse des petites textures rapprochées. Les algorithmes de capture accélèrent l'enregistrement successif pour ne manquer aucune action. L'interface offre divers filtres argentiques pour enrichir l'atmosphère esthétique de vos albums. D'autre part, la caméra frontale assure des portraits convenables pour vos réseaux sociaux. Cet attirail photographique répond pleinement aux attentes artistiques des utilisateurs passionnés."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 120Hz et Protection Gorilla Glass Victus 2",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.67 pouces diffuse une palette riche de teintes lumineuses. Effectivement, son contraste marqué apporte un relief agréable à vos visionnages de films. Le rafraîchissement adaptatif de 120Hz assure des mouvements d'une douceur appréciable en navigation. La luminosité d'appoint permet une lecture commode sous un soleil ivoirien très vif. Ainsi, vos séances de consultation prolongée restent douces et reposantes pour la vue. Les bordures d'écran discrètes valorisent la surface utile lors de la manipulation quotidienne.",
+                    "Le revêtement en verre Gorilla Glass Victus 2 résiste aux chocs sur revêtements rugueux. Dès lors, le smartphone conserve son aspect d'origine face aux accidents matériels ordinaires. L'étanchéité certifiée IP54 préserve les circuits internes contre les petites éclaboussures d'eau. Deux transducteurs stéréo Dolby Atmos restituent une acoustique équilibrée et claire en communication. Par ailleurs, la prise jack 3.5 mm simplifie l'écoute directe au casque sans latence. Le profil ergonomique assure une prise en main stable pour tous les usages."
+                ]
+            },
+            {
+                "h2_title": "Puce Helio G100-Ultra et Grande Batterie de 5500 mAh",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G100-Ultra gravé en 6 nanomètres combine vivacité et tempérance thermique. Par conséquent, la navigation entre vos différentes applications s'opère sans le moindre à-coup. L'architecture à huit cœurs répartit la charge de travail avec une logique efficiente. La mémoire vive dynamique soutient l'exécution continue de plusieurs logiciels en tâche de fond. De plus, l'emplacement microSD autorise l'extension du stockage pour archiver vos photos lourdes. Cette configuration matérielle équilibrée assure une grande constance opérationnelle au fil du temps.",
+                    "L'accumulateur d'une réserve de 5500 mAh supporte aisément deux jours d'activité modérée. En effet, vous suivez vos rendez-vous professionnels sans crainte de coupure inattendue. Le chargeur filaire de 45W restaure rapidement une bonne partie de l'énergie utile. Trente minutes de charge suffisent pour alimenter le téléphone sur plusieurs heures consécutives. Enfin, les composants d'alimentation respectent les directives de sécurité thermique les plus poussées. Ce smartphone représente un investissement photographique et pratique très recommandable."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 14 Pro 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.2 x 74.9 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "180 g (0.180 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Violet (Aurora Purple), Bleu (Ocean Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 1 milliard de couleurs, 120Hz"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~89.2%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2400 x 1080 pixels), format 20:9 (~395 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G100-Ultra (6 nm, 8 cœurs jusqu'à 2.20 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go, 256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC (emplacement hybride)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "200 MP, f/1.7, (grand-angle), 1/1.4\", 0.56µm, multi-directionnel PDAF, OIS"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.4, vidéo 1080p@30/60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5500 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge rapide filaire 45W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (A2DP, LE)"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+4G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

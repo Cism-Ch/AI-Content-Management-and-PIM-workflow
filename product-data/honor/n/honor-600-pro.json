@@ -1,0 +1,391 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "honor-n-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Honor 600 Pro conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Honor",
+        "product_line": "HONOR N Serie",
+        "commercial_name": "Honor 600 Pro",
+        "category": "smartphone",
+        "sub_category": "premium-midrange",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HONOR-600-PRO",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HONOR-600-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Honor Official Store",
+                "url": "https://www.honor.com/fr/phones/honor-600-pro/spec/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Honor+600+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Honor+600+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Honor 600 Pro 6.57\" OLED 120Hz Snapdragon 8 Elite 200MP OIS 6400mAh 100W IP68/IP69K 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "HONOR-600-PRO",
+        "Name": "Honor 600 Pro - 6.57\" OLED 120Hz - 12Go/512Go - 200MP OIS - 6400mAh 100W - IP68/IP69K - 5G - Dual SIM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "380000",
+        "Categories": "Smartphones > Honor > N Series",
+        "Tags": "Honor, Honor 600 Pro, HONOR N Serie, Smartphone, Android, 5G, Écran OLED 120Hz, 200MP OIS, 6400mAh, Snapdragon 8 Elite, IP68 IP69K, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Or, Noir, Orange",
+        "Attribute 1 default": "Or",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.195 kg",
+        "Attribute 4 default": "0.195 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Excellence OLED 120Hz avec Snapdragon 8 Elite, Capteur 200MP et 6400mAh.",
+        "teaser": "Découvrez le smartphone Honor 600 Pro doté de la puissante puce Snapdragon 8 Elite, d'un écran OLED 120Hz, d'un capteur 200MP stabilisé et d'une batterie 6400 mAh 100W.",
+        "top_features_detailed": [
+            {
+                "feature": "Puce Flagship Snapdragon 8 Elite",
+                "benefice": "Performances de calcul exceptionnelles pour le multitâche et la productivité"
+            },
+            {
+                "feature": "Capteur Photo 200MP & Téléobjectif OIS",
+                "benefice": "Clichés haute précision et zoom optique stable en toutes circonstances"
+            },
+            {
+                "feature": "Batterie Silicium-Carbone 6400 mAh",
+                "benefice": "Autonomie remarquable sur deux jours complets avec SuperCharge 100W"
+            },
+            {
+                "feature": "Triple Étanchéité IP68, IP69 et IP69K",
+                "benefice": "Résistance éprouvée face aux immersions et aux lavages à haute pression"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G de pointe associant processeur de premier plan, module photo 200MP et autonomie record de 6400 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Honor",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Honor 600 Pro (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Honor 600 Pro au meilleur prix à Abidjan sur My-eStore. Snapdragon 8 Elite, 200MP OIS, batterie 6400mAh, IP68/IP69K et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Honor 600 Pro 512Go : Snapdragon 8 & 200MP | My-eStore",
+            "meta_description": "Découvrez le Honor 600 Pro sur My-eStore. Écran OLED 6.57 pouces 120Hz, Snapdragon 8 Elite, capteur 200MP OIS, batterie 6400 mAh 100W et étanchéité IP69K.",
+            "focus_keyword": "Honor 600 Pro",
+            "lsi_keywords": [
+                "Honor 600 Pro Abidjan",
+                "prix Honor 600 Pro",
+                "fiche technique Honor 600 Pro",
+                "smartphone Snapdragon 8 Elite",
+                "Honor 600 Pro 512Go"
+            ]
+        },
+        "h1": "Honor 600 Pro : Écran 6.57\" OLED 120Hz, Snapdragon 8 Elite et Capteur 200MP OIS",
+        "intro_paragraph": "En premier lieu, le Honor 600 Pro associe la puce Snapdragon 8 Elite et un capteur photo de 200 mégapixels. Sa dalle OLED incurvée de 6.57 pouces procure un confort d'affichage remarquable pour toutes vos applications mobiles. De plus, son processeur haut de gamme traite les calculs complexes sans la moindre latence perceptible. La batterie haute capacité de 6400 mAh garantit une disponibilité continue sur plusieurs jours de travail nomade. Enfin, la triple certification IP68, IP69 et IP69K assure une étanchéité éprouvée contre les liquides et la poussière.",
+        "experience_box": {
+            "box_title": "Points Clés du Honor 600 Pro",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite (3nm)",
+                    "benefice": "Vitesse d'exécution de très haut niveau pour vos applications professionnelles"
+                },
+                {
+                    "feature": "Système Photo 200MP & Téléobjectif",
+                    "benefice": "Prises de vue très détaillées et grossissement optique d'une grande netteté"
+                },
+                {
+                    "feature": "Batterie Silicium-Carbone 6400 mAh",
+                    "benefice": "Endurance remarquable de longue durée avec recharge ultra-rapide 100W"
+                },
+                {
+                    "feature": "Certification Haute Pression IP69K",
+                    "benefice": "Protection certifiée contre les éclaboussures et jets d'eau à haute température"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage OLED 120Hz et Protection Extrême IP69K",
+                "paragraphs": [
+                    "D'un côté, l'écran OLED de 6.57 pouces restitue des contrastes profonds et des couleurs éclatantes en toutes circonstances. Le taux de rafraîchissement adaptatif de 120 Hz garantit un défilement ultra-fluide de vos pages web et flux d'actualités. La protection en verre trempé renforcé préserve efficacement l'écran face aux éraflures et chocs de la journée. Par ailleurs, la luminance maximale élevée permet une lisibilité irréprochable sous la lumière directe du soleil. Les bordures incurvées équilibrent la surface d'affichage tout en procurant une prise en main très confortable. Vous profitez ainsi d'une immersion visuelle optimale pour naviguer agréablement sur vos applications mobiles favorites.",
+                    "D'un autre côté, la triple certification IP68, IP69 et IP69K confère une résistance totale face aux agressions extérieures. Ce niveau de robustesse autorise des nettoyages sous jets d'eau chaude à haute pression sans aucun risque. Le profil fin de 7.8 millimètres assure une compacité naturelle appréciable au creux de la main. En outre, la dalle tactile fonctionne avec une réactivité immédiate sous la pluie ou avec des mains mouillées. Les finitions haut de gamme reflètent l'attention portée aux détails esthétiques sur l'ensemble du châssis. Ce smartphone conjugue allure contemporaine et robustesse extrême au service de votre sérénité quotidienne."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 8 Elite et Autonomie 6400 mAh",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8 Elite gravée en 3 nanomètres délivre une puissance de calcul remarquable. La mémoire vive de 12 Go garantit un multitâche instantané entre vos logiciels professionnels les plus exigeants. L'espace de stockage interne accueille vos nombreux documents ainsi que vos photographies sans aucune saturation. De surcroît, la chambre à vapeur intégrée canalise la température afin de maintenir des performances durables. L'environnement logiciel MagicOS propose des fonctionnalités intelligentes simplifiant la gestion quotidienne de vos dossiers. Vous bénéficiez d'une productivité fluide et régulière tout au long de vos sessions de travail nomade.",
+                    "Dans cette optique, l'accumulateur au silicium-carbone de 6400 mAh garantit une longévité énergétique remarquable. Le dispositif Honor SuperCharge 100W rétablit promptement la réserve d'énergie lors d'une brève halte. Le protocole de charge sans fil 66W offre un confort d'alimentation très appréciable au bureau. Également, les haut-parleurs stéréo certifiés délivrent une spatialisation acoustique claire lors de vos conférences téléphoniques. Le lecteur d'empreintes digital sous l'écran sécurise l'accès à vos données avec une célérité instantanée. Cet ensemble technique fait de cet appareil un allié durable pour toutes vos activités connectées."
+                ]
+            },
+            {
+                "h2_title": "Système Photo 200MP et Téléobjectif Dédié",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 200 mégapixels capte des images avec un piqué saisissant. La stabilisation optique OIS élimine les flous de bougé pour garantir des clichés nets en mouvement. Le téléobjectif périscope de 50 mégapixels rapproche les sujets lointains avec une grande fidélité visuelle. De même, la caméra frontale de 50 mégapixels restitue vos traits avec un naturel flatteur en visio. Les algorithmes de traitement nocturne ajustent l'exposition pour restituer des couleurs équilibrées dans l'obscurité. Vous réalisez des prises de vue équilibrées prêtes à enrichir vos présentations professionnelles ou personnelles.",
+                    "En conséquence, la compatibilité 5G de dernière génération assure des vitesses de téléchargement élevées en déplacement. La gestion thermique intelligente protège l'intégrité des cellules de la batterie au fil des recharges successives. Cette fiabilité technologique garantit un fonctionnement régulier et sécurisant sur le long terme. Par conséquent, vous disposez d'un smartphone polyvalent sans craindre une défaillance lors de vos déplacements. Les composants de qualité supérieure témoignent d'une fabrication minutieuse pensée pour traverser les années. Ce modèle représente un investissement équilibré réunissant endurance batterie, robustesse certifiée et précision photographique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Honor 600 Pro",
+                "subtitle": "Spécifications matérielles complètes du Honor 600 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "156.0 x 74.7 x 7.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.195 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre incurvé avant et arrière, châssis métallique renforcé"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68, IP69 et IP69K (Immersion complète et résistance aux jets haute pression 80°C)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes digitales sous l'écran, reconnaissance faciale avancée"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.57\" OLED, 1.07 milliard de couleurs, HDR10+"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "FHD+ (1224 x 2700 pixels), ~436 ppi"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz adaptatif LTPO"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "Jusqu'à 4000 nits (crête)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Honor Giant Rhinoceros Glass haute dureté"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm) Octa-Core"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "Honor RAM Turbo jusqu'à 12 Go supplémentaires"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "512 Go UFS 4.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "200 MP, f/1.9, 1/1.3\", PDAF multidirectionnel, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif Périscope",
+                            "valeur": "50 MP, f/2.6, zoom optique, PDAF, OIS"
+                        },
+                        {
+                            "label": "Capteur Ultra Grand-Angle",
+                            "valeur": "12 MP, f/2.2, 112˚, AF macro"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "50 MP, f/2.1, grand-angle avec capteur 3D de profondeur"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "4K à 30/60fps, 1080p à 30/60/120fps, gyro-EIS, OIS"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques Hi-Res Audio"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "6400 mAh (Silicium-Carbone, non amovible)"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "Honor SuperCharge 100W"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Charge sans fil rapide 66W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.2 Gen 1, DisplayPort, OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "5G, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be), dual-band, Wi-Fi Direct"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4, A2DP, LE, aptX HD, LDAC"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port Infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec MagicOS 9"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Honor Official Store",
+                        "url": "https://www.honor.com/fr/phones/honor-600-pro/spec/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Honor+600+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Honor+600+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Or",
+            "color_en": "Golden White",
+            "color_code": "OR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "380000",
+            "sku_suffix": "12-GB-512-GB-OR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "380000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "380000",
+            "sku_suffix": "12-GB-512-GB-ORANGE"
+        }
+    ]
+}

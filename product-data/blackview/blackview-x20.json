@@ -1,0 +1,285 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "X20",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/x20-smartwatch-price"
+            }
+        ],
+        "pricing_reference": "29000",
+        "official_sku": "BV-X20"
+    },
+    "key_specifications": {
+        "processor": "Puce Smartwatch Realtek Low-Power Cores",
+        "processor_ghz": "Connectivité Bluetooth 5.2 HD Call",
+        "screen_size": "1.43 pouces",
+        "screen_technology": "AMOLED HD Tactile Rond PANDA Glass",
+        "screen_resolution": "466 x 466 pixels",
+        "battery_capacity": "380 mAh (Jusqu'à 10 jours d'utilisation)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Android & iOS",
+        "os_skin": "Application InfoWear / FitCloudPro",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Haut-parleur étanche & Microphone HD",
+        "audio_tech": "Appels Bluetooth & Assistant Vocal",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "Suivi via GPS du smartphone",
+        "card_slot": "N/A",
+        "charging_wired": "Chargeur Magnétique 2-pin USB",
+        "dimensions": "45.5 x 10.9 mm",
+        "weight": "0.049 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-X20-MASTER",
+        "Name": "Blackview X20",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "29000",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Blackview Smartwatches, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "Blackview, Blackview X20, Montre Connectée, Écran AMOLED, Appels Bluetooth, 380mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Argent | Noir | Or",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.049 kg",
+        "Attribute 4 default": "0.049 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview X20 : Montre Connectée Ronde AMOLED 1.43 Pouces Appels Bluetooth Étanche",
+        "brand_line": "La montre connectée ronde élégante Blackview alliant la pureté de l'AMOLED et le suivi d'activité.",
+        "marketing_conclusion": "Commandez la Blackview X20 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview X20 propose un magnifique écran rond AMOLED de 1.43 pouces, les appels Bluetooth, le suivi de santé complet et plus de 100 modes sportifs.",
+        "features": [
+            {
+                "feature": "Écran Tactile AMOLED 1.43\"",
+                "benefice": "Couleurs vives et lisibilité optimale même en plein soleil."
+            },
+            {
+                "feature": "Appels Bluetooth & Micro HD",
+                "benefice": "Gérez vos appels directement depuis votre poignet."
+            },
+            {
+                "feature": "Mesures de Santé Complètes",
+                "benefice": "Suivi du rythme cardiaque, SpO2 et analyse de sommeil."
+            },
+            {
+                "feature": "Autonomie 7 à 10 Jours (380 mAh)",
+                "benefice": "Utilisation prolongée sans recharges quotidiennes."
+            }
+        ],
+        "slogan_final": "Blackview X20 — L'élégance de l'AMOLED au service de votre santé.",
+        "seo": {
+            "meta_title": "Acheter Blackview X20 Montre Connectée à Abidjan | My-eStore",
+            "meta_description": "Découvrez la montre connectée ronde AMOLED Blackview X20 avec écran 1.43\", appels Bluetooth et suivi santé. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview X20, montre connectee amoled, prix Abidjan, appels bluetooth 380mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview X20",
+            "lsi_keywords": [
+                "Blackview X20",
+                "montre amoled Blackview Abidjan",
+                "Blackview X20 prix",
+                "montre ronde appels bluetooth",
+                "montre connectee elegant 380 mAh",
+                "accessoire connecte sport Côte d'Ivoire",
+                "achat montre X20 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview X20 Montre : Écran AMOLED 1.43\" & Appels BT | My-eStore",
+            "meta_description": "Achetez la montre connectée Blackview X20. Écran 1.43\" AMOLED rond, appels Bluetooth, 100+ modes sport et batterie 380 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview X20 : Spécifications de la Montre Connectée AMOLED",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT AMOLED ROND",
+            "items": [
+                {
+                    "feature": "Dalle AMOLED Ronde 1.43 Pouce",
+                    "benefice": "Contrastes éclatants pour une lecture facilitée."
+                },
+                {
+                    "feature": "Boîtier en Métal Ultra-Mince 10.9 mm",
+                    "benefice": "Esthétique épurée et très légère au poignet."
+                },
+                {
+                    "feature": "Suivi de Santé Complet 24h/24",
+                    "benefice": "Contrôle continu de votre forme au quotidien."
+                },
+                {
+                    "feature": "Autonomie Durable de 380 mAh",
+                    "benefice": "Endurance remarquable durant de nombreux jours."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview X20 est une montre connectée ronde particulièrement moderne et raffinée. Cet équipement convient très bien aux professionnels et sportifs actifs en Côte d'Ivoire. Par ailleurs, sa dalle tactile AMOLED de 1.43 pouce en définition HD offre une lisibilité visuelle très claire. De plus, son verre PANDA Glass résiste très bien aux frottements. La batterie généreuse de 380 mAh permet de travailler en toute sérénité pendant 10 jours d'affilée. Son boîtier extra-fin de 10.9 mm garantit une prise en main très agréable. L'application dédiée sous Android et iOS simplifie l'accès à vos données de santé. Enfin, cette montre élégante constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 1.43 Pouces AMOLED et Verre PANDA Glass",
+                "paragraphs": [
+                    "La Blackview X20 intègre une magnifique dalle tactile AMOLED de 1.43 pouce en résolution 466 x 466 pixels. Sa vitre haute résistance restitue des détails d'une clarté impressionnante. De plus, la luminosité élevée gère facilement la lecture en extérieur. De surcroît, le cadran renforcé protège la montre des rayures accidentelles. Votre montre reste protégée.",
+                    "La structure rigide conserve une stabilité remarquable face aux chocs du quotidien. Le changement de bracelet en silicone s'effectue en un instant. En effet, le boîtier étanche résiste aux projections d'eau en toutes circonstances. Cette conception soignée convient parfaitement aux entraînements physiques. Vos mesures sportives restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Appels Bluetooth HD, Suivi de Santé et 100+ Sports",
+                "paragraphs": [
+                    "La Blackview X20 embarque un haut-parleur et un microphone haute définition intégrés. Cet équipement audio permet de passer des appels téléphoniques clairs depuis votre poignet. En outre, le capteur optique s'avère très pratique pour suivre votre rythme cardiaque en continu. La voix de votre interlocuteur reste très claire. Ainsi, la synchronisation Bluetooth 5.2 assure une réception instantanée de vos notifications. La précision des alertes reste constante.",
+                    "Par ailleurs, les 100 modes sportifs intégrés analysent vos calories dépensées. De plus, le suivi de la saturation en oxygène SpO2 surveille votre fatigue. Également, la fonction d'analyse du sommeil aide à mieux récupérer. De surcroît, le contrôle de la musique simplifie vos séances de sport. En somme, cette montre connectée réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 380 mAh et Étanchéité IP68",
+                "paragraphs": [
+                    "La batterie intégrée de 380 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant 10 jours sans recharge. D'ailleurs, le connecteur magnétique inclus garantit un chargement rapide en moins de deux heures. En effet, la norme IP68 protège les composants internes contre la poussière et la sueur. Vos activités sportives quotidiennes se poursuivent sans interruption.",
+                    "La silhouette épurée avec boîtier en métal offre une tenue naturelle et très légère. Son poids maîtrisé de 49 grammes témoigne du soin apporté au confort quotidien. D'autre part, la Blackview X20 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa dalle AMOLED en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview X20",
+                "subtitle": "Spécifications matérielles certifiées de la montre connectée Blackview X20."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "45.5 x 10.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.049 kg"
+                        },
+                        {
+                            "label": "Boîtier & Verre",
+                            "valeur": "Boîtier en alliage de zinc ultra-mince & Verre PANDA Glass"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Argent, Noir, Or"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "1.43 pouce AMOLED Circulaire"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "466 x 466 pixels (326 ppi)"
+                        },
+                        {
+                            "label": "Personnalisation",
+                            "valeur": "100+ cadrans thématiques disponibles via l'application"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctions Téléphonie & Audio",
+                    "rows": [
+                        {
+                            "label": "Appels Bluetooth",
+                            "valeur": "Émission et réception d'appels via haut-parleur et micro étanches"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 Low Energy"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Suivi de Santé",
+                    "rows": [
+                        {
+                            "label": "Fréquence cardiaque",
+                            "valeur": "Capteur optique PPG suivi 24h/24"
+                        },
+                        {
+                            "label": "Oxygène sanguin",
+                            "valeur": "Mesure du taux de SpO2"
+                        },
+                        {
+                            "label": "Analyse du sommeil",
+                            "valeur": "Suivi des phases de sommeil profond, léger et paradoxal"
+                        },
+                        {
+                            "label": "Modes sportifs",
+                            "valeur": "100+ modes d'entraînement (Marche, Course, Vélo, Fitness)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "380 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "7 à 10 jours en utilisation normale, 30 jours en veille"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 / 1 ATM (Résistant à la pluie, sueur et éclaboussures)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes supportés",
+                            "valeur": "Android 6.0 ou supérieur, iOS 9.0 ou supérieur"
+                        },
+                        {
+                            "label": "Application compagnon",
+                            "valeur": "InfoWear / FitCloudPro"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/x20-smartwatch-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

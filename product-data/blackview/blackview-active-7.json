@@ -1,0 +1,381 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Active 7",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/active7"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "220000",
+        "official_sku": "BV-ACTIVE-7"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core 2.2 GHz",
+        "processor_ghz": "2.2 GHz Octa-Core",
+        "screen_size": "11\"",
+        "screen_technology": "IPS 2.5K Verre Corning Gorilla Glass 5",
+        "screen_resolution": "2.5K 2000 x 1200 pixels",
+        "battery_capacity": "15000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Jusqu'à 16 Go",
+        "os": "Android 13",
+        "os_skin": "Doke OS 3.0 Tablet Edition",
+        "camera_main": "48 MP (Samsung ISOCELL GM2)",
+        "camera_selfie": "16 MP (SK Hynix Hi-1634Q)",
+        "audio_config": "Quatre haut-parleurs Harman Kardon",
+        "audio_tech": "Son HD Stéréo Harman Kardon",
+        "connectivity_nfc": "Oui, compatible Google Pay",
+        "navigation_gps": "GPS, GLONASS, Beidou, Galileo",
+        "card_slot": "Triple slot (2x Nano SIM + MicroSD)",
+        "charging_wired": "USB-C Charge Rapide 33W",
+        "dimensions": "268.2 x 174.6 x 19.8 mm",
+        "weight": "1.050 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ACTIVE-7-MASTER",
+        "Name": "Blackview Active 7",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "220000",
+        "Categories": "Tablettes > Blackview > Active Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Active 7, Tablette Durcie, Rugged Tablet, IP68, 15000mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.050 kg",
+        "Attribute 4 default": "1.050 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Active 7 : La Tablette Durcie 11\" Ultra-Puissante",
+        "brand_line": "Tablette professionnelle grand écran Blackview conçue pour les chantiers et la mobilité.",
+        "marketing_conclusion": "Commandez la Blackview Active 7 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Active 7 embarque un grand écran 11 pouces 2.5K, un processeur Helio G99 et une batterie monstre de 15000 mAh. Elle est certifiée IP68, IP69K et MIL-STD-810H.",
+        "features": [
+            {
+                "feature": "Certifications IP68 & MIL-STD",
+                "benefice": "Résistance totale à l'eau, à la poussière et aux chocs sur vos chantiers."
+            },
+            {
+                "feature": "Batterie Colosale 15000 mAh",
+                "benefice": "Autonomie extrême permettant plusieurs jours d'utilisation intensive."
+            },
+            {
+                "feature": "Écran 11\" 2.5K Gorilla Glass 5",
+                "benefice": "Surface d'affichage très claire utilisable même avec des gants."
+            },
+            {
+                "feature": "4 Haut-parleurs Harman Kardon",
+                "benefice": "Rendu sonore puissant idéal pour les environnements de travail bruyants."
+            }
+        ],
+        "slogan_final": "Blackview Active 7 — La référence tout-terrain grand format.",
+        "seo": {
+            "meta_title": "Acheter Blackview Active 7 (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette durcie Blackview Active 7 avec écran 11 pouces 2.5K et batterie 15000 mAh. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Active 7, tablette durcie Blackview, prix Abidjan, IP68 15000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Active 7",
+            "lsi_keywords": [
+                "Blackview Active 7",
+                "tablette durcie Blackview",
+                "prix Abidjan",
+                "tablette IP68 Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "tablette 11 pouces robuste",
+                "batterie 15000 mAh",
+                "MediaTek Helio G99",
+                "achat tablette Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Active 7 128Go : Écran 11\" 2.5K & 15000mAh | My-eStore",
+            "meta_description": "Achetez la tablette durcie Blackview Active 7 128 Go. Dalle 11 2.5K, processeur Helio G99 et batterie 15000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Active 7 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Châssis Renforcé IP68 / IP69K",
+                    "benefice": "Étanchéité totale à l'eau et à la poussière certifiée MIL-STD-810H."
+                },
+                {
+                    "feature": "Batterie Géante 15000 mAh",
+                    "benefice": "Plusieurs jours d'autonomie avec fonction de recharge inversée."
+                },
+                {
+                    "feature": "Puce MediaTek Helio G99 6nm",
+                    "benefice": "Processeur réactif assurant une grande fluidité sur vos logiciels métier."
+                },
+                {
+                    "feature": "Quatre Haut-Parleurs Harman Kardon",
+                    "benefice": "Acoustique stéréo haute fidélité pour une parfaite lisibilité sonore."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Active 7 est une tablette durcie grand format de 11 pouces. Cet appareil répond parfaitement aux besoins des professionnels exigeants en Côte d'Ivoire. Sa coque blindée certifiée IP68 et IP69K résiste aux chocs et aux infiltrations. De plus, sa batterie géante de 15000 mAh offre une autonomie prolongée. Son écran 2.5K protégé par du verre Gorilla Glass 5 garantit une lisibilité idéale. De surcroît, la puce MediaTek Helio G99 assure une exécution rapide des applications. L'interface Doke OS 3.0 simplifie la gestion de vos documents professionnels. Enfin, vous travaillez en toute sérénité sur tous vos chantiers.",
+        "sections": [
+            {
+                "h2_title": "Châssis Blindé et Protection Tout-Terrain",
+                "paragraphs": [
+                    "La Blackview Active 7 est conçue pour affronter les conditions de terrain les plus rudes. Ses certifications IP68 et IP69K garantissent une étanchéité complète sous l'eau et la poussière. En effet, la tablette résiste aux fortes pluies et aux éclaboussures de chantier. De surcroît, la norme militaire MIL-STD-810H valide sa résistance aux chutes de 1.5 mètre. Ses coins caoutchoutés absorbent efficacement les chocs mécaniques. L'appareil reste opérationnel en toute circonstance.",
+                    "Le verre Corning Gorilla Glass 5 préserve la dalle contre les rayures accidentelles. La technologie tactile réagit parfaitement aux commandes avec des gants de travail. En effet, la poignée rembourrée à l'arrière facilite la tenue à une main. Le stylet fourni permet des prises de notes très précises sur les plans. Ainsi, vos équipes interviennent sur le terrain en toute sécurité."
+                ]
+            },
+            {
+                "h2_title": "Performance Matérielle et Autonomie Massive",
+                "paragraphs": [
+                    "La puce MediaTek Helio G99 gravée en 6nm offre une grande fluidité d'exécution. Ses huit cœurs gèrent sans problème les logiciels de modélisation et de suivi. Par ailleurs, les 8 Go de mémoire vive s'accompagnent d'une extension virtuelle. Ainsi, le basculement entre plusieurs applications de travail s'effectue sans ralentissement. Le stockage de 128 Go accueille tous vos fichiers professionnels. Vous disposez d'un outil de travail complet sur le terrain.",
+                    "La batterie intégrée de 15000 mAh délivre une autonomie colosale au quotidien. Elle permet d'enchaîner plusieurs journées de travail sans recharger l'appareil. En outre, la technologie de charge rapide 33W permet de récupérer l'énergie rapidement. La fonction de charge inversée permet de dépanner d'autres appareils USB. Cette réserve d'énergie garantit une continuité d'activité constante."
+                ]
+            },
+            {
+                "h2_title": "Capteur 48 MP et Acoustique Harman Kardon",
+                "paragraphs": [
+                    "Le capteur photo principal de 48 mégapixels capture des images de haute précision. Le capteur frontal de 16 mégapixels permet des appels vidéo professionnels nets. De plus, les quatre haut-parleurs Harman Kardon délivrent un son audible en milieu bruyant. Par ailleurs, vos communications vocales restent faciles à suivre. La connectivité 4G LTE et le Wi-Fi maintiennent un lien permanent avec vos équipes. Vos rapports de chantier sont transmis rapidement.",
+                    "L'interface Doke OS 3.0 basée sur Android 13 se montre intuitive et personnalisable. Elle intègre un mode boîte à outils professionnelle avec boussole et niveau à bulle. La Blackview Active 7 s'impose comme une référence incontournable pour le terrain. En somme, son rapport qualité-prix en fait un choix très avantageux. Vous profitez de la livraison rapide et sécurisée My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Active 7",
+                "subtitle": "Spécifications matérielles certifiées de la tablette durcie Blackview Active 7."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "268.2 x 174.6 x 19.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.050 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque TPU renforcée anti-choc et alliages métalliques"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Certifications IP68, IP69K & MIL-STD-810H"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran",
+                    "rows": [
+                        {
+                            "label": "Taille",
+                            "valeur": "11\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS 2.5K utilisable avec des gants"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2.5K (2000 x 1200 pixels)"
+                        },
+                        {
+                            "label": "Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G99 (MT6789) 6nm"
+                        },
+                        {
+                            "label": "CPU / GPU",
+                            "valeur": "Octa-Core 2.2 GHz / Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire vive (RAM)",
+                            "valeur": "8 Go"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "Jusqu'à 16 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "MicroSD extensible jusqu'à 1 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "48 MP (Samsung ISOCELL GM2)"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "Non supporté"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "Non supporté"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "16 MP (SK Hynix Hi-1634Q)"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "1080p @ 30fps"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Quatre haut-parleurs stéréo Harman Kardon"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Son HD Stéréo Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "15000 mAh Li-Po"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "33W USB-C Charge Rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Non disponible"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Charge inversée d'urgence supportée"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE / 3G / 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 5, Bluetooth 5.2, GPS, GLONASS, Beidou, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Triple slot (2x Nano SIM + MicroSD)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android 13 avec surcouche Doke OS 3.0 Tablet"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour de sécurité de base"
+                        },
+                        {
+                            "label": "Sans-fil Général",
+                            "valeur": "Wi-Fi, Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, compatible Google Pay"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Mode Boîte à Outils Terrain IA"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/active7"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

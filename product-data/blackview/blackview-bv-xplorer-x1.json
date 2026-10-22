@@ -1,0 +1,328 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Xplorer X1 5G",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/xplore-x1-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "210000",
+        "official_sku": "BV-XPLORER-X1"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7050 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.6 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "2.4K FHD+ IPS LCD 120Hz",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "10000 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "64 MP (Capteur Samsung) + Vision Nocturne 20 MP",
+        "camera_selfie": "32 MP HD",
+        "audio_config": "Haut-parleurs stéréo Smart-PA",
+        "audio_tech": "Son HD & Prise Jack 3.5mm étanche",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo (Dual-band)",
+        "card_slot": "Dual SIM 5G / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 33W USB-C & Charge Inverse",
+        "dimensions": "184 x 83 x 18 mm",
+        "weight": "0.420 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-XPLORER-X1-MASTER",
+        "Name": "Blackview Xplorer X1 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "210000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Xplorer X1 5G, Smartphone Durci, 5G, 10000mAh, 120Hz, IP68, IP69K, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.420 kg",
+        "Attribute 4 default": "0.420 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Xplorer X1 5G : Smartphone Durci 10000 mAh Écran 120Hz",
+        "brand_line": "Smartphone durci 5G haut de gamme Blackview renforcé avec vision nocturne.",
+        "marketing_conclusion": "Commandez le Blackview Xplorer X1 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Xplorer X1 5G associe une batterie de 10000 mAh, une puce Dimensity 7050 5G, un écran 120Hz 6.78\" et une étanchéité IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Grande Batterie 10000 mAh & Charge 33W",
+                "benefice": "Autonomie hors norme de plusieurs jours sur le terrain."
+            },
+            {
+                "feature": "Puce MediaTek Dimensity 7050 5G",
+                "benefice": "Connexion 5G ultra-rapide et puissance de traitement élevée."
+            },
+            {
+                "feature": "Écran 2.4K 6.78\" FHD+ 120Hz",
+                "benefice": "Fluidité visuelle et haute clarté des détails d'affichage."
+            },
+            {
+                "feature": "Caméra 64 MP & Vision Nocturne 20 MP",
+                "benefice": "Prise de vue nette même dans l'obscurité totale."
+            }
+        ],
+        "slogan_final": "Blackview Xplorer X1 5G — La résistance 5G sans compromis.",
+        "seo": {
+            "meta_title": "Acheter Blackview Xplorer X1 5G (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview Xplorer X1 5G. Batterie 10000 mAh, Dimensity 7050 5G, écran 120Hz et vision nocturne. Commandez chez My-eStore à Abidjan.",
+            "keywords": "Blackview Xplorer X1 5G, smartphone durci 5G, prix Abidjan, 10000mAh IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Xplorer X1 5G",
+            "lsi_keywords": [
+                "Blackview Xplorer X1 5G",
+                "smartphone durci 5G Abidjan",
+                "Blackview Xplorer X1 prix",
+                "Dimensity 7050 5G",
+                "batterie 10000 mAh 5G",
+                "smartphone incassable Côte d'Ivoire",
+                "IP68 IP69K MIL-STD-810H",
+                "achat smartphone durci Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Xplorer X1 5G 256Go : 10000 mAh & 120Hz | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview Xplorer X1 5G. Batterie 10000 mAh, processeur Dimensity 7050 5G, 12Go RAM et écran 120Hz. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Xplorer X1 5G : Spécifications et Performances de Terrain",
+        "experience_box": {
+            "box_title": "LES ATOUTS TOUT-TERRAIN EN APERÇU",
+            "items": [
+                {
+                    "feature": "Normes Militaires IP68/IP69K & MIL-STD-810H",
+                    "benefice": "Résistance totale à l'eau, à la poussière et aux chutes dures."
+                },
+                {
+                    "feature": "Processeur 5G Dimensity 7050",
+                    "benefice": "Connexions ultra-rapides et réactivité maximale dans vos applications."
+                },
+                {
+                    "feature": "Réserve Énergétique 10000 mAh",
+                    "benefice": "Fonctionnement prolongé sans recharge durant vos missions."
+                },
+                {
+                    "feature": "Caméra Infrarouge Vision Nocturne",
+                    "benefice": "Inspection et captation photo en pleine nuit sans éclairage."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Xplorer X1 5G est un smartphone durci extrêmement solide et performant. Cet équipement convient très bien aux professionnels du bâtiment et aventuriers en Côte d'Ivoire. Par ailleurs, la puce MediaTek Dimensity 7050 5G assure des débits cellulaires rapides. De plus, son écran 2.4K de 6.78 pouces à 120 Hz offre une immersion visuelle remarquable. En effet, sa batterie de 10000 mAh vous affranchit des contraintes de rechargement quotidien. Sa structure renforcée certifiée IP68 et IP69K résiste aux conditions climatiques rudes. L'interface DokeOS 4.0 sous Android 14 simplifie l'accès à tous vos outils. Enfin, ce modèle représente un investissement professionnel très avantageux.",
+        "sections": [
+            {
+                "h2_title": "Écran 2.4K 120Hz et Puissance Dimensity 7050 5G",
+                "paragraphs": [
+                    "Le Blackview Xplorer X1 5G intègre une grande dalle IPS de 6.78 pouces en résolution 2.4K. Sa définition de 2460 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, le taux de rafraîchissement de 120 Hz apporte une fluidité constante lors du défilement. De surcroît, le processeur Dimensity 7050 5G gravé en 6 nm prend en charge vos applications gourmandes. Les 12 Go de mémoire RAM garantissent une gestion multitâche d'une grande aisance. Les performances restent stables sous les sollicitations intenses.",
+                    "Cependant, la mémoire interne de 256 Go conserve l'ensemble de vos plans et dossiers de chantier. L'ajout d'une carte MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaires. En effet, le tiroir d'extension accueille deux cartes SIM 5G pour une connectivité double réseau. Par conséquent, cette conception robuste protège vos données en toutes circonstances. Vos fichiers restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 64 MP, Vision Nocturne et Étanchéité Renforcée",
+                "paragraphs": [
+                    "Le Blackview Xplorer X1 5G embarque un capteur photo principal de 64 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté sur le terrain. En outre, la caméra infrarouge de 20 Mégapixels permet de photographier dans l'obscurité totale. De surcroît, la caméra frontale de 32 Mégapixels assure des visioconférences nettes lors de vos réunions. Ainsi, la captation vidéo en 4K immortalise vos inspections professionnelles avec clarté. La précision d'image reste constante.",
+                    "Par ailleurs, le boîtier étanche résiste à l'immersion sous l'eau jusqu'à 1.5 mètre pendant 30 minutes. De plus, le traitement en verre Corning Gorilla Glass protège l'écran contre les rayures d'outils. Également, la puce NFC multifonction permet des paiements rapides sans contact. De surcroît, le module GPS double bande garantit un guidage très précis lors de vos déplacements en brousse. En somme, ce smartphone durci réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 10000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 10000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sur le terrain pendant plusieurs jours consécutifs. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la fonction de charge inversée permet de recharger vos autres appareils électroniques. Vos activités professionnelles se poursuivent sans interruption.",
+                    "La silhouette renforcée de 18 mm offre une tenue en main ferme et très sécurisante. Son poids de 420 grammes témoigne du blindage complet apporté au téléphone. Le Blackview Xplorer X1 5G constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa résistance certifiée en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Xplorer X1 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview Xplorer X1 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "184 x 83 x 18 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.420 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K & MIL-STD-810H (Chocs, poussière, eau)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.78 pouces 2.4K FHD+ IPS LCD"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2460 x 1080 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 7050 5G (6 nm) Octa-Core 2.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G68 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5 (+12 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 3.1 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "64 MP (Capteur Samsung ISOCELL) + Vision Nocturne 20 MP"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "32 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps / 1080p à 60 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "10000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Oui (Powerbank OTG)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G / 4G LTE Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec DokeOS 4.0"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/xplore-x1-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

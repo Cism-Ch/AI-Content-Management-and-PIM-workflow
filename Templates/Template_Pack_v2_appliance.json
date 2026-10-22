@@ -1,0 +1,254 @@
+{
+    "template_version": "3.4",
+    "product_type": "appliance",
+    "template_group": "APPLIANCE",
+    "energy_rating": "",
+    "metadata": {
+        "target_brand": "",
+        "target_model": "",
+        "generation_date": ""
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "",
+                "url": ""
+            }
+        ],
+        "pricing_reference": "",
+        "official_sku": ""
+    },
+    "key_specifications": {
+        "appliance_type": "",
+        "capacity": "",
+        "power_watts": "",
+        "voltage": "",
+        "frequency": "",
+        "energy_class": "",
+        "annual_consumption": "",
+        "noise_level_db": "",
+        "dimensions_hxwxd": "",
+        "weight_kg": "",
+        "installation_type": "",
+        "material": "",
+        "cooling_system": "",
+        "programs_count": null,
+        "special_functions": [],
+        "safety_features": [],
+        "connectivity": "",
+        "warranty": "",
+        "certification": ""
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "[MARQUE]-[MODELE]-SKU",
+        "Name": "[MARQUE] [MODELE]",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "PRIX_FCFA",
+        "Categories": "",
+        "Tags": "[MARQUE], [MODELE], [SERIE], Électroménager, [TYPOLOGIE_REFRIGERATEUR/LAVE_LINGE/CLIMATISEUR], [CAPACITE_L_OU_KG], [PUISSANCE_W], [CLASSE_ENERGIE], [FONCTION_CLE], Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "",
+        "Attribute 1 default": "",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "XX.X kg",
+        "Attribute 4 default": "XX.X kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "[MARQUE] [MODELE] : TAGLINE",
+        "brand_line": "",
+        "marketing_conclusion": "",
+        "teaser": "",
+        "features": [
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            }
+        ],
+        "slogan_final": "",
+        "seo": {
+            "meta_title": "",
+            "meta_description": "",
+            "keywords": ""
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "",
+            "lsi_keywords": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        "h1": "",
+        "experience_box": {
+            "box_title": "",
+            "items": [
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                }
+            ]
+        },
+        "intro_paragraph": "",
+        "sections": [
+            {
+                "h2_title": "Performance et Conception",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "h2_title": "Confort et Commodité",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "h2_title": "Fonctions Avancées et Durabilité",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "full_specs_table": {
+            "title": "Fiche Technique Complète : [MARQUE] [MODELE]",
+            "column_widths": [
+                "30%",
+                "30%",
+                "40%"
+            ],
+            "column_headers": [
+                "Catégorie",
+                "Caractéristique",
+                "Détails"
+            ],
+            "sections": [
+                {
+                    "name": "Général",
+                    "rows": [
+                        {
+                            "label": "Marque & Modèle",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Type d'appareil",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Énergie",
+                    "rows": [
+                        {
+                            "label": "Classe Énergétique",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Consommation annuelle",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Niveau Sonore",
+                            "valeur": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions (HxLxP)",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Poids Net",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Capacité Totale",
+                            "valeur": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Technologie",
+                    "rows": [
+                        {
+                            "label": "Système de froid/cuisson",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Programmes / Fonctions",
+                            "valeur": ""
+                        },
+                        {
+                            "label": "Connectivité",
+                            "valeur": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "sources_footer": {
+            "source_link": {
+                "name": "",
+                "url": ""
+            },
+            "certification": ""
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "full_specs": {
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        }
+    }
+}

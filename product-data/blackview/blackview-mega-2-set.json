@@ -1,0 +1,308 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Mega 2",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/mega2-price"
+            }
+        ],
+        "pricing_reference": "185000",
+        "official_sku": "BV-MEGA-2"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "12.0 pouces",
+        "screen_technology": "2.4K IPS LCD TUV Rheinland Low Blue Light",
+        "screen_resolution": "2000 x 1200 pixels",
+        "battery_capacity": "9000 mAh",
+        "ram_options": [
+            "8 Go",
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "50 MP avec Flash LED",
+        "camera_selfie": "13 MP HD",
+        "audio_config": "Quatre Haut-parleurs Stéréo Harman Kardon",
+        "audio_tech": "Son Spatial Quad-Speaker",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "281.7 x 177.2 x 8.0 mm",
+        "weight": "0.615 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MEGA-2-MASTER",
+        "Name": "Blackview Mega 2",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "185000",
+        "Categories": "Tablettes > Blackview > Mega Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Mega 2, Tablette 12 pouces, 2.4K, 9000mAh, 33W, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Bleu | Vert",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.615 kg",
+        "Attribute 4 default": "0.615 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Mega 2 : Tablette 12 Pouces 2.4K Helio G99 50 MP 9000 mAh 33W",
+        "brand_line": "La tablette grand format premium Blackview avec ensemble clavier et stylet pour la productivité.",
+        "marketing_conclusion": "Commandez le Blackview Mega 2 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Mega 2 embarque un grand écran de 12.0 pouces 2.4K, un appareil photo de 50 MP, quatre haut-parleurs et une batterie de 9000 mAh avec charge 33W.",
+        "features": [
+            {
+                "feature": "Écran Géant 12.0\" 2.4K IPS",
+                "benefice": "Surface de travail très spacieuse et grand confort visuel."
+            },
+            {
+                "feature": "Quadruple Haut-Parleur Harman Kardon",
+                "benefice": "Immersions sonores de haute qualité lors de vos lectures vidéo."
+            },
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Numérisation nette et photos haute résolution."
+            },
+            {
+                "feature": "Batterie 9000 mAh & Charge 33W",
+                "benefice": "Autonomie renforcée pour tenir toute votre journée de travail."
+            }
+        ],
+        "slogan_final": "Blackview Mega 2 — L'alliance de la puissance et du grand écran.",
+        "seo": {
+            "meta_title": "Acheter Blackview Mega 2 (8Go/12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Mega 2 avec écran 12\" 2.4K, caméra 50 MP et batterie 9000 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Mega 2, tablette 12 pouces, prix Abidjan, 2.4K 9000mAh 33W"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Mega 2",
+            "lsi_keywords": [
+                "Blackview Mega 2",
+                "tablette 12 pouces Blackview Abidjan",
+                "Blackview Mega 2 prix",
+                "tablette grand écran harman kardon",
+                "tablette 9000 mAh 33W",
+                "tablette travail bureau Côte d'Ivoire",
+                "achat tablette 12 pouces Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Mega 2 256 Go : Écran 12\" 2.4K & 9000 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Mega 2. Écran géant 12\" 2.4K, audio Harman Kardon, batterie 9000 mAh 33W et puce Helio G99. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Mega 2 : Spécifications de la Tablette 12 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT 12 POUCES",
+            "items": [
+                {
+                    "feature": "Grand Écran 12.0 Pouces 2.4K",
+                    "benefice": "Affichage ultra-clair idéal pour les présentations."
+                },
+                {
+                    "feature": "Accumulateur Massif 9000 mAh",
+                    "benefice": "Utilisation ininterrompue sans recharger."
+                },
+                {
+                    "feature": "Quatre Haut-Parleurs Harman Kardon",
+                    "benefice": "Son spatial clair pour vos visioconférences."
+                },
+                {
+                    "feature": "Charge Rapide 33W USB-C",
+                    "benefice": "Recharge véloce pour reprendre rapidement vos activités."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Mega 2 est une tablette tactile 12 pouces particulièrement performante et spacieuse. Cet équipement convient très bien aux professionnels et étudiants exigeants en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 12.0 pouces en définition 2.4K offre une lisibilité visuelle très claire. De plus, la certification TÜV Rheinland protège vos yeux contre la fatigue visuelle. La batterie généreuse de 9000 mAh permet de travailler en toute sérénité toute la journée. Son boîtier en aluminium de 8.0 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à tous vos dossiers. Enfin, cette tablette moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 12.0 Pouces 2.4K et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview Mega 2 intègre une grande dalle IPS de 12.0 pouces en définition 2.4K. Sa résolution de 2000 x 1200 pixels restitue des détails d'une clarté impressionnante. De plus, la réponse tactile réactive améliore le défilement dans vos applications. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le châssis en toutes circonstances. Vos projets professionnels restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Audio Quad Harman Kardon, Appareil 50 MP et 4G LTE",
+                "paragraphs": [
+                    "Le Blackview Mega 2 embarque quatre haut-parleurs stéréo certifiés Harman Kardon. Cet équipement audio restitue un son haute définition d'une puissance remarquable en appel. En outre, la caméra arrière de 50 Mégapixels s'avère très pratique pour scanner des documents clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, la caméra frontale de 13 Mégapixels immortalise vos visioconférences avec netteté. La précision vidéo reste constante.",
+                    "Par ailleurs, le Mode PC transforme l'interface en véritable ordinateur de bureau. De plus, la compatibilité avec le stylet magnétique facilite les croquis créatifs. Également, la connectivité 4G LTE assure des téléchargements rapides en déplacement. De surcroît, le récepteur GPS quadruples réseaux garantit un guidage très précis en voyage. En somme, cette grande tablette réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 9000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 9000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption durant de longues sessions. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, le système de gestion thermique préserve la batterie lors des usages intensifs. Vos activités professionnelles se poursuivent sans interruption.",
+                    "La silhouette affinée de 8.0 mm offre une tenue en main naturelle et très élégante. Son poids contenu de 615 grammes témoigne du soin apporté à la structure. D'autre part, le Blackview Mega 2 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son écran 12 pouces en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Mega 2",
+                "subtitle": "Spécifications matérielles certifiées de la tablette 12.0 pouces Blackview Mega 2."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "281.7 x 177.2 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.615 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis monobloc métallique renforcé"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Bleu, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "12.0 pouces IPS LCD 2.4K"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2000 x 1200 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Certification TÜV Rheinland Low Blue Light"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR4X (+12 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP HD"
+                        },
+                        {
+                            "label": "Système audio",
+                            "valeur": "4 haut-parleurs stéréo certifiés Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "9000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0 avec Mode PC)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/mega2-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

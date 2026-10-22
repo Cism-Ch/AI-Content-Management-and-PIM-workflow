@@ -1,0 +1,313 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "SCM5",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/scm5-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "BV-SCM5"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Single Screen Controller",
+        "processor_ghz": "N/A",
+        "screen_size": "14 pouces (Écran Simple Portable)",
+        "screen_technology": "FHD IPS LCD Mat Anti-Reflets 100% sRGB",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation directe USB-C)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non disponible",
+        "os": "Compatible Windows, macOS, Android, Linux",
+        "os_skin": "Plug & Play sans pilote",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Double haut-parleur stéréo HD intégré",
+        "audio_tech": "Son Stéréo HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "Dual USB-C & Mini HDMI",
+        "dimensions": "357.5 x 207.7 x 25.5 mm",
+        "weight": "0.995 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-SCM5-MASTER",
+        "Name": "Blackview SCM5",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "95000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview SCM5, Moniteur Portable, Écran Supplémentaire, 14 Pouces, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.995 kg",
+        "Attribute 4 default": "0.995 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview SCM5 : Le Moniteur Portable 14 Pouces Ultra-Léger",
+        "brand_line": "Moniteur portable appoint Blackview conçu pour la mobilité professionnelle.",
+        "marketing_conclusion": "Commandez le Blackview SCM5 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview SCM5 propose un écran portable 14 pouces Full HD IPS de moins de 1 kg, une connectique USB-C Plug & Play et un pied de support rabattable.",
+        "features": [
+            {
+                "feature": "Poids Ultra-Plume 995 g",
+                "benefice": "Moniteur d'appoint extrêmement léger et facile à transporter."
+            },
+            {
+                "feature": "Dalle 14\" Full HD IPS 100% sRGB",
+                "benefice": "Qualité d'image très nette avec un rendu des couleurs fidèle."
+            },
+            {
+                "feature": "Connectique USB-C & Mini HDMI",
+                "benefice": "Connexion instantanée sans besoin d'installation de logiciel."
+            },
+            {
+                "feature": "Pied Pliable & Haut-Parleurs Stéréo",
+                "benefice": "Installation stable et son intégré pour vos présentations."
+            }
+        ],
+        "slogan_final": "Blackview SCM5 — L'extension d'écran simple et efficace.",
+        "seo": {
+            "meta_title": "Acheter Blackview SCM5 (Moniteur Portable 14\") à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable d'appoint Blackview SCM5 avec écran 14 pouces Full HD et connectique USB-C. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview SCM5, moniteur portable Blackview, prix Abidjan, écran 14 pouces USB-C"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview SCM5",
+            "lsi_keywords": [
+                "Blackview SCM5",
+                "moniteur portable Blackview",
+                "prix Abidjan",
+                "écran d'appoint PC portable Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écran portable 14 pouces",
+                "USB-C 995g",
+                "écran portable FHD IPS",
+                "achat moniteur portable Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview SCM5 14\" : Moniteur Portable 995g & USB-C | My-eStore",
+            "meta_description": "Achetez le moniteur portable Blackview SCM5. Écran 14 pouces Full HD IPS d'appoint (995 g), USB-C et pied rabattable. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview SCM5 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Châssis Ultra-Mince 995 g",
+                    "benefice": "Encombrement minimal se glissant dans toute sacoche d'ordinateur."
+                },
+                {
+                    "feature": "Dalle IPS 14 Pouces Full HD",
+                    "benefice": "Résolution 1920x1080 avec angles de vision larges à 178°."
+                },
+                {
+                    "feature": "Alimentation USB-C Directe",
+                    "benefice": "Raccordement simplifié avec un unique câble vidéo et énergie."
+                },
+                {
+                    "feature": "Traitement Oculaire Anti-Reflets",
+                    "benefice": "Confort visuel amélioré sous les néons de bureau et en extérieur."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview SCM5 est un moniteur portable d'appoint simple écran léger et performant. Cet équipement répond idéalement aux besoins des consultants et télétravailleurs en Côte d'Ivoire. Par ailleurs, sa structure affinée pèse moins de 1 kg pour un transport facile. De plus, sa dalle de 14 pouces Full HD IPS offre un affichage d'une grande clarté. Le revêtement mat atténue les reflets gênants durant vos sessions bureautiques. La connectique USB-C permet un fonctionnement instantané sans aucun pilote. En effet, sa compatibilité universelle convient à tous les ordinateurs portables. Enfin, vous travaillez confortablement en double écran où que vous soyez.",
+        "sections": [
+            {
+                "h2_title": "Dalle FHD IPS 14 Pouces et Qualité d'Image",
+                "paragraphs": [
+                    "Le Blackview SCM5 embarque une dalle IPS de 14 pouces haute définition. Sa résolution Full HD de 1920 x 1080 pixels restitue les caractères et graphiques avec précision. De plus, la couverture de 100% de l'espace colorimétrique sRGB offre un rendu visuel très équilibré. De surcroît, la technologie IPS maintient la clarté des couleurs sous tous les angles jusqu'à 178 degrés. Vous pouvez partager votre écran avec vos collègues en réunion très facilement. La lisibilité globale demeure constante au quotidien.",
+                    "L'écran d'appoint permet de déporter vos messageries ou documents de référence pendant vos travaux. Cette organisation visuelle améliore grandement le confort et évite les basculements continus de fenêtres. En effet, la consommation d'énergie réduite préserve l'autonomie de la batterie du PC portable. Le réglage de luminosité s'effectue simplement à l'aide des boutons latéraux. Ainsi, votre travail à Abidjan gagne en sérénité et en fluidité."
+                ]
+            },
+            {
+                "h2_title": "Connectique USB-C et Simplicité d'Installation",
+                "paragraphs": [
+                    "Le Blackview SCM5 propose une connectique universelle équipée de deux ports USB-C multifonctions. Ces ports gèrent simultanément l'entrée vidéo DisplayPort et l'alimentation électrique. En outre, la présence d'un port Mini HDMI assure la connexion avec vos équipements de bureau fixes. Le branchement s'effectue en quelques secondes sans configuration complexe. La détection du signal par votre système d'exploitation est immédiate. L'utilisation gagne en simplicité et en réactivité.",
+                    "Par ailleurs, l'écran intègre de petits haut-parleurs stéréo pour écouter vos contenus audio. Vous suivez vos visioconférences avec une restitution vocale claire sans casque. De plus, la prise audio Jack 3.5 mm permet le branchement d'écouteurs filaires selon vos besoins. Cette modularité audio simplifie l'aménagement de votre poste nomade. En somme, cette solution d'affichage d'appoint répond à toutes vos exigences."
+                ]
+            },
+            {
+                "h2_title": "Châssis Solide et Support Pliable",
+                "paragraphs": [
+                    "La conception du Blackview SCM5 se distingue par sa finition soignée et robuste. Le pied rabattable au dos de l'écran assure une excellente stabilité sur n'importe quelle surface. Son poids plume de 995 grammes se fait rapidement oublier dans un sac à dos. En effet, la housse de protection fournie préserve le panneau contre les rayures durant vos déplacements. Vous installez votre second écran sur votre table en un clin d'œil.",
+                    "La compatibilité matérielle est totale avec les systèmes Windows, macOS, Android et Linux. Cette flexibilité vous permet de connecter le moniteur d'appoint à un smartphone ou une tablette. Le Blackview SCM5 représente une solution d'affichage particulièrement économique à Abidjan. En somme, son rapport qualité-prix en fait une opportunité très séduisante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview SCM5",
+                "subtitle": "Spécifications matérielles certifiées du moniteur portable d'appoint Blackview SCM5."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions replié",
+                            "valeur": "357.5 x 207.7 x 25.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.995 kg (995 g)"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Moniteur portable d'appoint 14 pouces"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Nombre d'écrans",
+                            "valeur": "1 écran portable IPS"
+                        },
+                        {
+                            "label": "Taille écran",
+                            "valeur": "14 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Gamme de couleurs",
+                            "valeur": "100% sRGB"
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS Mat Anti-Reflets (178°)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Ports",
+                    "rows": [
+                        {
+                            "label": "Ports vidéo",
+                            "valeur": "2 x USB-C (DisplayPort + Power Delivery), 1 x Mini HDMI"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise Jack 3.5 mm & Haut-parleurs stéréo HD"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Alimentation directe via USB-C (5V/3A)"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play (sans pilote)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité",
+                    "rows": [
+                        {
+                            "label": "Compatibilité appareils",
+                            "valeur": "PC portables, Consoles, Smartphones (mode Desktop)"
+                        },
+                        {
+                            "label": "Systèmes d'exploitation",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS"
+                        },
+                        {
+                            "label": "Modes d'affichage",
+                            "valeur": "Mode Étendu, Mode Miroir, Mode Portrait"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Pied pliable",
+                            "valeur": "Support arrière intégré ajustable"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câbles inclus",
+                            "valeur": "1 x Câble USB-C vers USB-C, 1 x Câble Mini HDMI vers HDMI"
+                        },
+                        {
+                            "label": "Accessoires",
+                            "valeur": "Manuel d'utilisation et étui de rangement"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/scm5-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

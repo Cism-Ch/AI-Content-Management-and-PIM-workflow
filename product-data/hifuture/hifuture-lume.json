@@ -1,0 +1,347 @@
+{
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-11",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "hifuture-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du modèle HiFuture Lume avec rédaction 3-Persona."
+    },
+    "product_identity": {
+        "brand": "HiFuture",
+        "product_line": "Montre Connectée Tactile",
+        "commercial_name": "HiFuture Lume",
+        "category": "wearable",
+        "sub_category": "wearable",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HIFUTURE-LUME",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HIFUTURE-LUME"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "HiFuture Official Store",
+                "url": "https://hifuturegroup.com/products/lume"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=HiFuture+Lume"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=HiFuture+Lume+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié HiFuture Lume Smartwatch 1.32\" AMOLED 260mAh IP68"
+    },
+    "variants": [
+        {
+            "variant_name": "Standard",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "Standard",
+                "storage": "Standard"
+            },
+            "pricing": {
+                "official_price_fcfa": 32000,
+                "market_price_range_fcfa": {
+                    "min": 27000,
+                    "max": 37000
+                },
+                "price_source": "My-eStore",
+                "price_date": "2026-08-11",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [
+            "Noir",
+            "Argent",
+            "Jaune",
+            "Vert"
+        ],
+        "exclusive": [],
+        "default": "Noir"
+    },
+    "key_specifications": {
+        "processor": "Dual-Core Syntra AI Low-Power",
+        "processor_ghz": "Standard",
+        "ram_options": [
+            "Standard"
+        ],
+        "ram_extension": "",
+        "storage_options": [
+            "Standard"
+        ],
+        "card_slot": "",
+        "screen_size": "1.32\"",
+        "screen_technology": "AMOLED HD",
+        "screen_resolution": "466 x 466 pixels",
+        "screen_refresh_rate": "60 Hz",
+        "battery_capacity": "260 mAh (Jusqu'à 7 jours d'autonomie)",
+        "charging_wired": "Câble Magnétique USB",
+        "charging_wireless": "Non",
+        "os": "HiFuture OS / Compatible Android 5.0+ & iOS 10.0+",
+        "os_version": "V2.0",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "Haut-parleur & Micro HD intégrés",
+        "audio_tech": "Appels Bluetooth HD",
+        "connectivity_5g": false,
+        "connectivity_wifi": "Non",
+        "connectivity_bluetooth": "Bluetooth 5.3 HD Call",
+        "connectivity_nfc": false,
+        "navigation_gps": "Via GPS du smartphone",
+        "sim_type": "Non",
+        "water_resistance": "IP68 (Étanche immersion 1.5m)",
+        "dimensions": "43.5 x 43.5 x 10.8 mm",
+        "weight": "0.041 kg",
+        "materials": "Alliage Aluminium Ultra Léger & Silicone",
+        "biometrics": "Fréquence cardiaque 24/7, SpO2, Suivi du Sommeil",
+        "additional_features": [
+            "Format Ultra Léger 0.041kg",
+            "Écran 1.32\" AMOLED 466x466",
+            "Appels Bluetooth HD Intégrés",
+            "Certification Étanchéité IP68"
+        ]
+    },
+    "sources": [
+        {
+            "name": "HiFuture Official Store",
+            "url": "https://hifuturegroup.com/products/lume"
+        },
+        {
+            "name": "Recherche Générique",
+            "url": "https://www.google.com/search?q=HiFuture+Lume"
+        },
+        {
+            "name": "Recherche Spécialisée IA",
+            "url": "https://www.google.com/search?q=HiFuture+Lume+specifications"
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "woocommerce_csv": {
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Argent, Jaune, Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.041 kg",
+        "Attribute 4 default": "0.041 kg",
+        "Name": "HiFuture Lume Smartwatch - Écran AMOLED - 1.32\" - 260mAh",
+        "Stock": "10",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Smart Watch, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "HiFuture, HiFuture Lume, Montre connectée, Smartwatch, Bluetooth, Suivi Santé, IP68, Abidjan, My-eStore, Écran AMOLED"
+    },
+    "short_description": {
+        "seo": {
+            "meta_title": "Acheter HiFuture Lume à Abidjan | My-eStore",
+            "meta_description": "Achetez la montre ultra légère HiFuture Lume au meilleur prix à Abidjan sur My-eStore. Écran 1.32\" AMOLED 466x466, 0.041kg, IP68 et livraison rapide en Côte d'Ivoire."
+        },
+        "text": "Découvrez la HiFuture Lume. Montre connectée officielle ultra légère avec écran 1.32\" AMOLED, appels Bluetooth, batterie 260mAh et garantie officielle sur My-eStore."
+    },
+    "long_description": {
+        "h1": "HiFuture Lume : Écran AMOLED 1.32\", Boîtier Léger 41g et Étanchéité IP68",
+        "seo": {
+            "focus_keyword": "HiFuture Lume Abidjan",
+            "lsi_keywords": [
+                "HiFuture Lume",
+                "montre HiFuture Lume",
+                "fiche technique HiFuture Lume",
+                "prix HiFuture Lume Abidjan",
+                "My-eStore"
+            ],
+            "meta_title": "HiFuture Lume : Écran AMOLED 1.32\" & 0.041kg | My-eStore",
+            "meta_description": "Découvrez la fiche technique officielle de la HiFuture Lume à Abidjan sur My-eStore. Boîtier ultra léger 0.041kg, AMOLED 466x466 et garantie officielle."
+        },
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Boîtier Ultra Léger 0.041kg",
+                    "benefice": "Confort maximal au poignet sans aucune lourdeur."
+                },
+                {
+                    "feature": "Écran 1.32\" AMOLED 466x466",
+                    "benefice": "Affichage ultra net et couleurs éclatantes."
+                },
+                {
+                    "feature": "Appels Bluetooth HD Intégrés",
+                    "benefice": "Répondez à vos appels directement depuis votre poignet."
+                },
+                {
+                    "feature": "Certification Étanchéité IP68",
+                    "benefice": "Protection totale contre la pluie et la transpiration."
+                }
+            ]
+        },
+        "intro_paragraph": "La montre connectée HiFuture Lume réunit élégance et technologies modernes au quotidien. Cet équipement accompagne idéalement vos activités sportives et professionnelles en Côte d'Ivoire. En effet, l'écran lumineux offre une lisibilité optimale même en plein soleil. De plus, le suivi de santé continu surveille vos constantes avec précision. La conception ultra-légère de 41 grammes assure un port agréable tout au long du jour.",
+        "sections": [
+            {
+                "h2_title": "Écran Lumineux et Ergonomie du Boîtier",
+                "paragraphs": [
+                    "La HiFuture Lume arbore un écran de haute définition très réactif au toucher. L'affichage fluide permet une navigation agréable dans les menus interactifs. Les cadrans personnalisables s'adaptent facilement à votre style vestimentaire au quotidien. De surcroît, le boîtier robuste résiste efficacement aux chocs légers et rayures. Le confort au poignet reste optimal durant toute la journée de travail. Ainsi, votre montre devient un accessoire indispensable à votre organisation.",
+                    "La conception étanche protège la montre lors de vos séances d'entraînement. Le bracelet souple en silicone garantit une tenue douce et respirante. En effet, l'appareil résiste parfaitement à la sueur et aux éclaboussures d'eau. Vous pratiquez vos exercices sportifs en toute tranquillité sous la pluie. De plus, le poids maîtrisé évite toute gêne lors du suivi nocturne. L'ergonomie globale est parfaitement pensée pour votre confort physique quotidien."
+                ]
+            },
+            {
+                "h2_title": "Suivi Santé et Plus de 100 Modes Sportifs",
+                "paragraphs": [
+                    "Les capteurs optiques intégrés mesurent votre fréquence cardiaque en continu. La montre analyse également la saturation en oxygène et la qualité du sommeil. Ces données vous aident à mieux comprendre votre forme physique générale. En outre, les nombreux modes sportifs enregistrent vos performances en temps réel. Vous suivez vos calories brûlées et la distance parcourue à chaque séance. Ainsi, votre motivation sportive augmente naturellement au fil des semaines.",
+                    "L'application mobile synchronise toutes vos statistiques de santé très rapidement. Vous consultez l'historique de vos activités sportives sur votre smartphone facilement. Par ailleurs, les alertes d'inactivité vous encouragent à rester en mouvement régulièrement. Le suivi du stress vous aide à maintenir votre bien-être mental. De plus, cette montre devient votre coach personnel lors de vos entraînements. Vous améliorez vos habitudes de vie en toute simplicité au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Appels Bluetooth HD et Autonomie Durable",
+                "paragraphs": [
+                    "Le haut-parleur et le micro intégrés permettent de passer des appels Bluetooth HD. Vous répondez directement à vos appels sans sortir votre téléphone de votre poche. La connexion sans fil conserve une voix claire et parfaitement audible. En effet, les notifications de vos applications s'affichent instantanément sur l'écran. Vous ne manquez aucun message important pendant vos déplacements en ville. Ainsi, votre réactivité professionnelle s'en trouve grandement renforcée au quotidien.",
+                    "L'optimisation énergétique offre une autonomie prolongée de plusieurs jours d'utilisation. Le câble de charge magnétique permet une recharge simple et rapide. De surcroît, la structure solide garantit une grande durabilité au fil des mois. Ce modèle s'impose comme un choix très pertinent pour vos usages quotidiens. En outre, la certification IP68 assure une protection totale face à l'eau et aux poussières."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : HiFuture Lume",
+                "subtitle": "Spécifications matérielles du HiFuture Lume."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Modèle",
+                            "valeur": "HiFuture Lume"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Montre Connectée Tactile"
+                        },
+                        {
+                            "label": "Dimensions",
+                            "valeur": "43.5 x 43.5 x 10.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.041 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Alliage Aluminium Ultra Léger & Silicone"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Noir, Argent, Jaune, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "1.32\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "AMOLED HD"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "466 x 466 pixels"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Dual-Core Syntra AI Low-Power"
+                        },
+                        {
+                            "label": "Compatibilité OS",
+                            "valeur": "Android 5.0+ & iOS 10.0+"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Batterie",
+                            "valeur": "260 mAh"
+                        },
+                        {
+                            "label": "Autonomie Utilisation",
+                            "valeur": "Jusqu'à 7 jours"
+                        },
+                        {
+                            "label": "Type de Recharge",
+                            "valeur": "Câble Magnétique USB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Capteurs",
+                    "rows": [
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 HD Call"
+                        },
+                        {
+                            "label": "Appels Bluetooth",
+                            "valeur": "Haut-parleur & Micro HD intégrés"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Étanche immersion 1.5m)"
+                        },
+                        {
+                            "label": "Suivi Santé",
+                            "valeur": "Fréquence cardiaque 24/7, SpO2, Sommeil"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "HiFuture Official Store",
+                        "url": "https://hifuturegroup.com/products/lume"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=HiFuture+Lume"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=HiFuture+Lume+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "template_version": "3.4"
+}

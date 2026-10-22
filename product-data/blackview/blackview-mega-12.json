@@ -1,0 +1,313 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Mega 12",
+        "generation_date": "2026-07-29"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/blackview_mega_12_5g-14437.php"
+            }
+        ],
+        "pricing_reference": "225000",
+        "official_sku": "BV-MEGA-12"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7050 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.6 GHz",
+        "screen_size": "12.2 pouces",
+        "screen_technology": "2.5K IPS LCD 120Hz Widevine L1",
+        "screen_resolution": "2560 x 1600 pixels",
+        "battery_capacity": "10000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 36 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "50 MP (Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "13 MP HD",
+        "audio_config": "Quatre Haut-parleurs Stéréo Harman Kardon",
+        "audio_tech": "Son Harman Kardon & Réduction de bruit",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 5G / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "280.2 x 194.2 x 8.2 mm",
+        "weight": "0.690 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MEGA-12-MASTER",
+        "Name": "Blackview Mega 12 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "225000",
+        "Categories": "Tablettes > Blackview > Mega Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Mega 12, Tablette 12.2 pouces, 2.5K 120Hz, 10000mAh, Dimensity 7050, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Or",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.690 kg",
+        "Attribute 4 default": "0.690 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Mega 12 5G : Tablette 12.2 Pouces 2.5K 120Hz 16 Go RAM 512 Go 10000 mAh Harman Kardon",
+        "brand_line": "La grande tablette 5G de travail et divertissement Blackview dotée d'un écran 2.5K et du son Harman Kardon.",
+        "marketing_conclusion": "Commandez la Blackview Mega 12 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Mega 12 5G propose un écran géant de 12.2 pouces 2.5K à 120 Hz, quatre haut-parleurs Harman Kardon, la puce Dimensity 7050 5G et une batterie de 10000 mAh.",
+        "features": [
+            {
+                "feature": "Grand Écran 12.2\" 2.5K 120Hz",
+                "benefice": "Immersions visuelles très confortables pour la création."
+            },
+            {
+                "feature": "Son Stéréo Quadruple Harman Kardon",
+                "benefice": "Rendu sonore d'une clarté remarquable pour vos films."
+            },
+            {
+                "feature": "Puce Dimensity 7050 5G & 16 Go RAM",
+                "benefice": "Vitesse réseau élevée et calculs multitâches très fluides."
+            },
+            {
+                "feature": "Batterie 10000 mAh & Charge 33W",
+                "benefice": "Autonomie sereine durant de longues journées d'utilisation."
+            }
+        ],
+        "slogan_final": "Blackview Mega 12 — Le grand écran de travail haute performance.",
+        "seo": {
+            "meta_title": "Acheter Blackview Mega 12 5G (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette grand écran 12.2\" 2.5K Blackview Mega 12 5G avec son Harman Kardon et batterie 10000 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Mega 12, tablette 12.2 pouces, prix Abidjan, 2.5K 120Hz harman kardon"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Mega 12",
+            "lsi_keywords": [
+                "Blackview Mega 12",
+                "tablette 12 pouces Blackview Abidjan",
+                "Blackview Mega 12 prix",
+                "tablette 2.5K harman kardon",
+                "tablette 5G dimensity 7050",
+                "tablette de travail Côte d'Ivoire",
+                "achat tablette Mega 12 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Mega 12 5G 512 Go : Écran 12.2\" 2.5K & 10000 mAh | My-eStore",
+            "meta_description": "Achetez la tablette grand écran Blackview Mega 12 5G. Écran 12.2\" 2.5K 120Hz, son Harman Kardon, 512 Go de stockage et batterie 10000 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Mega 12 : Spécifications de la Tablette 12.2 Pouces 2.5K",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT 12.2 POUCES",
+            "items": [
+                {
+                    "feature": "Dalle Haute Résolution 2.5K 120Hz",
+                    "benefice": "Détails visuels et défilement tactile fluide."
+                },
+                {
+                    "feature": "Quatre Haut-Parleurs Harman Kardon",
+                    "benefice": "Acoustique équilibrée d'une grande pureté."
+                },
+                {
+                    "feature": "Stockage Spacieux de 512 Go",
+                    "benefice": "Conservation illimitée de tous vos projets."
+                },
+                {
+                    "feature": "Batterie Longue Durée de 10000 mAh",
+                    "benefice": "Autonomie constante sur toute la journée."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Mega 12 est une tablette tactile grand écran particulièrement moderne et performante. Cet équipement convient très bien aux créateurs visuels et cadres en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 12.2 pouces en définition 2.5K offre une lisibilité visuelle très claire. De plus, son taux de rafraîchissement de 120 Hz apporte une fluidité constante. La batterie généreuse de 10000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.2 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à tous vos dossiers. Enfin, cette tablette puissante constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 12.2 Pouces 2.5K et Puce Dimensity 7050 5G",
+                "paragraphs": [
+                    "La Blackview Mega 12 intègre une grande dalle IPS de 12.2 pouces en définition 2.5K. Sa résolution de 2560 x 1600 pixels restitue des détails d'une clarté impressionnante. De plus, la certification Widevine L1 autorise le streaming en haute définition. De surcroît, le processeur Dimensity 7050 à huit cœurs cadencés à 2.6 GHz gère facilement vos logiciels. Les 16 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go ou 512 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, la connectivité 5G assure des téléchargements ultrarapides sur le réseau mobile. Cette conception soignée protège le châssis en toutes circonstances. Vos applications de création restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Son Harman Kardon, Caméra 50 MP et Dual SIM 5G",
+                "paragraphs": [
+                    "La Blackview Mega 12 embarque un système audio composé de quatre haut-parleurs stéréo réglés par Harman Kardon. Cet équipement diffuse un son riche d'une clarté remarquable lors de vos présentations multimédias. En outre, le capteur photo principal de 50 Mégapixels s'avère très pratique pour numériser des documents complexes. Les vidéos gardent une grande netteté. Ainsi, la caméra frontale de 13 Mégapixels immortalise vos réunions en visioconférence. La précision d'image reste constante.",
+                    "Par ailleurs, le tiroir double SIM permet d'utiliser deux lignes cellulaires 5G simultanément. De plus, le récepteur GPS intégré assure un guidage précis lors de vos déplacements professionnels. Également, l'association du clavier magnétique optionnel transforme la tablette en station de travail. De surcroît, le châssis en aluminium brossé renforce la rigidité globale. En somme, cette tablette polyvalente réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 10000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 10000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption tout au long de la journée. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la gestion thermique intelligente préserve la durée de vie de l'accumulateur. Vos activités de bureau se poursuivent sans interruption.",
+                    "La silhouette affinée de 8.2 mm offre une tenue en main naturelle et très élégante. Son poids maîtrisé de 690 grammes témoigne de l'excellence de la finition. D'autre part, la Blackview Mega 12 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son grand écran 2.5K en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Mega 12",
+                "subtitle": "Spécifications matérielles certifiées de la tablette grand écran Blackview Mega 12."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "280.2 x 194.2 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.690 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis monobloc en alliage d'aluminium"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris (Space Grey), Or (Flash Gold)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "12.2 pouces IPS LCD 2.5K"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2560 x 1600 pixels (247 ppi)"
+                        },
+                        {
+                            "label": "Widevine",
+                            "valeur": "Widevine L1 (Streaming Full HD / 2K)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 7050 Octa-Core 2.6 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G68 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR4X (+20 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 3.1 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Son",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP HD"
+                        },
+                        {
+                            "label": "Système audio",
+                            "valeur": "Quatre haut-parleurs stéréo réglés par Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "10000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/blackview_mega_12_5g-14437.php"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

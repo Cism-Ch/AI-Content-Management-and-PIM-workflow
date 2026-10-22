@@ -1,0 +1,299 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "",
+        "target_model": "",
+        "generation_date": ""
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "",
+                "url": ""
+            }
+        ],
+        "pricing_reference": "",
+        "official_sku": ""
+    },
+    "key_specifications": {
+        "audio_type": "",
+        "drivers": "",
+        "anc": "",
+        "battery_capacity": "",
+        "bluetooth": "",
+        "ip_rating": "",
+        "dimensions": "",
+        "weight": ""
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "[MARQUE]-[MODELE]-SKU",
+        "Name": "[MARQUE] [MODELE]",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "PRIX_FCFA",
+        "Categories": "",
+        "Tags": "[MARQUE], [MODELE], [SERIE], Audio, [TYPOLOGIE_ECOUTEURS/CASQUE/ENCEINTE], Bluetooth, [AUTONOMIE_H], [REDUCTION_BRUIT_ANC], [ETANCHEITE], Abidjan, My-eStore",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "",
+        "Attribute 1 default": "",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.XXX kg",
+        "Attribute 4 default": "0.XXX kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "[MARQUE] [MODELE] : TAGLINE",
+        "brand_line": "",
+        "marketing_conclusion": "",
+        "teaser": "",
+        "features": [
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            }
+        ],
+        "slogan_final": "",
+        "seo": {
+            "meta_title": "",
+            "meta_description": "",
+            "keywords": ""
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "",
+            "lsi_keywords": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        "h1": "",
+        "experience_box": {
+            "box_title": "",
+            "items": [
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                }
+            ]
+        },
+        "intro_paragraph": "",
+        "sections": [
+            {
+                "h2_title": "",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "h2_title": "",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "h2_title": "",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "full_specs": {
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        }
+    },
+    "full_specs": {
+        "header": {
+            "title": "Fiche Technique : [MARQUE] [MODELE]",
+            "subtitle": "Spécifications matérielles certifiées du [MARQUE] [MODELE]."
+        },
+        "sections": [
+            {
+                "name": "Design & Physique",
+                "rows": [
+                    {
+                        "label": "Dimensions",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Poids",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Type (intra/supra/barre)",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Matériaux",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Coloris",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Audio",
+                "rows": [
+                    {
+                        "label": "Drivers",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Réponse en fréquence",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Impédance",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "ANC",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Codec supportés",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Batterie & Charge",
+                "rows": [
+                    {
+                        "label": "Autonomie",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Autonomie avec boîtier",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Charge rapide",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Port de charge",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Connectivité",
+                "rows": [
+                    {
+                        "label": "Bluetooth (version)",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Multipoint",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Filaire (Jack/USB-C)",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Assistant vocal",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Fonctionnalités",
+                "rows": [
+                    {
+                        "label": "Contrôles tactiles",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Résistance eau (IP)",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Mode transparence",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "App compagnon",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Contenu",
+                "rows": [
+                    {
+                        "label": "Embouts/coussinets",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Câble",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Étui/Boîtier",
+                        "valeur": ""
+                    }
+                ]
+            }
+        ],
+        "footer": {
+            "sources": [
+                {
+                    "name": "Site Officiel",
+                    "url": ""
+                },
+                {
+                    "name": "Source Tierce",
+                    "url": ""
+                }
+            ],
+            "disclaimer": "Données extraites des fiches techniques officielles. Les spécifications peuvent varier selon les régions."
+        }
+    }
+}

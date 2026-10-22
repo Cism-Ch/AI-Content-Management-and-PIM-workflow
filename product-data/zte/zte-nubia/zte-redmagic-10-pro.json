@@ -1,0 +1,417 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "RedMagic 10 Pro",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "REDMAGIC Official Store",
+                "url": "https://eu.redmagic.gg/fr/pages/redmagic-10-pro"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+RedMagic+10+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+RedMagic+10+Pro+specifications"
+            }
+        ],
+        "pricing_reference": "650000",
+        "official_sku": "ZTE-REDMAGIC-10-PRO"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm) Octa-Core",
+        "processor_ghz": "Fréquence 4.32 GHz (Oryon V2)",
+        "screen_size": "6.85 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Intégral Sans Encoche",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "7050 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go",
+            "24 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X Ultra (9600 Mbps)",
+        "os": "Android 15",
+        "os_skin": "RedMagic OS 10",
+        "camera_main": "Triple capteur 50 MP (Principal 50 MP OIS + 50 MP Ultra Grand-Angle) + 2 MP Macro",
+        "camera_selfie": "16 MP sous l'écran",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra et Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & prise jack 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band + GLONASS + BDS + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 100W USB-C avec Bypass Charging",
+        "dimensions": "163.4 x 76.1 x 8.9 mm",
+        "weight": "0.229 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-REDMAGIC-10-PRO-MASTER",
+        "Name": "ZTE RedMagic 10 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "650000",
+        "Categories": "Smartphones > ZTE > RedMagic Gaming, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, RedMagic 10 Pro, Smartphone Gaming, Snapdragon 8 Elite, 7050mAh, 100W, 144Hz Sans Encoche, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Transparent Noir, Transparent Blanc, Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go, 24 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.229 kg",
+        "Attribute 4 default": "0.229 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Shadow",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "650000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "color_fr": "Transparent Noir",
+            "color_en": "Dusk",
+            "color_code": "TRANSPARENT-NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "750000",
+            "sku_suffix": "512GB-16GB-TRANSPARENT-NOIR"
+        },
+        {
+            "color_fr": "Transparent Blanc",
+            "color_en": "Moonlight",
+            "color_code": "TRANSPARENT-BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "750000",
+            "sku_suffix": "512GB-16GB-TRANSPARENT-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Lightspeed",
+            "color_code": "BLANC",
+            "ram": "24 Go",
+            "storage": "1 To",
+            "price": "890000",
+            "sku_suffix": "1TB-24GB-BLANC"
+        }
+    ],
+    "short_description": {
+        "title_format": "ZTE RedMagic 10 Pro : Snapdragon 8 Elite Batterie 7050 mAh et Écran 144 Hz Sans Poinçon",
+        "brand_line": "Le smartphone gaming équipé de la puce Snapdragon 8 Elite et d'un refroidissement par métal liquide.",
+        "marketing_conclusion": "Commandez votre ZTE RedMagic 10 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE RedMagic 10 Pro intègre la puce Snapdragon 8 Elite, une dalle AMOLED 1.5K 144Hz de 6.85 pouces sans encoche, une batterie 7050 mAh et un dos plat.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Elite (4.32 GHz)",
+                "benefice": "Exécution très fluide de tous vos jeux vidéo gourmands."
+            },
+            {
+                "feature": "Refroidissement ICE X avec Métal Liquide",
+                "benefice": "Maintien d'une température basse lors des sessions intenses."
+            },
+            {
+                "feature": "Batterie 7050 mAh & Charge 100W",
+                "benefice": "Autonomie prolongée et recharge rapide au quotidien."
+            },
+            {
+                "feature": "Écran 1.5K 144Hz Sans Aucune Encoche",
+                "benefice": "Affichage intégral sans poinçon pour une immersion complète."
+            }
+        ],
+        "slogan_final": "ZTE RedMagic 10 Pro — La référence gaming Snapdragon 8 Elite avec autonomie 7050 mAh pour les compétiteurs.",
+        "seo": {
+            "meta_title": "Acheter ZTE RedMagic 10 Pro (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE RedMagic 10 Pro au meilleur prix à Abidjan sur My-eStore. Puce Snapdragon 8 Elite, batterie 7050 mAh, écran 144Hz sans encoche et charge 100W.",
+            "keywords": "ZTE RedMagic 10 Pro, smartphone gaming Snapdragon 8 Elite Abidjan, 7050mAh, 144Hz, charge 100W, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE RedMagic 10 Pro",
+            "lsi_keywords": [
+                "ZTE RedMagic 10 Pro",
+                "smartphone ZTE RedMagic 10 Pro Abidjan",
+                "ZTE RedMagic 10 Pro prix",
+                "téléphone gaming snapdragon 8 elite",
+                "smartphone ventilateur intégré 7050 mah",
+                "téléphone écran sans encoche 144hz",
+                "achat smartphone gaming premium My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE RedMagic 10 Pro : Snapdragon 8 Elite & Batterie 7050mAh | My-eStore",
+            "meta_description": "Fiche technique du ZTE RedMagic 10 Pro. Snapdragon 8 Elite, batterie 7050 mAh, écran 1.5K 144Hz sans encoche, gâchettes 520Hz et charge 100W à Abidjan."
+        },
+        "h1": "ZTE RedMagic 10 Pro : Snapdragon 8 Elite, Écran AMOLED 144Hz et Batterie 7050 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE REDMAGIC 10 PRO",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite (4.32 GHz)",
+                    "benefice": "Exécution très fluide de tous vos jeux vidéo gourmands."
+                },
+                {
+                    "feature": "Refroidissement ICE X avec Métal Liquide",
+                    "benefice": "Maintien d'une température basse lors des sessions intenses."
+                },
+                {
+                    "feature": "Batterie 7050 mAh & Charge 100W",
+                    "benefice": "Autonomie prolongée et recharge rapide au quotidien."
+                },
+                {
+                    "feature": "Écran 1.5K 144Hz Sans Aucune Encoche",
+                    "benefice": "Affichage intégral sans poinçon pour une immersion complète."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE RedMagic 10 Pro inaugure une nouvelle référence matérielle pour les passionnés de jeux mobiles exigeants à Abidjan. En effet, ce téléphone embarque le processeur Qualcomm Snapdragon 8 Elite gravé en 3 nanomètres. Sa dalle AMOLED de 6.85 pouces offre une définition 1.5K très précise. De plus, la caméra selfie reste invisible sous la surface de l'écran. Par ailleurs, la batterie de 7050 mAh assure de longues heures de jeu ininterrompues. Enfin, son dos entièrement plat garantit une prise en main stable lors des parties prolongées.",
+        "sections": [
+            {
+                "h2_title": "Puce Snapdragon 8 Elite et Refroidissement ICE X",
+                "paragraphs": [
+                    "Le ZTE RedMagic 10 Pro intègre le processeur Qualcomm Snapdragon 8 Elite cadencé à 4.32 GHz. Cette puce moderne délivre une vitesse de traitement élevée sur chaque application. Ainsi, les jeux en ligne tournent à cadence maximale sans aucune baisse de régime. La mémoire vive LPDDR5X atteint jusqu'à 24 Go pour un multitâche fluide.",
+                    "Le système thermique ICE X associe du métal liquide et une chambre à vapeur composite. En effet, un ventilateur interne tournant à 23 000 tours par minute évacue la chaleur. D'ailleurs, le dos entièrement plat élimine tout relief gênant au niveau des caméras. Vous profitez d'une prise en main ergonomique et d'une puissance constante."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 1.5K 144Hz et Ergonomie Gaming",
+                "paragraphs": [
+                    "L'écran AMOLED de 6.85 pouces propose un taux de rafraîchissement réactif de 144 Hz. Sa définition de 2688 par 1216 pixels garantit des images fines et colorées. De plus, la luminosité maximale de 2000 nits facilite la lecture en plein soleil. Deux gâchettes tactiles à 520 Hz offrent un contrôle précis pour vos parties compétitives.",
+                    "La prise audio jack 3.5 mm garantit une écoute sans aucun décalage sonore. En outre, les deux haut-parleurs stéréo sont certifiés DTS:X Ultra pour un son spatialisé. La connectivité Wi-Fi 7 réduit la latence réseau lors des parties en ligne. Cet équipement complet améliore significativement votre confort de jeu au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Batterie 7050 mAh et Triple Capteur Photo 50 MP",
+                "paragraphs": [
+                    "La batterie haute capacité de 7050 mAh permet de jouer sereinement pendant de longues heures. Par ailleurs, la charge rapide 100W permet de remplir rapidement la batterie. La fonction d'alimentation directe préserve la cellule énergétique lorsque le chargeur reste branché. Vos tournois se déroulent ainsi dans un confort thermique optimal.",
+                    "Le bloc photo dorsal dispose d'un capteur principal de 50 Mégapixels stabilisé optiquement. Ainsi, vos clichés bénéficient d'une grande netteté en journée comme en soirée. En somme, ce smartphone réunit des composants de pointe à un tarif équilibré. Vous pouvez passer commande facilement sur le site sécurisé My-eStore. La livraison à Abidjan est assurée avec le plus grand soin."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE RedMagic 10 Pro",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE RedMagic 10 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.4 x 76.1 x 8.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.229 kg (229 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium aéronautique, dos en verre plat, gâchettes tactiles 520Hz"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Shadow), Transparent Noir (Dusk), Transparent Blanc (Moonlight), Blanc (Lightspeed)"
+                        },
+                        {
+                            "label": "Ventilateur interne",
+                            "valeur": "Turbo ventilateur centrifuge à 23 000 RPM avec éclairage RVB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.4% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED 1.5K, 1 milliard de couleurs, 10-bit"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, ~431 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz (taux d'échantillonnage tactile 960 Hz)"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "2000 nits (pic)"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Affichage intégral sans poinçon avec caméra sous écran"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go / 24 Go LPDDR5X (9600 Mbps)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go / 1 To UFS 4.0 Pro"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 15 avec interface RedMagic OS 10"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.9, 1/1.55\", 1.0µm, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.2, 120˚, 1/2.88\")"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, 1080p à 240 fps, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "7050 mAh (Li-Po silicium-carbone)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 100W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "USB Power Delivery 3.0, Quick Charge 5, Bypass Charging"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be/ax/ac/a/b/g/n), tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE, aptX HD, aptX Adaptive"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, compatible paiements sans contact"
+                        },
+                        {
+                            "label": "Prise casque",
+                            "valeur": "Jack 3.5 mm stéréo"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 réversible (DisplayPort supporté)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "REDMAGIC Official Store",
+                        "url": "https://eu.redmagic.gg/fr/pages/redmagic-10-pro"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+RedMagic+10+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+RedMagic+10+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

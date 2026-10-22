@@ -1,0 +1,398 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade A56",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A56"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A56+specifications"
+            }
+        ],
+        "pricing_reference": "65000",
+        "official_sku": "ZTE-BLADE-A56"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "65000",
+            "sku_suffix": "64GB-4GB-NOIR"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Sunrise Yellow",
+            "color_code": "JAUNE",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "65000",
+            "sku_suffix": "64GB-4GB-JAUNE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "72000",
+            "sku_suffix": "128GB-4GB-NOIR"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Sunrise Yellow",
+            "color_code": "JAUNE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "72000",
+            "sku_suffix": "128GB-4GB-JAUNE"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc SC9863A Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.52 pouces",
+        "screen_technology": "IPS LCD HD+ Confort Visuel",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "4000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "64 Go",
+            "128 Go"
+        ],
+        "ram_extension": "Extensible via mémoire virtuelle",
+        "os": "Android 13 Go Edition",
+        "os_skin": "Android Go",
+        "camera_main": "13 MP avec autofocus et flash LED",
+        "camera_selfie": "5 MP",
+        "audio_config": "Haut-parleur mono & prise jack 3.5mm",
+        "audio_tech": "Son clair pour appels et vidéos",
+        "connectivity_nfc": "Non disponible sur ce modèle",
+        "navigation_gps": "GPS + GLONASS",
+        "card_slot": "Dual Nano SIM + emplacement dédié microSDXC",
+        "charging_wired": "Charge 10W standard",
+        "dimensions": "164.7 x 75.8 x 8.5 mm",
+        "weight": "0.188 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-A56-MASTER",
+        "Name": "ZTE Blade A56",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "65000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade A56, Smartphone pas cher, Écran 6.52 pouces, 4000mAh, 4G, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Jaune",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go, 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.188 kg",
+        "Attribute 4 default": "0.188 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade A56 : Écran 6.52 Pouces HD+ Batterie 4000 mAh et 4G",
+        "brand_line": "Le smartphone accessible et endurant conçu pour vos tâches essentielles du quotidien.",
+        "marketing_conclusion": "Commandez votre ZTE Blade A56 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade A56 intègre un écran HD+ de 6.52 pouces, un processeur huit cœurs, un appareil photo 13 MP et une batterie 4000 mAh fiable.",
+        "features": [
+            {
+                "feature": "Écran 6.52\" HD+ Confortable",
+                "benefice": "Lecture aisée des messages et navigation agréable."
+            },
+            {
+                "feature": "Batterie 4000 mAh Durable",
+                "benefice": "Autonomie stable pour toute votre journée d'activité."
+            },
+            {
+                "feature": "Processeur Huit Cœurs & 4 Go RAM",
+                "benefice": "Exécution fluide de vos applications de messagerie."
+            },
+            {
+                "feature": "Emplacement MicroSD Dédié",
+                "benefice": "Extension simple de la mémoire pour vos fichiers."
+            }
+        ],
+        "slogan_final": "ZTE Blade A56 — La simplicité et l'endurance au meilleur tarif.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade A56 (4Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Blade A56 avec écran 6.52\" HD+, batterie 4000 mAh et 64 Go de stockage. Commandez au meilleur prix sur My-eStore avec livraison rapide.",
+            "keywords": "ZTE Blade A56, smartphone pas cher Abidjan, 4G, batterie 4000mAh, prix Côte d'Ivoire"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade A56",
+            "lsi_keywords": [
+                "ZTE Blade A56",
+                "smartphone ZTE Blade A56 Abidjan",
+                "ZTE Blade A56 prix",
+                "téléphone écran 6.5 pouces pas cher",
+                "smartphone android 4g",
+                "téléphone batterie 4000 mah",
+                "achat smartphone économique My-eStore",
+                "livraison téléphone Abidjan"
+            ],
+            "meta_title": "ZTE Blade A56 64 Go : Écran 6.52\" HD+ & Batterie 4000 mAh | My-eStore",
+            "meta_description": "Achetez le ZTE Blade A56. Écran HD+ 6.52 pouces, appareil photo 13 MP, 4 Go RAM et batterie 4000 mAh. Livraison rapide et soignée à Abidjan chez My-eStore."
+        },
+        "h1": "ZTE Blade A56 : Écran 6.52\", Batterie 4000 mAh et Capteur 13 MP",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE BLADE A56",
+            "items": [
+                {
+                    "feature": "Dalle HD+ 6.52 Pouces",
+                    "benefice": "Affichage net pour consulter vos réseaux sociaux."
+                },
+                {
+                    "feature": "Batterie 4000 mAh",
+                    "benefice": "Alimentation sécurisée pour vos communications."
+                },
+                {
+                    "feature": "Stockage Extensible",
+                    "benefice": "Espace suffisant pour vos photos et documents."
+                },
+                {
+                    "feature": "Système Android Allégé",
+                    "benefice": "Fonctionnement rapide sans surcharge inutile."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade A56 propose une solution accessible pour rester connecté en toute simplicité. Ce smartphone s'adresse parfaitement aux étudiants et professionnels recherchant un outil fiable à Abidjan. En effet, sa dalle IPS de 6.52 pouces offre une lisibilité très claire au quotidien. De plus, la batterie intégrée de 4000 mAh procure une alimentation équilibrée sur la journée. Le processeur huit cœurs gère efficacement vos applications habituelles de communication. Par ailleurs, la mémoire interne extensible accueille sereinement l'ensemble de vos documents multimédias.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.52 Pouces HD+ et Processeur Huit Cœurs",
+                "paragraphs": [
+                    "Le ZTE Blade A56 dispose d'un écran IPS LCD de 6.52 pouces en résolution HD Plus. Sa définition de 1600 par 720 pixels restitue des textes précis et des icônes lisibles. Ainsi, la navigation sur internet et la lecture de messages s'effectuent sans fatigue visuelle. De surcroît, le processeur Unisoc SC9863A intègre huit cœurs cadencés à 1.6 GHz. La mémoire vive de 4 Go assure une transition correcte entre vos applications de base.",
+                    "Le stockage interne de 64 Go préserve vos documents de travail et vos photos personnelles. D'ailleurs, un tiroir dédié permet d'ajouter une carte mémoire microSDXC sans retirer votre seconde carte SIM. En outre, la compatibilité 4G LTE garantit des appels vocaux clairs et des téléchargements réguliers. Le format ergonomique assure une prise en main très confortable. Vous disposez d'un appareil pratique pour vos besoins quotidiens."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 13 MP et Praticité Multimédia",
+                "paragraphs": [
+                    "Le capteur photographique principal de 13 Mégapixels capture des images nettes lors de vos sorties en extérieur. Cet objectif dispose d'un flash LED utile pour éclairer vos sujets en faible luminosité. De plus, la caméra frontale de 5 Mégapixels permet de passer des appels vidéo avec vos proches. Les réglages automatiques facilitent la prise de vue sans manipulation complexe. Ainsi, vous enregistrez vos moments importants en toute simplicité.",
+                    "La prise audio jack 3.5 mm permet de brancher facilement vos écouteurs filaires habituels. En effet, cette connectique classique offre une écoute musicale directe sans adaptateur. Également, la radio FM intégrée vous permet de suivre vos stations préférées sans utiliser vos données mobiles. Le haut-parleur principal diffuse des voix claires lors des conversations téléphoniques. Vous profitez d'une polyvalence multimédia appréciable."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 4000 mAh et Prise en Main Légère",
+                "paragraphs": [
+                    "La batterie de 4000 mAh délivre une autonomie constante pour assurer l'ensemble de vos communications. Cette capacité permet de conserver votre téléphone actif du matin jusqu'au soir. Par ailleurs, le système d'exploitation optimisé réduit la consommation d'énergie en veille. En effet, vous évitez les recharges trop fréquentes au cours de votre journée de travail. Vos appels et messages restent toujours disponibles.",
+                    "Le boîtier en polycarbonate présente un poids très léger de 188 grammes avec un coloris noir classique. D'autre part, la coque arrière texturée évite les traces de doigts et améliore la préhension. En somme, le ZTE Blade A56 constitue un choix économique pertinent pour s'équiper durablement. Vous pouvez passer commande en toute sécurité sur My-eStore. Le service de livraison dessert rapidement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade A56",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade A56."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.7 x 75.8 x 8.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.188 kg (188 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, coque arrière texturée en polycarbonate"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Midnight Black)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.52 pouces (~81.8% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1600 x 720 pixels, 20:9, ~269 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "60 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc SC9863A (28 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x1.6 GHz Cortex-A55 + 4x1.2 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "IMG8322"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement dédié microSDXC jusqu'à 512 Go"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 Go Edition"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "13 MP (f/2.2, autofocus, flash LED)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur IA pour l'optimisation des scènes"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "5 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "4000 mAh (Li-Ion non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge 10W standard"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM (3 emplacements : 2 SIM + 1 SD)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 b/g/n 2.4GHz, Wi-Fi Direct"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 4.2 avec A2DP"
+                        },
+                        {
+                            "label": "Prise audio",
+                            "valeur": "Prise jack 3.5 mm standard"
+                        },
+                        {
+                            "label": "Port de connexion",
+                            "valeur": "Port USB standard, compatible recharge et transfert"
+                        },
+                        {
+                            "label": "Radio",
+                            "valeur": "Radio FM intégrée"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A56"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A56+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

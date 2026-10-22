@@ -1,0 +1,413 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO M6 Pro 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO M Series",
+        "commercial_name": "Xiaomi POCO M6 Pro 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-pro",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-M6-PRO-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-M6-PRO-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M6+Pro+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M6+Pro+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone complet Xiaomi POCO M6 Pro 4G avec écran Flow AMOLED 120Hz processeur Helio G99 Ultra capteur photo 64MP OIS et charge turbo 67W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Ultra (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos, Hi-Res Audio et prise jack 3.5mm",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.179 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-M6-PRO-4G",
+        "Name": "Xiaomi POCO M6 Pro 4G - Dual SIM - Écran 6.67\" Flow AMOLED 120Hz - (8 Go & 256 Go / 12 Go & 512 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "155000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO M6 Pro 4G, POCO M Series, Smartphone, 4G, Écran AMOLED, Écran 120Hz, Capteur 64MP, OIS, 5000mAh, Charge 67W, Helio G99 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.179 kg",
+        "Attribute 4 default": "0.179 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "155000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "155000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "155000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "185000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "185000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "185000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme M Series Pro Confort & Fluidité",
+        "teaser": "Le smartphone 4G Xiaomi POCO M6 Pro 4G intègre un écran Flow AMOLED 120Hz aux bordures ultra-fines et le processeur Helio G99 Ultra. Doté d'un capteur photo 64 MP stabilisé OIS et d'une charge turbo 67W, il assure un confort multimédia complet pour vos journées à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran Flow AMOLED 120Hz Lumineux",
+                "badge": "Affichage",
+                "lead_benefit": "Bordures réduites et fluidité visuelle naturelle",
+                "technical_detail": "Dalle AMOLED 6.67 pouces FHD+ rafraîchie à 120Hz avec luminosité de crête de 1300 nits.",
+                "daily_impact": "Lecture détendue en plein soleil et défilement doux de vos pages web."
+            },
+            {
+                "feature_title": "Capteur Photo 64 MP avec Stabilisation OIS",
+                "badge": "Photo",
+                "lead_benefit": "Prises de vue stables et netteté en mouvement",
+                "technical_detail": "Capteur principal 64 mégapixels stabilisé optiquement avec objectif ultra grand-angle.",
+                "daily_impact": "Photos nettes sans tremblement et enregistrement vidéo régulier lors de vos sorties."
+            },
+            {
+                "feature_title": "Processeur Helio G99 Ultra (6 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Réactivité constante et consommation maîtrisée",
+                "technical_detail": "Puce MediaTek 6 nm haute efficacité couplée à une mémoire vive extensible.",
+                "daily_impact": "Exécution rapide de vos applications sans chauffe excessive de l'appareil."
+            },
+            {
+                "feature_title": "Batterie 5000 mAh & Charge Turbo 67W",
+                "badge": "Autonomie",
+                "lead_benefit": "Autonomie sereine et ravitaillement express",
+                "technical_detail": "Accumulateur 5000 mAh avec bloc d'alimentation 67W inclus pour recharge complète en 44 minutes.",
+                "daily_impact": "Disponibilité continue toute la journée et recharge rapide en pause café."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO M6 Pro 4G combine écran Flow AMOLED 120Hz, capteur photo 64 MP OIS et charge 67W.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO M6 Pro 4G (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO M6 Pro 4G chez My-eStore. Flow AMOLED 120Hz, capteur 64MP OIS et charge 67W au meilleur tarif garanti à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO M6 Pro 4G 512Go : AMOLED 120Hz & OIS | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO M6 Pro 4G chez My-eStore. Écran Flow AMOLED 120Hz, capteur photo 64MP OIS et charge 67W au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO M6 Pro 4G : Écran Flow AMOLED 120Hz, Capteur 64 MP OIS et Charge 67W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO M6 Pro 4G",
+            "items": [
+                {
+                    "feature": "Écran Flow AMOLED 120Hz",
+                    "benefice": "Immersion visuelle plaisante et défilement fluide sans saccade sur vos applications."
+                },
+                {
+                    "feature": "Capteur Photo 64 MP OIS",
+                    "benefice": "Stabilisation optique limitant les flous de mouvement lors de vos clichés."
+                },
+                {
+                    "feature": "Charge Turbo 67W",
+                    "benefice": "Batterie entièrement rechargée en une quarantaine de minutes seulement."
+                },
+                {
+                    "feature": "Batterie Durable 5000 mAh",
+                    "benefice": "Autonomie constante pour tenir sereinement toute la journée d'activité."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO M6 Pro 4G offre une expérience visuelle moderne et confortable. En effet, sa dalle Flow AMOLED 120Hz affiche des bordures latérales très amincies. De plus, son capteur photographique de 64 mégapixels bénéficie d'une stabilisation OIS. Cet appareil intègre aussi une batterie durable de 5000 mAh avec charge 67W. Ce modèle répond ainsi aux attentes des usagers actifs et connectés à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Dalle Flow AMOLED 120Hz aux Bordures Fines et Châssis Allégé",
+                "paragraphs": [
+                    "L'écran Flow AMOLED de 6.67 pouces présente des bordures étroites très soignées. Cette dalle lumineuse diffuse des couleurs équilibrées sur chaque contenu affiché. De plus, la fréquence de 120Hz procure un défilement continu sur les applications. La luminosité de crête montant à 1300 nits autorise une lecture agréable au soleil. Ce panneau protecteur limite également les reflets gênants durant la journée. Vous profitez ainsi d'un confort visuel constant dans tous vos déplacements.",
+                    "Le châssis équilibré ne pèse que 179 grammes pour faciliter la tenue en main. Cette conception allégée évite toute sensation de fatigue lors des sessions prolongées. Par ailleurs, le lecteur d'empreintes intégré sous l'écran déverrouille l'appareil sans délai. Deux haut-parleurs stéréo Dolby Atmos créent un son clair pour vos appels professionnels. Ce rendu sonore enrichit aussi l'écoute musicale lors de vos moments de pause. Vous disposez ainsi d'un équipement moderne pour vos usages personnels réguliers."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 64 MP Stabilisé OIS et Clarté Visuelle",
+                "paragraphs": [
+                    "Le capteur photographique principal de 64 mégapixels s'appuie sur une stabilisation OIS. Cette assistance mécanique élimine les flous causés par les mouvements involontaires. De surcroît, le traitement numérique affine les contours sans dénaturer la scène réelle. Chaque photographie conserve un bon piqué lors des prises de vue nocturnes. Cet objectif polyvalent facilite ainsi la capture de portraits nets en toute circonstance. Vous enregistrez vos événements importants avec une qualité d'image très satisfaisante.",
+                    "L'objectif ultra grand-angle permet de cadrer de vastes paysages sans recul nécessaire. Cette perspective élargie s'adapte utilement aux photographies de groupes ou de salles. En outre, la caméra frontale de 16 mégapixels délivre des visioconférences bien éclairées. L'application photo intégrée réagit rapidement pour saisir chaque moment sans hésitation. Les réglages manuels permettent d'ajuster facilement l'exposition selon vos préférences. Vous réussissez ainsi toutes vos prises de vue avec une méthode intuitive."
+                ]
+            },
+            {
+                "h2_title": "Processeur Helio G99 Ultra et Charge Turbo 67W",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G99 Ultra garantit des calculs fiables et réguliers. Cette puce gravée en 6 nanomètres optimise la consommation électrique au quotidien. Par conséquent, vos applications bureautiques et jeux s'exécutent avec réactivité. La mémoire vive généreuse permet de passer d'un logiciel à l'autre sans latence. Ce système équilibré maintient ainsi une navigation fluide tout au long de la journée. Vous menez vos affaires courantes avec une régularité opérationnelle appréciable.",
+                    "La batterie de 5000 mAh dispense une autonomie stable pour vos journées actives. Cet accumulateur robuste soutient de longues heures d'appels et de messageries en ligne. De plus, la charge turbo 67W rétablit la totalité de l'énergie en 44 minutes. Le chargeur rapide fourni évite les immobilisations filaires prolongées au bureau. Ce port USB Type-C autorise aussi des sauvegardes directes vers vos périphériques. Cet appareil s'affirme ainsi comme un compagnon fiable pour les utilisateurs à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO M6 Pro 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.1 x 75.0 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "179 g (0.179 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant à la poussière et aux éclaboussures"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Bleu (Blue), Violet (Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED, 120Hz, 1300 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~88.9% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "Full HD+ (1080 x 2400 pixels, ratio 20:9, ~395 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G99 Ultra (6 nm, Octa-core jusqu'à 2.2 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 13/14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "8 Go + 256 Go / 12 Go + 512 Go (UFS 2.2)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "64 MP (f/1.8, 25mm grand-angle, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 118°)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30/60 images par seconde, gyroscope-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge turbo 67W (100% en ~44 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "4G LTE / 3G / 2G (Double SIM Nano hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande, Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, prise jack 3.5mm, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M6+Pro+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M6+Pro+4G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

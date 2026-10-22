@@ -1,0 +1,365 @@
+{
+    "template_version": "3.4",
+    "product_type": "pc_portable",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AceBook 8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://store.blackview.hk/products/acebook-8-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "280000",
+        "official_sku": "BV-ACEBOOK-8"
+    },
+    "key_specifications": {
+        "processor": "Intel N97 Quad-Core 3.6 GHz",
+        "processor_ghz": "3.6 GHz Quad-Core",
+        "screen_size": "15.6\"",
+        "screen_technology": "IPS FHD bordures fines",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "38 Wh",
+        "ram_options": [
+            "16 Go"
+        ],
+        "storage_options": [
+            "512 Go"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Windows 11 Familiale",
+        "os_skin": "Windows 11 Native",
+        "camera_main": "Webcam HD 720p avec cache de confidentialité",
+        "camera_selfie": "Webcam HD 720p",
+        "audio_config": "Haut-parleurs stéréo 2x 2W",
+        "audio_tech": "Son HD Stéréo",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Lecteur de carte MicroSD intégré",
+        "charging_wired": "USB-C Charge Rapide 38W",
+        "dimensions": "359.52 x 233.83 x 19.90 mm",
+        "weight": "1.600 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ACEBOOK-8-MASTER",
+        "Name": "Blackview AceBook 8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "280000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AceBook 8, PC Portable, Ordinateur Portable, Windows 11, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.600 kg",
+        "Attribute 4 default": "1.600 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AceBook 8 : La Bureautique Moderne et Légère",
+        "brand_line": "Ordinateur portable compact Blackview conçu pour la mobilité et le travail quotidien.",
+        "marketing_conclusion": "Commandez le Blackview AceBook 8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview AceBook 8 associe un écran de 15.6 pouces Full HD, 16 Go de RAM et un SSD de 512 Go. Il offre une excellente polyvalence dans un format très léger de 1.6 kg.",
+        "features": [
+            {
+                "feature": "Puce Intel N97 3.6 GHz",
+                "benefice": "Processeur réactif assurant une navigation fluide pour vos tâches professionnelles."
+            },
+            {
+                "feature": "Écran 15.6\" FHD Mat",
+                "benefice": "Dalle brillante avec traitement anti-reflets pour travailler en extérieur."
+            },
+            {
+                "feature": "Format Ultra-Léger 1.6 kg",
+                "benefice": "Châssis fin se glissant très facilement dans un sac de transport."
+            },
+            {
+                "feature": "16 Go RAM & 512 Go SSD",
+                "benefice": "Multitâche sans ralentissement et démarrage du système en quelques secondes."
+            }
+        ],
+        "slogan_final": "Blackview AceBook 8 — L'ordinateur ultra-portable par excellence.",
+        "seo": {
+            "meta_title": "Acheter Blackview AceBook 8 (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Blackview AceBook 8 avec écran 15.6 pouces, 16 Go RAM et 512 Go SSD. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AceBook 8, PC portable Blackview, prix Abidjan, ordinateur portable 15.6"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AceBook 8",
+            "lsi_keywords": [
+                "Blackview AceBook 8",
+                "PC portable Blackview",
+                "prix Abidjan",
+                "ordinateur portable 15.6 pouces",
+                "meilleur prix Côte d'Ivoire",
+                "PC 16 Go RAM Abidjan",
+                "SSD 512 Go Abidjan",
+                "Windows 11 léger",
+                "achat ordinateur Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AceBook 8 512Go : Écran 15.6\" & 16Go RAM | My-eStore",
+            "meta_description": "Achetez le Blackview AceBook 8 512 Go. Dalle 15.6 FHD, processeur Intel N97 et 16 Go de RAM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AceBook 8 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Processeur Intel N97 Quad-Core",
+                    "benefice": "Fréquence d'horloge montant jusqu'à 3.6 GHz pour vos logiciels de bureau."
+                },
+                {
+                    "feature": "Dalle 15.6 pouces IPS Full HD",
+                    "benefice": "Confort visuel optimal pour la rédaction et le visionnage de vidéos."
+                },
+                {
+                    "feature": "Châssis Fin & Poids de 1.6 kg",
+                    "benefice": "Mobilité maximale sans compromis sur la taille de l'écran."
+                },
+                {
+                    "feature": "Batterie 38 Wh avec Charge Rapide",
+                    "benefice": "Autonomie solide couvrant vos déplacements en toute sérénité."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview AceBook 8 est un ordinateur portable polyvalent et élégant. Cet appareil convient parfaitement aux besoins des professionnels en Côte d'Ivoire. Sa mémoire vive de 16 Go garantit une réactivité réjouissante. De plus, son écran de 15.6 pouces IPS Full HD offre un grand confort visuel. Sa batterie de 38 Wh assure une bonne autonomie pour vos déplacements. Son poids maîtrisé de 1.6 kg rend le transport très facile. En effet, Windows 11 simplifie la gestion de vos documents. Enfin, vous travaillez en toute fluidité au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Performance Matérielle et Fluidité au Quotidien",
+                "paragraphs": [
+                    "Le processeur Intel N97 du Blackview AceBook 8 apporte une réelle efficacité. Ses quatre cœurs grimpent jusqu'à 3.6 GHz pour exécuter rapidement vos applications. La manipulation de grands tableurs ou la navigation web reste très fluide. De surcroît, le processeur graphique intégré gère l'affichage vidéo en haute définition sans effort. Le système de refroidissement interne évite tout ralentissement dû à la chaleur. Les performances restent constantes au bureau.",
+                    "Les 16 Go de mémoire vive permettent un basculement instantané entre vos logiciels. Le stockage SSD de 512 Go offre des débits de transfert élevés. En effet, vous enregistrez tous vos projets et contenus médias en toute sécurité. La technologie SSD réduit le temps d'ouverture des fichiers lourds. Ainsi, votre journée de travail gagne en vitesse et en réactivité."
+                ]
+            },
+            {
+                "h2_title": "Écran Confortable et Ergonomie de Transport",
+                "paragraphs": [
+                    "La dalle de 15.6 pouces IPS Full HD affiche une image d'une excellente netteté. Sa résolution de 1920 x 1080 pixels permet une lecture très claire des textes. Le revêtement mate anti-reflets protège la vue des éclairages agressifs. Ainsi, vous pouvez consulter votre écran confortablement pendant de longues heures. Les bordures affinées apportent un design moderne et immersif. Le visionnage de films et de présentations est très agréable.",
+                    "Par ailleurs, l'AceBook 8 brille par sa grande légèreté avec seulement 1.6 kg. Il s'emporte très facilement dans une sacoche lors de vos déplacements à Abidjan. De plus, la batterie intégrée de 38 Wh assure une autonomie suffisante pour vos rendez-vous extérieurs. L'adaptateur secteur compact se recharge rapidement en cas de besoin. En somme, cet ordinateur nomade simplifie grandement vos voyages d'affaires."
+                ]
+            },
+            {
+                "h2_title": "Connectique Variée et Clavier Silencieux",
+                "paragraphs": [
+                    "Le Blackview AceBook 8 dispose de tous les ports nécessaires à vos activités. Il embarque des prises USB-C et USB-A pour brancher rapidement vos périphériques. La sortie HDMI permet la connexion directe à un moniteur ou vidéoprojecteur. Vous animez vos présentations professionnelles sans réclamer d'adaptateur. En effet, la webcam intégrée garantit des visioconférences nettes et conviviales. Vos échanges distants restent professionnels.",
+                    "Le clavier ergonomique offre une frappe douce et agréable pour la saisie. Le pavé tactile réagit avec précision aux mouvements multi-touch de vos doigts. C'est pourquoi le Blackview AceBook 8 s'impose comme une valeur sûre pour la mobilité. De plus, son rapport qualité-prix en fait une opportunité très attractive. Enfin, vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AceBook 8",
+                "subtitle": "Spécifications matérielles certifiées du Blackview AceBook 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "359.52 x 233.83 x 19.90 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.600 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis alliage d'aluminium et polycarbonate"
+                        },
+                        {
+                            "label": "Charnière",
+                            "valeur": "Ouverture fluide à 180°"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Argent"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran",
+                    "rows": [
+                        {
+                            "label": "Taille",
+                            "valeur": "15.6\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS FHD bordures fines"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1920 x 1080 pixels"
+                        },
+                        {
+                            "label": "Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "250 nits"
+                        },
+                        {
+                            "label": "Revêtement",
+                            "valeur": "Anti-reflets mate"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Intel N97 Quad-Core (jusqu'à 3.6 GHz)"
+                        },
+                        {
+                            "label": "GPU dédié",
+                            "valeur": "Intel UHD Graphics"
+                        },
+                        {
+                            "label": "Mémoire vive (RAM)",
+                            "valeur": "16 Go LPDDR5"
+                        },
+                        {
+                            "label": "Stockage SSD/HDD",
+                            "valeur": "512 Go SSD M.2 NVMe"
+                        },
+                        {
+                            "label": "Ventilation",
+                            "valeur": "Système de refroidissement actif silencieux"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique & Ports",
+                    "rows": [
+                        {
+                            "label": "USB-C",
+                            "valeur": "1x USB-C multifonction"
+                        },
+                        {
+                            "label": "USB-A",
+                            "valeur": "2x USB 3.0"
+                        },
+                        {
+                            "label": "HDMI",
+                            "valeur": "1x HDMI pleine taille"
+                        },
+                        {
+                            "label": "Jack Audio",
+                            "valeur": "Prise casque/micro 3.5mm"
+                        },
+                        {
+                            "label": "Lecteur SD",
+                            "valeur": "Lecteur de carte MicroSD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité (Wh)",
+                            "valeur": "38 Wh"
+                        },
+                        {
+                            "label": "Autonomie estimée",
+                            "valeur": "Jusqu'à 7h en bureautique"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Chargeur rapide inclus"
+                        },
+                        {
+                            "label": "Adaptateur",
+                            "valeur": "Adaptateur secteur compact fourni"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11ac)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Webcam",
+                            "valeur": "Webcam HD 720p"
+                        },
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Haut-parleurs stéréo intégrés 2x 2W"
+                        },
+                        {
+                            "label": "Clavier rétroéclairé",
+                            "valeur": "Clavier AZERTY confortable"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Windows 11 Édition Familiale"
+                        },
+                        {
+                            "label": "Sécurité (TPM)",
+                            "valeur": "Puce de sécurité TPM 2.0"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://store.blackview.hk/products/acebook-8-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

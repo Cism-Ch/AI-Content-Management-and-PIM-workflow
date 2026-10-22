@@ -1,0 +1,435 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 14T Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 14T Pro",
+        "category": "smartphone",
+        "sub_category": "flagship-power",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-14T-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-14T-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-14t-pro/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+14T+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+14T+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone ultra performant Xiaomi 14T Pro avec processeur Dimensity 9300+ écran AMOLED 144Hz optiques Leica Summilux et charge 120W HyperCharge."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 9300+ (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques certifiés Hi-Res",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge HyperCharge 120W",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM ou SIM + eSIM)",
+        "weight": "0.209 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-14T-PRO",
+        "Name": "Xiaomi 14T Pro - Dual SIM - Écran 6.67\" 144Hz - (12 Go & 256 Go|512 Go|1 To) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "395000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 14T Pro, Xiaomi Series, Smartphone, Android, 5G, Écran 144Hz, Optiques Leica, 5000mAh, Charge 120W, Dimensity 9300+, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Gris",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go | 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.209 kg",
+        "Attribute 4 default": "0.209 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Titan Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Titan Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Titan Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Titan Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Titan Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Titan Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Titan Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "480000",
+            "sku_suffix": "12-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Titan Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "480000",
+            "sku_suffix": "12-GB-1-TB-BLEU"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Titan Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "480000",
+            "sku_suffix": "12-GB-1-TB-GRIS"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Le Monstre de Puissance 144Hz avec Dimensity 9300+ et Charge Éclair 120W.",
+        "teaser": "Le smartphone d'élite Xiaomi 14T Pro déploie la puissance absolue du processeur Dimensity 9300+ et un écran AMOLED 144Hz de 6.67 pouces. Équipé d'optiques professionnelles Leica Summilux et de la charge 120W, il repousse les standards de rapidité.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran AMOLED 6.67\" 144Hz 1.5K",
+                "benefice": "Dalle CrystalRes ultra-lumineuse montant à 4000 nits garantissant une fluidité tactile sans compromis"
+            },
+            {
+                "feature": "Puce Flagship Dimensity 9300+",
+                "benefice": "Architecture 4nm intégrant des cœurs haute performance pour exécuter les calculs les plus intenses"
+            },
+            {
+                "feature": "Optiques Leica Summilux 50MP",
+                "benefice": "Capteur principal Light Fusion 900 stabilisé captant une lumière abondante et des textures fidèles"
+            },
+            {
+                "feature": "HyperCharge 120W & Sans Fil 50W",
+                "benefice": "Recharge filaire intégrale en seulement 19 minutes complétée par la commodité du sans fil 50W"
+            }
+        ],
+        "marketing_conclusion": "Le fleuron de puissance pure mariant technologie de recharge ultra-rapide et prestige photographique Leica.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 14T Pro (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi 14T Pro à Abidjan chez My-eStore. Écran 6.67\" AMOLED 144Hz, puce Dimensity 9300+, optiques Leica et charge 120W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 14T Pro 512 Go : Dimensity 9300+ & 120W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 14T Pro chez My-eStore. Écran AMOLED 144Hz, puce Dimensity 9300+, optiques Leica Summilux, batterie 5000 mAh et charge 120W à Abidjan.",
+            "focus_keyword": "Xiaomi 14T Pro",
+            "lsi_keywords": [
+                "Xiaomi 14T Pro Abidjan",
+                "smartphone haut de gamme 120W",
+                "prix Xiaomi 14T Pro Côte d'Ivoire",
+                "Xiaomi 14T Pro Dimensity 9300+",
+                "Xiaomi 14T Pro fiche technique"
+            ]
+        },
+        "h1": "Xiaomi 14T Pro : Dimensity 9300+, Optiques Leica Summilux et Charge HyperCharge 120W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 14T Pro",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 144Hz 1.5K",
+                    "benefice": "Dalle 6.67 pouces lumineuse montant à 4000 nits pour une clarté optimale en plein soleil"
+                },
+                {
+                    "feature": "Puce Dimensity 9300+",
+                    "benefice": "Composant 4nm d'élite procurant une fluidité continue dans les applications les plus lourdes"
+                },
+                {
+                    "feature": "Optiques Leica Summilux",
+                    "benefice": "Capteur Light Fusion 900 de 50MP délivrant un piqué photographique et des couleurs réalistes"
+                },
+                {
+                    "feature": "Charge HyperCharge 120W",
+                    "benefice": "Alimentation filaire turbo rétablissant la totalité de l'autonomie en seulement 19 minutes"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi 14T Pro concentre des composants d'exception dédiés à la productivité intensive. Sa dalle AMOLED de 6.67 pouces en résolution 1.5K offre une lisibilité constante aux contrastes riches. De plus, la fréquence de 144Hz assure une réactivité tactile instantanée dans toutes vos interactions professionnelles. La plateforme MediaTek Dimensity 9300+ traite les flux informatiques complexes avec une régularité thermique exemplaire. Enfin, son accumulateur de 5000 mAh rechargeable à 120W sécurise tous vos déplacements quotidiens en Côte d'Ivoire.",
+        "sections": [
+            {
+                "h2_title": "Un Écran AMOLED 144Hz Haute Luminosité et Précision 1.5K",
+                "paragraphs": [
+                    "Le panneau AMOLED CrystalRes de 6.67 pouces met en valeur chaque document graphique avec précision. En outre, le rafraîchissement culminant à 144Hz supprime tout ralentissement lors du défilement des pages volumineuses. Les bordures ultra-fines accentuent l'immersion visuelle lors du visionnage de reportages ou de présentations professionnelles. La définition 1.5K garantit une netteté remarquable sur les textes et les illustrations détaillées. Par ailleurs, la luminosité maximale de 4000 nits garantit une lecture limpide sous un soleil radieux. Le système de réduction du scintillement préserve le confort de vos yeux lors des sessions nocturnes.",
+                    "D'autre part, le verre trempé renforcé protège efficacement la surface avant contre les frottements accidentels. La compatibilité Dolby Vision et HDR10+ enrichit considérablement le spectre des nuances lumineuses affichées. Le calibrage colorimétrique professionnel restitue fidèlement chaque teinte selon les standards internationaux de l'industrie. Ainsi, vous analysez vos données d'entreprise avec un confort visuel constant tout au long du jour. Le taux d'échantillonnage tactile élevé enregistre chaque commande avec une promptitude technique immédiate et précise. Cet affichage haute performance représente un atout indispensable pour les professionnels connectés en mobilité constante."
+                ]
+            },
+            {
+                "h2_title": "Système Photographique Leica Summilux et Puissance Dimensity 9300+",
+                "paragraphs": [
+                    "Tout d'abord, l'ensemble photographique élaboré avec Leica intègre le capteur principal Light Fusion 900 de 50 mégapixels. La grande ouverture optique capte une lumière abondante pour révéler les textures complexes des scènes sombres. Le téléobjectif dédié de 50 millimètres réalise des portraits expressifs avec une netteté d'arrière-plan maîtrisée. De surcroît, le module ultra grand-angle permet de cadrer de vastes paysages et architectures sans distorsion. Les profils de rendu Leica Authentique et Vibrant confèrent une tonalité photographique singulière à chaque prise. L'enregistrement vidéo en résolution 8K immortalise vos projets avec une précision visuelle de niveau cinématographique.",
+                    "De ce fait, le processeur haut de gamme Dimensity 9300+ exécute les calculs lourds sans ralentissement. La mémoire vive de 12 Go garantit une bascule fluide entre vos logiciels de gestion ouverts. Le système de refroidissement par chambre à vapeur dissipe continuellement la chaleur lors des usages intensifs. Également, le processeur graphique accélère le rendu des jeux vidéo modernes les plus exigeants en ressources. L'interface logicielle Xiaomi HyperOS optimise l'attribution des ressources pour assurer une réactivité logicielle sans accroc. Cette mécanique interne sophistiquée répond idéalement aux impératifs d'efficacité des utilisateurs les plus exigeants."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Confortable de 5000 mAh et Charge Express 120W",
+                "paragraphs": [
+                    "D'abord, la batterie de 5000 mAh garantit une disponibilité durable tout au long de vos journées. Les fonctions intelligentes de mise en veille réduisent la consommation lorsque le terminal reste inutilisé. La technologie filaire HyperCharge 120W rétablit la totalité de la batterie en 19 minutes chrono. De même, la charge par induction rapide de 50W apporte un confort quotidien très appréciable au bureau. Le système Xiaomi Surge préserve la longévité des cellules face aux montées d'intensité électrique régulières. Vous conservez ainsi une sérénité permanente pour mener à bien toutes vos obligations professionnelles importantes.",
+                    "Enfin, le cadre en alliage métallique résiste à l'immersion grâce à sa certification étanche IP68. Les haut-parleurs stéréo certifiés Hi-Res diffusent un signal sonore limpide lors de vos réunions en visioconférence. Le profil équilibré de l'appareil procure une excellente tenue en main malgré sa dotation technologique imposante. Par conséquent, la connectivité 5G et le Wi-Fi 7 garantissent des téléchargements ultra-rapides en toutes circonstances. Le lecteur biométrique sous l'écran sécurise l'accès à vos dossiers privés avec une fiabilité totale. Le Xiaomi 14T Pro représente le choix idéal alliant puissance brute, recharge éclair et maîtrise photographique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 14T Pro - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "160.4 x 75.1 x 8.39 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "209 g (0.209 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en alliage d'aluminium métallique, dos en verre trempé 3D courbé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Titan Black), Bleu (Titan Blue), Gris (Titan Gray)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED CrystalRes 144Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), 446 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1600 nits (HBM), 4000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 9300+ (4 nm, Octa-core jusqu'à 3.4 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Immortalis-G720 MC12"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go, 512 Go ou 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Optiques Leica Summilux : principal 50 MP Light Fusion 900 (f/1.6, OIS) + téléobjectif 50 MP (60mm, f/2.0, OIS) + ultra grand-angle 12 MP (15mm, f/2.2)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, enregistrement 4K@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 120W HyperCharge + charge sans fil 50W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-14t-pro/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+14T+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+14T+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

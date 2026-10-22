@@ -1,0 +1,341 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "BL7000 5G",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/bl7000"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "215000",
+        "official_sku": "BV-BL7000-5G"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7050 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.6 GHz",
+        "screen_size": "6.78 pouces + Écran arrière 1.32 pouces",
+        "screen_technology": "FHD+ 120Hz IPS LCD (Principal) + AMOLED (Arrière)",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "7500 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP (Capteur Samsung ISOCELL JN1) + 8 MP Ultra-Large",
+        "camera_selfie": "32 MP HD",
+        "audio_config": "Haut-parleur stéréo Smart-PA haute puissance",
+        "audio_tech": "Son HD & Débruitage double micro",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 2 To)",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "182.2 x 86 x 14.5 mm",
+        "weight": "0.357 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-BL7000-5G-MASTER",
+        "Name": "Blackview BL7000 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "215000",
+        "Categories": "Smartphones > Blackview > BL Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview BL7000 5G, Smartphone Durci, 5G, IP68, IP69K, 7500mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.357 kg",
+        "Attribute 4 default": "0.357 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview BL7000 5G : Le Smartphone Durci 5G Double Écran",
+        "brand_line": "Smartphone incassable 5G Blackview conçu pour les environnements de chantier extrêmes.",
+        "marketing_conclusion": "Commandez le Blackview BL7000 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview BL7000 5G combine un processeur Dimensity 7050 5G, un écran 120Hz de 6.78 pouces, un second écran tactile arrière et une batterie massive de 7500 mAh.",
+        "features": [
+            {
+                "feature": "Puce MediaTek Dimensity 7050 5G",
+                "benefice": "Performances réseau 5G ultrarapides et multitâche fluide."
+            },
+            {
+                "feature": "Double Écran (6.78\" 120Hz + 1.32\" Arrière)",
+                "benefice": "Affichage fluide principal et contrôle rapide des notifications à l'arrière."
+            },
+            {
+                "feature": "Batterie 7500 mAh & Charge 33W",
+                "benefice": "Autonomie de plusieurs jours sur le terrain avec recharge rapide."
+            },
+            {
+                "feature": "Certifications IP68 & IP69K & MIL-STD-810H",
+                "benefice": "Protection totale contre l'eau, les immersions et les chutes de 1.5m."
+            }
+        ],
+        "slogan_final": "Blackview BL7000 5G — La robustesse 5G sans compromis.",
+        "seo": {
+            "meta_title": "Acheter Blackview BL7000 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview BL7000 5G avec Dimensity 7050, batterie 7500 mAh et double écran. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview BL7000 5G, smartphone durci Blackview, prix Abidjan, 5G IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview BL7000 5G",
+            "lsi_keywords": [
+                "Blackview BL7000 5G",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable 5G",
+                "meilleur prix Côte d'Ivoire",
+                "Dimensity 7050 5G",
+                "batterie 7500 mAh",
+                "double écran",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview BL7000 5G 256 Go : Dimensity 7050 & 7500 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview BL7000 5G. Processeur Dimensity 7050 5G, double écran, 8Go RAM et 256Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview BL7000 5G : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Processeur Dimensity 7050 5G",
+                    "benefice": "Vitesse d'exécution remarquable et connectivité 5G haute performance."
+                },
+                {
+                    "feature": "Affichage Double Écran",
+                    "benefice": "Écran principal 120Hz et mini écran arrière AMOLED pour les alertes."
+                },
+                {
+                    "feature": "Appareil Photo 50 MP ISOCELL",
+                    "benefice": "Prises de vues nettes et détaillées même en faible luminosité."
+                },
+                {
+                    "feature": "Blindage Militaire MIL-STD-810H",
+                    "benefice": "Résistance maximale aux chocs, poussières et fortes pressions d'eau."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview BL7000 5G est un smartphone durci haut de gamme et performant. Cet appareil répond parfaitement aux exigences des professionnels et aventuriers en Côte d'Ivoire. Par ailleurs, la puce MediaTek Dimensity 7050 assure une vitesse 5G ultra-fluide. De plus, son écran principal de 6.78 pouces 120Hz offre un confort visuel remarquable. Le second écran arrière AMOLED permet de consulter vos notifications sans déverrouiller l'appareil. La batterie géante de 7500 mAh garantit plusieurs jours d'utilisation continue sur le terrain. En effet, sa coque blindée certifiée IP68 et IP69K résiste aux pires conditions. Enfin, vous travaillez en toute sérénité en extérieur.",
+        "sections": [
+            {
+                "h2_title": "Puissance 5G et Double Écran Innovant",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 7050 du Blackview BL7000 5G offre une réelle efficacité. Ses huit cœurs gravés en 6 nm atteignent 2.6 GHz pour exécuter instantanément vos applications. De plus, les 8 Go de mémoire RAM garantissent un multitâche fluide en tout lieu. De surcroît, le stockage de 256 Go conserve tous vos fichiers professionnels et médias volumineux. La vitesse du réseau 5G accélère le téléchargement de vos documents de chantier. Les performances restent constantes lors des tâches exigeantes.",
+                    "L'écran principal FHD+ de 6.78 pouces affiche un taux de rafraîchissement fluide de 120 Hz. Sa résolution de 2460 x 1080 pixels permet une excellente lisibilité en plein soleil. En effet, le mini écran arrière de 1.32 pouces affiche l'heure et la batterie restante. Le verre Corning Gorilla Glass 5 protège la dalle contre les rayures accidentelles. Ainsi, vos données restent accessibles en toute circonstance."
+                ]
+            },
+            {
+                "h2_title": "Châssis Incassable et Certifications Militaires",
+                "paragraphs": [
+                    "Le Blackview BL7000 5G est conçu pour affronter les environnements les plus rudes. Ses certifications IP68 et IP69K garantissent une étanchéité totale à l'eau et à la poussière. En outre, la norme militaire MIL-STD-810H valide sa résistance aux chutes jusqu'à 1.5 mètre. Ses coins renforcés en caoutchouc absorbent efficacement les chocs mécaniques répétés. L'appareil résiste également aux lavages haute pression et aux variations thermiques. La robustesse globale est parfaitement au rendez-vous.",
+                    "Par ailleurs, l'appareil intègre un capteur photo principal de 50 Mégapixels très précis. Ce capteur Samsung ISOCELL immortalise vos clichés de chantier avec une grande fidélité. De plus, la caméra selfie de 32 Mégapixels assure des visioconférences très claires. La fonction NFC multifonction simplifie vos paiements sécurisés sans contact. En somme, cet équipement nomade répond à tous vos besoins professionnels."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Monstre 7500 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 7500 mAh garantit une autonomie longue durée. Cet accumulateur assure plusieurs jours de travail intensif sans recharge intermédiaire. Le système de charge rapide 33W permet de récupérer une charge conséquente en très peu de temps. Vous bénéficiez également de la charge inversée pour alimenter vos autres accessoires électroniques. En effet, la gestion d'énergie intelligente de DokeOS 4.0 optimise chaque milliampère. Vos missions d'exploration se déroulent sans crainte de panne.",
+                    "La prise en main du téléphone reste ergonomique malgré son blindage renforcé. Son poids maîtrisé de 357 grammes offre une sensation de solidité en paume. Le Blackview BL7000 5G s'impose comme le choix idéal pour les chantiers à Abidjan. En somme, son rapport qualité-prix en fait une opportunité très attractive. Vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview BL7000 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview BL7000 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "182.2 x 86 x 14.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.357 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran principal",
+                            "valeur": "6.78 pouces IPS LCD FHD+ 120Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2460 x 1080 pixels (396 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        },
+                        {
+                            "label": "Écran secondaire",
+                            "valeur": "1.32 pouces AMOLED arrière (360x360 px)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 7050 (6 nm) Octa-Core 2.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G68 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR5 (+16 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 3.1 (extensible par MicroSD 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 (f/1.8)"
+                        },
+                        {
+                            "label": "Caméra ultra-large",
+                            "valeur": "8 MP (117° ultra-grand angle)"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "32 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps, 1080p à 60 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "7500 mAh"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 33W (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Supportée (Reverse Charging)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 650 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11ax), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 4.0"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/bl7000"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

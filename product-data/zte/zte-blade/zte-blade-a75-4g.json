@@ -1,0 +1,416 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade A75 4G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A75+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A75+4G+specifications"
+            }
+        ],
+        "pricing_reference": "75000",
+        "official_sku": "ZTE-BLADE-A75-4G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Diamond Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "128GB-4GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "128GB-4GB-VERT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Glacier White",
+            "color_code": "BLANC",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "128GB-4GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Diamond Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "85000",
+            "sku_suffix": "256GB-4GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "85000",
+            "sku_suffix": "256GB-4GB-VERT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Glacier White",
+            "color_code": "BLANC",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "85000",
+            "sku_suffix": "256GB-4GB-BLANC"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.60 pouces",
+        "screen_technology": "IPS LCD 90Hz avec Live Island",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "50 MP Haute Résolution avec IA et flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur avec traitement sonore DTS",
+        "audio_tech": "Son clair DTS Audio & prise jack 3.5mm",
+        "connectivity_nfc": "Non disponible sur cette version",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 18W USB-C",
+        "dimensions": "163.6 x 74.9 x 8.3 mm",
+        "weight": "0.190 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-A75-4G-MASTER",
+        "Name": "ZTE Blade A75 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "35",
+        "Regular price": "75000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade A75 4G, Écran 90Hz, Live Island, 50MP, 5000mAh, Charge 18W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Vert, Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.190 kg",
+        "Attribute 4 default": "0.190 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade A75 4G : Écran 6.6 Pouces 90Hz Caméra 50 MP et 5000 mAh",
+        "brand_line": "Le smartphone moderne doté d'une encoche interactive Live Island et d'un capteur 50 MP.",
+        "marketing_conclusion": "Commandez votre ZTE Blade A75 4G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade A75 4G propose un écran fluide 90Hz de 6.6 pouces, un appareil photo 50 MP précis, la puce Unisoc T606 et une batterie 5000 mAh avec charge 18W.",
+        "features": [
+            {
+                "feature": "Écran 6.6\" HD+ 90Hz & Live Island",
+                "benefice": "Animations fluides et notifications visuelles interactives."
+            },
+            {
+                "feature": "Capteur Photo Principal 50 MP",
+                "benefice": "Prises de vue très nettes aux couleurs fidèles."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 18W",
+                "benefice": "Grande autonomie et recharge plus rapide en USB-C."
+            },
+            {
+                "feature": "Puce Unisoc T606 Huit Cœurs",
+                "benefice": "Navigation stable pour vos applications quotidiennes."
+            }
+        ],
+        "slogan_final": "ZTE Blade A75 4G — L'élégance contemporaine et la polyvalence à prix maîtrisé.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade A75 4G (4Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Blade A75 4G avec écran 90Hz, caméra 50 MP, batterie 5000 mAh et charge 18W. Achetez en ligne au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Blade A75 4G, smartphone 90Hz Abidjan, Live Island, caméra 50MP, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade A75 4G",
+            "lsi_keywords": [
+                "ZTE Blade A75 4G",
+                "smartphone ZTE Blade A75 Abidjan",
+                "ZTE Blade A75 prix",
+                "téléphone écran 90hz live island",
+                "smartphone appareil photo 50 mp",
+                "téléphone batterie 5000 mah charge 18w",
+                "achat téléphone 4g My-eStore",
+                "livraison smartphone Abidjan"
+            ],
+            "meta_title": "ZTE Blade A75 4G 128 Go : Dalle 90Hz & Capteur 50 MP | My-eStore",
+            "meta_description": "Achetez le ZTE Blade A75 4G. Écran 6.6 pouces 90Hz, capteur 50 MP, batterie 5000 mAh et charge rapide 18W. Livraison rapide et sécurisée à Abidjan."
+        },
+        "h1": "ZTE Blade A75 4G : Écran 90Hz 6.6\", Capteur 50 MP et Batterie 5000 mAh",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE BLADE A75 4G",
+            "items": [
+                {
+                    "feature": "Dalle 90Hz avec Live Island",
+                    "benefice": "Affichage interactif et défilement très fluide."
+                },
+                {
+                    "feature": "Appareil Photo 50 Mégapixels",
+                    "benefice": "Clichés lumineux et riches en détails."
+                },
+                {
+                    "feature": "Batterie 5000 mAh & USB-C 18W",
+                    "benefice": "Grande autonomie avec recharge rapide."
+                },
+                {
+                    "feature": "Traitement Audio DTS",
+                    "benefice": "Son clair pour écouter vos vidéos préférées."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade A75 4G se distingue par son design moderne et ses fonctionnalités interactives pratiques. Ce modèle séduit immédiatement les utilisateurs dynamiques à la recherche d'un téléphone efficace à Abidjan. En effet, son écran de 6.6 pouces à 90 Hz assure un grand confort visuel au quotidien. De plus, la fonction Live Island affiche vos notifications importantes autour de la caméra selfie. Le processeur huit cœurs garantit un fonctionnement régulier de vos applications de communication. Par ailleurs, la batterie généreuse de 5000 mAh élimine toute inquiétude liée à l'autonomie. L'ensemble constitue ainsi un appareil polyvalent pour répondre à tous vos usages réguliers.",
+        "sections": [
+            {
+                "h2_title": "Écran 90Hz Interactif et Processeur Unisoc T606",
+                "paragraphs": [
+                    "Le ZTE Blade A75 4G propose une dalle IPS de 6.6 pouces avec une fréquence fluide de 90 Hz. Sa résolution HD Plus offre un rendu agréable pour consulter vos documents et naviguer sur le web. Ainsi, les animations s'affichent avec une souplesse appréciable sous vos doigts. De surcroît, le processeur Unisoc T606 intègre huit cœurs équilibrés pour une consommation d'énergie maîtrisée. La mémoire vive de 4 Go prend en charge vos activités courantes sans saccade.",
+                    "Le stockage interne de 64 Go permet de conserver vos applications et vos souvenirs photographiques. D'ailleurs, vous pouvez étendre cette capacité via une carte microSD selon l'évolution de vos besoins. En outre, la connectivité 4G assure des téléchargements stables lors de vos déplacements. Le châssis texturé procure une tenue en main sûre et agréable. Vous disposez d'un smartphone plaisant pour vos activités régulières."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP et Fonctionnalités Multimédia",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 Mégapixels saisit des images lumineuses avec un bon niveau de détail. Cet objectif principal est assisté par des algorithmes d'intelligence artificielle qui équilibrent l'exposition. De plus, la caméra avant de 8 Mégapixels permet de capturer des selfies nets pour vos profils sociaux. Les différents modes de prise de vue facilitent les portraits en toutes circonstances. Ainsi, vous immortalisez vos moments précieux avec une grande clarté.",
+                    "La prise jack 3.5 mm et le traitement sonore DTS garantissent une expérience audio de qualité au casque. En effet, vous écoutez vos contenus multimédias avec une restitution claire des voix et des instruments. Également, le port USB Type-C simplifie le branchement grâce à sa conception réversible. Le capteur d'empreintes digitales latéral assure un déverrouillage instantané et sécurisé. Vous bénéficiez d'un équipement complet au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 18W Efficace",
+                "paragraphs": [
+                    "La batterie de 5000 mAh procure une réserve d'énergie solide pour accompagner l'ensemble de votre journée. Cette capacité robuste vous permet d'utiliser votre téléphone sans crainte de coupure impromptue. Par ailleurs, la technologie de charge rapide 18W accélère la remise à niveau de la batterie. En effet, le branchement en USB-C apporte un gain de temps très pratique lors des recharges. Vos activités se poursuivent avec une grande sérénité.",
+                    "Le design soigné se décline en coloris noir et vert menthe avec un poids contenu de 190 grammes. D'autre part, la finition travaillée confère une allure élégante à l'appareil. En somme, le ZTE Blade A75 4G propose un équilibre harmonieux entre modernité visuelle et autonomie. Vous pouvez réaliser votre commande en toute sécurité sur My-eStore. Le service de livraison dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade A75 4G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade A75 4G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 74.9 x 8.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.190 kg (190 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, dos soigné effet diamant"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Diamond Black), Vert (Mint Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.60 pouces (~85.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD avec fonction Live Island"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1612 x 720 pixels, 20:9, ~267 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "90 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T606 (12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x1.6 GHz Cortex-A75 + 6x1.6 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go (extensible jusqu'à 8 Go via RAM dynamique)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur de profondeur pour effet bokeh"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "8 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 18W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM (double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et optimisation sonore DTS"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A75+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A75+4G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

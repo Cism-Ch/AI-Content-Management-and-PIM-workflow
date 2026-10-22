@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-16-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 16 Pro Max",
+    "category": "Smartphones",
+    "sub_category": "Premium",
+    "release_year": 2024,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3296",
+    "regional_variants": [
+      { "region": "International", "sku": "A3296" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://support.apple.com/en-us/121119" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 16 Pro Max 256GB",
+      "sku_suffix": "256",
+      "configurations": { "ram": "8GB", "storage": "256GB" },
+      "pricing": { "official_price_fcfa": 1250000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Desert Titanium", "Natural Titanium", "White Titanium", "Black Titanium"],
+    "default": "Desert Titanium"
+  },
+  "key_specifications": {
+    "processor": "Apple A18 Pro (3 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["256GB", "512GB", "1TB"],
+    "screen_size": "6.9 pouces",
+    "screen_technology": "LTPO Super Retina XDR OLED",
+    "screen_resolution": "1320 x 2868 pixels",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "4685 mAh",
+    "charging_wired": "30W",
+    "charging_wireless": "25W (MagSafe)",
+    "os": "iOS",
+    "os_version": "18",
+    "camera_main": "48 MP, f/1.8, 24mm, OIS",
+    "camera_ultrawide": "48 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "12 MP, f/2.8, 120mm, 5x zoom optique, OIS",
+    "camera_selfie": "12 MP, f/1.9",
+    "video_max": "4K@120fps, Dolby Vision HDR, ProRes",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 7",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "163 x 77.6 x 8.3 mm",
+    "weight": "227 g",
+    "materials": "Titane Grade 5, Ceramic Shield",
+    "biometrics": "Face ID",
+    "additional_features": ["Camera Control", "Action Button", "USB-C 3.0", "Apple Intelligence"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_16_pro_max-13317.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

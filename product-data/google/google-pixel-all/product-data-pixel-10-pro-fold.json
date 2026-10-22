@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel 10 Pro Fold."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel 10 Pro Fold",
+    "category": "smartphone",
+    "sub_category": "foldable",
+    "release_year": 2025,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel 10 Pro Fold",
+    "GFOLD10",
+    "Smartphone Pliable",
+    "Android 16",
+    "Tensor G5",
+    "Écran Pliable 8.0",
+    "Triple Capteur 48MP",
+    "Gemini Live",
+    "RAM 16Go",
+    "Smartphone Luxe",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "GFOLD10",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "GFOLD10"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/pixel_10_pro_fold"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_10_pro_fold-14014.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base GFOLD10 pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel 10 Pro Fold 1To",
+      "sku_suffix": "/1T",
+      "configurations": {
+        "ram": "16Go",
+        "storage": "1To"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 1300000,
+          "max": 1600000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 10 Pro Fold 256Go",
+      "sku_suffix": "/256",
+      "configurations": {
+        "ram": "16Go",
+        "storage": "256Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 1300000,
+          "max": 1600000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 10 Pro Fold 512Go",
+      "sku_suffix": "/512",
+      "configurations": {
+        "ram": "16Go",
+        "storage": "512Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 1300000,
+          "max": 1600000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Moonstone",
+      "Jade"
+    ],
+    "exclusive": [],
+    "default": "Moonstone"
+  },
+  "key_specifications": {
+    "processor": "Google Tensor G5 (3 nm)",
+    "ram_options": [
+      "16Go"
+    ],
+    "storage_options": [
+      "1To",
+      "256Go",
+      "512Go"
+    ],
+    "screen_size": "8.0 inches, 206.3 cm2 (~88.4% screen-to-body ratio)",
+    "screen_technology": "Foldable LTPO OLED, 120Hz, HDR10+, 1800 nits (HBM), 3000 nits (peak)",
+    "screen_resolution": "2076 x 2152 pixels, 1:1 ratio (~374 ppi density)",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "5015 mAh",
+    "charging_wired": "30W wired, PPS, 50% in 30 min 15W",
+    "charging_wireless": "15W wireless",
+    "os": "Android",
+    "os_version": "Android 16, up to 7 major Android upgrades",
+    "camera_main": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 10.8 MP, f/3.1, 112mm (telephoto), 1/3.2\", dual pixel PDAF, OIS, 5x optical zoom 10.5 MP, f/2.2, 127˚ (ultrawide), 1/3.4\", PDAF",
+    "camera_selfie": "10.5 MP",
+    "video_max": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, 10-bit HDR, gyro-EIS, OIS",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+    "connectivity_bluetooth": "6.0, A2DP, LE, aptX HD",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "Unfolded: 155.2 x 150.4 x 5.2 mmFolded: 155.2 x 76.3 x 10.8 mm",
+    "weight": "258 g (9.10 oz)",
+    "materials": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "biometrics": "Capteur d'empreinte sous l'écran",
+    "additional_features": [
+      "IA Google (Circle to Search, Gemini intégré, Magic Eraser)",
+      "7 ans de mises à jour de sécurité et système",
+      "Haut-parleurs stéréo"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/pixel_10_pro_fold",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_10_pro_fold-14014.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

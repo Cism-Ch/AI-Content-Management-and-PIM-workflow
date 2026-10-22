@@ -1,0 +1,472 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Pad 7 Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Pad Series",
+        "commercial_name": "Xiaomi Pad 7 Pro",
+        "category": "tablet",
+        "sub_category": "tablet-flagship-killer",
+        "release_year": 2024,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-PAD-7-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-PAD-7-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+7+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+7+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette haut de gamme Xiaomi Pad 7 Pro 11.2 pouces 3.2K 144Hz Snapdragon 8s Gen 3 charge 67W capteur 50MP Wi-Fi 7."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8s Gen 3 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio sans fil",
+        "battery_capacity": "8850 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "Sans slot microSD",
+        "weight": "0.500 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-PAD-7-PRO",
+        "Name": "Xiaomi Pad 7 Pro - Écran 11.2\" 3.2K 144Hz - (8 Go|12 Go & 128 Go|256 Go|512 Go) - Charge 67W",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "330000",
+        "Categories": "Tablettes > Xiaomi > Xiaomi Pad",
+        "Tags": "Xiaomi, Pad 7 Pro, Xiaomi Pad Series, Tablette Android, Wi-Fi 7, Écran 144Hz 3.2K, 50MP, Batterie 8850mAh, Charge 67W, Snapdragon 8s Gen 3, Stylet Magnétique, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Bleu, Vert",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.500 kg",
+        "Attribute 4 default": "0.500 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi",
+        "Attribute 5 default": "Wi-Fi",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "330000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "525000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "330000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "525000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "330000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "525000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Xiaomi Pad",
+        "teaser": "La Xiaomi Pad 7 Pro intègre le puissant processeur Qualcomm Snapdragon 8s Gen 3 gravé en 4 nm. Son écran IPS de 11.2 pouces affiche une définition 3.2K à 144Hz, soutenu par une batterie de 8850 mAh et une recharge turbo 67W.",
+        "top_features_detailed": [
+            {
+                "label": "Puce Snapdragon 8s Gen 3 (4 nm)",
+                "detail": "Puissance de calcul supérieure pour le multitâche professionnel et les applications de création graphique."
+            },
+            {
+                "label": "Écran 11.2\" 3.2K 144Hz",
+                "detail": "Précision d'image de 3200 x 2136 pixels au ratio 3:2 avec fluidité d'affichage adaptative."
+            },
+            {
+                "label": "Batterie 8850 mAh & Charge 67W",
+                "detail": "Alimentation longue durée avec recharge turbo 67W restaurant la totalité en 40 minutes."
+            },
+            {
+                "label": "Double Capteur Arrière 50 MP",
+                "detail": "Numérisation détaillée de documents et enregistrement vidéo 4K nette à 60 images par seconde."
+            }
+        ],
+        "marketing_conclusion": "La tablette haut de gamme associant processeur Snapdragon 8s Gen 3, écran 3.2K et recharge turbo 67W.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Pad 7 Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Pad 7 Pro à Abidjan chez My-eStore. Écran 11.2 pouces 3.2K 144Hz, Snapdragon 8s Gen 3 et charge turbo 67W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Pad 7 Pro",
+            "lsi_keywords": [
+                "Snapdragon 8s Gen 3",
+                "tablette Xiaomi 67W",
+                "écran 3.2K 144Hz",
+                "caméra 50MP tablette",
+                "Wi-Fi 7 HyperOS"
+            ],
+            "meta_title": "Xiaomi Pad 7 Pro 256 Go : Snapdragon 8s Gen 3 & Écran 144Hz | My-eStore",
+            "meta_description": "Découvrez la Xiaomi Pad 7 Pro avec Snapdragon 8s Gen 3, dalle 11.2 pouces 144Hz 3.2K et charge turbo 67W. Fiche technique complète chez My-eStore."
+        },
+        "h1": "Xiaomi Pad 7 Pro : Snapdragon 8s Gen 3, Écran 144Hz 3.2K et Charge 67W",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI PAD 7 PRO",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8s Gen 3",
+                    "benefice": "Capacité de calcul élevée dédiée au montage vidéo et aux applications lourdes."
+                },
+                {
+                    "feature": "Dalle 11.2 Pouces 3.2K 144Hz",
+                    "benefice": "Affichage précis certifié Dolby Vision pour des couleurs fidèles."
+                },
+                {
+                    "feature": "Système de Charge Turbo 67W",
+                    "benefice": "Alimentation complète en seulement 40 minutes pour reprendre vos travaux."
+                },
+                {
+                    "feature": "Capteur Principal 50 Mégapixels",
+                    "benefice": "Prises de vue nettes avec enregistrement vidéo 4K à 60 images par seconde."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Pad 7 Pro répond aux exigences des utilisateurs professionnels en quête d'efficacité. Son architecture s'appuie sur le processeur Snapdragon 8s Gen 3 pour traiter les flux informatiques complexes. En effet, la puce graphique dédiée maintient une réactivité immédiate sur chaque logiciel bureautique. De plus, l'écran de 11.2 pouces assure un affichage net de 3200 x 2136 pixels. Ainsi, cet équipement polyvalent accompagne sereinement vos séances de travail intensif.",
+        "sections": [
+            {
+                "h2_title": "Châssis Monocoque Robuste et Affichage 3.2K 144Hz",
+                "paragraphs": [
+                    "Le boîtier en aluminium brossé confère à la tablette une solidité appréciable lors de manipulations quotidiennes. Ses dimensions atteignent 251.2 x 173.4 x 6.2 mm pour un poids équilibré de 500 grammes. Le profil fin facilite grandement la prise en main au format portrait ou paysage. Par ailleurs, les finitions métalliques sobres renforcent l'élégance naturelle de l'appareil. Les tranches régulières accueillent un connecteur magnétique pour stylet actif. En outre, la disposition des boutons procure une accessibilité intuitive en déplacement.",
+                    "La dalle IPS de 11.2 pouces propose une définition élevée de 3200 x 2136 pixels. Le format 3:2 offre un confort supérieur pour consulter de longs documents techniques. D'ailleurs, le taux de rafraîchissement adaptatif monte jusqu'à 144 Hz en usage dynamique. La luminosité de 800 nits autorise une lecture agréable dans les environnements lumineux. La prise en charge Dolby Vision affine les contrastes des flux multimédias. Enfin, la protection oculaire certifiée préserve le confort de votre vision au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Processeur Snapdragon 8s Gen 3 et Vitesse de Calcul",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8s Gen 3 intègre une architecture octa-core gravée en 4 nanomètres. Cette configuration moderne supporte facilement le rendu de vidéos et les calculs statistiques. En effet, la puce graphique Adreno 735 stabilise le débit d'images des logiciels graphiques. La mémoire vive LPDDR5X soutient un multitâche continu sans fermetures inopinées d'applications. L'utilisateur bascule instantanément d'un tableur vers un document de traitement de texte. De plus, la chambre à vapeur intégrée limite la montée en température du système.",
+                    "Le stockage UFS interne garantit des débits d'écriture rapides pour les gros volumes. Cette rapidité d'accès raccourcit le temps de chargement de vos bases de données. Par conséquent, la manipulation de gros catalogues numériques s'effectue sans aucune saccade. Le système d'exploitation Xiaomi HyperOS 2 optimise la répartition des ressources en arrière-plan. L'interface graphique épurée fluidifie l'organisation de vos fenêtres multiples sur l'écran. Ainsi, l'expérience logicielle globale demeure stable lors des sollicitations les plus intenses."
+                ]
+            },
+            {
+                "h2_title": "Capteurs 50 MP, Audio Spatialisé et Charge Rapide 67W",
+                "paragraphs": [
+                    "Le bloc photographique arrière accueille un capteur principal de 50 mégapixels avec autofocus PDAF. Cet objectif numérise les plans architecturaux et les contrats avec une grande netteté. De surcroît, l'enregistrement vidéo monte jusqu'à la définition 4K à 60 images par seconde. La caméra frontale de 32 mégapixels cadre parfaitement vos présentations en ligne. Les microphones intégrés filtrent efficacement les bruits parasites des espaces partagés. En conséquence, vos collaborateurs perçoivent distinctement chaque intervention lors des visioconférences.",
+                    "Quatre haut-parleurs stéréo avec certification Dolby Atmos procurent une restitution sonore équilibrée. La batterie de 8850 mAh dispense une autonomie rassurante pour une journée complète. Grâce à la charge filaire 67W, la batterie regagne la totalité en 40 minutes. Cette vitesse d'alimentation évite toute interruption prolongée durant vos séances professionnelles. La connectivité Wi-Fi 7 favorise des débits sans fil constants sur les réseaux modernes. Enfin, la connectique USB-C 3.2 autorise la sortie vidéo vers un écran externe."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Pad 7 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Pad 7 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "251.22 x 173.42 x 6.18 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.500 kg (500 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre protecteur, dos et cadre monobloc en aluminium"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Gray), Bleu (Blue), Vert (Green)"
+                        },
+                        {
+                            "label": "Stylet & Accessoires",
+                            "valeur": "Prise en charge du stylet magnétique Xiaomi avec recharge par induction"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, Dolby Vision, HDR10"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "11.2 pouces (ratio écran/corps d'environ 86.9%)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "3.2K (3200 x 2136 pixels), ratio 3:2, 345 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "144 Hz adaptatif dynamique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "800 nits (typique)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8s Gen 3 (Gravure 4 nm TSMC)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Adreno 735"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go (UFS 3.1) / 256 Go ou 512 Go (UFS 4.0)"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Non (pas de port pour carte microSD)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "50 MP, f/1.8, 1/2.76\", 0.64µm, autofocus PDAF"
+                        },
+                        {
+                            "label": "Capteur Secondaire",
+                            "valeur": "2 MP, f/2.4 (profondeur de champ)"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "4K à 30/60 fps, 1080p à 30/60 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "32 MP, f/2.2, capteur 1/3.6\", 0.64µm grand-angle"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Multimédia",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo dédiés"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, certification Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Non (audio via port USB-C ou sans fil)"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Réseau de microphones avec réduction de bruit active"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "8850 mAh non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge turbo 67W (PD3.0, QC3+)"
+                        },
+                        {
+                            "label": "Temps de Charge Estimé",
+                            "valeur": "100% en environ 40 minutes"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/6e/7) tri-bande"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Version 5.4 avec support A2DP, LE, LHDC 5"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 1 avec fonction OTG et sortie DisplayPort"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Lecteur d'empreintes digitales sur la tranche, accéléromètre, gyroscope, capteur de luminosité ambiante, capteur Hall"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec surcouche Xiaomi HyperOS 2"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+7+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+7+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

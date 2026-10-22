@@ -1,0 +1,331 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Hero 10",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/hero10-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "295000",
+        "official_sku": "BV-HERO-10"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.9 pouces",
+        "screen_technology": "2.5K AMOLED Pliable & Écran Secondaire 1.19 pouces",
+        "screen_resolution": "2560 x 1080 pixels",
+        "battery_capacity": "4000 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 36 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "108 MP (Samsung ISOCELL) + 8 MP Ultra Grand-Angle",
+        "camera_selfie": "32 MP HD",
+        "audio_config": "Haut-parleurs Stéréo Smart-PA",
+        "audio_tech": "Son Spatial HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge Rapide 45W USB-C",
+        "dimensions": "169 x 75.5 x 8.1 mm (Déplié) / 87.8 x 75.5 x 16.25 mm (Plié)",
+        "weight": "0.198 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-HERO-10-MASTER",
+        "Name": "Blackview Hero 10",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "295000",
+        "Categories": "Smartphones > Blackview > Hero Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Hero 10, Smartphone Pliable, AMOLED, 108MP, 45W, 12GB, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.198 kg",
+        "Attribute 4 default": "0.198 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Hero 10 : Smartphone Pliable Écran 6.9 Pouces AMOLED 108 MP 45W",
+        "brand_line": "Le premier smartphone pliable moderne signé Blackview associant élégance et performances.",
+        "marketing_conclusion": "Commandez le Blackview Hero 10 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Hero 10 propose un grand écran pliable 2.5K AMOLED de 6.9 pouces, une caméra principale de 108 MP, la charge rapide 45W et 12 Go de RAM.",
+        "features": [
+            {
+                "feature": "Écran Pliable 6.9\" AMOLED 2.5K",
+                "benefice": "Affichage fluide aux couleurs éclatantes et charnière résistante."
+            },
+            {
+                "feature": "Capteur Photo 108 MP Samsung",
+                "benefice": "Photographies haute résolution d'une netteté remarquable."
+            },
+            {
+                "feature": "Puce MediaTek Helio G99 & 12 Go RAM",
+                "benefice": "Exécution rapide de toutes vos applications exigeantes."
+            },
+            {
+                "feature": "Écran Secondaire 1.19\" & Charge 45W",
+                "benefice": "Aperçu instantané des notifications et recharge très véloce."
+            }
+        ],
+        "slogan_final": "Blackview Hero 10 — L'innovation pliable accessible au quotidien.",
+        "seo": {
+            "meta_title": "Acheter Blackview Hero 10 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone pliable Blackview Hero 10 avec écran 6.9\" AMOLED, caméra 108 MP et 12 Go de RAM. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Hero 10, smartphone pliable, prix Abidjan, 108MP AMOLED 45W"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Hero 10",
+            "lsi_keywords": [
+                "Blackview Hero 10",
+                "smartphone pliable Blackview Abidjan",
+                "Blackview Hero 10 prix",
+                "téléphone écran amoled pliable",
+                "téléphone portable 108 MP",
+                "smartphone haut de gamme Côte d'Ivoire",
+                "achat téléphone pliable Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Hero 10 256 Go : Écran Pliable OLED 6.9\" & 108 MP | My-eStore",
+            "meta_description": "Achetez le smartphone pliable Blackview Hero 10. Écran 6.9\" AMOLED 2.5K, caméra 108 MP, 12 Go RAM et charge 45W. Livraison rapide assurée à Abidjan."
+        },
+        "h1": "Blackview Hero 10 : Spécifications du Smartphone Pliable",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU DESIGN PLIABLE",
+            "items": [
+                {
+                    "feature": "Écran AMOLED Pliable 6.9 Pouces",
+                    "benefice": "Grand confort visuel dans un format très compact."
+                },
+                {
+                    "feature": "Capteur Photo 108 MP ISOCELL",
+                    "benefice": "Prises de vue très nettes et riches en couleurs."
+                },
+                {
+                    "feature": "Écran Circulaire Secondaire 1.19\"",
+                    "benefice": "Contrôle rapide de la musique et des notifications."
+                },
+                {
+                    "feature": "Recharge Rapide 45W USB-C",
+                    "benefice": "Récupération véloce de la batterie en cas de besoin."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Hero 10 est un smartphone pliable particulièrement élégant et novateur. Cet équipement convient très bien aux utilisateurs à la recherche de modernité en Côte d'Ivoire. Par ailleurs, son grand écran principal AMOLED de 6.9 pouces offre une lisibilité visuelle très claire. De plus, sa charnière en goutte d'eau supporte plus de 200 000 pliages. La batterie de 4000 mAh avec charge 45W permet de travailler en toute sérénité au quotidien. Son boîtier compact de 8.1 mm d'épaisseur garantit une prise en main très agréable. L'interface DokeOS 4.0 sous Android 13 simplifie l'accès à toutes vos applications. Enfin, ce smartphone moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.9 Pouces AMOLED et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview Hero 10 intègre une dalle AMOLED de 6.9 pouces en définition 2.5K. Sa résolution de 2560 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, sa luminosité maximale de 1300 nits apporte une grande visibilité même en plein soleil. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. Son écran circulaire arrière de 1.19 pouce affiche l'heure ainsi que vos messages. En effet, le tiroir d'extensions accueille deux cartes Nano SIM pour une connectivité réseau optimale. Cette conception soignée protège la charnière en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 108 MP, Écran Secondaire et Puce NFC",
+                "paragraphs": [
+                    "Le Blackview Hero 10 embarque un capteur photo principal de 108 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en portrait. En outre, la caméra frontale de 32 Mégapixels s'avère très pratique pour les selfies clairs. Les algorithmes ArcSoft 9.0 optimisent le rendu des couleurs même en faible lumière. Ainsi, le module ultra grand-angle de 8 Mégapixels immortalise vos paysages et photos de groupe. La précision des contrastes reste constante.",
+                    "Par ailleurs, le format plié permet d'utiliser l'appareil photo principal pour vos autoportraits. De plus, la charnière débrayable s'immobilise à différents angles pour poser le téléphone. Également, la puce NFC multifonction permet des paiements rapides sans contact. De surcroît, le capteur d'empreintes digitales latéral garantit un déverrouillage très sécurisé. En somme, ce smartphone pliable réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 4000 mAh et Charge Rapide 45W",
+                "paragraphs": [
+                    "La batterie intégrée de 4000 mAh procure une autonomie énergétique bien équilibrée. Cette réserve constante vous permet de travailler tout au long de la journée. D'ailleurs, le port USB-C prend en charge la charge rapide 45W pour faire le plein rapidement. En effet, seulement 20 minutes de charge suffisent pour retrouver 47% de batterie. Vos usages quotidiens se poursuivent sans interruption.",
+                    "La silhouette affinée de 8.1 mm déplié offre une tenue en main naturelle et très légère. Son poids contenu de 198 grammes témoigne de l'ergonomie apportée au téléphone. D'autre part, le Blackview Hero 10 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa conception pliable en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Hero 10",
+                "subtitle": "Spécifications matérielles certifiées du smartphone pliable Blackview Hero 10."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions déplié",
+                            "valeur": "169 x 75.5 x 8.1 mm"
+                        },
+                        {
+                            "label": "Dimensions plié",
+                            "valeur": "87.8 x 75.5 x 16.25 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.198 kg"
+                        },
+                        {
+                            "label": "Type de charnière",
+                            "valeur": "Charnière goutte d'eau en acier haute résistance"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir (Eclipse Black), Violet (Sakura Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran principal",
+                            "valeur": "6.9 pouces 2.5K AMOLED Pliable"
+                        },
+                        {
+                            "label": "Résolution écran principal",
+                            "valeur": "2560 x 1080 pixels (443 ppi)"
+                        },
+                        {
+                            "label": "Écran secondaire externe",
+                            "valeur": "1.19 pouce OLED Circulaire (390 x 390 pixels)"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1300 nits"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR4X (+24 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 2.2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "108 MP (Samsung ISOCELL HM6, f/1.89)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (117° FoV)"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "32 MP HD"
+                        },
+                        {
+                            "label": "Traitements d'image",
+                            "valeur": "Algorithmes ArcSoft 9.0 & Mode Nuit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "4000 mAh (Conception double cellule)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "45W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes latéral & Reconnaissance faciale"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/hero10-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

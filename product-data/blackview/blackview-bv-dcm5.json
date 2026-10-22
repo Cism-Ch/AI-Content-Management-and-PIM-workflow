@@ -1,0 +1,317 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "DCM5",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/dcm5"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "145000",
+        "official_sku": "BV-DCM5"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Dual Screen Controller",
+        "processor_ghz": "N/A",
+        "screen_size": "14 pouces (Écran Double Portable)",
+        "screen_technology": "FHD IPS LCD Mat Anti-Reflets",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation directe USB-C)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non disponible",
+        "os": "Compatible Windows, macOS, Android, Linux",
+        "os_skin": "Plug & Play sans pilote",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Double haut-parleur stéréo intégré",
+        "audio_tech": "Son Stéréo HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "Dual USB-C & Mini HDMI",
+        "dimensions": "357.5 x 207.7 x 27.7 mm",
+        "weight": "1.53 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-DCM5-MASTER",
+        "Name": "Blackview DCM5",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "145000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview DCM5, Moniteur Portable, Double Écran, 14 Pouces, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.53 kg",
+        "Attribute 4 default": "1.53 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview DCM5 : L'Extension Double Écran Portable 14 Pouces",
+        "brand_line": "Moniteur portable double écran Blackview conçu pour maximiser la productivité.",
+        "marketing_conclusion": "Commandez le Blackview DCM5 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview DCM5 propose une extension double écran de 14 pouces Full HD IPS, une connectique USB-C Plug & Play et une compatibilité universelle avec vos ordinateurs portables.",
+        "features": [
+            {
+                "feature": "Double Écran 14\" FHD IPS",
+                "benefice": "Surface d'affichage doublée pour un multitâche fluide en déplacement."
+            },
+            {
+                "feature": "Connectique USB-C & Mini HDMI",
+                "benefice": "Branchement instantané avec un seul câble sans installation de pilote."
+            },
+            {
+                "feature": "Compatibilité Universelle",
+                "benefice": "Fonctionne parfaitement avec Windows, macOS, Android et Linux."
+            },
+            {
+                "feature": "Support Pliable Ajustable",
+                "benefice": "Angle de vision réglable et transport facile dans une sacoche."
+            }
+        ],
+        "slogan_final": "Blackview DCM5 — La productivité double écran où que vous soyez.",
+        "seo": {
+            "meta_title": "Acheter Blackview DCM5 (Double Écran 14\") à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable Blackview DCM5 avec double écran 14 pouces Full HD et connectique USB-C. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview DCM5, moniteur portable Blackview, prix Abidjan, extension écran 14 pouces"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview DCM5",
+            "lsi_keywords": [
+                "Blackview DCM5",
+                "moniteur portable Blackview",
+                "prix Abidjan",
+                "extension écran PC portable Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "double écran 14 pouces",
+                "USB-C Plug Play",
+                "écran portable FHD IPS",
+                "achat moniteur portable Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview DCM5 14\" : Double Écran Portable FHD IPS | My-eStore",
+            "meta_description": "Achetez le moniteur portable Blackview DCM5. Double écran 14 pouces Full HD IPS, USB-C et pied ajustable. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview DCM5 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Surface Multitâche Doublée",
+                    "benefice": "Affichage simultané de deux fenêtres ou documents pour travailler plus vite."
+                },
+                {
+                    "feature": "Dalle IPS 14 Pouces Full HD",
+                    "benefice": "Résolution 1920x1080 avec angles de vision larges et couleurs fidèles."
+                },
+                {
+                    "feature": "Alimentation USB-C Directe",
+                    "benefice": "Connexion simplifiée utilisant l'énergie de l'ordinateur portable hôte."
+                },
+                {
+                    "feature": "Structure Robuste 1.53 kg",
+                    "benefice": "Châssis solide protégeant les panneaux d'affichage lors du transport."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview DCM5 est une extension de moniteur portable double écran novatrice et performante. Cet équipement répond parfaitement aux besoins des professionnels exigeants en Côte d'Ivoire. Par ailleurs, la connectique USB-C assure un fonctionnement instantané sans aucun pilote. De plus, sa double dalle de 14 pouces Full HD IPS offre une surface de travail étendue. Le traitement anti-reflets préserve votre vue pendant les longues sessions de bureautique. Sa structure pliable protège efficacement les écrans durant le transport. En effet, sa compatibilité universelle s'adapte à tous vos systèmes d'exploitation. Enfin, vous décuplez votre productivité en tout lieu.",
+        "sections": [
+            {
+                "h2_title": "Double Écran 14 Pouces et Qualité d'Affichage",
+                "paragraphs": [
+                    "Le Blackview DCM5 embarque deux dalles IPS de 14 pouces d'une haute précision. Sa résolution Full HD de 1920 x 1080 pixels garantit un texte d'une netteté remarquable. De plus, la technologie IPS offre des angles de vision larges à 178 degrés. De surcroît, le traitement mat atténue les reflets gênants sous les éclairages de bureau. La fidélité des couleurs permet de travailler sur vos présentations avec précision. L'immersion visuelle reste agréable tout au long de la journée.",
+                    "La disposition des panneaux facilite le suivi simultané de plusieurs applications ouvertes. Vous pouvez consulter vos données sur un écran tout en rédigeant votre rapport sur le second. En effet, la charnière centrale permet d'orienter les écrans selon votre angle de confort. La consommation électrique maîtrisée préserve l'autonomie de votre PC portable. Ainsi, vos sessions de travail à Abidjan gagnent en efficacité."
+                ]
+            },
+            {
+                "h2_title": "Connectique USB-C et Simplicité Plug & Play",
+                "paragraphs": [
+                    "Le Blackview DCM5 se distingue par sa connectivité moderne et très accessible. Il intègre des ports USB-C multifonctions transmettant le signal vidéo et l'alimentation. En outre, le port Mini HDMI permet de raccorder des appareils dépourvus de port USB-C. Vous branchez l'extension directement à votre ordinateur portable en toute simplicité. La configuration s'effectue automatiquement en mode miroir ou étendu. L'utilisation quotidienne devient fluide et intuitive.",
+                    "Par ailleurs, l'appareil intègre de petits haut-parleurs stéréo pour la restitution du son. Vous pouvez ainsi suivre vos réunions en visioconférence sans accessoires supplémentaires. De plus, une prise Jack 3.5 mm permet le branchement d'un casque audio en cas de besoin. Cette polyvalence sonore simplifie l'organisation de votre espace de travail. En somme, cette solution d'affichage répond à vos besoins nomades."
+                ]
+            },
+            {
+                "h2_title": "Ergonomie Pliable et Châssis Solide",
+                "paragraphs": [
+                    "La structure du Blackview DCM5 bénéficie d'une finition robuste et bien pensée. Le pied réglable intégré à l'arrière maintient fermement l'extension contre votre PC portable. Le poids de 1.53 kg garantit un ancrage stable sur votre bureau de travail. En effet, le système de fermeture protège les deux écrans contre les rayures durant vos trajets. Vous glissez l'extension repliée dans votre sacoche sans encombre.",
+                    "La compatibilité avec les systèmes Windows, macOS, Android et Linux s'avère universelle. Cette flexibilité vous permet de partager votre moniteur portable entre plusieurs équipements. Le Blackview DCM5 représente un investissement très judicieux pour les travailleurs mobiles à Abidjan. En somme, son rapport qualité-prix en fait une opportunité extrêmement compétitive. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview DCM5",
+                "subtitle": "Spécifications matérielles certifiées de l'extension écran portable Blackview DCM5."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions replié",
+                            "valeur": "357.5 x 207.7 x 27.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.53 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Extension double écran portable pour PC"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Nombre d'écrans",
+                            "valeur": "2 écrans portables IPS"
+                        },
+                        {
+                            "label": "Taille écran",
+                            "valeur": "14 pouces par écran"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS Mat Anti-Reflets (178°)"
+                        },
+                        {
+                            "label": "Rapport d'aspect",
+                            "valeur": "16:9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Ports",
+                    "rows": [
+                        {
+                            "label": "Ports vidéo",
+                            "valeur": "2 x USB-C (DisplayPort + Charge), 1 x Mini HDMI"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise Jack 3.5 mm & Haut-parleurs stéréo intégrés"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Alimentation directe via USB-C (5V/3A)"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play (sans installation de pilote)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité",
+                    "rows": [
+                        {
+                            "label": "Compatibilité PC",
+                            "valeur": "Ordinateurs portables de 13 à 16.5 pouces"
+                        },
+                        {
+                            "label": "Systèmes d'exploitation",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS"
+                        },
+                        {
+                            "label": "Modes d'affichage",
+                            "valeur": "Mode Étendu, Mode Miroir, Mode Portrait"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Pied de support",
+                            "valeur": "Support arrière rétractable et ajustable"
+                        },
+                        {
+                            "label": "Angle de rotation",
+                            "valeur": "Charnière orientable jusqu'à 235°"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câbles inclus",
+                            "valeur": "2 x Câbles USB-C vers USB-C, 1 x Câble Mini HDMI vers HDMI"
+                        },
+                        {
+                            "label": "Accessoires",
+                            "valeur": "Guide d'utilisation et housse de rangement"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/dcm5"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

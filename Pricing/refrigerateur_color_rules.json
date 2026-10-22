@@ -1,0 +1,11 @@
+{
+  "sku_map": {},
+  "keyword_rules": [
+    ["BLACK GLASS|BLACK MIRROR|P572SBBG|P692SBBG|FC-10", "Noir Miroir / Black Glass"],
+    ["DARK GREY|GRIS FONCE", "Gris Foncé / Anthracite"],
+    ["SILVER|BANDE SILVER|RD-13DR4SA|RD-22DC4SA|RC-67WS4SH", "Silver / Argent Satiné"],
+    ["INOX|STAINLESS", "Inox Look / Acier Inoxydable"],
+    ["WHITE|BLANC", "Blanc"]
+  ],
+  "fallback": "Silver"
+}

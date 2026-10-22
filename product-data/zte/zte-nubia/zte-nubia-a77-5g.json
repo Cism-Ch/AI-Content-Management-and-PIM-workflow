@@ -1,0 +1,243 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia A77 5G",
+        "generation_date": "2026-09-02"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A77+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A77+5G+specifications"
+            }
+        ],
+        "pricing_reference": "145000",
+        "official_sku": "ZTE-NUBIA-A77-5G"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T8300 (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.75 pouces",
+        "screen_technology": "IPS LCD 120Hz Dalle Fluide",
+        "screen_resolution": "1640 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "6 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 16",
+        "os_skin": "MyOS 16",
+        "camera_main": "Double capteur 50 MP (Principal 50 MP f/1.8 PDAF + Capteur Auxiliaire)",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur multimédia avec prise jack 3.5mm",
+        "audio_tech": "Traitement sonore optimisé",
+        "connectivity_nfc": "Oui (selon région)",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM / MicroSD extensible",
+        "charging_wired": "Charge rapide 22.5W USB-C avec Bypass Charging",
+        "dimensions": "168.0 x 77.0 x 8.3 mm",
+        "weight": "0.193 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-A77-5G-MASTER",
+        "Name": "ZTE Nubia A77 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "145000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Nubia A77 5G, Smartphone 5G, 120Hz, 50MP, 5000mAh, Unisoc T8300, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.193 kg",
+        "Attribute 4 default": "0.193 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia A77 5G : Écran 120 Hz 6.75\" Capteur 50 MP et Batterie 5000 mAh",
+        "brand_line": "Le smartphone 5G polyvalent doté d'un grand affichage 120 Hz et d'une charge 22.5W.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia A77 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia A77 5G réunit la connectivité 5G rapide, une dalle fluide 120Hz de 6.75 pouces, un capteur photo 50 MP et une batterie 5000 mAh avec charge 22.5W.",
+        "features": [
+            {
+                "feature": "Connectivité 5G & Puce Unisoc T8300",
+                "benefice": "Navigation fluide et téléchargements rapides sur tous vos réseaux mobiles."
+            },
+            {
+                "feature": "Grand Écran 6.75\" 120Hz",
+                "benefice": "Défilement confortable et affichage réactif pour vos contenus multimédias."
+            },
+            {
+                "feature": "Double Capteur Photo 50 MP",
+                "benefice": "Clichés nets et lumineux lors de vos prises de vue au quotidien."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 22.5W",
+                "benefice": "Autonomie solide sur une journée complète et recharge efficace."
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia A77 5G (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia A77 5G à Abidjan sur My-eStore. Connectivité 5G, écran 120Hz de 6.75 pouces, capteur 50 MP et batterie 5000 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "h1": "ZTE Nubia A77 5G : Puce 5G 6nm, Double Capteur 50 MP et Batterie 5000 mAh",
+        "intro_paragraph": "Le ZTE Nubia A77 5G combine la vitesse des réseaux modernes et une ergonomie soignée pour les utilisateurs d'Abidjan. En effet, sa puce Unisoc T8300 gravée en 6 nanomètres assure une réactivité appréciable. Sa dalle de 6.75 pouces offre un taux de rafraîchissement rapide à 120 Hz. De plus, son module photo principal de 50 Mégapixels saisit vos instants précieux avec clarté. Par ailleurs, la batterie de 5000 mAh garantit une excellente endurance quotidienne. Vous réalisez votre achat en toute confiance sur la plateforme My-eStore.",
+        "sections": [
+            {
+                "title": "Connectivité 5G et Écran Fluide 120 Hz",
+                "paragraphs": [
+                    "Le ZTE Nubia A77 5G s'appuie sur le processeur Unisoc T8300 cadencé à 2.2 GHz. Cette architecture moderne gère efficacement vos applications quotidiennes sans latence excessive. Ainsi, la navigation sur Internet et les échanges sur les réseaux sociaux s'effectuent rapidement. La mémoire vive de 6 Go soutient une utilisation multitâche stable.",
+                    "L'écran de 6.75 pouces bénéficie d'une fréquence de rafraîchissement atteignant 120 Hz. En effet, cette fluidité rend la lecture d'articles et le visionnage de vidéos très agréables. D'ailleurs, la luminosité s'adapte automatiquement à votre environnement lumineux. Vous profitez d'un confort visuel appréciable lors de vos trajets quotidiens."
+                ]
+            },
+            {
+                "title": "Appareil Photo 50 MP et Interface MyOS Moderne",
+                "paragraphs": [
+                    "Le capteur photographique principal affiche une définition de 50 Mégapixels avec autofocus PDAF. Cet objectif capte des couleurs naturelles lors de vos promenades en extérieur. De plus, le mode portrait applique un flou d'arrière-plan harmonieux autour de votre sujet. La caméra frontale de 8 Mégapixels permet des appels vidéo nets.",
+                    "Le système d'exploitation Android 16 intègre l'interface logicielle MyOS facile à personnaliser. En outre, le capteur d'empreintes digitales latéral garantit un déverrouillage sécurisé instantané. La prise casque 3.5 mm permet de brancher facilement vos écouteurs filaires. Cet ensemble technique offre une expérience utilisateur pratique et complète."
+                ]
+            },
+            {
+                "title": "Batterie 5000 mAh et Recharge 22.5W Pratique",
+                "paragraphs": [
+                    "La batterie de 5000 mAh offre une réserve énergétique adaptée à un usage intensif. Par ailleurs, la recharge filaire 22.5W rétablit rapidement l'énergie nécessaire pour votre journée. La fonction de dérivation de charge protège la batterie pendant l'utilisation prolongée. Vos activités professionnelles se poursuivent sans interruption imprévue.",
+                    "Le boîtier fin de 8.3 mm présente une finition soignée avec un poids mesuré de 193 grammes. Ainsi, la prise en main reste très agréable pour toutes les tailles de paume. En somme, ce smartphone représente un choix équilibré et accessible. Vous pouvez commander sereinement sur la boutique My-eStore. La livraison à Abidjan est assurée avec un suivi régulier."
+                ]
+            }
+        ],
+        "full_specs": {
+            "design_physique": {
+                "Dimensions": "168.0 x 77.0 x 8.3 mm",
+                "Poids": "0.193 kg (193 g)",
+                "Matériaux": "Châssis robuste, dos texturé, protection contre les éclaboussures IP64",
+                "Coloris officiels": "Noir (Obsidian Black), Blanc (Glacier White), Violet (Twilight Purple)"
+            },
+            "affichage_ecran": {
+                "Taille de l'écran": "6.75 pouces (~84.5% ratio écran-corps)",
+                "Technologie de dalle": "IPS LCD, 120Hz",
+                "Définition": "HD+ (1640 x 720 pixels, ~265 ppi)",
+                "Fréquence de rafraîchissement": "120 Hz",
+                "Particularité": "Bordures fines et encoche discrète en goutte d'eau"
+            },
+            "performances_systeme": {
+                "Processeur (SoC)": "Unisoc T8300 5G (6 nm)",
+                "Architecture CPU": "Octa-Core (2x2.2 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55)",
+                "Puce graphique (GPU)": "Mali-G57 MP2",
+                "Mémoire RAM": "6 Go",
+                "Stockage interne": "128 Go (extensible via carte microSDXC)",
+                "Système d'exploitation": "Android 16 avec interface MyOS"
+            },
+            "photographie_video": {
+                "Capteur principal arrière": "50 MP (f/1.8, grand-angle, PDAF) + capteur auxiliaire",
+                "Caméra frontale (Selfie)": "8 MP (f/2.0)",
+                "Enregistrement vidéo": "1080p à 30 fps"
+            },
+            "batterie_alimentation": {
+                "Capacité de la batterie": "5000 mAh (Li-Po non amovible)",
+                "Puissance de charge": "Charge rapide 22.5W filaire",
+                "Fonctions spéciales": "Bypass charging, charge inversée filaire"
+            },
+            "connectivite_reseau": {
+                "Réseaux cellulaires": "5G SA/NSA, 4G LTE, 3G, 2G",
+                "Carte SIM": "Dual Nano SIM",
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac dual-band",
+                "Bluetooth": "Bluetooth 5.4 avec A2DP et LE",
+                "NFC": "Oui (selon région)",
+                "Prise casque": "Jack 3.5 mm",
+                "Port USB": "USB Type-C 2.0 réversible"
+            },
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A77+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A77+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "seo": {
+            "meta_title": "ZTE Nubia A77 5G 128Go : Écran 120Hz & Double 50MP | My-eStore",
+            "meta_description": "Fiche technique du ZTE Nubia A77 5G. Processeur Unisoc T8300, connectivité 5G, écran 120Hz 6.75\", capteur 50 MP et batterie 5000 mAh avec charge 22.5W."
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "6 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Obsidian Black"
+        },
+        {
+            "ram": "6 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Blanc",
+            "color_fr": "Blanc",
+            "color_en": "Glacier White"
+        },
+        {
+            "ram": "6 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Violet",
+            "color_fr": "Violet",
+            "color_en": "Twilight Purple"
+        }
+    ]
+}

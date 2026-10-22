@@ -1,0 +1,451 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-14-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 14 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 14 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-premium-5g",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-14-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-14-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G résistant Xiaomi Redmi Note 14 Pro 5G avec capteur 200MP OIS étanchéité IP68 processeur Dimensity 7300-Ultra et écran AMOLED 1.5K 120Hz."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7300-Ultra 5G (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "5110 mAh",
+        "charging_wired": "Charge rapide 45W",
+        "navigation_gps": "GPS, GLONASS, BDS, Galileo, QZSS",
+        "card_slot": "Non (stockage interne haute vitesse UFS)",
+        "weight": "0.190 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-14-PRO-5G",
+        "Name": "Xiaomi Redmi Note 14 Pro 5G - Dual SIM - Écran 6.67\" AMOLED 1.5K 120Hz - (8 Go & 128 Go / 256 Go / 12 Go & 512 Go) - 5110 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "210000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 14 Pro 5G, Redmi Note 14, Smartphone, 5G, Écran AMOLED, Écran 120Hz, Capteur 200MP, 5110mAh, Charge 45W, Dimensity 7300 Ultra, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go | 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.190 kg",
+        "Attribute 4 default": "0.190 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "210000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Coral Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "210000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "210000",
+            "sku_suffix": "8-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Coral Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "270000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Coral Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "270000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "270000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 14",
+        "teaser": "Le Xiaomi Redmi Note 14 Pro 5G combine un capteur de 200 mégapixels stabilisé et une étanchéité IP68 certifiée. Doté du processeur Dimensity 7300-Ultra et d'un écran AMOLED 1.5K 120Hz, il garantit robustesse et confort visuel.",
+        "top_features_detailed": [
+            {
+                "label": "Étanchéité IP68 et Gorilla Glass Victus 2",
+                "detail": "Protection avancée contre les immersions accidentelles et résistance éprouvée aux chutes du quotidien."
+            },
+            {
+                "label": "Capteur Photo 200 MP avec OIS",
+                "detail": "Photographies haute résolution d'une grande netteté stabilisées mécaniquement contre les tremblements."
+            },
+            {
+                "label": "Écran AMOLED 1.5K 120Hz",
+                "detail": "Dalle CrystalRes très détaillée offrant des couleurs vives et une réactivité tactile sous l'humidité."
+            },
+            {
+                "label": "Puce Dimensity 7300-Ultra et Charge 45W",
+                "detail": "Gravure moderne en 4 nanomètres assurant une fluidité continue soutenue par un accumulateur de 5110 mAh."
+            }
+        ],
+        "marketing_conclusion": "Un smartphone 5G élégant et robuste taillé pour la photographie mobile et l'usage intensif sans compromis.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 14 Pro 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi Note 14 Pro 5G à Abidjan chez My-eStore. Étanchéité IP68, capteur 200MP OIS et écran AMOLED 1.5K 120Hz au prix officiel garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 14 Pro 5G : 200 MP OIS & IP68 | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 14 Pro 5G chez My-eStore. Étanchéité IP68, capteur 200 MP OIS et écran AMOLED 1.5K 120Hz au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 14 Pro 5G",
+            "lsi_keywords": [
+                "Redmi Note 14 Pro 5G Abidjan",
+                "smartphone etanche IP68 Xiaomi",
+                "capteur 200 MP OIS Dimensity",
+                "ecran AMOLED 1.5K 120Hz",
+                "telephone 5G batterie 5110 mAh"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 14 Pro 5G : Capteur 200 MP OIS, Écran AMOLED 1.5K et Étanchéité IP68",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi Note 14 Pro 5G",
+            "items": [
+                {
+                    "feature": "Étanchéité IP68 & Victus 2",
+                    "benefice": "Protection certifiée contre l'immersion dans l'eau et résistance renforcée aux chutes du quotidien."
+                },
+                {
+                    "feature": "Écran AMOLED 1.5K 120Hz",
+                    "benefice": "Résolution CrystalRes détaillée avec fluidité 120Hz et détection tactile sous doigts humides."
+                },
+                {
+                    "feature": "Capteur Photo 200 MP OIS",
+                    "benefice": "Excellente captation de lumière et stabilisation optique pour des vidéos nettes sans tremblement."
+                },
+                {
+                    "feature": "Puce Dimensity 7300-Ultra 4 nm",
+                    "benefice": "Processus de gravure avancé offrant puissance soutenue et grande sobriété énergétique."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi Note 14 Pro 5G repousse les standards de robustesse grâce à sa certification IP68. En effet, sa structure étanche résiste efficacement aux projections d'eau et aux poussières environnantes. Son capteur dorsal de 200 mégapixels stabilisé mécaniquement produit des clichés d'une clarté remarquable. De plus, la dalle AMOLED 1.5K rafraîchie à 120Hz garantit une lecture confortable sous le soleil. La puce Dimensity 7300-Ultra assure ainsi une réactivité immédiate lors de tous vos déplacements.",
+        "sections": [
+            {
+                "h2_title": "Conception Renforcée IP68 et Écran AMOLED 1.5K Fluide",
+                "paragraphs": [
+                    "Le boîtier présente des finitions soignées conçues pour affronter les aléas climatiques quotidiens. La certification IP68 protège ainsi les circuits électroniques contre les immersions accidentelles dans l'eau. Le verre Corning Gorilla Glass Victus 2 préserve la surface avant des rayures profondes. De surcroît, le châssis amortit les chocs mécaniques lors des manipulations fréquentes au bureau. La dalle AMOLED CrystalRes affiche une définition 1.5K particulièrement précise pour les yeux. Sa diagonale de 6.67 pouces valorise immédiatement chaque visionnage de série ou de document.",
+                    "La fréquence de rafraîchissement adaptative de 120Hz procure un confort visuel reposant lors du défilement. Cette luminosité de pointe permet par conséquent une lisibilité impeccable en plein jour en extérieur. La technologie tactile fonctionne avec précision même lorsque l'utilisateur a les doigts humides. En outre, la filtration de lumière bleue préserve votre acuité visuelle durant les sessions prolongées. Deux haut-parleurs stéréo compatibles Dolby Atmos délivrent un environnement sonore riche et équilibré. Cette alliance ergonomique favorise un usage quotidien agréable en toutes circonstances."
+                ]
+            },
+            {
+                "h2_title": "Précision Photographique 200 MP et Stabilisation Optique OIS",
+                "paragraphs": [
+                    "L'appareil photo dorsal exploite un module principal atteignant une définition de 200 mégapixels. Il enregistre ainsi des clichés fourmillant de détails authentiques et de textures fidèles. La stabilisation optique intégrée neutralise immédiatement les oscillations involontaires de la main. De plus, les ouvertures lumineuses facilitent la capture de scènes nocturnes nettes et contrastées. Le traitement algorithmique optimise l'exposition des visages pour des portraits aux teintes naturelles. Vous capturez facilement des souvenirs spontanés lors de vos sorties en famille à Abidjan.",
+                    "L'objectif ultra grand-angle permet de cadrer de vastes panoramas urbains sans recul nécessaire. Le capteur macro saisit par ailleurs la finesse des végétaux et des textures miniatures. Le zoom numérique haute résolution conserve une grande lisibilité sans perte géométrique visible. En parallèle, l'enregistrement vidéo monte en résolution 4K avec une fluidité cinématique constante. Les multiples modes créatifs autorisent des compositions photographiques variées et personnalisées. Ce système polyvalent répond donc aux attentes des créateurs de contenu modernes."
+                ]
+            },
+            {
+                "h2_title": "Performances Dimensity 7300-Ultra et Autonomie 5110 mAh",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 7300-Ultra est gravé selon un procédé moderne en 4 nanomètres. Cette architecture moderne délivre ainsi une puissance fluide tout en modérant l'échauffement thermique. Les huit cœurs cadencés gèrent le multitâche bureautique sans la moindre baisse de cadence. Par conséquent, les jeux 3D exigeants s'exécutent avec une réactivité exemplaire et stable. La mémoire vive extensible facilite la conservation simultanée de multiples applications en arrière-plan. Le modem 5G intégré télécharge vos fichiers volumineux à des vitesses remarquables.",
+                    "L'accumulateur d'une capacité de 5110 mAh fournit une endurance énergétique pérenne chaque jour. Vous travaillez ainsi sereinement tout au long de la journée sans chercher une prise. La charge rapide filaire de 45W restaure la batterie en quelques dizaines de minutes. De plus, le gestionnaire de batterie analyse vos cycles pour protéger la santé des cellules. L'interface logicielle optimise la consommation globale en coupant les processus inactifs superflus. Ce modèle réunit tous les atouts techniques pour une productivité continue au travail."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 14 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.3 x 74.4 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "190 g (0.190 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68/IP69K résistant à l'eau sous pression et à la poussière (jusqu'à 2m pendant 24h)"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Vert (Coral Green), Violet (Lavender Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED CrystalRes, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~89.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), format 20:9 (~446 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "600 nits typique, 1200 nits HBM, 3000 nits en pic"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 7300-Ultra (4 nm, 8 cœurs jusqu'à 2.50 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G615 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go, 256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "200 MP, f/1.7, 23mm (grand-angle), 1/1.4\", 0.56µm, multi-directionnel PDAF, OIS"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "20 MP, f/2.2, vidéo 1080p@30/60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5110 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge rapide filaire 45W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 (A2DP, LE)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

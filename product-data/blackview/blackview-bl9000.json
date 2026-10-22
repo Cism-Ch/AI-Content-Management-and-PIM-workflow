@@ -1,0 +1,319 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "BL9000",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://www.blackview.hk/products/item/bl9000"
+            }
+        ],
+        "pricing_reference": "299000",
+        "official_sku": "BV-BL9000"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8020 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.6 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "FHD+ 120Hz Corning Gorilla Glass Victus & Écran Arrière 1.32\" Smart-Display Always-On",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "8800 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "512 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP (Samsung ISOCELL GN5) avec OIS & Flash LED",
+        "camera_selfie": "50 MP HD Ultra-Wide",
+        "audio_config": "Deux Haut-parleurs Stéréo Harman Kardon",
+        "audio_tech": "Son Harman Kardon & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS Dual-Band L1+L5 + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 5G (Pas de slot SD)",
+        "charging_wired": "Charge Ultra-Rapide 120W USB-C & Charge inversée 5W",
+        "dimensions": "179.5 x 82.6 x 17 mm",
+        "weight": "0.413 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-BL9000-MASTER",
+        "Name": "Blackview BL9000 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "299000",
+        "Categories": "Smartphones > Blackview > BL Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview BL9000, Smartphone Incassable 5G, Double Ecran, Dimensity 8020, 120W, Harman Kardon, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Or",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.413 kg",
+        "Attribute 4 default": "0.413 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview BL9000 5G : Smartphone Incassable Double Écran 512 Go Charge 120W Son Harman Kardon",
+        "brand_line": "Le smartphone incassable 5G de prestige Blackview doté d'un double écran innovant, de la charge 120W et du son Harman Kardon.",
+        "marketing_conclusion": "Commandez le Blackview BL9000 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview BL9000 5G révolutionne la robustesse avec son écran principal 6.78 pouces 120Hz et son écran arrière de 1.32 pouce, son capteur 50 MP OIS, sa puce Dimensity 8020 et sa charge ultra-rapide de 120W.",
+        "features": [
+            {
+                "feature": "Double Écran Innovant (Victus & Arrière 1.32\")",
+                "benefice": "Notifications directes et selfies faciles avec l'objectif arrière."
+            },
+            {
+                "feature": "Charge Ultra-Rapide 120W & 8800 mAh",
+                "benefice": "Faites le plein complet en seulement 20 minutes."
+            },
+            {
+                "feature": "Son Stéréo Ajusté par Harman Kardon",
+                "benefice": "Qualité sonore d'une fidélité remarquable pour vos vidéos."
+            },
+            {
+                "feature": "Capteur 50 MP OIS & Dimensity 8020",
+                "benefice": "Photos stables de jour comme de nuit et vitesse 5G."
+            }
+        ],
+        "slogan_final": "Blackview BL9000 — La technologie de pointe dans un boîtier indestructible.",
+        "seo": {
+            "meta_title": "Acheter Blackview BL9000 5G (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone incassable 5G Blackview BL9000 avec double écran, son Harman Kardon et charge 120W. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview BL9000, smartphone incassable double ecran, prix Abidjan, 120W harman kardon 512GB"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview BL9000",
+            "lsi_keywords": [
+                "Blackview BL9000",
+                "smartphone incassable double ecran Blackview Abidjan",
+                "Blackview BL9000 prix",
+                "téléphone chantier charge 120W",
+                "téléphone harman kardon 512 Go",
+                "smartphone durci haut de gamme Côte d'Ivoire",
+                "achat téléphone BL9000 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview BL9000 5G 512 Go : Double Écran & Charge 120W | My-eStore",
+            "meta_description": "Achetez le smartphone incassable 5G Blackview BL9000. Double écran, son Harman Kardon, caméra 50 MP OIS, charge 120W et batterie 8800 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview BL9000 5G : Spécifications du Smartphone à Double Écran",
+        "experience_box": {
+            "box_title": "LES INNOVATIONS DU BL9000",
+            "items": [
+                {
+                    "feature": "Double Écran d'Affichage Interactif",
+                    "benefice": "Accès rapide aux widgets et notifications à l'arrière."
+                },
+                {
+                    "feature": "Charge Ultra-Rapide HyperCharge 120W",
+                    "benefice": "Recharge extrêmement véloce pour ne jamais attendre."
+                },
+                {
+                    "feature": "Double Haut-Parleur Harman Kardon",
+                    "benefice": "Clarté acoustique d'un équilibre remarquable."
+                },
+                {
+                    "feature": "Blindage IP68 & Victus Anti-Rupture",
+                    "benefice": "Solidité absolue contre les chutes et rayures."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview BL9000 est un smartphone incassable 5G particulièrement innovant et complet. Cet équipement convient très bien aux professionnels exigeants et voyageurs en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.78 pouces en définition FHD+ offre une lisibilité visuelle très claire. De plus, sa vitre Gorilla Glass Victus résiste très bien aux accidents de chantier. La batterie généreuse de 8800 mAh permet de travailler en toute sérénité sans interruption. Son boîtier robuste de 17 mm gagne une prise en main très sûre. L'interface DokeOS 4.0 sous Android 14 simplifie l'accès à vos dossiers. Enfin, ce smartphone double écran constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Double Écran Interactif et Puce Dimensity 8020 5G",
+                "paragraphs": [
+                    "Le Blackview BL9000 intègre une grande dalle IPS de 6.78 pouces protégée par du verre Victus. Sa résolution de 2460 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, l'écran circulaire arrière de 1.32 pouce gère facilement l'affichage de l'heure et la musique. De surcroît, le processeur Dimensity 8020 à huit cœurs cadencés à 2.6 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 512 Go conserve l'ensemble de vos dossiers professionnels. La rapidité d'écriture du stockage UFS 3.1 permet de copier de gros volumes en un instant. En effet, la connectivité 5G assure des téléchargements ultrarapides sur le réseau mobile. Cette conception blindée protège le téléphone en toutes circonstances. Vos applications favorites restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Son Harman Kardon, Appareil 50 MP OIS et Double SIM",
+                "paragraphs": [
+                    "Le Blackview BL9000 embarque un double haut-parleur stéréo de grande clarté ajusté par Harman Kardon. Cet équipement audio diffuse un son riche d'une pureté remarquable lors de vos lectures multimédias. En outre, la caméra arrière principale de 50 Mégapixels avec stabilisateur optique OIS s'avère très pratique. Les clichés restent parfaitement nets même en mouvement ou sous faible luminosité. Ainsi, le capteur frontal de 50 Mégapixels immortalise vos appels vidéo avec clarté. La précision d'image reste constante.",
+                    "Par ailleurs, le module NFC multifonction gère simplement vos transactions sans contact. De plus, le capteur d'empreintes digitales latéral garantit un déverrouillage sécurisé. Également, le récepteur GPS double fréquence assure un guidage précis dans toutes les communes d'Abidjan. De surcroît, la structure étanche autorise des prises de vue sous l'eau. En somme, ce smartphone durci réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8800 mAh et Charge Ultra-Rapide 120W",
+                "paragraphs": [
+                    "La batterie impressionnante de 8800 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet d'utiliser le téléphone pendant plusieurs jours d'affilée. D'ailleurs, le port USB-C prend en charge la charge ultra-rapide 120W pour recharger 50% de la batterie en 9 minutes. En effet, la technologie de charge inversée permet de dépanner d'autres smartphones. Vos activités de terrain se poursuivent sans interruption.",
+                    "La silhouette renforcée offre une tenue en main robuste et très résistante aux agressions extérieures. Son poids de 413 grammes témoigne du blindage complet et de l'accumulateur. D'autre part, le Blackview BL9000 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son double écran en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview BL9000",
+                "subtitle": "Spécifications matérielles certifiées du smartphone incassable Blackview BL9000."
+            },
+            "sections": [
+                {
+                    "name": "Design & Robustesse",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "179.5 x 82.6 x 17 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.413 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68 & IP69K & MIL-STD-810H (Étanche à l'eau et résistant aux chutes)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Or"
+                        }
+                    ]
+                },
+                {
+                    "name": "Double Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran principal",
+                            "valeur": "6.78 pouces IPS LCD FHD+ 120Hz (Corning Gorilla Glass Victus)"
+                        },
+                        {
+                            "label": "Écran secondaire",
+                            "valeur": "1.32 pouce circulaire arrière Always-On (Verre trempé)"
+                        },
+                        {
+                            "label": "Résolution principale",
+                            "valeur": "2460 x 1080 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 8020 Octa-Core 2.6 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G77 MC9"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR4X (+12 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go UFS 3.1 (Pas de lecteur de carte mémoire)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Son",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL GN5 avec Stabilisation Optique OIS"
+                        },
+                        {
+                            "label": "Caméra arrière ultra-grand-angle",
+                            "valeur": "13 MP avec Macro"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "50 MP HD"
+                        },
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Double haut-parleur stéréo réglé par Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8800 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "120W SuperCharge USB-C"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Oui (5W filaire pour dépannage externe)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS Dual-Band L1+L5 + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://www.blackview.hk/products/item/bl9000"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

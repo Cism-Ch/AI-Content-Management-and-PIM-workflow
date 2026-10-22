@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel 8 Pro."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel 8 Pro",
+    "category": "smartphone",
+    "sub_category": "flagship",
+    "release_year": 2023,
+    "release_quarter": "Q4",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel 8 Pro",
+    "GC3VE",
+    "Smartphone",
+    "Android 14",
+    "Tensor G3",
+    "Écran Super Actua",
+    "Capteur 50MP",
+    "Gemini Pro",
+    "Téléobjectif 5x",
+    "Smartphone Pro",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "GC3VE",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "GC3VE"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/pixel_8_pro"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_8_pro-12545.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base GC3VE pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel 8 Pro 128Go",
+      "sku_suffix": "/128",
+      "configurations": {
+        "ram": "12Go",
+        "storage": "128Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 450000,
+          "max": 590000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 8 Pro 1To",
+      "sku_suffix": "/1T",
+      "configurations": {
+        "ram": "12Go",
+        "storage": "1To"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 450000,
+          "max": 590000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 8 Pro 256Go",
+      "sku_suffix": "/256",
+      "configurations": {
+        "ram": "12Go",
+        "storage": "256Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 450000,
+          "max": 590000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 8 Pro 512Go",
+      "sku_suffix": "/512",
+      "configurations": {
+        "ram": "12Go",
+        "storage": "512Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 450000,
+          "max": 590000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Obsidian",
+      "Porcelain",
+      "Bay",
+      "Mint"
+    ],
+    "exclusive": [],
+    "default": "Obsidian"
+  },
+  "key_specifications": {
+    "processor": "Google Tensor G3 (4 nm)",
+    "ram_options": [
+      "12Go"
+    ],
+    "storage_options": [
+      "128Go",
+      "1To",
+      "256Go",
+      "512Go"
+    ],
+    "screen_size": "6.7 inches, 108.7 cm2 (~87.4% screen-to-body ratio)",
+    "screen_technology": "LTPO OLED, 120Hz, HDR10+, 1600 nits (HBM), 2400 nits (peak)",
+    "screen_resolution": "1344 x 2992 pixels, 20:9 ratio (~489 ppi density)",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "Li-Ion 5050 mAh",
+    "charging_wired": "30W wired, PD3.0, PPS, 50% in 30 min 23W",
+    "charging_wireless": "15W wireless",
+    "os": "Android",
+    "os_version": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+    "camera_main": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", 0.7µm, dual pixel PDAF, OIS, 5x optical zoom 48 MP, f/2.0, 126˚ (ultrawide), 1/2.0\", 0.8µm, dual pixel PDAF",
+    "camera_selfie": "10.5 MP",
+    "video_max": "4K@30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "connectivity_bluetooth": "5.3, A2DP, LE, aptX HD",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "162.6 x 76.5 x 8.8 mm (6.40 x 3.01 x 0.35 in)",
+    "weight": "213 g (7.51 oz)",
+    "materials": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "biometrics": "Capteur d'empreinte sous l'écran",
+    "additional_features": [
+      "IA Google (Circle to Search, Gemini intégré, Magic Eraser)",
+      "7 ans de mises à jour de sécurité et système",
+      "Haut-parleurs stéréo"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/pixel_8_pro",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_8_pro-12545.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

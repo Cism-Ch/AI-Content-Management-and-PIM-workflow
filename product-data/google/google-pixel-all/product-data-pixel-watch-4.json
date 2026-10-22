@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel Watch 4."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel Watch 4",
+    "category": "wearable",
+    "sub_category": "watch",
+    "release_year": 2025,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel Watch 4",
+    "GWATCH4",
+    "Montre Connectée",
+    "Wear OS 5",
+    "Suivi Santé IA",
+    "Suivi Sommeil",
+    "GPS Intégré",
+    "Écran AMOLED",
+    "Fitbit Intégré",
+    "Smartwatch Google",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "GWATCH4",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "GWATCH4"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/google_pixel_watch_4"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_watch_4-14088.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base GWATCH4 pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel Watch 4 Wi-Fi",
+      "sku_suffix": "/WI-FI",
+      "configurations": {
+        "connectivity": "wi-fi",
+        "storage": "32Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 240000,
+          "max": 320000
+        },
+        "price_source": "Mitc / Boutique locale",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel Watch 4 LTE",
+      "sku_suffix": "/LTE",
+      "configurations": {
+        "connectivity": "lte",
+        "storage": "32Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 240000,
+          "max": 320000
+        },
+        "price_source": "Mitc / Boutique locale",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Matte Black",
+      "Polished Silver",
+      "Champagne Gold",
+      "Satin Moonstone"
+    ],
+    "exclusive": [],
+    "default": "Matte Black"
+  },
+  "key_specifications": {
+    "screen_size": "1.4 inches",
+    "screen_technology": "LTPO AMOLED, 3000 nits (peak)",
+    "screen_resolution": "456 x 456 pixels (~320 ppi density)",
+    "battery_capacity": "Li-Ion 455 mAh",
+    "charging_wired": "Wired, 50% in 15 min, 80% in 30 min, 100% in 60 min - 45mm model Wired, 50% in 15 min, 80% in 25 min, 100% in 45 min - 41mm model",
+    "os": "Wear OS",
+    "os_version": "Android Wear OS 6",
+    "processor": "Qualcomm Snapdragon W5 Gen 2 (4 nm)",
+    "ram_options": [
+      "2Go"
+    ],
+    "storage_options": [
+      "32Go"
+    ],
+    "connectivity_bluetooth": "6.0, A2DP",
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "connectivity_nfc": true,
+    "water_resistance": "IP68 dust tight and water resistant (immersible up to 50m/5ATM) ECG certified",
+    "dimensions": "45 x 45 x 12.3 mm (1.77 x 1.77 x 0.48 in)",
+    "weight": "31 g or 37 g (1.09 oz)",
+    "materials": "Glass front (Gorilla Glass 5), aluminum frame",
+    "sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance",
+    "health_features": [
+      "Suivi du sommeil",
+      "ECG",
+      "SpO2",
+      "Suivi de l'activité physique"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/google_pixel_watch_4",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_watch_4-14088.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

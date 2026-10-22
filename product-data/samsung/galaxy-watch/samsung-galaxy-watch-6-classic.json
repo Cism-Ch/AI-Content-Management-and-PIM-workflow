@@ -1,0 +1,383 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch 6 Classic",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-6-CLASSIC",
+        "price": "245000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-3",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch 6 Classic conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch 6 Classic",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-classic",
+        "release_year": 2023,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-6-CLASSIC",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-6-CLASSIC"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch6-classic/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+6+Classic"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+6+Classic+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch 6 Classic Cadran Rotatif Acier Inox Sapphire 2000nits 16Go BioActive IP68 5ATM"
+    },
+    "key_specifications": {
+        "screen_size": "1.5\" / 1.3\"",
+        "screen_type": "Super AMOLED Sapphire",
+        "battery_capacity": "300 mAh / 425 mAh",
+        "charging_wired": "Charge Rapide sans fil WPC",
+        "processor": "Samsung Exynos W930 (5nm)",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "16 Go"
+        ],
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "audio_config": "Haut-parleur et microphone intégrés",
+        "audio_tech": "Appels Bluetooth & Audio HD",
+        "card_slot": "Non (eSIM / Bluetooth)",
+        "color_options": [
+            "Noir",
+            "Argent"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-6-CLASSIC",
+        "Name": "Samsung Galaxy Watch 6 Classic - Cadran Rotatif Acier - (2 Go & 16 Go) - Sapphire - IP68 5ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "245000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch 6 Classic, Galaxy Watch Series, Montre connectée, Smartwatch, Super AMOLED, Exynos W930, BioActive, Cadran Rotatif, Acier Inoxydable, Sapphire 2000nits, Wear OS, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "16 Go",
+        "Attribute 2 default": "16 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.059 kg",
+        "Attribute 4 default": "0.059 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Retour du Cadran Rotatif Physique Emblématique en Acier Inoxydable.",
+        "teaser": "Découvrez la Samsung Galaxy Watch 6 Classic avec sa lunette rotative physique en acier inoxydable chirurgical, son écran saphir agrandi de 2000 nits et son suivi de sommeil avancé.",
+        "top_features_detailed": [
+            {
+                "feature": "Cadran Rotatif Physique & Acier Inox",
+                "benefice": "Navigation mécanique fluide et sensation horlogère raffinée à votre poignet"
+            },
+            {
+                "feature": "Écran Super AMOLED 2000 nits",
+                "benefice": "Excellente visibilité en plein soleil et bordures affinées de quinze pour cent"
+            },
+            {
+                "feature": "Capteur BioActive & Analyse ECG",
+                "benefice": "Suivi cardiovasculaire de précision et analyse détaillée de la composition corporelle"
+            },
+            {
+                "feature": "Étanchéité IP68 & 5ATM (50m)",
+                "benefice": "Résistance à l'immersion pour vos entraînements de natation et votre quotidien"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée de prestige qui unit avec succès la prestance de l'horlogerie traditionnelle et la puissance de l'écosystème Wear OS.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch 6 Classic à Abidjan | My-eStore",
+            "meta_description": "Achetez la Samsung Galaxy Watch 6 Classic à Abidjan chez My-eStore. Cadran rotatif physique, acier inoxydable, 16 Go, Sapphire, livraison rapide.",
+            "focus_keyword": "Samsung Galaxy Watch 6 Classic",
+            "lsi_keywords": [
+                "Galaxy Watch 6 Classic Abidjan",
+                "prix Galaxy Watch 6 Classic",
+                "montre connectée Samsung acier",
+                "Galaxy Watch 6 Classic 16Go"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Galaxy Watch 6 Classic : Cadran Rotatif & Acier | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch 6 Classic sur My-eStore. Cadran rotatif physique, boîtier acier inoxydable, capteur BioActive et autonomie fiable.",
+            "focus_keyword": "Samsung Galaxy Watch 6 Classic",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 6 Classic",
+                "Galaxy Watch 6 Classic acier",
+                "montre cadran rotatif Samsung",
+                "Galaxy Watch 6 Classic 16Go",
+                "Galaxy Watch 6 Classic Abidjan"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch 6 Classic : Cadran Rotatif, Acier Inox et Suivi Santé",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch 6 Classic remet à l'honneur le cadran rotatif physique. Cette lunette mécanique offre un confort de commande incomparable à travers vos applications favorites. De plus, son boîtier en acier inoxydable poli confère une prestance indéniable à votre poignet. Sa dalle protégée par un verre saphir assure une lisibilité nette en toutes circonstances. Enfin, sa batterie bien dimensionnée garantit une disponibilité durable tout au long de vos journées.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch 6 Classic",
+            "items": [
+                {
+                    "feature": "Cadran Rotatif Physique Finement Cranté",
+                    "benefice": "Navigation fluide et tactile sans masquer l'écran avec les doigts"
+                },
+                {
+                    "feature": "Boîtier en Acier Inoxydable Chirurgical",
+                    "benefice": "Finitions horlogères haut de gamme et grande résistance mécanique"
+                },
+                {
+                    "feature": "Écran Super AMOLED Sapphire 2000 nits",
+                    "benefice": "Affichage ultra-lumineux protégé contre les rayures du quotidien"
+                },
+                {
+                    "feature": "Capteur BioActive & Étanchéité 5ATM",
+                    "benefice": "Mesures fiables de la fréquence cardiaque, de l'ECG et du sommeil"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Finitions Horlogères et Cadran Rotatif Emblématique",
+                "paragraphs": [
+                    "D'un côté, la lunette rotative finement crantée permet de naviguer avec précision sans déposer de traces de doigts sur l'écran. Le boîtier en acier inoxydable chirurgical confère une allure de montre de prestige adaptée à vos réunions professionnelles. La dalle Super AMOLED protégée par un cristal de saphir offre une clarté visuelle remarquable en plein soleil. Par ailleurs, le mécanisme d'attache rapide permet d'interchanger les bracelets en cuir ou en silicone d'un simple geste. Le profil ajusté garantit un contact stable et confortable autour du bras tout au long de la journée. Vous bénéficiez ainsi d'une élégance horlogère intemporelle associée aux avantages d'une montre connectée moderne.",
+                    "D'un autre côté, l'étanchéité certifiée cinq ATM autorise une utilisation sous la pluie ou lors de vos séances de natation. La construction rigoureuse protège les mécanismes internes contre les poussières et les chocs involontaires. Les bordures affinées de quinze pour cent maximisent la surface d'affichage utile pour vos notifications. En outre, la sensibilité de l'écran tactile réagit instantanément aux tapotements pour saisir vos réponses textuelles. Les surfaces brossées et polies renvoient des reflets flatteurs qui soulignent le soin apporté à la fabrication. Ce modèle combine le charme des pièces classiques et la puissance des outils numériques actuels."
+                ]
+            },
+            {
+                "h2_title": "Suivi Cardiaque Précis et Coaching de Sommeil",
+                "paragraphs": [
+                    "Tout d'abord, le capteur BioActive regroupe l'analyse optique de la fréquence cardiaque, l'électrocardiogramme et la bioimpédance corporelle. Ces composants mesurent vos paramètres vitaux avec une grande régularité pour préserver votre forme au fil des semaines. Le programme d'analyse du sommeil évalue la qualité de votre repos pour vous recommander des habitudes bénéfiques. De surcroît, la reconnaissance automatique d'exercice enregistre vos sessions de course ou de marche sans réglage complexe. Les bilans d'activité complets vous motivent à maintenir une hygiène de vie saine et dynamique. Vous gardez un regard attentif sur votre santé grâce à des indicateurs clairs.",
+                    "Dans cette optique, la puce GPS autonome enregistre vos trajectoires de course avec une grande rigueur cartographique. La montre calcule automatiquement votre allure moyenne, vos distances franchies et l'estimation de vos calories dépensées. La surveillance continue de la charge émotionnelle suggère des exercices de respiration pour vous détendre. Également, l'analyse de composition corporelle vous renseigne sur votre masse musculaire et votre taux graisseux. Toutes vos données s'exportent automatiquement vers votre téléphone pour un archivage fiable. Cet appareil constitue un outil d'accompagnement précieux pour optimiser votre forme."
+                ]
+            },
+            {
+                "h2_title": "Puce Exynos W930 et Disponibilité Longue Durée",
+                "paragraphs": [
+                    "D'abord, le processeur Exynos W930 gravé en 5nm assure une navigation fluide entre vos différents logiciels ouverts. Les deux gigaoctets de mémoire vive soutiennent le fonctionnement réactif de vos widgets et cadrans animés. L'espace de stockage de seize gigaoctets accueille vos applications favorites ainsi que vos musiques sans contrainte. De même, la liaison Bluetooth établit un pont stable avec vos écouteurs pour écouter vos podcasts en déplacement. Le système de haut-parleur et microphone autorise des conversations téléphoniques claires sans sortir votre mobile. Vous traitez vos appels professionnels avec une simplicité remarquable directement au poignet.",
+                    "Enfin, l'accumulateur intégré fournit l'énergie nécessaire pour franchir sereinement l'ensemble de votre journée active. Le mode d'économie d'énergie intelligent coupe les processus secondaires pour prolonger l'autonomie restante lors des déplacements. La charge sans fil magnétique redonne rapidement de l'énergie à l'appareil lors d'une courte pause. Par conséquent, vous vaquez à vos occupations habituelles avec une totale confiance dans votre montre connectée. Les matériaux nobles ont été sélectionnés pour conserver leur éclat au fil des années. La Galaxy Watch 6 Classic représente un choix de référence associant tradition, prestige et modernité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch 6 Classic",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Watch 6 Classic."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "42.5 x 42.5 x 10.9 mm (43mm) / 46.5 x 46.5 x 10.9 mm (47mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.059 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Acier Inoxydable chirurgical, Verre Cristal de Saphir"
+                        },
+                        {
+                            "label": "Commande Physique",
+                            "valeur": "Cadran rotatif mécanique rotatif cranté"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 5ATM (50 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "1.5\" (480 x 480 px, 47mm) / 1.3\" (432 x 432 px, 43mm)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2000 nits (Peak) lisible en plein soleil"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir inrayable"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W930 (5nm) Dual-Core 1.4 GHz"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "16 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS powered by Samsung avec One UI Watch 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Santé",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive (Fréquence cardiaque, ECG, BIA)"
+                        },
+                        {
+                            "label": "Suivi Corporel",
+                            "valeur": "Coaching de sommeil, Composition corporelle, Température"
+                        },
+                        {
+                            "label": "Capteurs Mouvement & GPS",
+                            "valeur": "GPS, GLONASS, Galileo, Beidou, Accéléromètre, Gyroscope"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "300 mAh (43mm) / 425 mAh (47mm) Li-Ion"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge rapide sans fil magnétique WPC"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 40 heures (Always On désactivé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.3, Wi-Fi 2.4/5GHz, NFC, GPS"
+                        },
+                        {
+                            "label": "Audio & Micro",
+                            "valeur": "Haut-parleur intégré et microphone pour appels mains libres"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 10.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch6-classic/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+6+Classic"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+6+Classic+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "2 Go",
+            "storage": "16 Go",
+            "price": "245000",
+            "sku_suffix": "2-GB-16-GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "2 Go",
+            "storage": "16 Go",
+            "price": "245000",
+            "sku_suffix": "2-GB-16-GB-ARGENT"
+        }
+    ]
+}

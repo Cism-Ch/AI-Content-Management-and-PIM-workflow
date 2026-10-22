@@ -1,0 +1,451 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-13-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 13 Pro 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 13 Pro 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-photo",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-13-PRO-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-13-PRO-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone Xiaomi Redmi Note 13 Pro 4G équipé du capteur 200MP OIS processeur Helio G99-Ultra écran AMOLED 120Hz et charge 67W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99-Ultra (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge turbo filaire 67W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.188 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-13-PRO-4G",
+        "Name": "Xiaomi Redmi Note 13 Pro 4G - Dual SIM - Écran 6.67\" AMOLED 120Hz - (8 Go & 128 Go / 256 Go / 512 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "165000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 13 Pro 4G, Redmi Note 13, Smartphone, 4G, Écran AMOLED, Écran 120Hz, Capteur 200MP, 5000mAh, Charge 67W, Helio G99 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go | 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.188 kg",
+        "Attribute 4 default": "0.188 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "185000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "185000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "185000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "220000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "220000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "220000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Le Champion Photographique 200 MP avec Écran AMOLED 120Hz et Charge Turbo 67W.",
+        "teaser": "Le smartphone Xiaomi Redmi Note 13 Pro 4G associe un capteur photo de 200 MP avec stabilisation optique OIS et un écran AMOLED 120Hz immersif. Doté d'une charge turbo 67W et de la puce Helio G99-Ultra, il délivre une réactivité optimale pour vos usages multimédias quotidiens.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur Photo 200 MP OIS",
+                "benefice": "Prises de vue précises avec stabilisation mécanique pour réussir chaque cliché net"
+            },
+            {
+                "feature": "Écran AMOLED 120Hz",
+                "benefice": "Couleurs lumineuses et défilement fluide très agréable lors de vos navigations"
+            },
+            {
+                "feature": "Puce Helio G99-Ultra",
+                "benefice": "Exécution stable de vos applications courantes sans surchauffe de l'appareil"
+            },
+            {
+                "feature": "Charge Turbo 67W",
+                "benefice": "Alimentation filaire rapide rétablissant la batterie 5000 mAh en 45 minutes"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone polyvalent conçu pour réussir vos photographies et enrichir votre quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 13 Pro 4G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi Redmi Note 13 Pro 4G à Abidjan chez My-eStore. Capteur 200MP OIS, écran AMOLED 120Hz, batterie 5000 mAh et charge 67W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 13 Pro 4G 256 Go : 200MP & AMOLED | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 13 Pro 4G chez My-eStore. Capteur 200 MP OIS, écran AMOLED 120Hz, batterie 5000 mAh et charge 67W à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 13 Pro 4G",
+            "lsi_keywords": [
+                "Xiaomi Redmi Note 13 Pro 4G Abidjan",
+                "smartphone Xiaomi 200MP",
+                "Redmi Note 13 Pro prix Côte d'Ivoire",
+                "Redmi Note 13 Pro AMOLED 120Hz",
+                "Xiaomi Redmi Note 13 Pro fiche technique"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 13 Pro 4G : Capteur 200 MP OIS, Écran AMOLED 120Hz et Charge 67W",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 13 Pro 4G",
+            "items": [
+                {
+                    "feature": "Capteur Photo 200 MP OIS",
+                    "benefice": "Prises de vue précises avec stabilisation mécanique pour réussir chaque cliché net"
+                },
+                {
+                    "feature": "Écran AMOLED 120Hz",
+                    "benefice": "Couleurs lumineuses et défilement fluide très agréable lors de vos navigations"
+                },
+                {
+                    "feature": "Puce Helio G99-Ultra",
+                    "benefice": "Exécution stable de vos applications courantes sans surchauffe de l'appareil"
+                },
+                {
+                    "feature": "Charge Turbo 67W",
+                    "benefice": "Alimentation filaire rapide rétablissant la batterie 5000 mAh en 45 minutes"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi Redmi Note 13 Pro 4G associe polyvalence et équilibre technique. Son module dorsal de 200 mégapixels avec stabilisation optique produit des clichés précis. De plus, sa dalle AMOLED 120Hz garantit un confort visuel reposant à chaque utilisation. La puce MediaTek Helio G99-Ultra gère sereinement vos multiples applications et divertissements multimédias. Enfin, son accumulateur généreux de 5000 mAh soutenu par la charge 67W préserve votre productivité quotidienne.",
+        "sections": [
+            {
+                "h2_title": "Un Système Photographique 200 MP avec Stabilisation Optique OIS",
+                "paragraphs": [
+                    "Le capteur dorsal principal rassemble 200 millions de points pour capturer d'infimes détails. Par conséquent, chaque agrandissement conserve une netteté remarquable sans bruit numérique parasite. La stabilisation optique intégrée compense immédiatement les légers tremblements involontaires lors de la capture. Cette mécanique garantit des clichés nocturnes nets et des vidéos calmes en déplacement. De surcroît, le traitement logiciel optimise les ombres pour révéler les textures complexes. Vos photos familiales gagnent ainsi en authenticité dans toutes les conditions lumineuses.",
+                    "L'objectif ultra grand-angle élargit votre champ de vision pour immortaliser des paysages d'Abidjan. En outre, la lentille macro révèle les détails fins des petits objets du quotidien. Les algorithmes photographiques Xiaomi Imaging Engine accélèrent la vitesse de déclenchement instantané. Vous saisissez ainsi des scènes sportives ou des expressions fugaces avec grande précision. D'autre part, les filtres créatifs personnalisent l'ambiance visuelle de vos souvenirs personnels. Ce bloc photo complet répond efficacement aux besoins créatifs des utilisateurs exigeants."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 120Hz Lumineux et Ergonomie Soignée",
+                "paragraphs": [
+                    "La surface d'affichage AMOLED de 6.67 pouces diffuse des teintes vibrantes et naturelles. Effectivement, son contraste infini accentue la profondeur des noirs dans les scènes sombres. La fréquence de 120Hz assure une navigation fluide entre vos fils de discussion. La luminosité de pointe autorise une lecture agréable sous le soleil ivoirien direct. Ainsi, vos sessions de lecture prolongée demeurent douces pour vos yeux fatigués. Les bordures latérales affinées maximisent le confort visuel lors des séances vidéo.",
+                    "Le verre renforcé Corning Gorilla Glass 5 préserve la façade des rayures accidentelles. Dès lors, votre smartphone conserve son éclat initial au fil des usages répétés. Le capteur biométrique sous l'écran permet un déverrouillage sécurisé en une fraction de seconde. Deux haut-parleurs stéréo certifiés Dolby Atmos créent une ambiance sonore limpide et immersive. Par ailleurs, la prise casque 3.5 mm simplifie l'écoute avec vos écouteurs filaires habituels. Le châssis moderne offre une excellente tenue en main pour les gestes réguliers."
+                ]
+            },
+            {
+                "h2_title": "Puce Helio G99-Ultra et Recharge Turbo 67W Rapide",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G99-Ultra gravé en 6 nanomètres combine réactivité et sobriété énergétique. Par conséquent, les applications bancaires et les messageries s'ouvrent sans le moindre ralentissement. Les huit cœurs orchestrent intelligemment la puissance requise selon les tâches en cours. La mémoire vive dynamique soutient l'exécution simultanée de multiples fenêtres de travail. De plus, l'espace de stockage généreux héberge toutes vos photographies haute résolution sans contrainte. Cette configuration matérielle équilibrée préserve la fluidité générale sur le long terme.",
+                    "L'accumulateur d'une capacité de 5000 mAh procure une autonomie rassurante pour la journée. En effet, vous suivez vos rendez-vous professionnels sans craindre une interruption inattendue d'alimentation. Le système de charge turbo filaire 67W restaure rapidement la réserve de batterie. Il suffit de 45 minutes pour retrouver l'intégralité de votre énergie utile. Enfin, les protections de charge intégrées veillent sur la longévité des cellules chimiques. Ce modèle représente un investissement fiable et performant pour le quotidien à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 13 Pro 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.1 x 74.9 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "188 g (0.188 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant à la poussière et aux éclaboussures"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Vert (Forest Green), Violet (Lavender Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 1 milliard de couleurs, 120Hz"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~88.9%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2400 x 1080 pixels), format 20:9 (~395 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits typique, 1000 nits HBM, 1300 nits en pic"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G99-Ultra (6 nm, 8 cœurs jusqu'à 2.20 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go, 256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC (utilise le second emplacement SIM)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "MIUI 14 basé sur Android 13, évolutif vers Xiaomi HyperOS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "200 MP, f/1.7, 23mm (grand-angle), 1/1.4\", 0.56µm, multi-directionnel PDAF, OIS"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "16 MP, f/2.4 (grand-angle), vidéo 1080p@30/60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos, certification Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge turbo filaire 67W (100% en 46 min annoncé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 (A2DP, LE)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (selon région)"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+4G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

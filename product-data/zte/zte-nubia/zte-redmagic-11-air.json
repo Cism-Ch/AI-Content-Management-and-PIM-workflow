@@ -1,0 +1,424 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Redmagic 11 Air",
+        "generation_date": "2026-09-08"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "REDMAGIC Official Store",
+                "url": "https://redmagic.gg/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Air"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Air+specifications"
+            }
+        ],
+        "pricing_reference": "610000",
+        "official_sku": "ZTE-REDMAGIC-11-AIR"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm) Octa-Core",
+        "processor_ghz": "Fréquence 4.32 GHz (Oryon V2)",
+        "screen_size": "6.85 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Sans Encoche",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "7000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "LPDDR5X (9600 Mbps)",
+        "os": "Android 16",
+        "os_skin": "RedMagic OS 11",
+        "camera_main": "Double capteur 50 MP (50 MP Grand-Angle OIS + 8 MP Ultra Grand-Angle)",
+        "camera_selfie": "16 MP sous l'écran",
+        "audio_config": "Haut-parleurs Stéréo DTS:X Ultra & Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band, GLONASS, BDS, Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge rapide 80W USB-C avec Bypass Charging",
+        "dimensions": "163.8 x 76.5 x 8.0 mm",
+        "weight": "0.207 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-REDMAGIC-11-AIR-MASTER",
+        "Name": "ZTE Redmagic 11 Air",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "610000",
+        "Categories": "Smartphones > ZTE > RedMagic Gaming, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Redmagic 11 Air, Snapdragon 8 Elite, 7000mAh, Profil Fin 8mm, 144Hz Sans Encoche, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Transparent Noir, Transparent Blanc, Orange",
+        "Attribute 1 default": "Transparent Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.207 kg",
+        "Attribute 4 default": "0.207 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "color_fr": "Transparent Noir",
+            "color_en": "Phantom",
+            "color_code": "TRANS-NOIR",
+            "price": "610000",
+            "sku_suffix": "256GB-12GB-TRANS-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Transparent Noir",
+            "color_en": "Phantom",
+            "color_code": "TRANS-NOIR",
+            "price": "690000",
+            "sku_suffix": "512GB-16GB-TRANS-NOIR"
+        },
+        {
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "color_fr": "Transparent Blanc",
+            "color_en": "Prism",
+            "color_code": "TRANS-BLANC",
+            "price": "610000",
+            "sku_suffix": "256GB-12GB-TRANS-BLANC"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Transparent Blanc",
+            "color_en": "Prism",
+            "color_code": "TRANS-BLANC",
+            "price": "690000",
+            "sku_suffix": "512GB-16GB-TRANS-BLANC"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Orange",
+            "color_en": "Trace",
+            "color_code": "ORANGE",
+            "price": "690000",
+            "sku_suffix": "512GB-16GB-ORANGE"
+        }
+    ],
+    "short_description": {
+        "title_format": "ZTE Redmagic 11 Air : Snapdragon 8 Elite Batterie 7000 mAh et Finesse 8.0 mm",
+        "brand_line": "Le smartphone gaming alliant batterie haute densité 7000 mAh, puce Snapdragon 8 Elite et profil affiné.",
+        "marketing_conclusion": "Commandez votre ZTE Redmagic 11 Air sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Redmagic 11 Air intègre la puce Snapdragon 8 Elite, une batterie 7000 mAh dans un châssis de 8.0 mm, un écran 1.5K 144Hz sans encoche et un poids de 207 g.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Elite (4.32 GHz)",
+                "benefice": "Vitesse d'exécution de très haut niveau sur l'ensemble de vos logiciels et jeux."
+            },
+            {
+                "feature": "Châssis Profilé 8.0 mm & Poids 207 g",
+                "benefice": "Maniabilité confortable et transport aisé sans compromettre l'autonomie."
+            },
+            {
+                "feature": "Batterie 7000 mAh & Charge 80W",
+                "benefice": "Alimentation continue sur plusieurs jours et retour rapide à pleine charge."
+            },
+            {
+                "feature": "Écran AMOLED 1.5K 144Hz Intégral",
+                "benefice": "Affichage net et réactif sans aucune encoche grâce au capteur sous l'écran."
+            }
+        ],
+        "slogan_final": "ZTE Redmagic 11 Air — Le smartphone gaming Snapdragon 8 Elite avec batterie 7000 mAh et châssis profilé 8.0 mm.",
+        "seo": {
+            "meta_title": "Acheter ZTE Redmagic 11 Air (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Redmagic 11 Air à Abidjan sur My-eStore. Snapdragon 8 Elite, batterie 7000 mAh, profil 8.0 mm, poids 207g et écran 1.5K 144Hz sans encoche.",
+            "keywords": "ZTE Redmagic 11 Air, Snapdragon 8 Elite, smartphone gaming fin, batterie 7000 mAh, écran 144Hz sans encoche, Abidjan"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Redmagic 11 Air",
+            "lsi_keywords": [
+                "smartphone gaming ZTE Redmagic",
+                "Snapdragon 8 Elite",
+                "batterie 7000 mAh charge 80W",
+                "châssis fin 8 mm poids 207g",
+                "écran AMOLED 144Hz sans encoche",
+                "refroidissement ICE-X",
+                "gâchettes tactiles 520Hz",
+                "ZTE Redmagic 11 Air Abidjan"
+            ],
+            "meta_title": "ZTE Redmagic 11 Air : Snapdragon 8 Elite & 7000mAh | My-eStore",
+            "meta_description": "Fiche technique du ZTE Redmagic 11 Air. Snapdragon 8 Elite, batterie 7000 mAh, profil fin de 8 mm, poids 207g et écran 1.5K 144Hz sans encoche à Abidjan."
+        },
+        "h1": "ZTE Redmagic 11 Air : Snapdragon 8 Elite, Châssis Fin et Batterie 7000 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE REDMAGIC 11 AIR",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite (4.32 GHz)",
+                    "benefice": "Vitesse d'exécution de très haut niveau sur l'ensemble de vos logiciels et jeux."
+                },
+                {
+                    "feature": "Châssis Profilé 8.0 mm & Poids 207 g",
+                    "benefice": "Maniabilité confortable et transport aisé sans compromettre l'autonomie."
+                },
+                {
+                    "feature": "Batterie 7000 mAh & Charge 80W",
+                    "benefice": "Alimentation continue sur plusieurs jours et retour rapide à pleine charge."
+                },
+                {
+                    "feature": "Écran AMOLED 1.5K 144Hz Intégral",
+                    "benefice": "Affichage net et réactif sans aucune encoche grâce au capteur sous l'écran."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Redmagic 11 Air associe une batterie généreuse de 7000 mAh à un profil mince de 8.0 mm. Cet équipement nomade garantit ainsi une alimentation électrique ininterrompue sur deux journées consécutives. L'écran AMOLED 1.5K de 6.85 pouces offre une surface d'affichage intégrale sans encoche apparente. Le processeur Snapdragon 8 Elite procure en outre une vélocité informatique élevée pour tous vos usages. Le boîtier de 207 grammes préserve enfin un confort de portabilité particulièrement appréciable au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Puce Snapdragon 8 Elite et Refroidissement Profilé",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite gravé en 3 nanomètres délivre des vitesses d'exécution fulgurantes. La puce graphique Adreno 830 prend en charge vos rendus multimédias avec une excellente réactivité visuelle. Le système thermique multicouche ICE-X disperse également les flux calorifiques pour stabiliser les fréquences d'horloge. Cette dissipation interne évite les montées excessives en température sous sollicitation logicielle intensive. Le téléphone maintient donc une cadence fluide sans perte de performance au fil des heures.",
+                    "La mémoire vive de 12 Go ou 16 Go soutient une transition immédiate entre vos applications. Le stockage interne UFS 4.1 de 256 Go ou 512 Go permet d'ailleurs un accès rapide à vos fichiers. Le dos transparent révèle une esthétique technologique soignée avec des touches colorées subtiles. La finesse globale de 8.0 mm assure une préhension ferme et agréable dans la main. L'utilisateur conserve par conséquent une maîtrise totale de son appareil lors de chaque manipulation."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 1.5K 144Hz et Ergonomie Tactile",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.85 pouces arbore un taux de rafraîchissement adaptatif montant jusqu'à 144 Hz. La résolution de 2688 par 1216 pixels procure une clarté remarquable sur les textes et images. La gradation PWM à 2592 Hz protège aussi vos yeux contre la fatigue lors d'utilisations nocturnes. La caméra frontale de 16 Mégapixels reste invisible sous la surface vitrée. L'affichage sans poinçon garantit une immersion complète pour tous vos visionnages vidéo.",
+                    "Deux gâchettes sensitives latérales à 520 Hz permettent des commandes réactives au doigt et à l'œil. Les haut-parleurs stéréo diffusent notamment des tonalités équilibrées et spatialisées avec une grande netteté. La prise en charge du Wi-Fi 7 assure des transferts de données sans fil à vitesse maximale. L'indice de résistance IP54 sécurise par ailleurs le boîtier contre les éclaboussures d'eau usuelles. Le smartphone s'adapte ainsi aux rythmes de vie actifs sans compromettre le confort d'utilisation."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Silicium 7000 mAh et Charge Rapide 80W",
+                "paragraphs": [
+                    "La cellule haute densité de 7000 mAh repousse le besoin de recharge sur de multiples journées. Le bloc d'alimentation 80W rétablit de plus l'essentiel de l'énergie en quelques dizaines de minutes. La fonction d'alimentation directe contourne la batterie lors des sessions de travail connectées au secteur. Ce circuit réduit de fait les contraintes thermiques et préserve la durée de vie de l'accumulateur. Les protocoles de contrôle électrique garantissent une sécurité constante pendant l'intégralité du cycle.",
+                    "Le capteur photographique principal de 50 Mégapixels avec stabilisation OIS capture des clichés d'une fidélité naturelle. L'objectif ultra grand-angle de 8 Mégapixels facilite les prises de vue d'ensemble en extérieur. Le ZTE Redmagic 11 Air réussit ainsi une combinaison équilibrée entre compacité et réserve énergétique. Vous pouvez commander cet équipement directement sur le site marchand sécurisé My-eStore. Le service de livraison dessert la ville d'Abidjan avec réactivité et un grand professionnalisme."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Redmagic 11 Air",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE Redmagic 11 Air."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.8 x 76.5 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.207 kg (207 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium aéronautique, dos en verre plat, gâchettes tactiles 520Hz"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 (résistant à la poussière et aux éclaboussures)"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Transparent Noir (Phantom), Transparent Blanc (Prism), Orange (Trace)"
+                        },
+                        {
+                            "label": "Épaisseur",
+                            "valeur": "8.0 mm (châssis fin haute densité)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.4% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED 1.5K, 1 milliard de couleurs, 10-bit"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, ~431 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz (taux d'échantillonnage tactile 960 Hz)"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1800 nits (pic)"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Gradation PWM 2592 Hz anti-scintillement"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Affichage intégral sans poinçon avec caméra sous écran UDC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X (9600 Mbps)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 4.1"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 16 avec interface RedMagic OS 11"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.9, 1/1.55\", 1.0µm, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120˚)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, 1080p à 240 fps, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "7000 mAh (Li-Po silicium-carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 80W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "USB Power Delivery 3.0, Quick Charge 5, Bypass Charging"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be/ax/ac/a/b/g/n), tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 réversible"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "REDMAGIC Official Store",
+                        "url": "https://redmagic.gg/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Air"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Air+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

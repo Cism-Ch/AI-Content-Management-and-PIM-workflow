@@ -1,0 +1,409 @@
+{
+    "template_version": "3.4",
+    "product_identity": {
+        "brand": "Xiaomi",
+        "model_name": "POCO C75",
+        "sku_code": "POCO-C75",
+        "product_type": "Smartphone",
+        "target_audience": "Utilisateurs à la recherche d'un très grand écran fluide et d'un capteur 50 MP à prix attractif."
+    },
+    "key_specifications": {
+        "colors": [
+            {
+                "name_fr": "Noir",
+                "name_en": "Black",
+                "code": "NOIR"
+            },
+            {
+                "name_fr": "Or",
+                "name_en": "Gold",
+                "code": "OR"
+            },
+            {
+                "name_fr": "Vert",
+                "name_en": "Green",
+                "code": "VERT"
+            }
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_options": [
+            "6 Go",
+            "8 Go"
+        ],
+        "screen_size": "6.88 pouces",
+        "screen_tech": "IPS LCD 120Hz HD+",
+        "processor": "MediaTek Helio G81 Ultra Octa-Core",
+        "battery": "5160 mAh",
+        "weight": "0.204 kg",
+        "dimensions": "171.9 x 77.8 x 8.2 mm"
+    },
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme C Series Écran Géant & Affichage 120Hz",
+        "teaser": "Le smartphone 4G Xiaomi POCO C75 impressionne avec son grand écran panoramique de 6.88 pouces à 120Hz et son capteur photo clair de 50 MP. Équipé du processeur Helio G81 Ultra et d'une batterie de 5160 mAh avec charge 18W, il assure une autonomie remarquable à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran Géant 6.88\" 120Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Surface visuelle très large et fluidité 120Hz",
+                "technical_detail": "Dalle IPS 6.88 pouces rafraîchie à 120Hz avec certification de protection oculaire TÜV Rheinland.",
+                "daily_impact": "Immersion totale lors de vos visionnages de vidéos et défilement tactile d'une grande souplesse."
+            },
+            {
+                "feature_title": "Puce MediaTek Helio G81 Ultra",
+                "badge": "Performances",
+                "lead_benefit": "Fonctionnement fluide pour toutes vos applications",
+                "technical_detail": "Architecture huit cœurs avec mémoire vive dynamique pour un multitâche sans latence.",
+                "daily_impact": "Passage aisé d'une messagerie à l'autre et navigation internet sans temps mort."
+            },
+            {
+                "feature_title": "Capteur Photo 50 MP avec IA",
+                "badge": "Photographie",
+                "lead_benefit": "Photos nettes et lumineuses de vos souvenirs",
+                "technical_detail": "Module photo haute précision 50 mégapixels avec traitement logiciel automatique et mode nuit.",
+                "daily_impact": "Clichés équilibrés et lumineux prêts à être partagés sur les réseaux sociaux."
+            },
+            {
+                "feature_title": "Batterie 5160 mAh & Charge 18W",
+                "badge": "Autonomie",
+                "lead_benefit": "Disponibilité continue sur plus d'une journée",
+                "technical_detail": "Batterie haute capacité de 5160 mAh couplée au protocole de charge rapide 18W.",
+                "daily_impact": "Journées actives sans batterie externe avec recharge d'appoint accélérée."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone grand format idéal associant un écran 120Hz immersif, des photos nettes et une endurance rassurante.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Express à Abidjan"
+            },
+            {
+                "icon": "credit-card",
+                "text": "Paiement Sécurisé à la Livraison"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO C75 (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO C75 à Abidjan chez My-eStore. Écran 6.88 pouces 120Hz, capteur 50 MP, Helio G81 Ultra et batterie 5160 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO C75 128Go : Écran 120Hz & 50 MP | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO C75 chez My-eStore. Très grand écran 120Hz, capteur 50 MP, puce Helio G81 Ultra et batterie 5160 mAh à Abidjan."
+        },
+        "h1": "Xiaomi POCO C75 : Helio G81 Ultra, Écran 120Hz et Capteur 50 MP",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO C75",
+            "items": [
+                {
+                    "feature": "Écran Géant 6.88\" 120Hz",
+                    "benefice": "Surface d'affichage spacieuse avec un défilement ultra-fluide de vos contenus"
+                },
+                {
+                    "feature": "Puce Helio G81 Ultra",
+                    "benefice": "Fonctionnement fluide et gestion multitâche efficace pour vos applications"
+                },
+                {
+                    "feature": "Capteur Photo 50 MP IA",
+                    "benefice": "Photographies précises et lumineuses de vos moments mémorables"
+                },
+                {
+                    "feature": "Batterie 5160 mAh Charge 18W",
+                    "benefice": "Tranquillité d'esprit prolongée sur plus d'une journée complète d'utilisation"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone 4G Xiaomi POCO C75 se caractérise par son très grand écran et sa batterie performante. Sa dalle panoramique de 6.88 pouces procure en effet une fluidité de 120Hz rare sur ce segment. Le processeur huit cœurs Helio G81 Ultra maintient une cadence réactive pour vos applications quotidiennes. La batterie de 5160 mAh assure par ailleurs une disponibilité sans faille lors de vos déplacements. Ce modèle équilibré offre une expérience multimédia complète et très accessible à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 6.88 Pouces 120Hz et Confort Multimédia",
+                "paragraphs": [
+                    "L'écran de 6.88 pouces met à votre disposition un espace d'affichage particulièrement généreux. Cette diagonale spacieuse facilite la consultation des longs textes et des vidéos en ligne. La fréquence de rafraîchissement à 120Hz offre ainsi des transitions tactiles d'une grande souplesse. La luminosité s'ajuste avec équilibre pour préserver la clarté sous un fort ensoleillement. La certification TÜV Rheinland atténue en outre les émissions lumineuses nocives lors des soirées. Vous regardez vos séries préférées dans des conditions visuelles agréables et reposantes.",
+                    "La coque arrière présente une texture travaillée qui retient agréablement l'appareil dans la paume. Ce revêtement satiné évite l'accumulation rapide des traces de manipulation au quotidien. La structure résistante encaisse en effet sans dommage les petits chocs du sac de transport. Les arêtes biseautées garantissent une prise en main stable malgré le grand format du smartphone. Les finitions soignées procurent par conséquent une esthétique attrayante dès le premier contact visuel. Cette conception rassure les utilisateurs soucieux de conserver un appareil soigné dans le temps."
+                ]
+            },
+            {
+                "h2_title": "Processeur Helio G81 Ultra et Fluidité Logicielle",
+                "paragraphs": [
+                    "La puce MediaTek Helio G81 Ultra mobilise huit cœurs véloces pour piloter vos programmes favoris. Cette architecture équilibrée évite les ralentissements lors de la navigation sur internet. La carte graphique supporte également les petits jeux vidéo avec une grande régularité visuelle. La mémoire vive dynamique permet de faire tourner plusieurs logiciels sans interruption inopportune. Le volume de stockage généreux préserve de plus une vaste place pour tous vos documents. L'interface Xiaomi HyperOS organise logiquement les menus pour un accès direct aux fonctionnalités utiles.",
+                    "Le lecteur biométrique placé sur le bouton d'alimentation déverrouille l'appareil en un instant. La reconnaissance par caméra faciale propose une seconde méthode rapide d'accès à vos dossiers. Le port carte MicroSD autorise par ailleurs une extension d'espace pour sauvegarder vos photos. La prise audio jack maintient la compatibilité directe avec vos casques ou oreillettes filaires. Ces équipements fonctionnels améliorent donc nettement la polyvalence pratique de votre téléphone portable. Vous profitez d'une utilisation productive et fluide à chaque instant de la semaine."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 50 MP et Batterie 5160 mAh",
+                "paragraphs": [
+                    "L'accumulateur de 5160 mAh procure une réserve d'énergie étendue pour vos journées chargées. Vous travaillez en toute tranquillité sans dépendre d'une prise murale au fil des heures. Le protocole de charge rapide 18W permet ainsi de reconstituer rapidement l'énergie nécessaire. Le port USB-C garantit une insertion pratique du cordon sans chercher le bon sens. Le gestionnaire énergétique surveille également la température cellulaire pour assurer une longévité chimique maximale. Cette autonomie solide accompagne sereinement tous vos projets professionnels à Abidjan.",
+                    "L'objectif photographique de 50 mégapixels saisit des clichés lumineux aux détails authentiques et précis. Le mode nuit logiciel préserve la clarté des paysages urbains lors des promenades tardives. Le capteur selfie restitue en outre des portraits clairs pour vos visioconférences de travail. Le traitement automatique affine les couleurs des images pour les rendre immédiatement partageables. Le haut-parleur intégré restitue par conséquent des tonalités puissantes pour ne manquer aucun appel. Le POCO C75 constitue ainsi un investissement particulièrement judicieux pour les usagers actifs."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi POCO C75",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Xiaomi POCO C75."
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.9 x 77.8 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "204 g (0.204 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre renforcé, dos et cadre en polymère texturé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Or (Gold), Vert (Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'écran",
+                            "valeur": "6.88 pouces"
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS LCD, 120Hz"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1640 x 720 pixels (HD+)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "450 nits typique, 600 nits HBM"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G81 Ultra (12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce Graphique",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mémoire et Stockage",
+                    "rows": [
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go eMMC 5.1"
+                        },
+                        {
+                            "label": "Extension",
+                            "valeur": "MicroSDXC dédiée"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal",
+                            "valeur": "50 MP, f/1.8, PDAF"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur de profondeur / IA"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP, f/2.0"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Connectivité",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5160 mAh"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "18W filaire"
+                        },
+                        {
+                            "label": "Connectivité",
+                            "valeur": "4G LTE, Wi-Fi double bande, Bluetooth 5.4, Jack 3.5mm, USB-C"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes digital latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+C75"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+C75+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "128GB-6GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "128GB-6GB-OR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "128GB-6GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "90000",
+            "sku_suffix": "256GB-8GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "90000",
+            "sku_suffix": "256GB-8GB-OR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "90000",
+            "sku_suffix": "256GB-8GB-VERT"
+        }
+    ],
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-C75",
+        "Name": "Xiaomi POCO C75 - Dual SIM - Écran 6.88\" 120Hz - (6 Go|8 Go & 128 Go|256 Go) - 5160 mAh",
+        "Published": "1",
+        "Is featured?": "0",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "Tax status": "taxable",
+        "In stock?": "1",
+        "Stock": "100",
+        "Backorders allowed?": "0",
+        "Sold individually?": "0",
+        "Weight (kg)": "0.204",
+        "Length (cm)": "17.19",
+        "Width (cm)": "7.78",
+        "Height (cm)": "0.82",
+        "Allow customer reviews?": "1",
+        "Regular price": "75000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO C75, POCO C Series, Smartphone, Android, 4G, Écran 120Hz, 50MP, 5160mAh, Charge 18W, Helio G81 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Or | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.204 kg",
+        "Attribute 4 default": "0.204 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    }
+}

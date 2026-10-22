@@ -1,0 +1,410 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO X5 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO X Series",
+        "commercial_name": "Xiaomi POCO X5 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-5g-pro",
+        "release_year": 2023,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-X5-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-X5-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X5+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X5+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi POCO X5 Pro 5G avec capteur 108MP, processeur Snapdragon 778G, écran Flow AMOLED 120Hz et charge turbo 67W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 778G 5G (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos, Hi-Res Audio et prise jack 3.5mm",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS, QZSS",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.181 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-X5-PRO-5G",
+        "Name": "Xiaomi POCO X5 Pro 5G - Dual SIM - Écran 6.67\" Flow AMOLED 120Hz - (6 Go & 128 Go / 8 Go & 256 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "185000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO X5 Pro 5G, POCO X Series, Smartphone, 5G, Écran AMOLED, Écran 120Hz, Capteur 108MP, 5000mAh, Charge 67W, Snapdragon 778G, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Jaune",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.181 kg",
+        "Attribute 4 default": "0.181 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "185000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "185000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "185000",
+            "sku_suffix": "6-GB-128-GB-JAUNE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-JAUNE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme X Series Pro",
+        "teaser": "Le smartphone 5G Xiaomi POCO X5 Pro 5G intègre un capteur photo de 108 MP et le processeur Qualcomm Snapdragon 778G. Doté d'une dalle Flow AMOLED 120Hz et d'une charge rapide 67W, il assure un confort photographique et une fluidité remarquable au quotidien à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran Flow AMOLED 6.67\" 120Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Bordures affinées et grande fluidité tactile",
+                "technical_detail": "Dalle Flow AMOLED Full HD+ 120Hz compatible Dolby Vision et HDR10+ avec gradation PWM 1920Hz.",
+                "daily_impact": "Affichage fluide de vos vidéos et réduction de la fatigue oculaire lors des séances prolongées."
+            },
+            {
+                "feature_title": "Processeur Snapdragon 778G 5G (6 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Vitesse de calcul et traitement d'image dynamique",
+                "technical_detail": "Architecture 8 cœurs jusqu'à 2.4 GHz avec puce graphique Adreno 642L et modem 5G intégré.",
+                "daily_impact": "Lancement rapide des applications exigeantes et stabilité constante lors des sessions de jeu."
+            },
+            {
+                "feature_title": "Capteur Photo 108 MP & Vidéo 4K",
+                "badge": "Photo",
+                "lead_benefit": "Haute résolution pour agrandir vos prises de vue",
+                "technical_detail": "Grand capteur principal 108 MP (1/1.52\") avec fusion 9-en-1 et objectif ultra grand-angle 8 MP.",
+                "daily_impact": "Capture de photos très détaillées et enregistrement de vidéos 4K limpides pour vos projets."
+            },
+            {
+                "feature_title": "Batterie 5000 mAh & Charge Turbo 67W",
+                "badge": "Autonomie",
+                "lead_benefit": "Endurance durable et recharge complète en 45 minutes",
+                "technical_detail": "Batterie 5000 mAh avec bloc d'alimentation 67W inclus et connectique USB Type-C.",
+                "daily_impact": "Disponibilité continue sur toute la journée et ravitaillement rapide en cas d'imprévu."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO X5 Pro 5G combine finesse ergonomique, capteur 108 MP et réactivité matérielle solide.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO X5 Pro 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO X5 Pro 5G chez My-eStore. Capteur 108MP, puce Snapdragon 778G et charge 67W au meilleur tarif garanti à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO X5 Pro 5G 256Go : 108MP & Charge 67W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO X5 Pro 5G chez My-eStore. Capteur photo 108MP, écran Flow AMOLED 120Hz et charge 67W au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO X5 Pro 5G : Capteur 108 MP, Snapdragon 778G et Charge 67W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO X5 Pro 5G",
+            "items": [
+                {
+                    "feature": "Capteur photo 108 MP",
+                    "benefice": "Clichés très détaillés faciles à agrandir sans dégradation du sujet"
+                },
+                {
+                    "feature": "Puce Snapdragon 778G 5G",
+                    "benefice": "Vitesse d'exécution rapide pour le multitâche et le traitement graphique"
+                },
+                {
+                    "feature": "Écran Flow AMOLED 120Hz",
+                    "benefice": "Bordures affinées et grande fluidité tactile pour vos contenus multimédias"
+                },
+                {
+                    "feature": "Charge turbo 67W",
+                    "benefice": "Récupération totale de l'énergie en moins de trois quarts d'heure"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO X5 Pro 5G allie légèreté ergonomique et précision photographique. Sa dalle Flow AMOLED de 6.67 pouces diffuse des contrastes nets très plaisants. De plus, la cadence de 120Hz élimine toute saccade lors de la consultation web. Le processeur Snapdragon 778G prend ainsi en charge vos logiciels avec vélocité. Vous bénéficiez en outre d'une batterie de 5000 mAh rechargeable à 67W.",
+        "sections": [
+            {
+                "h2_title": "Écran Flow AMOLED 120Hz Fin et Confort Visuel",
+                "paragraphs": [
+                    "La dalle Flow AMOLED optimise l'espace visuel grâce à des bordures très minces. La résolution Full HD+ restitue des caractères typographiques très nets et précis. Cette finesse d'affichage facilite par conséquent le traitement continu de tableaux complexes. La prise en charge Dolby Vision affine les nuances sombres de vos vidéos. Cette compatibilité étendue garantit ainsi un rendu réaliste des contenus multimédias récents. La luminosité de pointe à 900 nits autorise une lecture agréable en extérieur.",
+                    "La gradation PWM à 1920Hz préserve la rétine lors des utilisations nocturnes prolongées. Ce système de modulation limite donc la fatigue oculaire après le travail. Le verre protecteur Gorilla Glass 5 renforce la résistance face aux rayures accidentelles. Le poids plume de 181 grammes assure une tenue en main sans lassitude. Cette légèreté remarquable favorise par ailleurs les longues sessions de communication mobile. Les haut-parleurs stéréo Dolby Atmos diffusent un son clair durant vos visioconférences."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 108 MP et Processeur Snapdragon 778G",
+                "paragraphs": [
+                    "Le capteur photo principal de 108 mégapixels regroupe neuf pixels en un seul. Cette méthode de regroupement optimise la captation de la lumière en basse luminosité. Vos clichés nocturnes conservent en effet une netteté appréciable sans bruit numérique excessif. L'objectif ultra grand-angle permet de cadrer de vastes paysages sans recul nécessaire. L'enregistrement vidéo en 4K produit ainsi des séquences fluides aux couleurs naturelles. La caméra avant de 16 mégapixels garantit des portraits soignés pour vos réunions.",
+                    "Le processeur Qualcomm Snapdragon 778G traite les flux de données avec régularité. Cette finesse de gravure en 6 nanomètres limite en outre l'échauffement des composants. La puce graphique Adreno assure une excellente fluidité dans les jeux compétitifs 3D. De son côté, la mémoire vive de 8 Go accélère le passage entre vos outils collaboratifs. La connectivité 5G assure également des transferts ultra-rapides de documents lourds sur réseau. Vous travaillez sans aucune interruption technique lors de vos divers trajets professionnels."
+                ]
+            },
+            {
+                "h2_title": "Batterie Énergique de 5000 mAh et Charge Turbo 67W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh alimente le smartphone durant toute une journée active. Les utilisateurs intensifs profitent d'une autonomie rassurante sans craindre la coupure inopinée. Vous évitez ainsi de brancher l'appareil au cours de vos après-midis chargés. Le chargeur fourni de 67W restaure l'énergie dans des délais très brefs. Une charge de quarante minutes remplit en effet la totalité de la batterie. La surveillance thermique intégrée garantit la sécurité des cellules chimiques pendant l'alimentation.",
+                    "Le capteur biométrique latéral déverrouille l'appareil d'un simple effleurement du pouce. Cette détection rapide facilite d'ailleurs l'accès immédiat à vos comptes bancaires sécurisés. La certification IP53 offre une protection bienvenue contre les projections accidentelles d'eau. Le port USB Type-C prend en charge les protocoles de synchronisation modernes. Ces technologies avancées renforcent par conséquent la rentabilité de ce modèle milieu de gamme. Le POCO X5 Pro 5G représente un choix très judicieux pour les Ivoiriens."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO X5 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.9 x 76.0 x 7.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "181 g (0.181 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP53 résistant à la poussière et aux éclaboussures"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Bleu (Blue), Jaune (Yellow)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED, 1 milliard de couleurs, 120Hz, Dolby Vision, HDR10+, 900 nits"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~86.8% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "Full HD+ (1080 x 2400 pixels, ratio 20:9, ~395 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 778G 5G (6 nm, Octa-core jusqu'à 2.4 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 642L"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "MIUI 14 pour POCO basé sur Android 12/13"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "6 Go + 128 Go / 8 Go + 256 Go (UFS 2.2)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "108 MP (f/1.9, 1/1.52\", PDAF)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120°)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps, 1080p jusqu'à 120 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge turbo 67W (100% en ~45 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale latérale, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, prise jack 3.5mm, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X5+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X5+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

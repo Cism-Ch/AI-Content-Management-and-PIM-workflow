@@ -1,0 +1,449 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Redmi Pad Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Pad Series",
+        "commercial_name": "Xiaomi Redmi Pad Pro 5G",
+        "category": "tablet",
+        "sub_category": "tablet-midrange-cellular",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-PAD-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-PAD-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi Redmi Pad Pro 5G 12.1 pouces 2.5K 120Hz Snapdragon 7s Gen 2 modem 5G double SIM batterie 10000 mAh charge 33W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7s Gen 2 5G (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "10000 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, Glonass, Galileo, Beidou",
+        "card_slot": "microSDXC jusqu'à 1.5 To (slot partagé)",
+        "weight": "0.566 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-PAD-PRO-5G",
+        "Name": "Xiaomi Redmi Pad Pro 5G - Dual SIM - Écran 12.1\" 2.5K 120Hz - (6 Go|8 Go & 128 Go|256 Go) - 10000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "245000",
+        "Categories": "Tablettes > Xiaomi > Redmi Pad",
+        "Tags": "Xiaomi, Redmi Pad Pro 5G, Redmi Pad Series, Tablette, Android, 5G, Écran 120Hz, Capteur 8MP, 10000mAh, Charge 33W, Snapdragon 7s Gen 2, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Vert Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.566 kg",
+        "Attribute 4 default": "0.566 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "265000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "295000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert Gris",
+            "color_en": "Mint Green",
+            "color_code": "VERT-GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "6-GB-128-GB-VERT-GRIS"
+        },
+        {
+            "color_fr": "Vert Gris",
+            "color_en": "Mint Green",
+            "color_code": "VERT-GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "265000",
+            "sku_suffix": "8-GB-128-GB-VERT-GRIS"
+        },
+        {
+            "color_fr": "Vert Gris",
+            "color_en": "Mint Green",
+            "color_code": "VERT-GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "295000",
+            "sku_suffix": "8-GB-256-GB-VERT-GRIS"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Pad",
+        "teaser": "La tablette Xiaomi Redmi Pad Pro 5G combine un modem cellulaire 5G à un grand écran 2.5K 120Hz de 12.1 pouces. Animée par le processeur Qualcomm Snapdragon 7s Gen 2, elle intègre une batterie de 10000 mAh et quatre haut-parleurs stéréo Dolby Atmos.",
+        "top_features_detailed": [
+            {
+                "label": "Connectivité Cellulaire 5G",
+                "detail": "Accès Internet autonome et rapide partout en déplacement sans dépendre d'un point d'accès Wi-Fi."
+            },
+            {
+                "label": "Écran 12.1\" 2.5K 120Hz",
+                "detail": "Dalle IPS étendue de 2560 x 1600 pixels avec rafraîchissement adaptatif pour un confort visuel optimal."
+            },
+            {
+                "label": "Puce Snapdragon 7s Gen 2 (4 nm)",
+                "detail": "Architecture Qualcomm véloce assurant une exécution fluide des applications de gestion et bureautique."
+            },
+            {
+                "label": "Batterie Durable 10000 mAh",
+                "detail": "Grande réserve énergétique assurant plusieurs journées d'autonomie avec recharge rapide filaire de 33W."
+            }
+        ],
+        "marketing_conclusion": "La tablette tactile 5G grand format par excellence pour travailler en autonomie complète où que vous soyez.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Pad Pro 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Redmi Pad Pro 5G à Abidjan chez My-eStore. Connectivité 5G, écran 12.1 pouces 2.5K 120Hz, Snapdragon 7s Gen 2 et batterie 10000 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Redmi Pad Pro 5G",
+            "lsi_keywords": [
+                "tablette 5G Xiaomi",
+                "Redmi Pad Pro 5G 12.1 pouces",
+                "Snapdragon 7s Gen 2 5G",
+                "tablette carte SIM Abidjan",
+                "tablette 10000 mAh 5G"
+            ],
+            "meta_title": "Xiaomi Redmi Pad Pro 5G 128 Go : 5G & Écran 12.1\" 120Hz | My-eStore",
+            "meta_description": "Découvrez la tablette Xiaomi Redmi Pad Pro 5G avec modem 5G autonome, écran 12.1 pouces 2.5K 120Hz et batterie 10000 mAh 33W disponible chez My-eStore."
+        },
+        "h1": "Xiaomi Redmi Pad Pro 5G : Connexion 5G, Écran 12.1\" 120Hz et Batterie 10000 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI REDMI PAD PRO 5G",
+            "items": [
+                {
+                    "feature": "Modem 5G Double SIM",
+                    "benefice": "Navigation internet rapide et appels professionnels en déplacement régulier."
+                },
+                {
+                    "feature": "Dalle 12.1\" 2.5K 120Hz",
+                    "benefice": "Visualisation claire des documents techniques avec un défilement très souple."
+                },
+                {
+                    "feature": "Puce Snapdragon 7s Gen 2",
+                    "benefice": "Calculs réactifs et stabilité d'exécution sur vos logiciels de bureautique."
+                },
+                {
+                    "feature": "Accumulateur 10000 mAh",
+                    "benefice": "Disponibilité continue sur les chantiers ou lors de longs trajets sans prise."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Redmi Pad Pro 5G apporte une liberté d'action complète grâce à son modem cellulaire. Son écran spacieux de 12.1 pouces restitue vos documents avec une définition 2.5K très détaillée. En effet, le taux de rafraîchissement à 120Hz assure un défilement continu sur vos pages numériques. De plus, la puce Snapdragon 7s Gen 2 prend en charge le traitement régulier de vos applications. Ainsi, cet outil communicant facilite votre organisation professionnelle au cours de vos missions extérieures.",
+        "sections": [
+            {
+                "h2_title": "Liberté de Connexion 5G et Grand Écran 2.5K 120Hz",
+                "paragraphs": [
+                    "Le tiroir pour carte SIM de la Xiaomi Redmi Pad Pro 5G accueille les réseaux cellulaires modernes. Cette fonctionnalité permet de communiquer en temps réel sans nécessiter de borne Wi-Fi à proximité. Les flux de données 5G accélèrent la synchronisation directe avec vos serveurs distants d'entreprise. Par ailleurs, la puce de positionnement par satellite autorise une navigation cartographique d'une grande justesse. La structure monobloc en métal garantit une prise en main solide et confortable en extérieur. En outre, la finition arrière repousse la saleté et les poussières lors de vos interventions nomades.",
+                    "La face avant intègre une dalle IPS spacieuse certifiée pour afficher un milliard de nuances chromatiques. La définition 2.5K permet de lire des plans techniques complexes avec une clarté appréciable. D'ailleurs, la fréquence de 120Hz ajuste son cycle pour délivrer une fluidité d'affichage adaptée. La vitre Corning Gorilla Glass 3 préserve la face avant face aux aléas de manipulation usuels. La triple certification TÜV Rheinland protège vos yeux durant les sessions de travail prolongées. Enfin, le niveau d'éclairage élevé assure une excellente lisibilité sous une luminosité de bureau intense."
+                ]
+            },
+            {
+                "h2_title": "Performances Snapdragon 7s Gen 2 et Multitâche Nomade",
+                "paragraphs": [
+                    "Le processeur Snapdragon 7s Gen 2 gravé en 4 nanomètres dispense une puissance de calcul constante. Ses huit cœurs équilibrent judicieusement la consommation électrique lors des transferts de données en 5G. En effet, la puce graphique Adreno 710 maintient un débit d'images stable sur vos graphiques. La mémoire vive rapide accélère la reprise immédiate de vos applications professionnelles en pause. L'utilisateur navigue aisément entre ses correspondances en ligne et ses tableaux de gestion. De plus, la structure métallique dissipe l'élévation thermique durant les téléchargements cellulaires prolongés.",
+                    "L'espace de stockage flash accueille vos banques de données et dossiers confidentiels sans encombre. Les vitesses de transfert réduisent les délais d'accès lors de l'ouverture de volumineux catalogues. Par conséquent, la fluidité opérationnelle se maintient même en situation de multitâche intense. L'environnement logiciel Xiaomi HyperOS distribue efficacement les ressources selon les besoins des logiciels actifs. La compatibilité d'écrans divisés autorise la confrontation directe de plusieurs sources d'information. Ainsi, vous menez vos activités numériques avec une belle constance jour après jour."
+                ]
+            },
+            {
+                "h2_title": "Audio Dolby Atmos et Batterie Haute Capacité de 10000 mAh",
+                "paragraphs": [
+                    "Quatre haut-parleurs stéréo diffusent un son spatialisé très enveloppant grâce au traitement Dolby Atmos. Cette configuration acoustique garantit une intelligibilité distincte lors des réunions d'équipe à distance. De surcroît, la caméra frontale centrée capture des vidéos nettes en toutes circonstances d'éclairage. Le microphone antibruit atténue les perturbations sonores de vos environnements extérieurs. Le capteur arrière de 8 mégapixels numérise instantanément plans de chantier et bordereaux d'expédition. En conséquence, le partage d'informations techniques avec vos collègues s'opère sans retard.",
+                    "La batterie haute densité de 10000 mAh offre une réserve énergétique rassurante pour plusieurs journées. Vous effectuez vos déplacements professionnels sans devoir chercher continuellement une prise d'alimentation. Grâce à la charge filaire de 33 watts, l'appareil récupère son autonomie utile promptement. Cette commodité d'alimentation écourte sensiblement le temps d'attente à la pause déjeuner. La compatibilité Wi-Fi 6 complète la 5G pour des connexions de bureau rapides. Enfin, le port USB Type-C supporte la synchronisation commode de vos fichiers externes."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Redmi Pad Pro 5G",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Redmi Pad Pro 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "280.0 x 181.9 x 7.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.566 kg (566 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre Gorilla Glass 3, corps monocoque en aluminium"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Graphite Gray), Vert Gris (Mint Green)"
+                        },
+                        {
+                            "label": "Conception",
+                            "valeur": "Châssis métallique rigide et bandes d'antennes discrètes pour la 5G"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, 68 milliards de couleurs, 120Hz, Dolby Vision"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "12.1 pouces (~83.6% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "2.5K (1600 x 2560 pixels), ratio 16:10, ~249 ppp"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif dynamique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits (typique), 600 nits (HBM)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 3, triple certification TÜV Rheinland"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7s Gen 2 5G (Gravure 4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Adreno 710"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Slot microSDXC partagé jusqu'à 1.5 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité Cellulaire & Sans Fil",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Format Carte SIM",
+                            "valeur": "Double nano-SIM (ou 1 nano-SIM + 1 microSDXC)"
+                        },
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) bi-bande 2.4 GHz et 5 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2, A2DP, LE"
+                        },
+                        {
+                            "label": "Géolocalisation",
+                            "valeur": "GPS, Glonass, Galileo, Beidou intégrés"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "8 MP, f/2.0, autofocus AF"
+                        },
+                        {
+                            "label": "Fonctionnalités Caméra",
+                            "valeur": "Flash LED, HDR, mode document scanner"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "8 MP, f/2.3, cadrage automatique des visages"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo symétriques"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, certification Hi-Res Audio filaire et sans fil"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui, prise audio casque 3.5 mm présente"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "2 microphones avec suppression de bruit ambiant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "10000 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge rapide 33W (PD / QC3+)"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 avec fonction OTG"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Non"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

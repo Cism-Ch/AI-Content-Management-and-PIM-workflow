@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-17-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone Air",
+    "category": "Smartphones",
+    "sub_category": "Ultra-Slim Premium",
+    "release_year": 2025,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3510",
+    "regional_variants": [
+      { "region": "International", "sku": "A3510" }
+    ],
+    "verification_sources": [
+      { "source": "Apple News", "url": "https://apple.com/iphone-air" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone Air 256GB",
+      "sku_suffix": "256",
+      "configurations": { "ram": "8GB", "storage": "256GB" },
+      "pricing": { "official_price_fcfa": 825000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Graphite", "Silver", "Champagne Gold", "Rose Gold"],
+    "default": "Graphite"
+  },
+  "key_specifications": {
+    "processor": "Apple A19 (2 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "screen_size": "6.5 pouces",
+    "screen_technology": "Super Retina XDR OLED (Slim-T)",
+    "screen_resolution": "1200 x 2600 pixels",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "3200 mAh",
+    "charging_wired": "35W",
+    "charging_wireless": "15W (MagSafe)",
+    "os": "iOS",
+    "os_version": "26",
+    "camera_main": "48 MP, f/1.7, 24mm, OIS",
+    "camera_ultrawide": "Non",
+    "camera_telephoto": "Non",
+    "camera_selfie": "18 MP, f/1.9",
+    "video_max": "4K@60fps",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 7",
+    "connectivity_bluetooth": "5.4",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "158.0 x 74.0 x 5.0 mm",
+    "weight": "155 g",
+    "materials": "Aluminium Haute Résistance, Ceramic Shield 3",
+    "biometrics": "Face ID",
+    "additional_features": ["Ultra-thin 5mm design", "Lightweight", "Apple Intelligence V2"]
+  },
+  "sources": [
+    {
+      "name": "Apple Press Release",
+      "url": "https://apple.com/pr/iphone-air",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

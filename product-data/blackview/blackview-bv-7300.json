@@ -1,0 +1,333 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "BV7300",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/bv7300-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "165000",
+        "official_sku": "BV-BV7300"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G85 Octa-Core",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.67 pouces",
+        "screen_technology": "HD+ IPS LCD Gorilla Glass 5",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "15000 mAh",
+        "ram_options": [
+            "6 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 12 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 3.1",
+        "camera_main": "50 MP (Capteur Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "16 MP",
+        "audio_config": "Haut-parleur stéréo Smart-PA géant 2W",
+        "audio_tech": "Son HD & Débruitage double micro",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "186.2 x 85 x 24 mm",
+        "weight": "0.528 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-BV7300-MASTER",
+        "Name": "Blackview BV7300",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "165000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview BV7300, Smartphone Durci, 15000mAh, IP68, IP69K, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Jaune",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.528 kg",
+        "Attribute 4 default": "0.528 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview BV7300 : Le Smartphone Durci Batterie 15000 mAh",
+        "brand_line": "Smartphone incassable Blackview intégrant une grande réserve d'énergie.",
+        "marketing_conclusion": "Commandez le Blackview BV7300 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview BV7300 propose une batterie monstre de 15000 mAh avec charge 33W, un écran 6.67 pouces, un capteur photo 50 MP et l'étanchéité certifiée IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Batterie Géante 15000 mAh & Charge 33W",
+                "benefice": "Autonomie extrême jusqu'à plusieurs semaines en veille."
+            },
+            {
+                "feature": "Puce MediaTek Helio G85 Octa-Core",
+                "benefice": "Performances stables et multitâche réactif sur le terrain."
+            },
+            {
+                "feature": "Appareil Photo 50 MP ISOCELL",
+                "benefice": "Prises de vues nettes et précises pour documenter vos missions."
+            },
+            {
+                "feature": "Certifications IP68 & IP69K & MIL-STD-810H",
+                "benefice": "Protection intégrale contre l'eau, les poussières et les chutes."
+            }
+        ],
+        "slogan_final": "Blackview BV7300 — L'énergie inépuisable pour le terrain.",
+        "seo": {
+            "meta_title": "Acheter Blackview BV7300 (6Go/256Go 15000mAh) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview BV7300 avec batterie 15000 mAh, capteur 50 MP et étanchéité IP68. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview BV7300, smartphone durci Blackview, prix Abidjan, 15000mAh IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview BV7300",
+            "lsi_keywords": [
+                "Blackview BV7300",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable 15000mAh",
+                "meilleur prix Côte d'Ivoire",
+                "Helio G85 Octa-Core",
+                "batterie 15000 mAh",
+                "IP68 IP69K",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview BV7300 256 Go : 15000 mAh & Helio G85 | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview BV7300. Batterie 15000 mAh, processeur Helio G85, 6Go RAM et 256Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview BV7300 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Autonomie Monstre 15000 mAh",
+                    "benefice": "Capacité énergétique massive éliminant tout besoin de recharge fréquente."
+                },
+                {
+                    "feature": "Écran 6.67\" HD+ Gorilla Glass 5",
+                    "benefice": "Superficie d'affichage spacieuse protégée contre les rayures."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP ISOCELL",
+                    "benefice": "Clichés de haute qualité pour vos comptes-rendus professionnels."
+                },
+                {
+                    "feature": "Charge Inversée Powerbank",
+                    "benefice": "Alimentation directe de vos autres appareils électroniques sur le terrain."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview BV7300 est un smartphone durci d'une grande endurance. Cet appareil convient idéalement aux professionnels et aventuriers en Côte d'Ivoire. Par ailleurs, sa batterie massive de 15000 mAh garantit plusieurs jours d'utilisation intensive. De plus, la puce MediaTek Helio G85 assure une navigation très fluide. Son grand écran de 6.67 pouces HD+ offre une visibilité claire en extérieur. Le système de charge rapide 33W rétablit l'énergie du téléphone en toute efficacité. En effet, sa structure blindée certifiée IP68 et IP69K résiste aux environnements les plus rudes. Enfin, vous travaillez sereinement sans craindre la panne sèche.",
+        "sections": [
+            {
+                "h2_title": "Énergie Extrême 15000 mAh et Charge 33W",
+                "paragraphs": [
+                    "Le Blackview BV7300 intègre une batterie hors norme de 15000 mAh. Cet accumulateur géant vous affranchit totalement du chargeur pendant plusieurs jours consécutifs. De plus, la fonction de charge inversée transforme le smartphone en véritable banque d'alimentation mobile. De surcroît, le protocole de charge rapide 33W recharge efficacement cette grande réserve d'énergie. La gestion thermique interne prévient tout risque d'échauffement en cours de charge. L'autonomie reste d'une fiabilité remarquable sur le terrain.",
+                    "La conception du boîtier assure une excellente dissipation de la chaleur lors des utilisations prolongées. Cette autonomie prolongée s'avère indispensable lors des missions d'exploration en zone isolée. En effet, la consommation d'énergie est optimisée par les fonctions intelligentes de DokeOS 3.1. Les appels et navigations GPS se poursuivent sans interruption. Ainsi, vous restez joignable en toute circonstance."
+                ]
+            },
+            {
+                "h2_title": "Performance Matérielle et Appareil Photo 50 MP",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G85 du Blackview BV7300 délivre des performances équilibrées. Ses huit cœurs cadencés à 2.0 GHz gèrent vos applications professionnelles sans ralentissement. En outre, les 6 Go de mémoire RAM garantissent un multitâche fluide au quotidien. Le stockage interne de 256 Go conserve tous vos fichiers multimédias et documents volumineux. Vous pouvez étendre la mémoire au moyen d'une carte MicroSD jusqu'à 1 To. L'expérience d'utilisation gagne en réactivité et en confort.",
+                    "Par ailleurs, le capteur photo principal Samsung de 50 Mégapixels capture des images très détaillées. Cette caméra restitue des couleurs fidèles pour immortaliser vos interventions de chantier. De plus, la caméra frontale de 16 Mégapixels assure des visioconférences d'une excellente netteté. Le module NFC multifonction simplifie vos transactions sans contact. En somme, cet équipement nomade répond à toutes vos exigences."
+                ]
+            },
+            {
+                "h2_title": "Châssis Blindé et Normes Militaires",
+                "paragraphs": [
+                    "Le Blackview BV7300 est conçu pour résister aux pires traitements physiques. Ses certifications étanches IP68 et IP69K garantissent une résistance sous l'eau et à la poussière. Le blindage conforme à la norme militaire MIL-STD-810H protège le téléphone contre les chutes de 1.5 mètre. Ses angles caoutchoutés absorbent efficacement l'énergie des chocs et des impacts. En effet, le verre Corning Gorilla Glass 5 préserve l'écran des fentes accidentelles. Vos activités extérieures s'effectuent en toute tranquillité.",
+                    "La prise en main reste ferme grâce aux textures antidérapantes moulées sur les côtés. Son poids de 528 grammes s'explique par sa batterie géante et son blindage renforcé. Le Blackview BV7300 s'impose comme un choix très pertinent pour les chantiers à Abidjan. En somme, son rapport qualité-prix en fait une opportunité extrêmement compétitive. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview BV7300",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview BV7300."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "186.2 x 85 x 24 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.528 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Jaune"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.67 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1600 x 720 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G85 (12 nm) Octa-Core 2.0 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go LPDDR4X (+6 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 (f/1.8)"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "16 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "15000 mAh"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 33W (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Supportée (Reverse Powerbank)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 1500 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 3.1"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/bv7300-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

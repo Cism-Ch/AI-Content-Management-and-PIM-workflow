@@ -1,0 +1,451 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Pad 6 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Pad Series",
+        "commercial_name": "Xiaomi Pad 6",
+        "category": "tablet",
+        "sub_category": "tablet-midrange-premium",
+        "release_year": 2023,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-PAD-6",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-PAD-6"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-pad-6/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+6"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+6+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi Pad 6 11.0 pouces WQHD+ 144Hz Snapdragon 870 batterie 8840 mAh charge 33W Wi-Fi 6."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 870 (7 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "8840 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "Sans slot microSD",
+        "weight": "0.490 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-PAD-6",
+        "Name": "Xiaomi Pad 6 - Écran 11.0\" WQHD+ 144Hz - (6 Go|8 Go & 128 Go|256 Go) - 8840 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "215000",
+        "Categories": "Tablettes > Xiaomi > Xiaomi Pad",
+        "Tags": "Xiaomi, Pad 6, Xiaomi Pad Series, Tablette Android, Wi-Fi 6, Écran 144Hz WQHD+, 13MP, Batterie 8840mAh, Snapdragon 870, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Or, Bleu",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.490 kg",
+        "Attribute 4 default": "0.490 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi",
+        "Attribute 5 default": "Wi-Fi",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gravity Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gravity Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gravity Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "275000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-128-GB-OR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-128-GB-OR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "275000",
+            "sku_suffix": "8-GB-256-GB-OR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Mist Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Mist Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Mist Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "275000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Xiaomi Pad",
+        "teaser": "La tablette tactile Xiaomi Pad 6 associe la puce Snapdragon 870 à un grand écran 11 pouces WQHD+ 144Hz. Son boîtier monobloc en aluminium intègre une batterie de 8840 mAh avec charge 33W et quatre haut-parleurs Dolby Atmos.",
+        "top_features_detailed": [
+            {
+                "label": "Puce Snapdragon 870",
+                "detail": "Processeur Qualcomm économe et réactif assurant un multitâche fluide sur vos outils professionnels."
+            },
+            {
+                "label": "Écran 11\" WQHD+ 144Hz",
+                "detail": "Résolution détaillée de 2880 x 1800 pixels et fluidité adaptative pour un confort visuel reposant."
+            },
+            {
+                "label": "Batterie Durable 8840 mAh",
+                "detail": "Autonomie constante d'une journée entière avec recharge rapide filaire de 33W."
+            },
+            {
+                "label": "Quatre Haut-Parleurs Stéréo",
+                "detail": "Immersion sonore Dolby Atmos restituant des voix claires lors de vos visioconférences."
+            }
+        ],
+        "marketing_conclusion": "La tablette Android performante et polyvalente taillée pour la productivité mobile et le divertissement.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Pad 6 à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Pad 6 à Abidjan chez My-eStore. Écran 11 pouces WQHD+ 144Hz, puce Snapdragon 870 et batterie 8840 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Pad 6 128 Go : Snapdragon 870 & Écran 144Hz WQHD+ | My-eStore",
+            "meta_description": "Découvrez la Xiaomi Pad 6 avec Snapdragon 870, dalle 11 pouces 144Hz WQHD+ et batterie 8840 mAh 33W. Fiche technique complète chez My-eStore.",
+            "focus_keyword": "Xiaomi Pad 6",
+            "lsi_keywords": [
+                "Snapdragon 870",
+                "tablette Xiaomi 144Hz",
+                "écran WQHD+ 11 pouces",
+                "batterie 8840 mAh",
+                "MIUI Pad 14"
+            ]
+        },
+        "h1": "Xiaomi Pad 6 : Snapdragon 870, Écran 11\" 144Hz WQHD+ et Batterie 8840 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI PAD 6",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 870",
+                    "benefice": "Cadences stables jusqu'à 3.2 GHz pour gérer le multitâche intensif."
+                },
+                {
+                    "feature": "Dalle 11 Pouces WQHD+ 144Hz",
+                    "benefice": "Netteté visuelle appréciable avec plus d'un milliard de teintes reproduites."
+                },
+                {
+                    "feature": "Batterie 8840 mAh Charge 33W",
+                    "benefice": "Disponibilité énergétique durable avec recharge complète en 99 minutes."
+                },
+                {
+                    "feature": "Châssis Unibody Aluminium",
+                    "benefice": "Finition soignée et prise en main agréable avec seulement 6.51 mm d'épaisseur."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Pad 6 propose un équipement technique équilibré pour le travail et le divertissement. Son processeur Snapdragon 870 assure une réactivité constante lors du traitement de plusieurs documents bureautiques simultanés. En effet, cette puce Qualcomm maintient une cadence fluide sans élévation thermique excessive. De plus, son écran WQHD+ de 11 pouces restitue vos contenus avec une grande netteté à 144Hz. Cette tablette polyvalente répond ainsi aux exigences des étudiants comme des professionnels à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Design en Métal Unibody et Écran 11 Pouces 144Hz WQHD+",
+                "paragraphs": [
+                    "Le boîtier monocoque en aluminium de la Xiaomi Pad 6 présente une épaisseur très fine de 6.51 mm. Son poids léger de 490 grammes facilite son transport quotidien dans une sacoche ou un sac à dos. La finition métallique brossée repousse efficacement les traces de doigts lors de manipulations répétées. Par conséquent, la prise en main reste confortable pendant de longues heures de consultation. Le châssis rigide protège durablement la structure électronique contre les pressions mécaniques extérieures. Cet assemblage soigné confère également une allure sobre et moderne à votre équipement nomade.",
+                    "La dalle LCD de 11 pouces affiche une résolution WQHD+ très détaillée de 2880 par 1800 pixels. Sa densité de 309 pixels par pouce apporte un confort appréciable pour la lecture de graphiques. Le taux de rafraîchissement adaptatif à 144Hz fluidifie le défilement de vos tableurs professionnels. En outre, la certification TÜV Rheinland réduit l'émission de lumière bleue pour limiter la fatigue oculaire. Le panneau prend en charge la technologie Dolby Vision pour valoriser les contrastes de vos flux vidéo. Cette conception soignée garantit ainsi une excellente lisibilité dans tous vos environnements de consultation."
+                ]
+            },
+            {
+                "h2_title": "Puissance du Processeur Snapdragon 870 et Multitâche Fluide",
+                "paragraphs": [
+                    "La plateforme mobile Qualcomm Snapdragon 870 gravée en 7 nanomètres délivre des cadences stables jusqu'à 3.2 GHz. Sa structure octa-core prend en charge le montage vidéo léger et les feuilles de calcul volumineuses. La puce graphique Adreno 650 gère les flux graphiques 3D sans baisse notable de fluidité. Dès lors, le système maintient une réactivité immédiate même lors de charges applicatives lourdes. La mémoire vive LPDDR5 accélère en outre le passage instantané d'une tâche professionnelle à une autre. Cette configuration matérielle robuste répond aux attentes des professionnels exigeant une productivité nomade continue.",
+                    "Le stockage interne rapide en technologie UFS 3.1 assure le chargement véloce de vos fichiers personnels. L'interface MIUI Pad optimise l'agencement visuel pour afficher simultanément plusieurs fenêtres distinctes. Vous comparez facilement vos notes de réunion tout en participant à un atelier interactif en ligne. De surcroît, la compatibilité avec le stylet Smart Pen favorise une prise de note manuscrite naturelle. Le couplage magnétique assure également la recharge sans fil de votre stylet contre la bordure métallique. Cette ergonomie tactile moderne transforme la tablette en un véritable carnet de travail numérique."
+                ]
+            },
+            {
+                "h2_title": "Système Audio Dolby Atmos, Batterie 8840 mAh et Connectivité",
+                "paragraphs": [
+                    "La Xiaomi Pad 6 intègre quatre haut-parleurs stéréo calibrés pour reproduire le format spatialisé Dolby Atmos. Ce système acoustique quadruple diffuse des voix claires et des fréquences équilibrées en réunion. Les quatre microphones directionnels orientent la captation vocale avec précision vers l'orateur principal. Par ailleurs, la fonction FocusFrame maintient automatiquement le cadrage centré pendant vos visioconférences. L'appareil photo dorsal de 13 mégapixels permet enfin de numériser des documents avec grande netteté. Vos échanges à distance bénéficient d'une clarté audiovisuelle très appréciable pour vos équipes.",
+                    "La batterie intégrée de 8840 mAh offre une réserve énergétique rassurante pour une journée complète. Grâce à cette capacité, vous travaillez en toute autonomie lors de vos déplacements quotidiens. La charge rapide 33W restaure l'ensemble de la réserve électrique en une heure et demie. Le port USB 3.2 Gen 1 assure d'ailleurs un transfert très rapide de fichiers vers un disque. La connectivité sans fil Wi-Fi 6 maintient des liaisons stables avec votre réseau professionnel. La tablette Xiaomi Pad 6 s'impose comme un outil polyvalent taillé pour l'efficacité bureautique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Pad 6",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Pad 6."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "253.95 x 165.18 x 6.51 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.490 kg (490 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre Corning Gorilla Glass 3, châssis et dos monocoque en aluminium"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Gravity Gray), Or (Gold), Bleu (Mist Blue)"
+                        },
+                        {
+                            "label": "Stylet & Accessoires",
+                            "valeur": "Support du Xiaomi Smart Pen (2e génération) et clavier Xiaomi Pad 6 Keyboard"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, Dolby Vision, HDR10, DCI-P3"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "11.0 pouces (environ 86% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "WQHD+ (2880 x 1800 pixels), ratio 16:10, 309 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "144 Hz (7 niveaux de taux adaptatif : 30/48/50/60/90/120/144 Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "550 nits (typique)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 870 Mobile Platform (Gravure 7 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Adreno 650"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR5"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go ou 256 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Non (pas de slot microSD)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "13 MP, f/2.2, capteur 1/3.06\", 1.12µm, autofocus PDAF"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "4K à 30 fps, 1080p à 30/60 fps, 720p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant (Selfie / Visio)",
+                            "valeur": "8 MP, f/2.2, 1.12µm, fonction FocusFrame"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Avant",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la Batterie",
+                            "valeur": "8840 mAh (typique) / 8640 mAh (minimale)"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge rapide 33W (compatible QC4, QC3+, QC3.0, QC2.0, PD3.0, PD2.0)"
+                        },
+                        {
+                            "label": "Temps de Recharge",
+                            "valeur": "100% en environ 99 minutes via chargeur officiel 33W"
+                        },
+                        {
+                            "label": "Autonomie Indicative",
+                            "valeur": "Jusqu'à 16 heures de lecture vidéo, plus de 26 jours en veille"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) double bande 2.4 GHz et 5 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Version 5.2 avec support AAC, LDAC, LHDC 3.0"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 1 (transfert haute vitesse et sortie vidéo DP)"
+                        },
+                        {
+                            "label": "Système Audio & Micros",
+                            "valeur": "4 haut-parleurs stéréo Dolby Atmos, 4 microphones avec réduction de bruit"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Accéléromètre, gyroscope, capteur de lumière ambiante, capteur à effet Hall"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "MIUI Pad 14 basé sur Android 13 (éligible Xiaomi HyperOS)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-pad-6/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+6"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+6+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,457 @@
+{
+    "schema_version": "3.4",
+    "template_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-29",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "oukitel-c-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Oukitel C26 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Oukitel",
+        "product_line": "C Series",
+        "commercial_name": "Oukitel C26",
+        "category": "smartphone",
+        "sub_category": "entry-level",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "OUKITEL-C26",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "OUKITEL-C26"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Oukitel Official Store",
+                "url": "https://oukitel.com/products/oukitel-c26-smartphone"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Oukitel+C26"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Oukitel+C26+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Oukitel C26 avec écran 6.63 pouces HD+ 90Hz, processeur Unisoc T615 et batterie 5150 mAh."
+    },
+    "key_specifications": {
+        "processor": "Unisoc T615 (12 nm, Octa-core)",
+        "ram_extension": "Extension dynamique de RAM virtuelle",
+        "audio_config": "Haut-parleur avec prise audio jack 3.5 mm",
+        "audio_tech": "Son clair optimisé pour les appels téléphoniques",
+        "battery_capacity": "5150 mAh",
+        "charging_wired": "Charge filaire 10W Type-C",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Triple slot dédié (2 nano-SIM + microSD jusqu'à 1 To)",
+        "weight": "0.185 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "OUKITEL-C26",
+        "Name": "Oukitel C26 - Dual SIM - Écran 6.63\" 90Hz - (4 Go|6 Go & 128 Go|256 Go) - 5150 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "65000",
+        "Categories": "Smartphones > Oukitel > C Series",
+        "Tags": "Oukitel, Oukitel C26, C Series, Smartphone, Android, 4G, Écran 90Hz, Double Capteur, 5150mAh, Unisoc T615, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Or | Bleu Nuit | Violet | Orange | Blanc",
+        "Attribute 1 default": "Or",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.185 kg",
+        "Attribute 4 default": "0.185 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4GB-128GB-OR"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4GB-128GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4GB-128GB-VIOLET"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4GB-128GB-ORANGE"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "80000",
+            "sku_suffix": "6GB-256GB-OR"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "80000",
+            "sku_suffix": "6GB-256GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "80000",
+            "sku_suffix": "6GB-256GB-VIOLET"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "80000",
+            "sku_suffix": "6GB-256GB-ORANGE"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4GB-128GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "80000",
+            "sku_suffix": "6GB-256GB-BLANC"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Fluidité 90Hz au Quotidien avec Batterie 5150 mAh et Triple Slot.",
+        "teaser": "Le smartphone Oukitel C26 propose un affichage fluide de 6.63 pouces en 90Hz associé au processeur octocœur Unisoc T615. Sa batterie de 5150 mAh procure une autonomie rassurante pour accompagner toutes vos communications régulières.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Fluide 6.63\" 90Hz",
+                "benefice": "Défilement visuel agréable et réactivité instantanée pour consulter vos applications"
+            },
+            {
+                "feature": "Batterie Solide 5150 mAh",
+                "benefice": "Autonomie généreuse permettant de rester joignable toute la journée sans interruption"
+            },
+            {
+                "feature": "Puce Unisoc T615 Octa-Core",
+                "benefice": "Traitement équilibré et stable lors de l'exécution de vos tâches professionnelles"
+            },
+            {
+                "feature": "Triple Slot Dédié & Jack 3.5mm",
+                "benefice": "Insertion simultanée de deux cartes SIM et d'une carte mémoire sans compromis"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone élégant et équilibré idéal pour concilier fluidité visuelle et endurance au quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Oukitel",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Oukitel C26 (4 Go/128 Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le smartphone Oukitel C26 à Abidjan chez My-eStore. Écran 6.63 pouces 90Hz, puce Unisoc T615 et batterie 5150 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Oukitel C26 128 Go : Écran 90Hz & Batterie 5150 mAh | My-eStore",
+            "meta_description": "Découvrez le smartphone Oukitel C26 sur My-eStore. Écran 6.63 pouces 90Hz, processeur Unisoc T615, triple slot SIM/SD et batterie 5150 mAh à Abidjan.",
+            "focus_keyword": "Oukitel C26",
+            "lsi_keywords": [
+                "Oukitel C26 Abidjan",
+                "smartphone 90Hz pas cher",
+                "prix Oukitel C26",
+                "téléphone Oukitel 5150 mAh",
+                "Oukitel C26 fiche technique"
+            ]
+        },
+        "h1": "Oukitel C26 : Écran 6.63\" 90Hz, Processeur Unisoc T615 et Batterie 5150 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Oukitel C26",
+            "items": [
+                {
+                    "feature": "Écran 6.63\" 90Hz",
+                    "benefice": "Fluidité visuelle appréciable lors de la navigation web et du défilement des flux"
+                },
+                {
+                    "feature": "Batterie 5150 mAh",
+                    "benefice": "Réserve d'énergie généreuse pour rester joignable tout au long de la journée"
+                },
+                {
+                    "feature": "Puce Unisoc T615",
+                    "benefice": "Traitement efficace assurant la réactivité de vos applications indispensables"
+                },
+                {
+                    "feature": "Double SIM et Jack 3.5 mm",
+                    "benefice": "Connectique complète facilitant la gestion de deux lignes téléphoniques"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Oukitel C26 offre une expérience mobile équilibrée et moderne au quotidien. Son écran panoramique de 6.63 pouces affiche vos contenus avec une netteté très agréable. De plus, le taux de rafraîchissement de 90Hz rend le défilement tactile particulièrement fluide. Le boîtier léger de 185 grammes assure une préhension très confortable en déplacement. Enfin, son accumulateur de 5150 mAh procure une autonomie rassurante pour l'ensemble de vos communications.",
+        "sections": [
+            {
+                "h2_title": "Un Affichage Fluide de 6.63 Pouces en 90Hz",
+                "paragraphs": [
+                    "La dalle IPS de 6.63 pouces met en valeur vos vidéos et conversations quotidiennes. En outre, la fréquence de 90Hz élimine les saccades lors du défilement des pages web. Les teintes naturelles favorisent une lecture agréable et reposante en toute circonstance. La réactivité tactile immédiate facilite la saisie prompte de vos messages professionnels. Par ailleurs, les bordures affinées augmentent la surface d'affichage sans encombrer la prise en main. La dalle bénéficie d'un traitement adapté pour limiter la formation de traces de doigts.",
+                    "D'autre part, la justesse du rétroéclairage garantit une excellente visibilité même sous le soleil. Les angles de vision ouverts permettent un confort visuel constant sous n'importe quelle inclinaison. Le mode confort oculaire intégré atténue les reflets bleutés lors des consultations nocturnes. Ainsi, vous parcourez vos flux sociaux avec une impression constante de légèreté visuelle. Le verre de façade offre une bonne résistance face aux micro-frottements du quotidien. Cet écran réactif valorise l'ensemble de vos interactions numériques tout au long du jour."
+                ]
+            },
+            {
+                "h2_title": "Processeur Octocœur Unisoc T615 et Triple Emplacement",
+                "paragraphs": [
+                    "Tout d'abord, le processeur octocœur Unisoc T615 exécute la messagerie sans ralentissement gênant. La puce gravée en 12 nanomètres assure une gestion sobre de l'énergie disponible. La mémoire vive modulable facilite le basculement rapide entre plusieurs outils de travail. De surcroît, le système d'exploitation Android 14 optimise la sécurité générale de vos logiciels. Le chargement de vos utilitaires favoris s'opère dans des délais très brefs. Vous conservez une stabilité exemplaire lors du traitement de vos formulaires en ligne.",
+                    "De ce fait, l'espace de stockage interne accueille vos nombreuses applications et photographies. Le tiroir spécifique intègre un triple emplacement dédié sans sacrifier la seconde ligne téléphonique. Vous ajoutez facilement une carte mémoire microSD pour étendre votre volume documentaire. Également, l'architecture interne évacue efficacement les montées thermiques lors des charges soutenues. Le haut-parleur intégré diffuse une tonalité limpide pour le suivi de vos conversations téléphoniques. Cette conception matérielle équilibrée apporte une sérénité totale pour vos usages réguliers."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Généreuse de 5150 mAh et Polyvalence Double SIM",
+                "paragraphs": [
+                    "D'abord, l'accumulateur intégré de 5150 mAh fournit une autonomie rassurante pour votre journée. Vous communiquez sans interruption et profitez de vos contenus audio en toute tranquillité. Les protocoles de veille intelligente évitent les décharges inutiles durant les périodes creuses. De même, le port moderne USB Type-C simplifie grandement chaque opération de recharge filaire. Le bloc de charge fourni rétablit régulièrement l'énergie de l'accumulateur lors des pauses. Les capteurs de protection électroniques préservent la santé chimique de la batterie dans le temps.",
+                    "Enfin, la présence de deux tiroirs nano-SIM permet d'exploiter deux forfaits mobiles différents. Vous organisez facilement vos contacts d'affaires et votre cercle familial sur le même téléphone. La connectique audio jack standard autorise le branchement immédiat d'un casque ou d'écouteurs. Par conséquent, vous recevez vos appels professionnels les mains libres en conservant une acoustique fidèle. Le module réseau 4G garantit une connectivité stable lors de vos déplacements à Abidjan. L'Oukitel C26 représente une solution économique complète associant bel affichage 90Hz et endurance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Oukitel C26 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.5 x 74.8 x 8.75 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.185 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis ergonomique finition brillante"
+                        },
+                        {
+                            "label": "Coloris Disponibles",
+                            "valeur": "Or, Bleu Nuit, Violet, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'Écran",
+                            "valeur": "6.63 pouces"
+                        },
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (720 x 1600 pixels)"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Format d'Image",
+                            "valeur": "20:9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T615 (12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (2x Cortex-A75 à 1.8 GHz + 6x Cortex-A55 à 1.6 GHz)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension de Mémoire",
+                            "valeur": "MicroSD jusqu'à 1 To via slot dédié"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Principale Arrière",
+                            "valeur": "13 MP avec autofocus et flash LED"
+                        },
+                        {
+                            "label": "Capteur Auxiliaire",
+                            "valeur": "Capteur de profondeur pour mode portrait"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "5 MP grand angle"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "1080p à 30 ips"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la Batterie",
+                            "valeur": "5150 mAh"
+                        },
+                        {
+                            "label": "Type de Batterie",
+                            "valeur": "Lithium-Polymère intégrée"
+                        },
+                        {
+                            "label": "Puissance de Charge",
+                            "valeur": "Charge standard 10W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (Dual Standby)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac (2.4 GHz et 5 GHz)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Prise Casque",
+                            "valeur": "Jack 3.5 mm standard"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Oukitel Official Store",
+                        "url": "https://oukitel.com/products/oukitel-c26-smartphone"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Oukitel+C26"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Oukitel+C26+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

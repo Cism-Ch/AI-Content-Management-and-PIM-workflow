@@ -1,0 +1,407 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO M8s 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO M Series",
+        "commercial_name": "Xiaomi POCO M8s 5G",
+        "category": "smartphone",
+        "sub_category": "endurance-max",
+        "release_year": 2025,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-M8S-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-M8S-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/poco-m8s-5g/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M8s+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M8s+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone grand format Xiaomi POCO M8s 5G avec écran 6.9 pouces processeur Snapdragon 6s Gen 3 batterie record de 7000 mAh et étanchéité IP64."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 6s Gen 3 (6 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo amplifiés",
+        "audio_tech": "Hi-Res Audio et optimisation vocale",
+        "battery_capacity": "7000 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, GLONASS, Beidou, Galileo",
+        "card_slot": "MicroSDXC (dédié ou partagé)",
+        "weight": "0.217 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-M8S-5G",
+        "Name": "Xiaomi POCO M8s 5G - Dual SIM - Écran 6.9\" 120Hz - (6 Go|8 Go & 128 Go|256 Go) - 7000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "165000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO M8s 5G, POCO M Series, Smartphone, Android, 5G, Écran 6.9\", 7000mAh, Charge 33W, Snapdragon 6s Gen 3, IP64, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Blanc | Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.217 kg",
+        "Attribute 4 default": "0.217 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "165000",
+            "sku_suffix": "6-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "165000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "185000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "185000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme M Series 5G Grand Format & Endurance",
+        "teaser": "Le smartphone 5G Xiaomi POCO M8s 5G se distingue par son écran panoramique 6.9 pouces à 120Hz et son processeur Snapdragon 6s Gen 3 gravé en 6 nm. Muni d'une batterie géante de 7000 mAh avec charge rapide 33W et protection IP64, il repousse les limites de l'autonomie à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Grand Écran 6.9\" 120Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Surface visuelle très large et navigation fluide",
+                "technical_detail": "Dalle panoramique 6.9 pouces à 120Hz offrant un affichage clair et lisible en toute situation.",
+                "daily_impact": "Lecture sans contrainte de documents et de vidéos avec grand confort visuel."
+            },
+            {
+                "feature_title": "Batterie Géante 7000 mAh",
+                "badge": "Autonomie",
+                "lead_benefit": "Plusieurs journées complètes d'usage continu",
+                "technical_detail": "Accumulateur haute capacité de 7000 mAh couplé à une recharge rapide 33W.",
+                "daily_impact": "Disponibilité permanente sans nécessité de recharger l'appareil en cours de journée."
+            },
+            {
+                "feature_title": "Puce Snapdragon 6s Gen 3 (6 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Fluidité multitâche et réactivité 5G stable",
+                "technical_detail": "Processeur Qualcomm octa-core 6 nm optimisé pour une consommation maîtrisée.",
+                "daily_impact": "Lancement immédiat de vos applications sans baisse de régime ni surchauffe."
+            },
+            {
+                "feature_title": "Protection Certifiée IP64",
+                "badge": "Robustesse",
+                "lead_benefit": "Résistance éprouvée face aux éclaboussures",
+                "technical_detail": "Conception étanche contre la poussière fine et les projections d'eau courantes.",
+                "daily_impact": "Utilisation sereine lors de vos trajets quotidiens sous une météo incertaine."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G adapté pour ceux qui recherchent un très grand affichage et une autonomie étendue sur plusieurs jours.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Express à Abidjan"
+            },
+            {
+                "icon": "credit-card",
+                "text": "Paiement Sécurisé à la Livraison"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO M8s 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO M8s 5G chez My-eStore. Écran géant 6.9 pouces 120Hz, batterie 7000 mAh et puce Snapdragon 6s Gen 3 livrés à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO M8s 5G 256Go : Écran 6.9\" & Batterie 7000 mAh | My-eStore",
+            "meta_description": "Achetez le Xiaomi POCO M8s 5G chez My-eStore. Écran 6.9 pouces 120Hz, batterie géante de 7000 mAh et puce Snapdragon 6s Gen 3 avec livraison express à Abidjan."
+        },
+        "h1": "Xiaomi POCO M8s 5G : Snapdragon 6s Gen 3, Écran 6.9\" 120Hz et Batterie 7000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO M8s 5G",
+            "items": [
+                {
+                    "feature": "Écran géant 6.9 pouces",
+                    "benefice": "Surface d'affichage extra large adaptée à la consultation intensive de contenus"
+                },
+                {
+                    "feature": "Batterie record 7000 mAh",
+                    "benefice": "Autonomie hors norme dispensant de recharger son appareil au cours de la journée"
+                },
+                {
+                    "feature": "Puce Snapdragon 6s Gen 3",
+                    "benefice": "Traitement réactif des applications courantes couplé à une liaison 5G fiable"
+                },
+                {
+                    "feature": "Protection certifiée IP64",
+                    "benefice": "Conception étanche face aux éclaboussures et aux poussières urbaines"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone 5G Xiaomi POCO M8s 5G s'adresse aux utilisateurs recherchant une autonomie étendue. Sa dalle géante de 6.9 pouces offre en effet un confort visuel appréciable à 120Hz. Le processeur Snapdragon 6s Gen 3 traite les opérations quotidiennes avec une grande stabilité. La batterie de 7000 mAh assure par ailleurs plusieurs jours de fonctionnement sans interruption. Ce smartphone grand format représente un outil robuste pour les actifs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran Panoramique 6.9 Pouces Vaste et Lumineux",
+                "paragraphs": [
+                    "La dalle de 6.9 pouces procure un espace d'affichage très vaste pour vos applications. Cette surface étendue facilite grandement la lecture de textes et de tableaux financiers. Le rafraîchissement à 120Hz garantit ainsi une navigation très fluide sur les flux d'actualités. La luminosité calibrée permet de distinguer nettement les menus sous un ciel lumineux. Les bordures contenues améliorent en outre la prise en main globale de cet appareil spacieux. Cet écran spacieux optimise le visionnage de vidéos lors de vos pauses professionnelles.",
+                    "Le dos en polycarbonate résiste très bien aux micro-chocs du transport journalier. Le verre frontal protège efficacement la dalle tactile contre les frottements répétés. La certification IP64 prévient en effet les infiltrations causées par les éclaboussures soudaines. Vous manipulez votre smartphone sans inquiétude lors des journées d'intempéries ou de pluie. Les joints d'étanchéité limitent par conséquent l'intrusion des poussières urbaines dans le boîtier. Cette résistance mécanique rassure les travailleurs souvent présents sur des zones de livraison."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon 6s Gen 3 et Débits Réseau 5G",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 6s Gen 3 propose une gestion thermique particulièrement équilibrée. Sa configuration octa-core permet de lancer rapidement vos outils de travail habituels. La puce graphique anime également avec souplesse les interfaces visuelles et les jeux. La mémoire vive extensible autorise l'ouverture de multiples fenêtres sans rechargement brutal. Le stockage rapide réduit de plus les temps d'accès à vos fichiers volumineux. L'interface logicielle Xiaomi HyperOS optimise l'occupation des ressources pour préserver l'autonomie.",
+                    "Le modem 5G intégré télécharge vos pièces jointes lourdes à vitesse soutenue. Le tiroir double SIM permet de concilier facilement vos lignes personnelle et professionnelle. Le port carte MicroSD accueille par ailleurs une extension mémoire pour vos archives. Les antennes de réception assurent une accroche réseau constante lors de vos trajets. Cette connectivité véloce accélère donc vos envois de documents auprès de vos clients. Vos appels téléphoniques conservent une transmission vocale audible en tout lieu public."
+                ]
+            },
+            {
+                "h2_title": "Endurance Record de 7000 mAh et Capteur Photo 50 MP",
+                "paragraphs": [
+                    "L'accumulateur haute densité de 7000 mAh offre une réserve énergétique hors norme. Vous travaillez en toute sérénité pendant plusieurs jours sans utiliser de chargeur. La charge rapide 33W permet ainsi de regagner rapidement de précieux pourcentages d'énergie. Un court branchement redonne plusieurs heures d'utilisation pour vos échanges urgents. Le système de surveillance protège également la batterie contre les montées en température. Cette longévité chimique garantit un fonctionnement durable sur plusieurs cycles de charge.",
+                    "Le capteur photographique de 50 mégapixels enregistre des photos nettes aux couleurs fidèles. Les algorithmes d'exposition automatique ajustent les contrastes selon l'éclairage ambiant disponible. Le mode portrait sépare en outre clairement votre sujet de l'arrière-plan flouté. Le capteur frontal restitue des selfies précis pour vos visioconférences de groupe. Les haut-parleurs stéréo amplifiés procurent par conséquent une écoute claire des contenus multimédias. Cet ensemble équilibré fait ainsi du POCO M8s un appareil polyvalent et endurant."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO M8s 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.4 x 84.4 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "217 g (0.217 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque en polycarbonate robuste, face avant en verre trempé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Blanc (White), Noir (Black)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP64 résistant à la poussière et aux éclaboussures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 120Hz, luminosité renforcée"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.9 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2460 x 1080 pixels)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "850 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 6s Gen 3 (6 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno 619"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Oui, via carte MicroSD"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 50 MP (f/1.8) + capteur de profondeur 2 MP"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP, f/2.2"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo amplifiés"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "7000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 33W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/poco-m8s-5g/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M8s+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M8s+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

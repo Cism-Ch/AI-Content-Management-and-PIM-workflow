@@ -1,0 +1,384 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch FE",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-FE",
+        "price": "145000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch FE conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch FE",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-entry",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-FE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-FE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch-fe/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+FE"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+FE+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch FE 40mm Super AMOLED Sapphire 247mAh 16Go BioActive IP68 5ATM"
+    },
+    "key_specifications": {
+        "screen_size": "1.2\"",
+        "screen_type": "Super AMOLED Sapphire",
+        "battery_capacity": "247 mAh",
+        "charging_wired": "Charge sans fil magnétique WPC",
+        "processor": "Samsung Exynos W920 (5nm)",
+        "ram_options": [
+            "1.5 Go"
+        ],
+        "storage_options": [
+            "16 Go"
+        ],
+        "navigation_gps": "GPS, GLONASS, Galileo",
+        "audio_config": "Haut-parleur et microphone intégrés",
+        "audio_tech": "Appels Bluetooth & Notifications sonores",
+        "card_slot": "Non (eSIM / Bluetooth)",
+        "color_options": [
+            "Noir",
+            "Or Rose",
+            "Argent"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-FE",
+        "Name": "Samsung Galaxy Watch FE - Écran 40mm Sapphire - (1.5 Go & 16 Go) - BioActive - IP68 5ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "145000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch FE, Galaxy Watch Series, Montre connectée, Smartwatch, Super AMOLED, Exynos W920, BioActive, Fan Edition, Sapphire, IP68, Wear OS, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Or Rose, Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "16 Go",
+        "Attribute 2 default": "16 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "1.5 Go",
+        "Attribute 3 default": "1.5 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.027 kg",
+        "Attribute 4 default": "0.027 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Essentiel de l'Expérience Galaxy Watch Accessible avec Écran Saphir.",
+        "teaser": "Découvrez la Samsung Galaxy Watch FE avec son écran Super AMOLED protégé par un verre saphir, son capteur BioActive pour le suivi de santé et son format ultra-léger de 26.6 grammes.",
+        "top_features_detailed": [
+            {
+                "feature": "Verre Cristal de Saphir Inrayable",
+                "benefice": "Protection quotidienne renforcée contre les rayures et les chocs accidentels"
+            },
+            {
+                "feature": "Capteur BioActive de Santé",
+                "benefice": "Suivi complet de la fréquence cardiaque, de l'ECG et des phases de sommeil"
+            },
+            {
+                "feature": "Format Compact 40mm & 26.6g",
+                "benefice": "Confort de port remarquable et discrétion parfaite au creux de votre poignet"
+            },
+            {
+                "feature": "Étanchéité IP68 & 5ATM (50m)",
+                "benefice": "Résistance à l'eau adaptée pour la natation et vos séances de sport sous la pluie"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée équilibrée et accessible pour entrer facilement dans l'univers Wear OS avec toutes les fonctions essentielles.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch FE à Abidjan | My-eStore",
+            "meta_description": "Achetez la Samsung Galaxy Watch FE à Abidjan chez My-eStore. Écran Super AMOLED Sapphire, capteur BioActive, 16 Go, format compact et livraison rapide.",
+            "focus_keyword": "Samsung Galaxy Watch FE",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch FE",
+                "Galaxy Watch FE Abidjan",
+                "prix Galaxy Watch FE",
+                "montre connectée Samsung pas cher"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Galaxy Watch FE : Format Compact & Verre Saphir | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch FE sur My-eStore. Écran Super AMOLED en cristal de saphir, capteur de santé BioActive, boîtier léger et étanchéité 5ATM.",
+            "focus_keyword": "Samsung Galaxy Watch FE",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch FE",
+                "Galaxy Watch FE 16Go",
+                "Galaxy Watch FE Abidjan",
+                "montre Samsung saphir légère"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch FE : Format Compact, Verre Saphir et Suivi Santé",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch FE rend l'expérience connectée accessible à tous. Son écran Super AMOLED lumineux est protégé par un verre saphir inrayable. De plus, son processeur double cœur assure une navigation fluide à travers vos notifications. Le boîtier en aluminium allégé offre une prise en main très agréable sur le poignet. Enfin, sa batterie de 247 mAh garantit une disponibilité continue pour vos journées actives.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch FE",
+            "items": [
+                {
+                    "feature": "Dalle Super AMOLED en Cristal de Saphir",
+                    "benefice": "Affichage net et protection efficace face aux frottements du quotidien"
+                },
+                {
+                    "feature": "Capteur BioActive Éprouvé",
+                    "benefice": "Mesure de la fréquence cardiaque, de l'ECG et suivi régulier du sommeil"
+                },
+                {
+                    "feature": "Poids Plume de 26.6 Grammes",
+                    "benefice": "Port léger et confortable sans sensation de lourdeur au fil des heures"
+                },
+                {
+                    "feature": "Étanchéité Certifiée 5ATM et IP68",
+                    "benefice": "Résistance à l'immersion jusqu'à 50 mètres pour vos séances aquatiques"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Design Léger et Protection en Cristal de Saphir",
+                "paragraphs": [
+                    "D'un côté, le format de quarante millimètres convient particulièrement aux poignets fins à la recherche de confort. Le verre saphir résistant protège la dalle contre les rayures causées par les frottements courants. La technologie Super AMOLED procure des couleurs vives pour une lecture agréable de toutes vos alertes. Par ailleurs, les bracelets à système d'attache rapide se remplacent facilement selon vos envies vestimentaires. Le boîtier épuré en aluminium ne pèse que vingt-six grammes pour une discrétion appréciable. Vous profitez ainsi d'un accessoire pratique et élégant pour vos activités de tous les jours.",
+                    "D'un autre côté, la certification cinq ATM autorise le port de la montre lors de vos entraînements de natation. La conformité aux standards de robustesse assure une tenue stable face aux secousses involontaires. Les bordures sobres maximisent la clarté des informations affichées à chaque coup d'œil. En outre, la sensibilité de la dalle tactile garantit une réponse immédiate pour choisir vos cadrans favoris. Les teintes raffinées s'associent facilement avec tous vos accessoires du quotidien. Cette montre rassemble légèreté ergonomique et résistance matérielle à un tarif attractif."
+                ]
+            },
+            {
+                "h2_title": "Suivi de Santé Complet et Analyse du Sommeil",
+                "paragraphs": [
+                    "Tout d'abord, le capteur BioActive surveille votre rythme cardiaque et vous alerte en cas d'anomalie détectée. La fonction d'électrocardiogramme enregistre les pulsations pour vous aider à suivre votre santé cardiovasculaire. Le programme de suivi du sommeil analyse vos phases nocturnes pour vous aider à optimiser vos nuits. De surcroît, la reconnaissance automatique d'exercice enregistre vos marches et courses sans réglage complexe. Les rapports d'activité réguliers vous encouragent à maintenir une routine physique équilibrée. Vous progressez sereinement dans vos objectifs sportifs grâce à des repères précis.",
+                    "Dans cette optique, le système GPS intégré trace vos déplacements extérieurs avec une fidélité cartographique appréciable. La montre enregistre vos cadences moyennes, vos distances franchies et l'estimation de vos calories brûlées. La mesure du niveau de stress propose des exercices de relaxation respiratoire pour retrouver votre calme. Également, l'analyse de composition corporelle vous donne des indications sur votre structure musculaire. Toutes vos données s'exportent automatiquement vers votre téléphone pour un archivage pratique. Cet équipement constitue une solution simple pour surveiller votre équilibre corporel."
+                ]
+            },
+            {
+                "h2_title": "Fluidité Wear OS et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, la puce gravée en 5nm exécute vos applications habituelles avec une réactivité appréciable. La mémoire vive de un virgule cinq gigaoctet permet de passer rapidement d'un widget à l'autre. L'espace de stockage de seize gigaoctets accueille vos titres musicaux favoris pour des sessions d'exercice légères. De même, la synchronisation sans fil maintient vos alertes de messages et d'appels constamment à jour. Le moteur de vibration discret vous avertit de chaque notification importante sans sonnerie gênante. Vous gérez vos priorités directement depuis votre poignet avec une simplicité totale.",
+                    "Enfin, l'accumulateur de 247 mAh délivre l'énergie requise pour franchir l'ensemble de votre journée sans souci. Le mode d'économie d'énergie préserve la fonction horaire essentielle lors des journées de voyage chargées. Le galet de charge magnétique rétablit promptement la batterie lors d'une courte pause de travail. Par conséquent, vous pratiquez vos activités habituelles en conservant une totale autonomie d'esprit. Les finitions durables ont été conçues pour résister à l'épreuve du temps. La Galaxy Watch FE constitue un choix judicieux associant fonctionnalités pratiques et tarif maîtrisé."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch FE",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Watch FE."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "40.4 x 39.3 x 9.8 mm (40mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.027 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Saphir, Boîtier en Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 5ATM (50 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "1.2\" (30.4 mm), 396 x 396 pixels, 330 ppi"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir haute résistance"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W920 (5nm) Dual-Core 1.18 GHz"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "1.5 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "16 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS powered by Samsung avec One UI Watch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Santé",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive (Fréquence cardiaque optique, ECG, Bioimpédance)"
+                        },
+                        {
+                            "label": "Capteurs Mouvement",
+                            "valeur": "Accéléromètre, Gyroscope, Baromètre, Capteur géomagnétique"
+                        },
+                        {
+                            "label": "Suivi Corporel",
+                            "valeur": "Composition corporelle, Suivi du sommeil, Mesure du stress"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "247 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge sans fil magnétique WPC"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 30 heures en utilisation standard"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.0, Wi-Fi 2.4/5GHz, NFC, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "Audio & Micro",
+                            "valeur": "Haut-parleur intégré et microphone pour notifications et appels"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 11.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch-fe/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+FE"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+FE+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "1.5 Go",
+            "storage": "16 Go",
+            "price": "145000",
+            "sku_suffix": "1.5-GB-16-GB-NOIR"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "1.5 Go",
+            "storage": "16 Go",
+            "price": "145000",
+            "sku_suffix": "1.5-GB-16-GB-OR-ROSE"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "1.5 Go",
+            "storage": "16 Go",
+            "price": "145000",
+            "sku_suffix": "1.5-GB-16-GB-ARGENT"
+        }
+    ]
+}

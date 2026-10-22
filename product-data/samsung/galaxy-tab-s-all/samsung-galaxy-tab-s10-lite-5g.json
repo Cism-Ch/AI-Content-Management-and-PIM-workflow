@@ -1,0 +1,400 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-s-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab S10 Lite conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab S Series",
+        "commercial_name": "Samsung Galaxy Tab S10 Lite 5G",
+        "category": "tablet",
+        "sub_category": "tablet-lite",
+        "release_year": 2025,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-S10-LITE-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-S10-LITE-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-s10-lite/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+Lite"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+Lite+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab S10 Lite 10.9 pouces Exynos 1380 8000mAh S Pen 5G"
+    },
+    "key_specifications": {
+        "processor": "Samsung Exynos 1380 Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 6 Go",
+        "audio_config": "2 Haut-parleurs stéréo AKG",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "8000 mAh",
+        "charging_wired": "Charge Rapide 25W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM + eSIM / Slot MicroSD jusqu'à 1.5 To",
+        "weight": "0.485 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-S10-LITE-5G",
+        "Name": "Samsung Galaxy Tab S10 Lite - Écran 10.9\" - (6 Go|8 Go & 128 Go|256 Go) - S Pen - 8000mAh 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "295000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab S Series",
+        "Tags": "Samsung, Galaxy Tab S10 Lite 5G, Galaxy Tab S Series, Tablette, Tablette Android, 5G, 8000mAh, Exynos 1380, S-Pen, Galaxy Tab S10 Lite, Écran 10.9 Pouces, S Pen, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Rouge",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.485 kg",
+        "Attribute 4 default": "0.485 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, 4G, Wi-Fi 6, Bluetooth 5.3, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Essentiel de la Productivité Tactile avec Écran 10.9 Pouces, Stylet S Pen et 5G.",
+        "teaser": "Découvrez la Samsung Galaxy Tab S10 Lite 5G avec sa dalle lumineuse de 10.9 pouces, son stylet S Pen ergonomique inclus, sa puce Exynos 1380 et sa batterie longue autonomie de 8000 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Confortable 10.9\" 90Hz",
+                "benefice": "Excellente lisibilité pour vos manuels de cours, documents PDF et streaming"
+            },
+            {
+                "feature": "Stylet S Pen Inclus sans Frais",
+                "benefice": "Prise de notes cursive naturelle et schématisation sans accessoire supplémentaire"
+            },
+            {
+                "feature": "Puce Exynos 1380 & 5G Rapide",
+                "benefice": "Fluidité de navigation et téléchargement instantané de vos fichiers scolaires"
+            },
+            {
+                "feature": "Batterie 8000 mAh & Charge 25W",
+                "benefice": "Autonomie sécurisante pour couvrir toute votre journée d'étude sans recharge"
+            }
+        ],
+        "marketing_conclusion": "La tablette étudiante accessible combinant stylet S Pen, grande autonomie et connectivité 5G nomade.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab S10 Lite à Abidjan | My-eStore",
+            "meta_description": "Commandez la tablette Samsung Galaxy Tab S10 Lite 5G à Abidjan sur My-eStore. Écran 10.9\", S Pen inclus, Exynos 1380, 8000 mAh, livraison rapide.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab S10 Lite",
+                "Galaxy Tab S10 Lite Abidjan",
+                "Galaxy Tab S10 Lite prix",
+                "Tablette tactile Samsung pas cher"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab S10 Lite : Écran 10.9\", S Pen et Batterie 8000 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab S10 Lite 5G : Écran 10.9\" & S Pen | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab S10 Lite 5G sur My-eStore. Écran 10.9\", processeur Exynos 1380, S Pen inclus, batterie 8000 mAh et connectivité 5G.",
+            "focus_keyword": "Samsung Galaxy Tab S10 Lite",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab S10 Lite Abidjan",
+                "prix Samsung Galaxy Tab S10 Lite",
+                "fiche technique Tab S10 Lite",
+                "tablette 10 pouces Samsung",
+                "Galaxy Tab S10 Lite 128Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab S10 Lite",
+            "items": [
+                {
+                    "feature": "Dalle 10.9\" 90Hz Lumineuse",
+                    "benefice": "Confort visuel adapté aux longues sessions d'étude et de lecture"
+                },
+                {
+                    "feature": "Stylet S Pen Ergonomique Inclus",
+                    "benefice": "Écriture manuscrite fluide et dessin avec une excellente réactivité"
+                },
+                {
+                    "feature": "Puce Exynos 1380 & Connectivité 5G",
+                    "benefice": "Exécution fluide de vos logiciels éducatifs et connexions stables"
+                },
+                {
+                    "feature": "Batterie 8000 mAh & Charge 25W",
+                    "benefice": "Autonomie robuste pour vous accompagner tout au long de vos cours"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab S10 Lite met l'accent sur la simplicité d'apprentissage au quotidien. Cette dalle lumineuse délivre un confort visuel reposant pour lire vos cours. De plus, son processeur Exynos 1380 assure une navigation réactive à travers vos diverses applications scolaires. Le châssis métallique épuré protège les composants avec une solidité bienvenue. Enfin, son autonomie endurante vous permet de travailler tout au long de la journée sans interruption.",
+        "sections": [
+            {
+                "h2_title": "Écran Lumineux 10.9 Pouces et Boîtier Métallique",
+                "paragraphs": [
+                    "D'un côté, l'écran de dix virgule neuf pouces offre une lisibilité idéale pour parcourir des manuels électroniques. Les couleurs équilibrées de la dalle améliorent la clarté des schémas techniques et des textes longs. Les bordures sobres maximisent la zone d'affichage utile tout en garantissant une prise en main stable. Par ailleurs, le traitement anti-reflet permet de travailler sereinement près d'une fenêtre éclairée. Le format fin de six millimètres se range facilement dans votre cartable sans surcharge inutile. Vous profitez ainsi d'un écran agréable pour vos révisions comme pour vos moments de détente.",
+                    "D'un autre côté, le boîtier métallique rigide préserve l'appareil face aux frottements réguliers dans un sac à dos. La finition soignée apporte une touche de modernité qui s'adapte à tous les environnements scolaires. Les boutons latéraux procurent un retour tactile net pour ajuster le volume rapidement. En outre, la sensibilité de l'écran tactile réagit avec promptitude à chaque contact du doigt ou du stylet. Les haut-parleurs stéréo diffusent des voix limpides pour suivre vos cours en direct sans casque. Ce modèle rassemble robustesse matérielle et simplicité d'usage pour vos besoins quotidiens."
+                ]
+            },
+            {
+                "h2_title": "Stylet S Pen Inclus et Gestion des Notes de Cours",
+                "paragraphs": [
+                    "Tout d'abord, le stylet S Pen se fixe magnétiquement sur la tranche pour être prêt à chaque cours. Sa pointe réactive permet de dessiner des graphiques et de prendre des notes avec une grande fluidité. L'application Samsung Notes classe automatiquement vos fichiers par thèmes pour vous faire gagner un temps précieux. De surcroît, le mode double fenêtre permet de consulter un exercice tout en rédigeant sa solution. Les outils de conversion numérique retranscrivent vos écrits manuscrits en caractères d'imprimerie pour un rendu soigné. Vous améliorez votre organisation scolaire avec une méthode moderne et intuitive.",
+                    "Dans cette optique, la caméra avant vous place clairement au centre lors des séances de révision à distance. Le microphone intégré capte votre voix distinctement pour des interventions orales audibles et compréhensibles. La compatibilité avec les claviers externes transforme la tablette en petit poste de saisie pour rédiger vos dissertations. Également, le partage direct envoie vos fiches vers votre smartphone en quelques secondes seulement. Toutes vos notes de travail restent sécurisées sur vos espaces personnels sans manipulation fastidieuse. Cet équipement pédagogique simplifie l'ensemble de votre parcours scolaire."
+                ]
+            },
+            {
+                "h2_title": "Puce Exynos Efficace et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, la puce Exynos 1380 gère avec équilibre les applications bureautiques et la navigation web sans temps mort. La mémoire vive allant jusqu'à huit gigaoctets soutient une transition fluide entre vos différents devoirs scolaires. L'espace de stockage généreux accueille l'ensemble de vos cours sans craindre de manquer de place rapidement. De même, la connectivité 5G autorise le téléchargement instantané de manuels lourds lors de vos trajets urbains. Le déverrouillage sécurisé protège vos révisions contre tout accès non sollicité. Vous travaillez en toute confiance où que vous soyez.",
+                    "Enfin, l'accumulateur de 8000 mAh garantit une autonomie continue pour surmonter une journée entière de travail scolaire. Le protocole de charge rapide 25 watts rétablit rapidement un niveau d'énergie adéquat en cas de besoin. La gestion logicielle équilibre la consommation selon vos besoins réels pour préserver l'autonomie restante. Par conséquent, vous suivez vos cours sans chercher constamment une prise murale libre. Les finitions ont été choisies pour résister à une utilisation quotidienne prolongée. La Galaxy Tab S10 Lite est un choix pertinent pour réussir vos études avec régularité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab S10 Lite",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab S10 Lite</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "254.3 x 165.8 x 6.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.485 kg (485 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre trempé, Dos et Cadre en Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP42 (résistance aux éclaboussures légères et à la poussière)"
+                        },
+                        {
+                            "label": "Accessoire Inclus",
+                            "valeur": "Stylet S Pen sans batterie inclus"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "10.9 pouces (27.69 cm), 2304 x 1440 pixels (WUXGA+), 249 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre trempé haute résistance"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 1380 (5nm) Octa-Core (4x2.4 GHz & 4x2.0 GHz)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 1.5 To"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec interface One UI 7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "8 MP, Autofocus, Flash LED, Enregistrement Vidéo 1080p"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "5 MP, Enregistrement Vidéo HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "2 Haut-parleurs stéréo calibrés AKG, Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "8000 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Rapide",
+                            "valeur": "Charge filaire rapide 25W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 14 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Emplacement Nano-SIM + support eSIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 6 (802.11ax), Bluetooth 5.3, GPS, Galileo, Glonass"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB-C 2.0 (compatible Samsung DeX), Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-s10-lite/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+Lite"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+Lite+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "295000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "295000",
+            "sku_suffix": "6-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "8-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coral Red",
+            "color_code": "ROUGE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "295000",
+            "sku_suffix": "6-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coral Red",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "8-GB-256-GB-ROUGE"
+        }
+    ]
+}

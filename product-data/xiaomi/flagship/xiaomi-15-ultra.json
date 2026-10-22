@@ -1,0 +1,408 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 15 Ultra conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 15 Ultra",
+        "category": "smartphone",
+        "sub_category": "ultimate-camera-flagship",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-15-ULTRA",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-15-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-15-ultra/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+15+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+15+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone d'exception Xiaomi 15 Ultra doté d'un capteur principal 1 pouce Sony LYT-900, d'un téléobjectif périscopique 200MP Leica, processeur Snapdragon 8 Elite et batterie 5410 mAh."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5410 mAh",
+        "charging_wired": "Charge turbo 90W HyperCharge",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM ou SIM + eSIM)",
+        "weight": "0.226 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-15-ULTRA",
+        "Name": "Xiaomi 15 Ultra - Dual SIM - Écran 6.73\" 120Hz - (16 Go & 512 Go|1 To) - 5410 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "720000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 15 Ultra, Xiaomi Series, Smartphone, Android, 5G, Écran WQHD+, Optiques Leica, 5410mAh, Charge 90W, Snapdragon 8 Elite, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Blanc | Noir | Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go | 1 To",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.226 kg",
+        "Attribute 4 default": "0.226 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "720000",
+            "sku_suffix": "16-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "720000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "720000",
+            "sku_suffix": "16-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "790000",
+            "sku_suffix": "16-GB-1-TB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "790000",
+            "sku_suffix": "16-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "790000",
+            "sku_suffix": "16-GB-1-TB-ARGENT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "L'Apex Photographique avec Capteur 1 Pouce, Périscope 200MP Leica et Snapdragon 8 Elite.",
+        "teaser": "Le smartphone d'élite photographique Xiaomi 15 Ultra combine le processeur Snapdragon 8 Elite 3nm au capteur principal 1 pouce Sony LYT-900. Doté d'un périscope Leica de 200MP et d'une batterie silicium de 5410 mAh avec charge 90W, il repousse les frontières visuelles.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur 1\" Sony LYT-900 Leica",
+                "benefice": "Diaphragme mécanique réglable en continu garantissant une gestion optique incomparable de la lumière"
+            },
+            {
+                "feature": "Téléobjectif Périscope 200MP Leica",
+                "benefice": "Capteur géant haute résolution capturant des détails lointains avec une netteté de texture inédite"
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite 3nm",
+                "benefice": "Puissance de calcul démesurée accélérée par le moteur Xiaomi AISP 2.0 pour les flux vidéo 8K"
+            },
+            {
+                "feature": "Batterie Silicium-Carbone 5410 mAh",
+                "benefice": "Autonomie record dédiée aux tournages intensifs avec charge filaire 90W et sans fil 80W"
+            }
+        ],
+        "marketing_conclusion": "Le fleuron de référence de la photographie mobile professionnelle réunissant les technologies optiques les plus avancées.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 15 Ultra (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi 15 Ultra à Abidjan chez My-eStore. Capteur 1\" Leica, périscope 200MP, Snapdragon 8 Elite et batterie 5410 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 15 Ultra 512 Go : Périscope 200MP & 1\" Leica | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 15 Ultra chez My-eStore. Capteur 1 pouce LYT-900, téléobjectif périscope 200MP Leica, Snapdragon 8 Elite et écran WQHD+ à Abidjan.",
+            "focus_keyword": "Xiaomi 15 Ultra",
+            "lsi_keywords": [
+                "Xiaomi 15 Ultra Abidjan",
+                "photophone Xiaomi 200MP",
+                "prix Xiaomi 15 Ultra Côte d'Ivoire",
+                "Xiaomi 15 Ultra Snapdragon 8 Elite",
+                "Xiaomi 15 Ultra fiche technique"
+            ]
+        },
+        "h1": "Xiaomi 15 Ultra : Capteur 1\" LYT-900, Périscope 200MP Leica et Snapdragon 8 Elite",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 15 Ultra",
+            "items": [
+                {
+                    "feature": "Capteur 1\" Sony LYT-900",
+                    "benefice": "Ouverture variable continue procurant un contrôle précis de l'exposition et de la profondeur de champ"
+                },
+                {
+                    "feature": "Périscope 200MP Leica",
+                    "benefice": "Capteur ultra-haute résolution garantissant des agrandissements nets sans pixellisation visible"
+                },
+                {
+                    "feature": "Écran AMOLED WQHD+ LTPO",
+                    "benefice": "Dalle 6.73 pouces 120Hz affichant des contrastes infinis et une colorimétrie de studio"
+                },
+                {
+                    "feature": "Batterie Silicium 5410 mAh",
+                    "benefice": "Autonomie étendue permettant de filmer en haute cadence tout au long de vos sessions"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi 15 Ultra s'affirme comme une référence absolue d'ingénierie photographique contemporaine. Sa dalle AMOLED WQHD+ de 6.73 pouces restitue des détails précis avec un contraste infini saisissant. De plus, la fréquence adaptative de 120Hz assure une aisance tactile remarquable lors de chaque interaction. Le processeur Snapdragon 8 Elite accélère le calcul des flux vidéo volumineux sans le moindre ralentissement. Enfin, sa batterie silicium-carbone de 5410 mAh rechargeable à 90W sécurise l'intégralité de vos sessions créatives.",
+        "sections": [
+            {
+                "h2_title": "Un Écran WQHD+ aux Nuances Calibrées et Protection Renforcée",
+                "paragraphs": [
+                    "Le panneau AMOLED de 6.73 pouces du Xiaomi 15 Ultra garantit une fidélité chromatique irréprochable. En outre, la résolution WQHD+ cisèle les contours avec une exactitude remarquable lors du visionnage d'images. Les bordures délicatement incurvées favorisent une ergonomie agréable lors de vos retouches photo prolongées. La fréquence dynamique de 1 à 120Hz adapte la vitesse de défilement selon votre contenu actif. Par ailleurs, la luminosité montant à 3200 nits maintient une clarté optimale en plein soleil zénithal. Le système anti-scintillement avancé protège la vue des utilisateurs lors des consultations de nuit.",
+                    "D'autre part, le verre protecteur Dragon Crystal Glass préserve la façade avant contre les chocs accidentels. La prise en charge des protocoles Dolby Vision et HDR10+ valorise les scènes cinématographiques les plus exigeantes. Le calibrage colorimétrique individuel restitue fidèlement chaque nuance selon les standards de post-production audiovisuelle. Ainsi, vous ajustez vos vidéos et photographies avec une précision optique totalement conforme à la réalité. La sensibilité tactile immédiate garantit une manipulation ultra-précise des curseurs de réglage numérique. Cet écran prestigieux offre une fenêtre d'affichage optimale pour les créateurs de contenus visuels professionnels."
+                ]
+            },
+            {
+                "h2_title": "Optique Périscopique 200MP Leica et Capteur Principal 1 Pouce LYT-900",
+                "paragraphs": [
+                    "Tout d'abord, le capteur principal Sony LYT-900 de 1 pouce capte une lumière abondante dans l'obscurité. L'ouverture mécanique ajustable de f/1.63 à f/4.0 module naturellement la profondeur de champ optique. Le téléobjectif périscopique de 200 mégapixels saisit des sujets distants avec un piqué photographique saisissant. De surcroît, le capteur ultra grand-angle permet de cadrer de larges panoramas sans distorsion périphérique. Les modes de prise Leica Authentique et Vibrant confèrent une atmosphère artistique reconnue à chaque cliché. L'enregistrement vidéo en 8K préserve la netteté des séquences professionnelles tournées en conditions réelles.",
+                    "De ce fait, la plateforme Snapdragon 8 Elite traite les données volumineuses avec une vélocité impressionnante. La mémoire vive de 16 Go autorise un flux multitâche continu entre les logiciels de montage. Le moteur algorithmique Xiaomi AISP 2.0 optimise le traitement numérique des images en temps réel. Également, la dissipation thermique par chambre à vapeur évacue rapidement la chaleur durant les enregistrements longs. Le profil Ultra RAW 16 bits accorde une liberté totale pour la retouche colorimétrique sur ordinateur. Cette synergie technique procure des capacités de studio professionnel dans un format téléphonique ergonomique."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Confortable de 5410 mAh et Châssis Monobloc IP68",
+                "paragraphs": [
+                    "D'abord, la batterie silicium-carbone de 5410 mAh fournit une réserve énergétique étendue pour vos journées chargées. La gestion logicielle intelligente restreint les consommations lorsque l'appareil demeure posé en veille prolongée. La technologie filaire HyperCharge 90W permet de restaurer la totalité de l'autonomie en une trentaine de minutes. De même, la charge par induction rapide à 80W apporte un confort quotidien très appréciable au bureau. Le système de protection Xiaomi Surge préserve durablement l'intégrité chimique des cellules face à la chaleur. Vous conservez ainsi une disponibilité absolue pour réaliser vos tournages sans redouter l'épuisement de batterie.",
+                    "Enfin, le châssis en alliage métallique haute résistance assure une rigidité structurelle exemplaire face aux chocs. La certification officielle IP68 garantit une étanchéité totale contre la poussière et les immersions dans l'eau. Le dos texturé procure une tenue en main sécurisante et agréable lors des prises de vue horizontales. Par conséquent, la connectivité 5G et le Wi-Fi 7 assurent des vitesses de transfert ultrarapides en déplacement. Les haut-parleurs stéréo certifiés Dolby Atmos délivrent une acoustique spatiale précise pour contrôler vos bandes audio. Le Xiaomi 15 Ultra représente le sommet photographique absolu pour les créateurs exigeants à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 15 Ultra - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.3 x 75.3 x 9.35 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "226 g (0.226 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en alliage d'aluminium renforcé, dos en cuir végétalien ou céramique technique, verre avant Xiaomi Dragon Crystal Glass"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Blanc (White), Noir (Black), Argent (Silver)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "LTPO AMOLED 120Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.73 pouces (ratio écran-corps ~89.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "WQHD+ (3200 x 1440 pixels), 522 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "1 à 120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (typique), 3200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm, Octa-core jusqu'à 4.32 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go ou 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Quadruple optique Leica : principal 50 MP Sony LYT-900 1\" (f/1.63-f/4.0 variable, OIS) + téléobjectif périscopique 200 MP (100mm, f/2.6, OIS) + téléobjectif 50 MP (75mm, f/1.8, OIS) + ultra grand-angle 50 MP (12mm, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, enregistrement 4K@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo doubles, Dolby Atmos, réseau 4 micros studio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5410 mAh non amovible technologie silicium-carbone"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 90W HyperCharge + charge sans fil 80W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 (DisplayPort, OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-15-ultra/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+15+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+15+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

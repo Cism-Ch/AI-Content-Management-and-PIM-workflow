@@ -1,0 +1,394 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "honor-choice-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Honor Choice T10 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Honor",
+        "product_line": "HONOR Choice Serie",
+        "commercial_name": "Honor Choice T10",
+        "category": "smartphone",
+        "sub_category": "entry-level",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HONOR-CHOICE-T10-4G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HONOR-CHOICE-T10-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Honor Official Store",
+                "url": "https://www.honor.com/mea/honor-choice/t10/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Honor+Choice+T10"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Honor+Choice+T10+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Honor Choice T10 6.75\" 90Hz Unisoc T615 50MP 5000mAh 4G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "HONOR-CHOICE-T10-4G",
+        "Name": "Honor Choice T10 - 6.75\" 90Hz - (3 Go|4 Go & 32 Go|64 Go|128 Go) - 50MP - 5000mAh - 4G - Dual SIM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "45000",
+        "Categories": "Smartphones > Honor > Choice Series",
+        "Tags": "Honor, Choice T10, HONOR Choice Serie, Smartphone, Android, 4G, Écran 90Hz, 50MP, 5000mAh, Unisoc T615, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go, 64 Go, 128 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "3 Go, 4 Go",
+        "Attribute 3 default": "3 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.192 kg",
+        "Attribute 4 default": "0.192 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Affichage Fluide 90Hz avec Capteur 50MP et Batterie 5000mAh.",
+        "teaser": "Découvrez le smartphone Honor Choice T10 doté d'un grand écran 90Hz de 6.75 pouces, d'un capteur 50MP et d'une batterie de 5000 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Grand Écran 6.75\" Fluide 90Hz",
+                "benefice": "Confort visuel appréciable et défilement fluide pour toutes vos applications"
+            },
+            {
+                "feature": "Capteur Photo 50MP Haute Définition",
+                "benefice": "Prises de vue précises et clichés équilibrés au quotidien"
+            },
+            {
+                "feature": "Batterie Longue Durée 5000 mAh",
+                "benefice": "Autonomie sécurisante pour couvrir sereinement vos journées d'utilisation"
+            },
+            {
+                "feature": "Processeur Octa-Core Unisoc T615",
+                "benefice": "Réactivité constante lors de vos navigations web et échanges mobiles"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 4G polyvalent et accessible combinant grand écran fluide et autonomie sécurisante.",
+        "trust_badges": [
+            "Garantie Officielle Honor",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Honor Choice T10 (3Go/32Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Honor Choice T10 au meilleur prix à Abidjan sur My-eStore. Écran 6.75\" 90Hz, capteur 50MP, batterie 5000mAh et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Honor Choice T10 32Go : Écran 90Hz & 5000mAh | My-eStore",
+            "meta_description": "Découvrez le Honor Choice T10 sur My-eStore. Écran fluide 6.75 pouces 90Hz, capteur 50MP, batterie 5000 mAh, puce Unisoc T615 et double SIM 4G fiable.",
+            "focus_keyword": "Honor Choice T10",
+            "lsi_keywords": [
+                "Honor Choice T10 Abidjan",
+                "prix Honor Choice T10",
+                "fiche technique Honor Choice T10",
+                "smartphone Honor pas cher",
+                "Honor T10 4G"
+            ]
+        },
+        "h1": "Honor Choice T10 : Écran 6.75\" 90Hz, Capteur 50MP et Batterie 5000mAh",
+        "intro_paragraph": "En premier lieu, le Honor Choice T10 propose une prise en main très intuitive pour l'ensemble des tâches courantes. Sa dalle soignée de 6.75 pouces assure une bonne visibilité lors de la lecture de vos messages. De plus, son processeur octa-core Unisoc T615 répond avec régularité pour vos applications de communication habituelles. Le design moderne aux lignes épurées se glisse aisément dans une poche de veste. Enfin, son accumulateur de 5000 mAh garantit une disponibilité prolongée pour vos communications nomades.",
+        "experience_box": {
+            "box_title": "Points Clés du Honor Choice T10",
+            "items": [
+                {
+                    "feature": "Écran 6.75\" 90Hz Fluide",
+                    "benefice": "Défilement confortable de vos pages web et flux d'actualités"
+                },
+                {
+                    "feature": "Appareil Photo 50MP",
+                    "benefice": "Clichés nets et détaillés pour immortaliser vos moments importants"
+                },
+                {
+                    "feature": "Batterie 5000 mAh Fiable",
+                    "benefice": "Tranquillité d'esprit pour téléphoner sans crainte de décharge subite"
+                },
+                {
+                    "feature": "Connectivité Double SIM 4G",
+                    "benefice": "Gestion simplifiée de vos deux lignes personnelles et professionnelles"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Confortable 90Hz et Conception Ergonomique",
+                "paragraphs": [
+                    "D'un côté, l'écran de 6.75 pouces délivre un espace d'affichage spacieux pour parcourir vos contenus multimédias quotidiens. La fréquence de rafraîchissement de 90 Hz apporte une fluidité constante lors de la navigation tactile. Le traitement anti-reflet améliore le confort oculaire lors d'une utilisation prolongée en intérieur. Par ailleurs, la luminosité s'ajuste harmonieusement selon les conditions lumineuses de votre environnement immédiat. Les bordures affinées optimisent le rapport surface pour un visionnage très reposant. Vous profitez ainsi d'un appareil équilibré et agréable pour consulter vos documents habituels.",
+                    "D'un autre côté, le boîtier présente une finition satinée qui limite les traces de doigts au dos. Cette conception sobre s'intègre naturellement dans votre univers professionnel ou familial. La prise en main demeure stable grâce à une épaisseur contenue sous les neuf millimètres. En outre, le capteur d'empreintes digital positionné sur le côté autorise un déverrouillage immédiat et intuitif. Les matériaux sélectionnés absorbent convenablement les manipulations répétées de la semaine. Ce smartphone allie simplicité esthétique et solidité pratique au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Performances Pratiques et Gestion Énergétique 5000 mAh",
+                "paragraphs": [
+                    "Tout d'abord, la puce Unisoc T615 organise l'exécution des fonctions système avec une consommation énergétique modérée. La mémoire vive garantit un passage correct entre vos logiciels de messagerie instantanée. Le stockage interne accueille vos nombreuses photos ainsi que vos documents sans saturation rapide. De surcroît, le circuit électronique dissipe efficacement la chaleur lors des sessions prolongées d'appel. La surcouche logicielle intuitive simplifie l'accès à vos contacts et outils préférés. Vous accomplissez vos démarches courantes avec une aisance très appréciable.",
+                    "Dans cette optique, la batterie de 5000 mAh assure une couverture énergétique complète sur plus d'une journée. La gestion adaptative de l'énergie réduit la dépense électrique en mode veille prolongée. Le port USB Type-C standardise le rechargement auprès de vos chargeurs existants. Également, la connectivité 4G LTE procure une connexion stable pour vos flux d'échanges professionnels. Le tiroir double SIM permet de concilier facilement vos deux numéros mobiles distincts. Cet équipement constitue une réponse efficace à vos besoins de liaison continue."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50MP et Polyvalence Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photo principal de 50 mégapixels capte des images détaillées en pleine clarté extérieure. La mise au point automatique verrouille rapidement les sujets en mouvement pour éviter les flous. L'objectif dédié à la profondeur assiste le rendu des portraits avec un détachement naturel. De même, la caméra avant facilite la tenue de vos visioconférences avec une restitution claire. Les réglages automatiques dosent l'exposition pour restituer des couleurs conformes à la réalité. Vous capturez facilement des souvenirs nets à transmettre à vos collègues.",
+                    "En conséquence, la robustesse globale certifiée IP52 préserve l'intérieur contre les dépôts de poussière et projections. La compatibilité audio assure une écoute téléphonique nette lors de vos communications en zone urbaine. Cette harmonie technique répond parfaitement aux attentes des utilisateurs cherchant un téléphone fiable. Par conséquent, vous disposez d'un outil mobile résistant sans engager de dépenses superflues. Les finitions soignées témoignent d'une fabrication sérieuse respectant les exigences de la marque. Ce produit représente un choix rationnel combinant autonomie solide et praticité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Honor Choice T10",
+                "subtitle": "Spécifications matérielles complètes du Honor Choice T10."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.8 x 78.4 x 8.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.192 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, châssis et dos en polymère renforcé"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP52 (Résistance à la poussière et aux gouttes d'eau)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes digitales latéral, reconnaissance faciale"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.75\" LCD, 90Hz"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "HD+ (720 x 1600 pixels), ~260 ppi"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz adaptatif"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Unisoc Tiger T615 (12 nm) Octa-Core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "3 Go / 4 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "32 Go / 64 Go / 128 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "MicroSD jusqu'à 512 Go (slot dédié)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, (grand-angle), PDAF"
+                        },
+                        {
+                            "label": "Capteur Secondaire",
+                            "valeur": "2 MP, f/2.4 (profondeur)"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "5 MP, f/2.2"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "1080p à 30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur, prise casque jack 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "5000 mAh (Li-Po, non amovible)"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "Charge 10W standard"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0, A2DP, LE"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14 (Go edition ou MagicOS)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Honor Official Store",
+                        "url": "https://www.honor.com/mea/honor-choice/t10/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Honor+Choice+T10"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Honor+Choice+T10+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "3 Go",
+            "storage": "32 Go",
+            "price": "45000",
+            "sku_suffix": "3-GB-32-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "55000",
+            "sku_suffix": "4-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "3 Go",
+            "storage": "32 Go",
+            "price": "45000",
+            "sku_suffix": "3-GB-32-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "55000",
+            "sku_suffix": "4-GB-64-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "65000",
+            "sku_suffix": "4-GB-128-GB-ARGENT"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch 7",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-7",
+        "price": "215000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch 7 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch 7",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-flagship",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-7",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-7"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch7/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+7"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+7+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch 7 Exynos W1000 3nm Sapphire 2000nits 32Go BioActive GPS L1+L5 IP68 5ATM"
+    },
+    "key_specifications": {
+        "screen_size": "1.5\" / 1.3\"",
+        "screen_type": "Super AMOLED Sapphire",
+        "battery_capacity": "300 mAh / 425 mAh",
+        "charging_wired": "Charge Rapide sans fil WPC",
+        "processor": "Samsung Exynos W1000 (3nm)",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "navigation_gps": "GPS double fréquence (L1+L5)",
+        "audio_config": "Haut-parleur et microphone intégrés",
+        "audio_tech": "Appels Bluetooth & Audio HD",
+        "card_slot": "Non (eSIM / Bluetooth)",
+        "color_options": [
+            "Vert",
+            "Blanc",
+            "Argent"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-7",
+        "Name": "Samsung Galaxy Watch 7 - Super AMOLED Sapphire - (2 Go & 32 Go) - Puce 3nm - IP68 5ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "215000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch 7, Galaxy Watch Series, Montre connectée, Smartwatch, Super AMOLED, Exynos W1000, Galaxy AI, BioActive, Sapphire 2000nits, GPS L1 L5, Wear OS, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Vert, Blanc, Argent",
+        "Attribute 1 default": "Vert",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.034 kg",
+        "Attribute 4 default": "0.034 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Puissance 3nm au Poignet avec Intelligence Galaxy AI et Précision GPS Double Fréquence.",
+        "teaser": "Découvrez la Samsung Galaxy Watch 7 avec son processeur innovant Exynos W1000 gravé en 3nm, son écran saphir de 2000 nits, son GPS double fréquence L1+L5 et ses fonctions de santé Galaxy AI.",
+        "top_features_detailed": [
+            {
+                "feature": "Puce Exynos W1000 3nm & 32 Go",
+                "benefice": "Vitesse d'exécution décuplée et transition instantanée entre vos applications favorites"
+            },
+            {
+                "feature": "GPS Double Fréquence L1 + L5",
+                "benefice": "Précision de localisation métrique pour vos courses en ville et parcours en pleine nature"
+            },
+            {
+                "feature": "Capteur BioActive & Score d'Énergie AI",
+                "benefice": "Évaluation intelligente de votre forme physique et suivi cardiaque en temps réel"
+            },
+            {
+                "feature": "Écran Super AMOLED Sapphire 2000 nits",
+                "benefice": "Lisibilité exceptionnelle sous le soleil et protection inrayable pour votre quotidien"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée de pointe associant puce 3nm ultra-rapide, suivi physiologique avancé et grand confort d'usage.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch 7 à Abidjan | My-eStore",
+            "meta_description": "Achetez la montre connectée Samsung Galaxy Watch 7 à Abidjan chez My-eStore. Puce 3nm Exynos W1000, GPS double fréquence, 32 Go, livraison rapide.",
+            "focus_keyword": "Samsung Galaxy Watch 7",
+            "lsi_keywords": [
+                "Galaxy Watch 7 Abidjan",
+                "prix Galaxy Watch 7",
+                "Samsung Watch 7 32Go",
+                "montre connectée Samsung 3nm"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Watch 7 : Puce 3nm & GPS L1+L5 | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch 7 sur My-eStore. Processeur 3nm Exynos W1000, GPS double fréquence L1+L5, capteur BioActive et fonctions santé IA.",
+            "focus_keyword": "Samsung Galaxy Watch 7",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 7",
+                "Galaxy Watch 7 32Go",
+                "Galaxy Watch 7 Abidjan",
+                "montre Samsung Exynos W1000",
+                "montre GPS double fréquence"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch 7 : Puce 3nm, GPS Double Fréquence et Galaxy AI",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch 7 intègre la puce Exynos W1000 gravée en 3nm. Cette avancée technique procure une réactivité instantanée pour toutes vos applications mobiles. De plus, sa dalle Super AMOLED protégée par un verre saphir offre une clarté remarquable en extérieur. Le boîtier en aluminium renforcé assure une tenue légère et agréable sur votre bras. Enfin, son accumulateur optimisé garantit une disponibilité durable lors de vos journées sportives.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch 7",
+            "items": [
+                {
+                    "feature": "Puce Samsung Exynos W1000 (3nm)",
+                    "benefice": "Traitement ultra-rapide et consommation énergétique hautement optimisée"
+                },
+                {
+                    "feature": "GPS Double Fréquence L1 et L5",
+                    "benefice": "Précision de tracé remarquable même dans les zones urbaines denses"
+                },
+                {
+                    "feature": "Score d'Énergie Personnalisé Galaxy AI",
+                    "benefice": "Analyse intelligente de votre récupération pour planifier votre journée"
+                },
+                {
+                    "feature": "Verre Saphir & Boîtier Aluminium Armor",
+                    "benefice": "Solidité structurelle durable face aux chocs et rayures du quotidien"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Conception Métallique et Affichage Ultra-Lumineux",
+                "paragraphs": [
+                    "D'un côté, le châssis en aluminium Armor allie élégance visuelle et robustesse éprouvée face aux aléas quotidiens. La protection en verre cristal de saphir préserve la netteté de l'écran contre les rayures accidentelles. La luminosité de pointe de 2000 nits autorise une lecture immédiate de vos données sous un soleil ardent. Par ailleurs, la sélection de bracelets interchangeables permet d'adapter la montre à chaque occasion de la vie. La finesse du boîtier assure un port confortable sans créer de point de pression sur le poignet. Vous bénéficiez ainsi d'un accessoire à la fois sobre et résistant pour tous vos déplacements.",
+                    "D'un autre côté, la certification cinq ATM permet d'utiliser l'appareil pour vos séances de natation ou sous la pluie. La conformité aux exigences militaires renforce la structure face aux chutes et aux variations thermiques. Les bordures affinées maximisent la surface d'affichage pour une saisie tactile plus agréable. En outre, la sensibilité de l'écran réagit avec promptitude à chaque commande du bout du doigt. Les finitions soignées mettent en valeur votre style avec une touche de modernité technologique. Ce modèle conjugue légèreté et solidité pour accompagner votre quotidien actif."
+                ]
+            },
+            {
+                "h2_title": "Précision GPS L1+L5 et Analyse de Santé Galaxy AI",
+                "paragraphs": [
+                    "Tout d'abord, le module GPS double fréquence L1 et L5 traverse sans peine les environnements urbains denses. Ce système enregistre vos parcours de running avec une fidélité cartographique d'une grande rigueur. Le capteur BioActive perfectionné surveille votre fréquence cardiaque et vos constantes de santé en temps réel. De surcroît, la fonction Score d'Énergie évalue votre récupération nocturne pour planifier vos efforts quotidiens. Les alertes de rythme cardiaque anormal vous informent immédiatement pour préserver votre équilibre cardiovasculaire. Vous mesurez vos progrès physiques grâce à des données scientifiquement éprouvées.",
+                    "Dans cette optique, les programmes d'entraînement personnalisés adaptent les cadences recommandées selon vos objectifs de course. La montre calcule automatiquement votre allure, vos dénivelés franchis et l'estimation de vos calories dépensées. La surveillance continue de la charge émotionnelle propose des exercices respiratoires pour vous relaxer. Également, l'analyse de composition corporelle vous renseigne sur votre masse musculaire et votre taux d'hydratation. Toutes vos statistiques se synchronisent automatiquement avec votre smartphone pour un suivi régulier. Cet équipement constitue un véritable coach personnel attaché à votre bras."
+                ]
+            },
+            {
+                "h2_title": "Puce 3nm Innovante et Autonomie Maîtrisée",
+                "paragraphs": [
+                    "D'abord, le processeur moderne gravé en 3nm divise les temps de chargement par trois par rapport aux générations précédentes. Les deux gigaoctets de mémoire vive soutiennent le fonctionnement multitâche de vos applications favorites sans ralentissement. L'espace de stockage de trente-deux gigaoctets accueille vos morceaux de musique pour vos séances sans téléphone. De même, la liaison Bluetooth assure une transmission sans coupure vers vos écouteurs sans fil préférés. Les alertes haptiques précises vous avertissent de vos rendez-vous prioritaires en toute discrétion. Vous gérez vos activités quotidiennes directement au poignet avec une fluidité constante.",
+                    "Enfin, l'accumulateur haute efficacité délivre l'énergie indispensable pour couvrir l'ensemble de votre journée active. Le mode d'économie d'énergie intelligent préserve les fonctions essentielles lors de vos déplacements prolongés. Le galet de charge rapide magnétique redonne de l'énergie en un temps limité lors d'une pause. Par conséquent, vous conservez une totale autonomie pour enregistrer vos entraînements sans interruption. La conception interne de premier ordre garantit une excellente tenue des performances dans le temps. La Galaxy Watch 7 s'impose comme une référence combinant vitesse, précision et santé."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch 7",
+                "subtitle": "Spécifications matérielles de la Samsung Galaxy Watch 7."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "40.4 x 40.4 x 9.7 mm (40mm) / 44.4 x 44.4 x 9.7 mm (44mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.034 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Saphir, Boîtier en Aluminium Armor 2.0"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 5ATM (50 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "1.5\" (480 x 480 px, 44mm) / 1.3\" (432 x 432 px, 40mm)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2000 nits (Peak) lisible en plein soleil"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir haute dureté"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W1000 (3nm) Penta-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "32 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS 5 powered by Samsung avec One UI Watch 6"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Fonctions Santé Galaxy AI",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive 13 LED (ECG, BIA, Capteur AGEs)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Score d'Énergie Galaxy AI, Analyse du sommeil"
+                        },
+                        {
+                            "label": "Capteurs Mouvement & GPS",
+                            "valeur": "GPS double fréquence (L1+L5), Accéléromètre, Gyroscope"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "300 mAh (40mm) / 425 mAh (44mm) Li-Ion"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge rapide sans fil magnétique WPC"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 40 heures (Always On désactivé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.3, Wi-Fi 2.4/5GHz dual-band, NFC, GPS L1+L5"
+                        },
+                        {
+                            "label": "Audio & Micro",
+                            "valeur": "Haut-parleur intégré et microphone pour appels mains libres"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 11.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch7/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+7"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+7+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "215000",
+            "sku_suffix": "2-GB-32-GB-VERT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "215000",
+            "sku_suffix": "2-GB-32-GB-BLANC"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "215000",
+            "sku_suffix": "2-GB-32-GB-ARGENT"
+        }
+    ]
+}

@@ -1,0 +1,381 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Active 5",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/active5"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "140000",
+        "official_sku": "BV-ACTIVE-5"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G85 Octa-Core 2.0 GHz",
+        "processor_ghz": "2.0 GHz Octa-Core",
+        "screen_size": "8\"",
+        "screen_technology": "IPS HD+ Verre Corning Gorilla Glass 5",
+        "screen_resolution": "HD+ 800 x 1280 pixels",
+        "battery_capacity": "8800 mAh",
+        "ram_options": [
+            "6 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Jusqu'à 12 Go",
+        "os": "Android 13",
+        "os_skin": "Doke OS 3.0 Tablet Edition",
+        "camera_main": "13 MP (Samsung SK53P9)",
+        "camera_selfie": "16 MP (SK Hynix Hi-1634Q)",
+        "audio_config": "Haut-parleurs stéréo certifiés Hi-Res",
+        "audio_tech": "Son HD Stéréo Smart-PA",
+        "connectivity_nfc": "Oui, compatible Google Pay",
+        "navigation_gps": "GPS, GLONASS, Beidou, Galileo",
+        "card_slot": "Triple slot (2x Nano SIM + MicroSD)",
+        "charging_wired": "USB-C Charge Rapide 33W",
+        "dimensions": "222.8 x 138.8 x 15.8 mm",
+        "weight": "0.650 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ACTIVE-5-MASTER",
+        "Name": "Blackview Active 5",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "140000",
+        "Categories": "Tablettes > Blackview > Active Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Active 5, Tablette Durcie, Rugged Tablet, IP68, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.650 kg",
+        "Attribute 4 default": "0.650 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Active 5 : La Tablette Durcie Compacte 8\"",
+        "brand_line": "Tablette professionnelle durcie Blackview conçue pour les environnements exigeants.",
+        "marketing_conclusion": "Commandez la Blackview Active 5 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Active 5 combine un écran compact de 8 pouces protégé par Gorilla Glass 5 et une batterie géante de 8800 mAh. Elle est certifiée IP68, IP69K et MIL-STD-810H pour résister au terrain.",
+        "features": [
+            {
+                "feature": "Certification IP68 & MIL-STD",
+                "benefice": "Résistance éprouvée à l'eau, à la poussière, aux chocs et aux chutes extrêmes."
+            },
+            {
+                "feature": "Batterie Géante 8800 mAh",
+                "benefice": "Excellente autonomie permettant d'intervenir plusieurs jours sur le terrain."
+            },
+            {
+                "feature": "Écran 8\" Gorilla Glass 5",
+                "benefice": "Affichage HD+ ultra-résistant utilisable même avec des gants de travail."
+            },
+            {
+                "feature": "Puce Helio G85 & 6 Go RAM",
+                "benefice": "Performances stables assurant une utilisation fluide de vos applications métier."
+            }
+        ],
+        "slogan_final": "Blackview Active 5 — La résistance tout-terrain en format 8 pouces.",
+        "seo": {
+            "meta_title": "Acheter Blackview Active 5 (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette durcie Blackview Active 5 avec écran 8 pouces et batterie 8800 mAh. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Active 5, tablette durcie Blackview, prix Abidjan, IP68 MIL-STD"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Active 5",
+            "lsi_keywords": [
+                "Blackview Active 5",
+                "tablette durcie Blackview",
+                "prix Abidjan",
+                "tablette IP68 Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "tablette 8 pouces robuste",
+                "batterie 8800 mAh",
+                "MediaTek Helio G85",
+                "achat tablette Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Active 5 128Go : Écran 8\" & 8800mAh | My-eStore",
+            "meta_description": "Achetez la tablette durcie Blackview Active 5 128 Go. Dalle 8 HD+ Gorilla Glass, Helio G85 et batterie 8800 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Active 5 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Protection Châssis IP68 / IP69K",
+                    "benefice": "Étanchéité totale à l'eau et à la poussière avec certification militaire MIL-STD-810H."
+                },
+                {
+                    "feature": "Batterie Solide 8800 mAh",
+                    "benefice": "Autonomie impressionnante en veille et en utilisation intensive sur le terrain."
+                },
+                {
+                    "feature": "Puce MediaTek Helio G85",
+                    "benefice": "Huit cœurs réactifs gérant efficacement vos logiciels professionnels."
+                },
+                {
+                    "feature": "Charge Rapide 33W USB-C",
+                    "benefice": "Recharge rapide permettant de repartir rapidement sur le terrain."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Active 5 est une tablette durcie ultra-résistante de 8 pouces. Cet appareil convient parfaitement aux professionnels travaillant sur le terrain en Côte d'Ivoire. Sa protection renforcée IP68 et IP69K résiste aux conditions extrêmes. De plus, sa batterie géante de 8800 mAh garantit une autonomie impressionnante. De surcroît, son écran HD+ protégé par du verre Gorilla Glass 5 offre une lisibilité optimale. La puce MediaTek Helio G85 assure une exécution rapide des logiciels. L'interface Doke OS 3.0 simplifie l'accès à vos outils de travail. Enfin, vous travaillez en toute sérénité sur tous vos chantiers.",
+        "sections": [
+            {
+                "h2_title": "Robustesse Certifiée et Protection Tout-Terrain",
+                "paragraphs": [
+                    "La Blackview Active 5 est construite pour affronter les environnements difficiles. Ses certifications IP68 et IP69K garantissent une étanchéité sous l'eau et la poussière. En effet, la tablette résiste aux fortes pluies et aux projections de chantier. De surcroît, la norme militaire MIL-STD-810H certifie sa résistance aux chutes de 1.5 mètre. Ses coins renforcés amortissent efficacement les impacts mécaniques accidentels. L'appareil reste opérationnel en toute circonstance.",
+                    "Le verre Corning Gorilla Glass 5 protège l'écran contre les rayures. La dalle tactile réagit aux commandes même lorsque vous portez des gants. En effet, le format compact de 8 pouces permet une tenue facile d'une seule main. La lanière arrière amovible sécurise le maintien lors de vos déplacements. Ainsi, vos équipes interviennent sur le terrain en toute sécurité."
+                ]
+            },
+            {
+                "h2_title": "Performance Matérielle et Autonomie Géante",
+                "paragraphs": [
+                    "La puce MediaTek Helio G85 garantit une navigation réactive et fluide. Ses huit cœurs gèrent les applications de cartographie et de suivi de chantier. Par ailleurs, les 6 Go de mémoire vive s'accompagnent d'une extension de RAM. Ainsi, le basculement entre plusieurs applications s'effectue sans aucun ralentissement. Le stockage interne de 128 Go accueille tous vos plans. Vous disposez d'un espace de travail complet sur le terrain.",
+                    "La batterie intégrée de 8800 mAh délivre une grande autonomie. Elle permet de travailler pendant plusieurs jours sans prise secteur. En outre, la technologie de charge rapide 33W recharge la batterie rapidement. Vous ne perdez pas de temps lors de vos interventions à Abidjan. Cette grande réserve d'énergie garantit une continuité d'activité constante."
+                ]
+            },
+            {
+                "h2_title": "Photographie Précise et Connectivité Complète",
+                "paragraphs": [
+                    "Le capteur photo principal de 13 mégapixels prend des clichés nets de vos travaux. Le capteur frontal de 16 mégapixels permet des appels vidéo professionnels clairs. De plus, les haut-parleurs stéréo Smart-PA délivrent un son audible en milieu bruyant. Par ailleurs, vos communications téléphoniques restent faciles à suivre. La connectivité 4G LTE et le Wi-Fi maintiennent le lien avec vos équipes. Vos rapports de terrain sont transmis rapidement.",
+                    "L'interface Doke OS 3.0 basée sur Android 13 se montre épurée. Elle intègre un mode boîte à outils avec boussole, niveau et sonomètre. La Blackview Active 5 s'impose comme une référence pour le terrain. En somme, son rapport qualité-prix en fait un choix très avantageux. Vous profitez de la livraison rapide et sécurisée My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Active 5",
+                "subtitle": "Spécifications matérielles certifiées de la tablette durcie Blackview Active 5."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "222.8 x 138.8 x 15.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.650 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque TPU renforcée anti-choc et alliages métalliques"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Certifications IP68, IP69K & MIL-STD-810H"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran",
+                    "rows": [
+                        {
+                            "label": "Taille",
+                            "valeur": "8\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS HD+ utilisable avec des gants"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (800 x 1280 pixels)"
+                        },
+                        {
+                            "label": "Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "450 nits"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G85 (MT6769V/CZ)"
+                        },
+                        {
+                            "label": "CPU / GPU",
+                            "valeur": "Octa-Core 2.0 GHz / Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Mémoire vive (RAM)",
+                            "valeur": "6 Go"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "Jusqu'à 12 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "MicroSD extensible jusqu'à 1 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "13 MP (Samsung SK53P9, f/2.2)"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "Non supporté"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "Non supporté"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "16 MP (SK Hynix Hi-1634Q)"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "1080p @ 30fps"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Double haut-parleur stéréo Smart-PA"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Son HD Stéréo certifié Hi-Res"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "8800 mAh Li-Po"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "33W USB-C Charge Rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Non disponible"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Charge 50% en 45 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE / 3G / 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 5, Bluetooth 5.0, GPS, GLONASS, Beidou, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Triple slot (2x Nano SIM + MicroSD)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android 13 avec surcouche Doke OS 3.0 Tablet"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour de sécurité de base"
+                        },
+                        {
+                            "label": "Sans-fil Général",
+                            "valeur": "Wi-Fi, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, compatible Google Pay"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Mode Boîte à Outils Terrain IA"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/active5"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

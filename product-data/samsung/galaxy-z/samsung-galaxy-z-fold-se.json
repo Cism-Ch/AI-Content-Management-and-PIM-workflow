@@ -1,0 +1,364 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-z-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy Z Fold SE conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Z Series",
+        "commercial_name": "Samsung Galaxy Z Fold SE",
+        "category": "smartphone",
+        "sub_category": "foldable-special-edition",
+        "release_year": 2024,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-Z-FOLD-SE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-Z-FOLD-SE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold-special-edition/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+Special+Edition"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+Special+Edition+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Z Fold Special Edition (SE) 8.0\" Pliable Ultra-Fine 4.9mm 200MP 16Go RAM 5000mAh/4400mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-Z-FOLD-SE",
+        "Name": "Samsung Galaxy Z Fold SE - 8.0\" Pliable 120Hz - 16Go/512Go - 200MP - 4400mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "1100000",
+        "Categories": "Smartphones > Samsung > Galaxy Z Series",
+        "Tags": "Samsung, Galaxy Z Fold SE, Galaxy Z Series, Smartphone Pliable, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 200MP, 4400mAh, Snapdragon 8 Gen 3, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Édition Spéciale Ultra-Fine avec Écran Géant 8.0\" et Capteur 200MP.",
+        "teaser": "Découvrez le Samsung Galaxy Z Fold SE avec son écran pliable géant de 8.0 pouces, son profil ultra-fin de 4.9 mm déplié, son capteur photo 200MP et ses 16Go de RAM.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Pliable Géant 8.0\" Dynamic AMOLED",
+                "benefice": "Surface de travail maximale et confort visuel accru pour le multitâche professionnel"
+            },
+            {
+                "feature": "Profil Ultra-Fin 4.9 mm & Finition Cuir",
+                "benefice": "Finesse remarquable et prise en main ergonomique haut de gamme"
+            },
+            {
+                "feature": "Capteur Principal Haute Précision 200MP",
+                "benefice": "Détails photographiques d'une netteté exceptionnelle et vidéo 8K professionnelle"
+            },
+            {
+                "feature": "16Go de RAM & Puce Snapdragon 8 Gen 3",
+                "benefice": "Capacité multitâche maximale et traitement instantané de l'intelligence artificielle"
+            }
+        ],
+        "marketing_conclusion": "L'édition pliable exclusive réservée aux utilisateurs recherchant le grand écran le plus fin et puissant du marché.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Z Fold SE (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy Z Fold Special Edition au meilleur prix à Abidjan sur My-eStore. Écran 8.0\", 200MP, 16Go RAM, 5G et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Z Fold SE 512Go : Écran 8.0\" & 200MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy Z Fold SE sur My-eStore. Écran pliable 8.0 pouces 120Hz, capteur 200MP, épaisseur 4.9 mm, 16Go RAM et connectivité 5G.",
+            "focus_keyword": "Samsung Galaxy Z Fold SE",
+            "lsi_keywords": [
+                "Samsung Galaxy Z Fold SE Abidjan",
+                "prix Samsung Z Fold Special Edition",
+                "fiche technique Galaxy Z Fold SE",
+                "smartphone pliable 8 pouces 5G",
+                "Galaxy Z Fold SE 512Go"
+            ]
+        },
+        "h1": "Samsung Galaxy Z Fold SE : Écran Pliable Géant 8.0\", Capteur 200MP et Épaisseur 4.9mm",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy Z Fold SE redéfinit l'expérience du smartphone pliable avec un profil d'une finesse remarquable. Son écran interne géant de 8.0 pouces propose un affichage spacieux pour la consultation de tous vos documents. De plus, sa puce Snapdragon 8 Gen 3 associée à seize gigaoctets de mémoire vive garantit un multitâche sans compromis. Le châssis en titane renforcé assure une robustesse éprouvée face aux aléas de vos déplacements quotidiens. Enfin, son accumulateur de 4400 mAh procure une autonomie sécurisante sur l'ensemble de votre journée de travail.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy Z Fold SE",
+            "items": [
+                {
+                    "feature": "Dalle Pliable 8.0\" Dynamic AMOLED 2X",
+                    "benefice": "Espace de visionnage élargi pour le travail simultané sur plusieurs fenêtres"
+                },
+                {
+                    "feature": "Capteur Photo Haute Résolution 200MP",
+                    "benefice": "Clichés ultra-détaillés et vidéo 8K avec stabilisation optique avancée"
+                },
+                {
+                    "feature": "Conception Ultra-Fine 4.9mm Déplié",
+                    "benefice": "Grande élégance visuelle et encombrement réduit en main et en poche"
+                },
+                {
+                    "feature": "16Go de Mémoire Vive LPDDR5X",
+                    "benefice": "Fluidité absolue pour les fonctionnalités d'intelligence artificielle lourdes"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Géant 8.0 Pouces et Finesse de Châssis",
+                "paragraphs": [
+                    "D'un côté, l'écran pliable géant de 8.0 pouces transforme vos sessions de travail en véritable expérience bureautique mobile. La technologie Dynamic AMOLED offre une luminosité de pointe élevée pour une lisibilité claire même en plein soleil en extérieur. La protection en verre ultra-mince renforce efficacement la dalle pliable face aux flexions répétées du quotidien. Par ailleurs, l'écran externe de 6.5 pouces propose un ratio d'affichage naturel très confortable pour la saisie de texte. Le profil aminci à 4.9 millimètres déplié offre une prise en main d'une grande légèreté. Vous profitez ainsi d'un outil ergonomique adapté aux exigences des professionnels nomades.",
+                    "D'un autre côté, la charnière mécanique de haute précision garantit une fermeture parfaitement hermétique sans interstice. Ce mécanisme solide préserve les composants électroniques internes contre les infiltrations de poussières et particules extérieures. Les contrastes profonds mettent en valeur vos présentations ainsi que vos vidéos haute définition. En outre, la sensibilité tactile accrue offre une réactivité immédiate pour la navigation à travers vos tableaux complexes. Le dos habillé d'une texture travaillée apporte une adhérence sûre et un raffinement visuel indéniable. Ce smartphone pliable allie format spacieux et compacité pour un usage quotidien fluide."
+                ]
+            },
+            {
+                "h2_title": "Puissance Extrême et Multitâche Professionnel",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8 Gen 3 traite les flux de données volumineux avec une efficacité énergétique exemplaire. Les seize gigaoctets de mémoire vive soutiennent le fonctionnement simultané de plusieurs applications d'entreprise lourdes. L'espace de stockage de 512 gigaoctets accueille sans difficulté vos dossiers professionnels et galeries multimédias complètes. De surcroît, le dissipateur thermique interne canalise la chaleur lors des sessions de calcul intensives. Les algorithmes d'optimisation logicielle One UI facilitent l'organisation personnalisée de votre espace de travail. Vous réalisez vos démarches professionnelles avec une promptitude constante et sécurisante.",
+                    "Dans cette optique, le système de charge rapide filaire rétablit promptement la disponibilité énergétique de votre appareil. La compatibilité avec la recharge sans fil apporte un confort appréciable sur votre espace de travail personnel. L'architecture matérielle sécurisée Knox protège vos données confidentielles contre les tentatives d'intrusion malveillantes. Également, la connectivité réseau cinq G assure des transferts de fichiers ultra-rapides lors de vos déplacements. Vos appels vidéo conservent une excellente clarté grâce à un traitement acoustique efficace. Ce terminal constitue une référence performante pour les travailleurs connectés exigeants."
+                ]
+            },
+            {
+                "h2_title": "Capteur 200MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 200 mégapixels enregistre des scènes riches en détails microscopiques. Le moteur de traitement ProVisual Engine optimise la restitution des textures et affine le rendu des couleurs. Le téléobjectif optique 3x rapproche les éléments distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous capturez des souvenirs nets et fidèles en toutes conditions lumineuses.",
+                    "Enfin, l'accumulateur de 4400 mAh procure l'énergie indispensable pour couvrir vos journées professionnelles les plus intenses. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes d'usage réelles. La fonction de recharge inversée permet d'alimenter ponctuellement vos accessoires connectés compatibles. Par conséquent, vous travaillez en toute confiance sans craindre une interruption impromptue de vos flux professionnels. Les matériaux de prestige garantissent une excellente durabilité au fil des années d'utilisation. Le Galaxy Z Fold SE représente une solution exclusive alliant grand format et innovation technologique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Z Fold SE",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Z Fold Special Edition."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Déplié",
+                            "valeur": "157.9 x 142.6 x 4.9 mm"
+                        },
+                        {
+                            "label": "Dimensions Plié",
+                            "valeur": "157.9 x 72.8 x 10.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.236 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Ceramic 2, Dos Crafted Black, Cadre Armor Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP48 (Résistant à l'eau jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Principal (Interne)",
+                            "valeur": "8.0\" Foldable Dynamic AMOLED 2X, LTPO (1-120Hz), 2184 x 1968 pixels"
+                        },
+                        {
+                            "label": "Écran Secondaire (Externe)",
+                            "valeur": "6.5\" Dynamic AMOLED 2X, 120Hz, 2520 x 1080 pixels (21:9)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic sur les deux écrans)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 3 for Galaxy (4nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "200 MP, f/1.7, 24mm, Multi-directional PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "10 MP, f/2.4, 67mm, Zoom optique 3x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 120˚, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Caméra Sous Écran (Interne)",
+                            "valeur": "4 MP, f/1.8 (UDC)"
+                        },
+                        {
+                            "label": "Caméra Écran Externe",
+                            "valeur": "10 MP, f/2.2, 24mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 30 fps, 4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4400 mAh Li-Po double cellule"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide (50% en environ 30 minutes)"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Fast Wireless Charging 2.0"
+                        },
+                        {
+                            "label": "Partage d'Énergie",
+                            "valeur": "4.5W Wireless PowerShare inversé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.3, GPS, GLONASS, Galileo, UWB"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Dual SIM (Nano-SIM + eSIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI (Optimisé grand écran 8\")"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "7 ans de mises à jour système et sécurité garanties"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI intégrée (Interprète, Circle to Search, Note Assist)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/global/galaxy/galaxy-z-fold-special-edition/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+Special+Edition"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+Special+Edition+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Crafted Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "1100000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        }
+    ]
+}

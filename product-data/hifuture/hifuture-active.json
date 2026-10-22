@@ -1,0 +1,350 @@
+{
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-11",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "hifuture-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du modèle HiFuture Active avec rédaction 3-Persona."
+    },
+    "product_identity": {
+        "brand": "HiFuture",
+        "product_line": "Montre Connectée Sport GPS",
+        "commercial_name": "HiFuture Active",
+        "category": "wearable",
+        "sub_category": "wearable",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HIFUTURE-ACTIVE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HIFUTURE-ACTIVE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "HiFuture Official Store",
+                "url": "https://hifuturegroup.com/products/active"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=HiFuture+Active"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=HiFuture+Active+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié HiFuture Active Smartwatch 1.43\" AMOLED GPS 400mAh 5 ATM"
+    },
+    "variants": [
+        {
+            "variant_name": "Standard",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "Standard",
+                "storage": "Standard"
+            },
+            "pricing": {
+                "official_price_fcfa": 42000,
+                "market_price_range_fcfa": {
+                    "min": 36000,
+                    "max": 48000
+                },
+                "price_source": "My-eStore",
+                "price_date": "2026-08-11",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [
+            "Rouge",
+            "Jaune",
+            "Argent"
+        ],
+        "exclusive": [],
+        "default": "Rouge"
+    },
+    "key_specifications": {
+        "processor": "Dual-Core Syntra AI GPS Low-Power",
+        "processor_ghz": "Standard",
+        "ram_options": [
+            "Standard"
+        ],
+        "ram_extension": "",
+        "storage_options": [
+            "Standard"
+        ],
+        "card_slot": "",
+        "screen_size": "1.43\"",
+        "screen_technology": "AMOLED",
+        "screen_resolution": "466 x 466 pixels",
+        "screen_refresh_rate": "60 Hz",
+        "battery_capacity": "400 mAh (Jusqu'à 14 jours d'autonomie)",
+        "charging_wired": "Câble Magnétique USB",
+        "charging_wireless": "Non",
+        "os": "HiFuture OS / Compatible Android 5.0+ & iOS 10.0+",
+        "os_version": "V2.0",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "Haut-parleur & Micro HD intégrés",
+        "audio_tech": "Appels Bluetooth HD",
+        "connectivity_5g": false,
+        "connectivity_wifi": "Non",
+        "connectivity_bluetooth": "Bluetooth 5.3 HD Call",
+        "connectivity_nfc": false,
+        "navigation_gps": "GPS Dual-Band Intégré",
+        "sim_type": "Non",
+        "water_resistance": "5 ATM (Étanche natation 50m)",
+        "dimensions": "47 x 47 x 12 mm",
+        "weight": "0.150 kg",
+        "materials": "Polycarbonate Renforcé & Bracelet Silicone Sport",
+        "biometrics": "Fréquence cardiaque 24/7, SpO2, Suivi du Sommeil, VO2Max",
+        "additional_features": [
+            "GPS Dual-Band Intégré",
+            "Étanchéité Certifiée 5 ATM",
+            "Écran 1.43\" AMOLED HD",
+            "Batterie 400 mAh (14 jours)"
+        ]
+    },
+    "sources": [
+        {
+            "name": "HiFuture Official Store",
+            "url": "https://hifuturegroup.com/products/active"
+        },
+        {
+            "name": "Recherche Générique",
+            "url": "https://www.google.com/search?q=HiFuture+Active"
+        },
+        {
+            "name": "Recherche Spécialisée IA",
+            "url": "https://www.google.com/search?q=HiFuture+Active+specifications"
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "woocommerce_csv": {
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Rouge, Jaune, Argent",
+        "Attribute 1 default": "Rouge",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.150 kg",
+        "Attribute 4 default": "0.150 kg",
+        "Name": "HiFuture Active Smartwatch - Écran AMOLED - 1.43\" - 400mAh",
+        "Stock": "10",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Smart Watch, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "HiFuture, HiFuture Active, Montre connectée, Smartwatch, Bluetooth, Suivi Santé, IP68, Abidjan, My-eStore, Écran AMOLED"
+    },
+    "short_description": {
+        "seo": {
+            "meta_title": "Acheter HiFuture Active à Abidjan | My-eStore",
+            "meta_description": "Achetez la montre sport HiFuture Active avec GPS au meilleur prix à Abidjan sur My-eStore. Écran 1.43\" AMOLED, étanchéité 5 ATM, batterie 400mAh et livraison rapide en Côte d'Ivoire."
+        },
+        "text": "Découvrez la HiFuture Active. Montre connectée sport officielle avec GPS intégré, étanchéité 5 ATM, batterie 400mAh et garantie officielle sur My-eStore."
+    },
+    "long_description": {
+        "h1": "HiFuture Active : GPS Dual-Band Intégré, Écran AMOLED 1.43\" et Étanchéité 5 ATM",
+        "seo": {
+            "focus_keyword": "HiFuture Active Abidjan",
+            "lsi_keywords": [
+                "HiFuture Active",
+                "montre HiFuture Active",
+                "fiche technique HiFuture Active",
+                "prix HiFuture Active Abidjan",
+                "My-eStore"
+            ],
+            "meta_title": "HiFuture Active : GPS Intégré & 5 ATM | My-eStore",
+            "meta_description": "Découvrez la fiche technique officielle de la HiFuture Active à Abidjan sur My-eStore. GPS Dual-Band, étanchéité 5 ATM et garantie officielle."
+        },
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "GPS Dual-Band Intégré High-Precision",
+                    "benefice": "Tracé précis de vos parcours de course sans téléphone."
+                },
+                {
+                    "feature": "Étanchéité Certifiée 5 ATM Natation",
+                    "benefice": "Protection totale pour la natation et les sports aquatiques."
+                },
+                {
+                    "feature": "Écran 1.43\" AMOLED 466x466",
+                    "benefice": "Lisibilité lumineuse et affichage net au quotidien."
+                },
+                {
+                    "feature": "Batterie Massive 400 mAh",
+                    "benefice": "Autonomie prolongée jusqu'à 14 jours d'utilisation."
+                }
+            ]
+        },
+        "intro_paragraph": "La montre connectée HiFuture Active réunit élégance et technologies modernes au quotidien. Cet équipement accompagne idéalement vos activités sportives et professionnelles en Côte d'Ivoire. En effet, l'écran lumineux offre une lisibilité optimale même en plein soleil. De plus, le suivi de santé continu surveille vos constantes avec précision. Par ailleurs, le récepteur GPS autonome enregistre vos circuits de course sans nécessiter de smartphone.",
+        "sections": [
+            {
+                "h2_title": "Écran Lumineux et Ergonomie du Boîtier",
+                "paragraphs": [
+                    "La HiFuture Active arbore un écran de haute définition très réactif au toucher. L'affichage fluide permet une navigation agréable dans les menus interactifs. Les cadrans personnalisables s'adaptent facilement à votre style vestimentaire au quotidien. De surcroît, le boîtier robuste résiste efficacement aux chocs légers et rayures. Le confort au poignet reste optimal durant toute la journée de travail. Ainsi, votre montre devient un accessoire indispensable à votre organisation.",
+                    "La conception étanche protège la montre lors de vos séances d'entraînement. Le bracelet souple en silicone garantit une tenue douce et respirante. En effet, l'appareil résiste parfaitement à la sueur et aux éclaboussures d'eau. Vous pratiquez vos exercices sportifs en toute tranquillité sous la pluie. De plus, le poids maîtrisé évite toute gêne lors du suivi nocturne. L'ergonomie globale est parfaitement pensée pour votre confort physique quotidien."
+                ]
+            },
+            {
+                "h2_title": "Suivi Santé et Plus de 100 Modes Sportifs",
+                "paragraphs": [
+                    "Les capteurs optiques intégrés mesurent votre fréquence cardiaque en continu. La montre analyse également la saturation en oxygène et la qualité du sommeil. Ces données vous aident à mieux comprendre votre forme physique générale. En outre, les nombreux modes sportifs enregistrent vos performances en temps réel. Vous suivez vos calories brûlées et la distance parcourue à chaque séance. Ainsi, votre motivation sportive augmente naturellement au fil des semaines.",
+                    "L'application mobile synchronise toutes vos statistiques de santé très rapidement. Vous consultez l'historique de vos activités sportives sur votre smartphone facilement. Par ailleurs, les alertes d'inactivité vous encouragent à rester en mouvement régulièrement. Le suivi du stress vous aide à maintenir votre bien-être mental. De plus, cette montre devient votre coach personnel lors de vos entraînements. Vous améliorez vos habitudes de vie en toute simplicité au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Appels Bluetooth HD et Autonomie Durable",
+                "paragraphs": [
+                    "Le haut-parleur et le micro intégrés permettent de passer des appels Bluetooth HD. Vous répondez directement à vos appels sans sortir votre téléphone de votre poche. La connexion sans fil conserve une voix claire et parfaitement audible. En effet, les notifications de vos applications s'affichent instantanément sur l'écran. Vous ne manquez aucun message important pendant vos déplacements en ville. Ainsi, votre réactivité professionnelle s'en trouve grandement renforcée au quotidien.",
+                    "L'optimisation énergétique offre une autonomie prolongée de plusieurs jours d'utilisation. Le câble de charge magnétique permet une recharge simple et rapide. De surcroît, la structure solide garantit une grande durabilité au fil des mois. Ce modèle s'impose comme un choix très pertinent pour vos besoins. En résumé, cette montre allie résistance aquatique et précision géographique pour tous vos défis. L'appareil constitue ainsi une alliée sportive fiable et endurante au quotidien."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : HiFuture Active",
+                "subtitle": "Spécifications matérielles du HiFuture Active."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Modèle",
+                            "valeur": "HiFuture Active"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Montre Connectée Sport"
+                        },
+                        {
+                            "label": "Dimensions",
+                            "valeur": "47 x 47 x 12 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.150 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Polycarbonate Renforcé & Silicone Sport"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Rouge, Jaune, Argent"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "1.43\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "AMOLED"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "466 x 466 pixels"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Dual-Core Syntra AI GPS"
+                        },
+                        {
+                            "label": "GPS Intégré",
+                            "valeur": "GPS Dual-Band High-Precision"
+                        },
+                        {
+                            "label": "Compatibilité OS",
+                            "valeur": "Android 5.0+ & iOS 10.0+"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Batterie",
+                            "valeur": "400 mAh"
+                        },
+                        {
+                            "label": "Autonomie Utilisation",
+                            "valeur": "Jusqu'à 14 jours"
+                        },
+                        {
+                            "label": "Type de Recharge",
+                            "valeur": "Câble Magnétique USB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Capteurs",
+                    "rows": [
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 HD Call"
+                        },
+                        {
+                            "label": "Appels Bluetooth",
+                            "valeur": "Haut-parleur & Micro HD intégrés"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "5 ATM (Étanche natation 50m)"
+                        },
+                        {
+                            "label": "Suivi Santé",
+                            "valeur": "Fréquence cardiaque 24/7, SpO2, Sommeil, VO2Max"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "HiFuture Official Store",
+                        "url": "https://hifuturegroup.com/products/active"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=HiFuture+Active"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=HiFuture+Active+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "template_version": "3.4"
+}

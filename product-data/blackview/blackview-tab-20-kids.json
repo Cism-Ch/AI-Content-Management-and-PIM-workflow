@@ -1,0 +1,307 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Tab 20 Kids",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/tab20-kids-price"
+            }
+        ],
+        "pricing_reference": "75000",
+        "official_sku": "BV-TAB-20-KIDS"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Unisoc T610 Octa-Core",
+        "processor_ghz": "Fréquence 1.8 GHz",
+        "screen_size": "10.1 pouces",
+        "screen_technology": "HD+ IPS LCD avec Mode Protection des Yeux",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "6600 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "64 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS_P 3.0 avec Espace Enfant iKids & Contrôle Parental",
+        "camera_main": "8 MP avec Flash LED",
+        "camera_selfie": "5 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo avec limitation de volume",
+        "audio_tech": "Protection Auditive Enfant & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "241.5 x 160 x 9.4 mm",
+        "weight": "0.514 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TAB-20-KIDS-MASTER",
+        "Name": "Blackview Tab 20 Kids",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "75000",
+        "Categories": "Tablettes > Blackview > Tab Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Tab 20 Kids, Tablette Enfant 10.1 pouces, Coque Antichoc, Controle Parental, 6600mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Violet | Bleu | Vert",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.514 kg",
+        "Attribute 4 default": "0.514 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Tab 20 Kids : Tablette Enfant 10.1 Pouces Coque Antichoc Contrôle Parental",
+        "brand_line": "La tablette éducative renforcée Blackview pensée pour le divertissement et la sécurité des enfants.",
+        "marketing_conclusion": "Commandez la Blackview Tab 20 Kids sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Tab 20 Kids intègre un écran HD 10.1 pouces avec filtre de lumière bleue, une coque en silicone antichoc, le contrôle parental iKids et une batterie 6600 mAh.",
+        "features": [
+            {
+                "feature": "Coque Antichoc en Silicone EVA",
+                "benefice": "Protection maximale contre les chutes et chocs des enfants."
+            },
+            {
+                "feature": "Espace Éducatif & Contrôle Parental iKids",
+                "benefice": "Gestion simple du temps d'écran et des contenus autorisés."
+            },
+            {
+                "feature": "Écran 10.1\" Protection Oculaire",
+                "benefice": "Confort visuel préservé sans fatigue pour les yeux des petits."
+            },
+            {
+                "feature": "Batterie 6600 mAh & 4G LTE",
+                "benefice": "Autonomie longue durée pour les dessins animés et jeux éducatifs."
+            }
+        ],
+        "slogan_final": "Blackview Tab 20 Kids — L'apprentissage ludique en toute sécurité.",
+        "seo": {
+            "meta_title": "Acheter Blackview Tab 20 Kids (4Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette enfant Blackview Tab 20 Kids avec coque antichoc, écran 10.1\" et contrôle parental iKids. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Tab 20 Kids, tablette enfant, prix Abidjan, coque antichoc 10.1 pouces 6600mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Tab 20 Kids",
+            "lsi_keywords": [
+                "Blackview Tab 20 Kids",
+                "tablette enfant Blackview Abidjan",
+                "Blackview Tab 20 Kids prix",
+                "tablette educative coque incassable",
+                "tablette controle parental ikids",
+                "tablette enfant 10 pouces Côte d'Ivoire",
+                "achat tablette enfant Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Tab 20 Kids 64 Go : Écran Enfant 10.1\" & Coque Antichoc | My-eStore",
+            "meta_description": "Achetez la tablette enfant Blackview Tab 20 Kids. Écran 10.1\" HD, coque antichoc EVA, espace iKids et batterie 6600 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Tab 20 Kids : Spécifications de la Tablette Enfant",
+        "experience_box": {
+            "box_title": "LES ATOUTS POUR LES ENFANTS",
+            "items": [
+                {
+                    "feature": "Coque de Protection Épaisse EVA",
+                    "benefice": "Absorption complète des chocs et poignée de transport."
+                },
+                {
+                    "feature": "Filtre de Lumière Bleue Certifié",
+                    "benefice": "Protection oculaire renforcée pendant l'apprentissage."
+                },
+                {
+                    "feature": "Application Éducative Préinstallée iKids",
+                    "benefice": "Jeux interactifs, calculs et dessin en autonomie."
+                },
+                {
+                    "feature": "Batterie Longue Durée 6600 mAh",
+                    "benefice": "Utilisation ininterrompue lors des trajets en voiture."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Tab 20 Kids est une tablette éducative particulièrement robuste et ludique. Cet équipement convient très bien aux enfants et parents en Côte d'Ivoire. Par ailleurs, son écran IPS de 10.1 pouces en définition HD offre une lisibilité visuelle très claire. De plus, son filtre de protection oculaire protège la vue des plus jeunes. La batterie généreuse de 6600 mAh permet de travailler en toute sérénité toute la journée. Sa coque ergonomique en silicone non toxique garantit une prise en main très sûre. L'application iKids sous Android 13 simplifie l'accès à tous les jeux éducatifs. Enfin, cette tablette enfant constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 10.1 Pouces HD et Protection des Yeux",
+                "paragraphs": [
+                    "La Blackview Tab 20 Kids intègre une dalle IPS de 10.1 pouces en définition HD. Sa résolution de 1280 x 800 pixels restitue des détails d'une clarté impressionnante. De plus, plusieurs modes de lecture s'adaptent pour réduire la fatigue oculaire. De surcroît, le processeur Unisoc T610 à huit cœurs cadencés à 1.8 GHz gère facilement vos applications. Les 4 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 64 Go conserve l'ensemble de vos jeux et vidéos. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette coque en silicone renforcée protège la tablette en toutes circonstances. Vos applications éducatives restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Contrôle Parental iKids, Appareil 8 MP et 4G LTE",
+                "paragraphs": [
+                    "La Blackview Tab 20 Kids embarque l'application iKids dédiée à la sécurité des enfants. Cet équipement logiciel permet de créer un environnement d'apprentissage d'une sécurité remarquable en ligne. En outre, la caméra arrière de 8 Mégapixels s'avère très pratique pour prendre des photos amusantes. Les filtres ludiques optimisent la créativité visuelle avec simplicité. Ainsi, le haut-parleur stéréo avec volume limité immortalise les comptines. La sécurité auditive reste constante.",
+                    "Par ailleurs, le contrôle parental permet aux parents de fixer des limites de temps. De plus, le filtre de contenu bloque l'accès aux sites non autorisés. Également, la connectivité 4G LTE assure des téléchargements de cours sans réseau Wi-Fi. De surcroît, la béquille intégrée à la coque permet de poser la tablette sur une table. En somme, cette tablette enfant réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 6600 mAh et Coque Ergonomique",
+                "paragraphs": [
+                    "La batterie impressionnante de 6600 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant de longues heures de voyage. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble fourni. En effet, la coque absorbante préserve le matériel contre les chutes répétées. Vos activités éducatives se poursuivent sans interruption.",
+                    "La silhouette renforcée avec poignée rotative offre une tenue en main naturelle et très ludique. Son poids maîtrisé de 514 grammes témoigne du soin apporté à la solidité. D'autre part, la Blackview Tab 20 Kids constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son espace iKids en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Tab 20 Kids",
+                "subtitle": "Spécifications matérielles certifiées de la tablette enfant Blackview Tab 20 Kids."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "241.5 x 160 x 9.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.514 kg"
+                        },
+                        {
+                            "label": "Protection extérieure",
+                            "valeur": "Coque antichoc intégrale en silicone EVA haute densité non toxique"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Violet, Bleu, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "10.1 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Confort des Yeux & Mode Lecture Sombre"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc T610 Octa-Core 1.8 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G52"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go eMMC 5.1 (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "8 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "5 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo avec limitation de volume sonore sécurisée"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "6600 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Sécurité Enfant",
+                    "rows": [
+                        {
+                            "label": "Application Enfant",
+                            "valeur": "iKids App (Jeux éducatifs, dessin, livres audio préinstallés)"
+                        },
+                        {
+                            "label": "Contrôle Parental",
+                            "valeur": "Gestion du temps d'écran, filtrage web & mots de passe de sécurité"
+                        },
+                        {
+                            "label": "Connectivité",
+                            "valeur": "4G LTE Dual SIM, Wi-Fi 5, Bluetooth 5.0, GPS"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS_P 3.0 Kids)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/tab20-kids-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

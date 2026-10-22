@@ -1,0 +1,409 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO M7 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO M Series",
+        "commercial_name": "Xiaomi POCO M7 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-5g-pro",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-M7-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-M7-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi POCO M7 Pro 5G avec écran AMOLED 120Hz capteur photo 50MP OIS processeur Dimensity 7025 Ultra et charge 45W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7025 Ultra (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos, Hi-Res Audio et prise jack 3.5mm",
+        "battery_capacity": "5110 mAh",
+        "charging_wired": "Charge turbo 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.190 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-M7-PRO-5G",
+        "Name": "Xiaomi POCO M7 Pro 5G - Dual SIM - Écran 6.67\" AMOLED 120Hz - (8 Go & 256 Go / 12 Go & 512 Go) - 5110 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "165000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO M7 Pro 5G, POCO M Series, Smartphone, 5G, Écran AMOLED, Écran 120Hz, Capteur 50MP, OIS, 5110mAh, Charge 45W, Dimensity 7025 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.190 kg",
+        "Attribute 4 default": "0.190 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme M Series Pro 5G Connectivité",
+        "teaser": "Le smartphone 5G Xiaomi POCO M7 Pro 5G réunit un écran AMOLED 120Hz très lumineux et un capteur photo de 50 MP stabilisé OIS. Équipé du processeur Dimensity 7025 Ultra et d'une batterie de 5110 mAh avec charge 45W, il assure une réactivité moderne pour vos activités à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran AMOLED 120Hz Haute Luminosité",
+                "badge": "Affichage",
+                "lead_benefit": "Contraste profond et fluidité tactile continue",
+                "technical_detail": "Dalle AMOLED 6.67 pouces (2400 x 1080) cadencée à 120Hz avec pic lumineux de 2100 nits.",
+                "daily_impact": "Lecture très nette sous le soleil de midi et confort oculaire en soirée."
+            },
+            {
+                "feature_title": "Capteur Photo 50 MP avec Stabilisation OIS",
+                "badge": "Photo",
+                "lead_benefit": "Photos nettes sans flou de mouvement",
+                "technical_detail": "Capteur principal 50 mégapixels avec stabilisation optique OIS et mode nuit assisté.",
+                "daily_impact": "Prises de vue précises de vos réunions et vidéos stables lors de vos déplacements."
+            },
+            {
+                "feature_title": "Puce Dimensity 7025 Ultra (6 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Vitesse 5G agile et multitâche régulier",
+                "technical_detail": "Architecture 6 nm économe en énergie avec extension dynamique de RAM jusqu'à 12 Go.",
+                "daily_impact": "Connexion Internet rapide et navigation fluide entre vos outils de travail."
+            },
+            {
+                "feature_title": "Batterie 5110 mAh & Charge Turbo 45W",
+                "badge": "Autonomie",
+                "lead_benefit": "Autonomie soutenue et charge efficace",
+                "technical_detail": "Accumulateur 5110 mAh avec bloc d'alimentation 45W pour recharge accélérée en USB-C.",
+                "daily_impact": "Deux journées complètes d'utilisation normale sans stress de batterie vide."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO M7 Pro 5G réunit écran AMOLED 120Hz, capteur photo 50 MP OIS et réseau 5G véloce.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO M7 Pro 5G (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO M7 Pro 5G chez My-eStore. Écran AMOLED 120Hz, capteur 50MP OIS et charge 45W au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO M7 Pro 5G 512Go : AMOLED 120Hz & OIS | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO M7 Pro 5G chez My-eStore. Écran AMOLED 120Hz, capteur photo 50MP OIS et charge 45W au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO M7 Pro 5G : Écran AMOLED 120Hz, Capteur 50 MP OIS et Charge 45W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO M7 Pro 5G",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 120Hz",
+                    "benefice": "Excellente visibilité en plein jour et défilement fluide sans saccade."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP OIS",
+                    "benefice": "Prises de vue très nettes et stables même lors de scènes en mouvement."
+                },
+                {
+                    "feature": "Charge Rapide Turbo 45W",
+                    "benefice": "Récupération de la moitié de l'énergie en une vingtaine de minutes."
+                },
+                {
+                    "feature": "Batterie Durable 5110 mAh",
+                    "benefice": "Autonomie sereine sur près de deux journées complètes d'usage régulier."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO M7 Pro 5G apporte une connectivité 5G rapide aux usages quotidiens. En effet, sa dalle AMOLED 120Hz offre une lecture reposante sur chaque document. De plus, son capteur photographique de 50 mégapixels bénéficie d'une stabilisation OIS. Cet appareil intègre une batterie durable de 5110 mAh avec charge rapide 45W. Ce modèle répond ainsi aux besoins des professionnels mobiles à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Affichage AMOLED 120Hz Lumineux et Châssis Ergonomique",
+                "paragraphs": [
+                    "L'écran AMOLED de 6.67 pouces affiche des contrastes profonds sur chaque page ouverte. Cette dalle lumineuse atteint un pic d'éclairage élevé pour rester lisible en plein jour. De plus, la fréquence de 120Hz fluidifie le défilement de vos fils d'actualité. La résolution Full HD+ restitue des détails très précis pour la lecture de graphiques. Ce panneau vitré intègre des filtres certifiés pour limiter la fatigue oculaire prolongée. Vous profitez ainsi d'un confort visuel constant dans toutes vos activités.",
+                    "Le boîtier équilibré de 190 grammes procure une prise en main stable au bureau. Cette structure fine glisse aisément dans une poche sans encombrement gênant. Par ailleurs, les certifications de protection limitent les désagréments causés par les éclaboussures. Deux haut-parleurs stéréo Dolby Atmos diffusent des voix audibles lors de vos visioconférences. Ce rendu sonore enrichit la clarté acoustique de vos présentations d'entreprise. Vous disposez ainsi d'un outil multimédia fonctionnel pour vos rendez-vous professionnels."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 50 MP Stabilisé OIS et Clarté Optique",
+                "paragraphs": [
+                    "Le module principal de 50 mégapixels s'appuie sur une stabilisation optique OIS. Cette assistance technique compense les mouvements involontaires lors de vos prises de vue. De surcroît, le traitement logiciel harmonise la lumière sans altérer la fidélité des couleurs. Chaque photographie conserve un piqué net même lors des scènes nocturnes animées. Cet objectif polyvalent facilite ainsi la saisie de documents ou de portraits nets. Vous enregistrez vos événements importants avec une qualité d'image très appréciable.",
+                    "La caméra frontale de 16 mégapixels délivre des appels vidéo nets et bien éclairés. Cette optique avant permet des entretiens professionnels fluides avec vos collaborateurs distants. En outre, plusieurs modes artistiques facilitent la personnalisation de vos publications. L'application photo réagit promptement pour saisir chaque instant sans temps mort. Le bouton de déclenchement enregistre les clichés avec une grande simplicité pratique. Vous réussissez ainsi toutes vos photographies sans devoir multiplier les essais."
+                ]
+            },
+            {
+                "h2_title": "Processeur Dimensity 7025 Ultra et Charge Turbo 45W",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 7025 Ultra assure une vitesse de calcul régulière. Cette puce gravée en 6 nanomètres gère avec sobriété les ressources énergétiques du téléphone. Par conséquent, les applications professionnelles et de navigation s'exécutent avec réactivité. La connexion 5G intégrée accélère les transferts de fichiers volumineux sur les réseaux compatibles. Ce composant soutient ainsi une productivité continue lors de vos déplacements de travail. Vous menez vos affaires courantes avec une régularité opérationnelle très rassurante.",
+                    "L'accumulateur d'une capacité de 5110 mAh assure aisément deux journées d'autonomie. Cette endurance généreuse vous dispense de recharges fréquentes en milieu de journée. De plus, la charge turbo de 45W restaure promptement la réserve d'énergie disponible. Le port USB Type-C simplifie les opérations de raccordement au chargeur mural d'origine. Cette connectique moderne autorise des transferts de données rapides vers votre ordinateur. Cet appareil s'affirme ainsi comme un investissement fiable pour les usagers à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO M7 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.4 x 75.7 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "190 g (0.190 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Bleu (Ocean Blue), Vert (Forest Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 120Hz, 2100 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~88.9% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "Full HD+ (1080 x 2400 pixels, ratio 20:9, ~395 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Dimensity 7025 Ultra (6 nm, Octa-core jusqu'à 2.5 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "IMG BXM-8-256"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "8 Go + 256 Go / 12 Go + 512 Go (UFS 2.2)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP Sony (f/1.8, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30/60 images par seconde"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5110 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge turbo 45W"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande, Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, prise jack 3.5mm, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

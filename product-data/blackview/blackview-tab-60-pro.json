@@ -1,0 +1,307 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Tab 60 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://www.blackview.hk/products/item/tab60pro"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "BV-TAB-60-PRO"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "10.1 pouces",
+        "screen_technology": "HD IPS LCD Widevine L1",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "7700 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS_P 3.0",
+        "camera_main": "8 MP avec Flash LED",
+        "camera_selfie": "5 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo Smart-PA",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "242.7 x 161.5 x 8.5 mm",
+        "weight": "0.543 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TAB-60-PRO-MASTER",
+        "Name": "Blackview Tab 60 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "45",
+        "Regular price": "95000",
+        "Categories": "Tablettes > Blackview > Tab Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Tab 60 Pro, Tablette 10.1 pouces, 8GB RAM, 128GB, 7700mAh, 4G LTE, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Bleu | Vert",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.543 kg",
+        "Attribute 4 default": "0.543 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Tab 60 Pro : Tablette 10.1 Pouces 8 Go RAM 128 Go 4G LTE 7700 mAh",
+        "brand_line": "La tablette grand format performante Blackview alliant autonomie solide et multitâche fluide.",
+        "marketing_conclusion": "Commandez la Blackview Tab 60 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Tab 60 Pro propose un écran 10.1 pouces HD IPS, 8 Go de RAM, 128 Go de stockage, la 4G LTE et une batterie géante de 7700 mAh.",
+        "features": [
+            {
+                "feature": "Écran 10.1\" HD Widevine L1",
+                "benefice": "Affichage spacieux certifié pour le streaming HD."
+            },
+            {
+                "feature": "Mémoire 8 Go RAM & 128 Go SSD",
+                "benefice": "Excellente réactivité et capacité de stockage généreuse."
+            },
+            {
+                "feature": "Accumulateur Massif 7700 mAh",
+                "benefice": "Autonomie sereine sur une journée d'utilisation continue."
+            },
+            {
+                "feature": "Connectivité Dual SIM 4G LTE",
+                "benefice": "Accès internet autonome en tout lieu."
+            }
+        ],
+        "slogan_final": "Blackview Tab 60 Pro — La tablette fluide et autonome pour vos journées.",
+        "seo": {
+            "meta_title": "Acheter Blackview Tab 60 Pro (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Tab 60 Pro avec écran 10.1\", 8 Go RAM, 4G LTE et batterie 7700 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Tab 60 Pro, tablette 10.1 pouces, prix Abidjan, 8GB RAM 7700mAh 4G LTE"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Tab 60 Pro",
+            "lsi_keywords": [
+                "Blackview Tab 60 Pro",
+                "tablette 8 Go RAM Blackview Abidjan",
+                "Blackview Tab 60 Pro prix",
+                "tablette 10 pouces 7700 mAh",
+                "tablette 4G LTE 128 Go",
+                "tablette multimédia Côte d'Ivoire",
+                "achat tablette Tab 60 Pro Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Tab 60 Pro 128 Go : Écran 10.1\" HD & 7700 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Tab 60 Pro. Écran 10.1\" HD IPS, 8 Go RAM, batterie 7700 mAh et connectivité 4G LTE. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Tab 60 Pro : Spécifications de la Tablette 10.1 Pouces 8 Go RAM",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA VERSION PRO",
+            "items": [
+                {
+                    "feature": "Mémoire 8 Go RAM Virtuelle Extensible",
+                    "benefice": "Fluidité remarquable lors de l'ouverture d'applications."
+                },
+                {
+                    "feature": "Batterie Géante 7700 mAh",
+                    "benefice": "Endurance prolongée toute la journée."
+                },
+                {
+                    "feature": "Double Haut-Parleur Stéréo Smart-PA",
+                    "benefice": "Son clair et enveloppant pour la vidéo."
+                },
+                {
+                    "feature": "Design Fin 8.5 mm",
+                    "benefice": "Silhouette moderne facile à transporter."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Tab 60 Pro est une tablette tactile 10.1 pouces particulièrement véloce et complète. Cet équipement convient très bien aux professionnels et étudiants en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 10.1 pouces en définition HD offre une lisibilité visuelle très claire. De plus, sa certification Widevine L1 autorise le streaming haute définition. La batterie généreuse de 7700 mAh permet de travailler en toute sérénité sans interruption. Son boîtier en alliage de 8.5 mm garantit une prise en main très agréable. L'interface DokeOS_P 3.0 sous Android 13 simplifie l'accès à vos dossiers. Enfin, cette tablette performante constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 10.1 Pouces HD et Puce Octa-Core",
+                "paragraphs": [
+                    "La Blackview Tab 60 Pro intègre une dalle IPS de 10.1 pouces en définition HD. Sa résolution de 1280 x 800 pixels restitue des détails d'une clarté impressionnante. De plus, les modes de confort oculaire protègent la vue pendant le travail. De surcroît, le processeur Unisoc T606 à huit cœurs cadencés à 1.6 GHz gère facilement vos logiciels. Les 8 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le châssis en toutes circonstances. Vos applications d'étude restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 8 MP, Dual Speakers et 4G LTE",
+                "paragraphs": [
+                    "La Blackview Tab 60 Pro embarque un capteur photo arrière de 8 Mégapixels avec Flash LED. Cet objectif capture des images nettes pour numériser des documents de travail. En outre, la caméra frontale de 5 Mégapixels s'avère très pratique pour la visioconférence. Les haut-parleurs stéréo Smart-PA optimisent la restitution sonore avec clarté. Ainsi, la prise jack 3.5mm immortalise vos sessions d'écoute au casque. La précision audio reste constante.",
+                    "Par ailleurs, la connectivité 4G LTE assure des téléchargements fluides hors de la maison. De plus, le récepteur GPS intégré garantit un guidage précis lors de vos déplacements. Également, la compatibilité avec un clavier Bluetooth transforme la tablette en mini ordinateur. De surcroît, la gestion de batterie préserve l'énergie du système. En somme, cette tablette polyvalente réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 7700 mAh et Port USB-C",
+                "paragraphs": [
+                    "La batterie impressionnante de 7700 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant plus de 10 heures d'affilée. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble fourni. En effet, la gestion thermique intelligente préserve la durée de vie de la batterie. Vos activités de travail se poursuivent sans interruption.",
+                    "La silhouette épurée de 8.5 mm offre une tenue en main naturelle et très élégante. Son poids maîtrisé de 543 grammes témoigne du soin apporté à la structure. D'autre part, la Blackview Tab 60 Pro constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, ses 8 Go de RAM en font une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Tab 60 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Blackview Tab 60 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "242.7 x 161.5 x 8.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.543 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis en aluminium anodisé"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris (Grey), Bleu (Blue), Vert (Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "10.1 pouces IPS LCD HD Widevine L1"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Confort des Yeux & Mode Sombre"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 Octa-Core 1.6 GHz (12nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go UFS 2.1 (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "8 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "5 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo Smart-PA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "7700 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS_P 3.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://www.blackview.hk/products/item/tab60pro"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

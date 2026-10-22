@@ -1,0 +1,463 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-z-v3.4-batch-3",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy Z Fold 8 Ultra conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Z Series",
+        "commercial_name": "Samsung Galaxy Z Fold 8 Ultra",
+        "category": "smartphone",
+        "sub_category": "foldable-book",
+        "release_year": 2026,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-Z-FOLD-8-ULTRA",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-Z-FOLD-8-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+8+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+8+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Z Fold 8 Ultra 8.0\" Pliable 120Hz 200MP Snapdragon 8 Elite 5000mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-Z-FOLD-8-ULTRA",
+        "Name": "Samsung Galaxy Z Fold 8 Ultra - 8.0\" Pliable 120Hz - (12 Go|16 Go & 256 Go|512 Go|1 To) - 200MP - 5000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "1290000",
+        "Categories": "Smartphones > Samsung > Galaxy Z Series",
+        "Tags": "Samsung, Galaxy Z Fold 8 Ultra, Galaxy Z Series, Smartphone Pliable, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 200MP, 5000mAh, Snapdragon 8 Elite, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Violet, Blanc Crème, Gris, Vert",
+        "Attribute 1 default": "Violet",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Fleuron Absolu du Pliable avec Écran 8.0\" 120Hz, Capteur 200MP et Titane.",
+        "teaser": "Découvrez le Samsung Galaxy Z Fold 8 Ultra avec son écran pliable géant de 8.0 pouces, son châssis en titane affiné à 4.1 mm, sa puce Snapdragon 8 Elite, son capteur 200MP et sa batterie 5000 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Pliable Géant 8.0\" Dynamic AMOLED 2X",
+                "benefice": "Surface de travail et d'affichage spacieuse avec fluidité adaptative 120Hz"
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite (3nm)",
+                "benefice": "Vitesse de calcul maximale et gestion thermique par chambre à vapeur"
+            },
+            {
+                "feature": "Capteur Photo 200MP & Zoom Périscope",
+                "benefice": "Précision photographique remarquable et zoom optique stable en toutes situations"
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 45W",
+                "benefice": "Autonomie durable couvrant vos journées intensives et recharge prompte"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone pliable grand format sans compromis, combinant innovations majeures, matériaux nobles et puissance extrême.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Z Fold 8 Ultra à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy Z Fold 8 Ultra au meilleur prix à Abidjan sur My-eStore. Écran 8.0\" 120Hz, Snapdragon 8 Elite, 200MP, 5000mAh et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Z Fold 8 Ultra 256Go : Écran 8.0\" & 200MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy Z Fold 8 Ultra sur My-eStore. Écran pliable 8.0 pouces 120Hz, capteur 200MP, Snapdragon 8 Elite, batterie 5000 mAh et connectivité 5G.",
+            "focus_keyword": "Samsung Galaxy Z Fold 8 Ultra",
+            "lsi_keywords": [
+                "Samsung Galaxy Z Fold 8 Ultra Abidjan",
+                "prix Samsung Z Fold 8 Ultra",
+                "fiche technique Galaxy Z Fold 8 Ultra",
+                "smartphone pliable 8 pouces 5G",
+                "Galaxy Z Fold 8 Ultra 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy Z Fold 8 Ultra : Écran Pliable 8.0\" 120Hz, Capteur 200MP et Snapdragon 8 Elite",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy Z Fold 8 Ultra inaugure un affichage intérieur pliable géant de 8.0 pouces. Sa dalle interne Dynamic AMOLED 2X procure une clarté remarquable avec un rafraîchissement adaptatif de 120 Hz. De plus, sa puce Snapdragon 8 Elite gravée en 3nm délivre une puissance de calcul sans compromis. Le châssis affiné à 4.1 millimètres intègre des éléments en titane pour garantir une solidité exemplaire. Enfin, sa batterie de 5000 mAh procure une autonomie durable pour tous vos usages professionnels intensifs.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy Z Fold 8 Ultra",
+            "items": [
+                {
+                    "feature": "Dalle Pliable 8.0\" Dynamic AMOLED 2X",
+                    "benefice": "Surface d'affichage géante pour la productivité multitâche avancée"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite 3nm",
+                    "benefice": "Calculs réactifs et refroidissement optimal pour vos applications exigeantes"
+                },
+                {
+                    "feature": "Capteur 200MP & Zoom Périscope 5x",
+                    "benefice": "Définition photographique de pointe et zoom optique stabilisé sans perte"
+                },
+                {
+                    "feature": "Châssis Affiné 4.1 mm en Titane",
+                    "benefice": "Structure légère et résistante certifiée IP48 contre l'eau"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Pliable Géant 8.0 Pouces et Écran Externe 6.5 Pouces",
+                "paragraphs": [
+                    "D'un côté, la dalle pliable de 8.0 pouces offre une surface de lecture spacieuse proche d'une tablette. La technologie d'affichage Dynamic AMOLED restitue des noirs profonds et des couleurs précises pour vos documents. La couche en verre ultra-fin renforcé préserve la dalle contre les pliages fréquents du quotidien professionnel. Par ailleurs, la luminosité maximale autorise une lecture très nette même en plein soleil en extérieur. Les bordures affinées optimisent le multitâche en affichant jusqu'à trois logiciels côte à côte en direct. Vous travaillez ainsi avec un confort visuel accru lors de la rédaction de vos rapports complexes.",
+                    "D'un autre côté, l'écran externe de 6.5 pouces autorise une utilisation normale sans ouvrir l'appareil. Cet affichage secondaire réactif permet de répondre aisément à vos appels et courriels en mobilité urbaine. La définition élevée garantit une netteté constante pour la consultation rapide de vos messages prioritaires. En outre, la charnière novatrice referme parfaitement les deux volets sans interstice pour bloquer la poussière. Le profil s'insère sans contrainte dans vos poches de veste lors de vos déplacements habituels. Ce modèle concilie prestige technologique et ergonomie fonctionnelle au service de votre productivité nomade."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, le processeur Snapdragon 8 Elite accélère l'exécution des modélisations volumineuses et du traitement graphique. La mémoire vive montant jusqu'à seize gigaoctets élimine les temps d'attente lors des bascules applicatives. L'espace de stockage interne généreux accueille vos bases de données complètes et galeries photographiques professionnelles. De surcroît, la chambre à vapeur surdimensionnée dissipe efficacement la chaleur lors des calculs soutenus. L'interface multitâche One UI simplifie l'organisation de vos fenêtres et le glisser-déposer de vos documents. Vous gérez vos flux de travail quotidiens avec une vélocité constante et une fiabilité permanente.",
+                    "Dans cette optique, la charge rapide filaire de 45 watts recharge promptement la batterie au bureau. La recharge sans fil rapide apporte une grande flexibilité d'alimentation sur votre espace de travail. Le blindage matériel Knox protège l'intégrité de vos transactions financières et de vos données sensibles. Également, la connectivité cinq G ultra-rapide assure des téléchargements sans latence sur les réseaux modernes. Les haut-parleurs stéréo calibrés délivrent une restitution acoustique nette pour vos réunions professionnelles à distance. Ce smartphone pliable constitue une station de travail polyvalente taillée pour les décideurs les plus exigeants."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 200MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 200 mégapixels capture des clichés d'une précision remarquable en toutes circonstances. La stabilisation optique compense les micro-mouvements pour délivrer des images nettes même en basse lumière. Le téléobjectif périscope cinq fois rapproche nettement les détails architecturaux distants sans perte qualitative visible. De même, le module ultra grand-angle saisit l'ensemble de vos scènes de travail et paysages. Les algorithmes avancés de traitement numérique adaptent l'exposition pour restituer des couleurs naturelles et fidèles. Vous partagez instantanément des photographies précises de vos réalisations avec vos collaborateurs et partenaires.",
+                    "Enfin, l'accumulateur de 5000 mAh soutient sans faille vos journées professionnelles les plus denses. Le système d'alimentation intelligent gère l'énergie de manière optimale selon vos habitudes réelles de consultation. Le partage d'énergie inversé dépanne facilement une montre connectée ou des écouteurs sans fil compatibles. Par conséquent, vous préservez une productivité ininterrompue durant vos voyages d'affaires ou rendez-vous extérieurs. Les matériaux nobles et durables assurent une résistance remarquable face aux contraintes du quotidien actif. Le Galaxy Z Fold 8 Ultra représente l'aboutissement du format pliable professionnel alliant puissance et élégance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Z Fold 8 Ultra",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Z Fold 8 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Déplié",
+                            "valeur": "158.4 x 143.2 x 4.1 mm"
+                        },
+                        {
+                            "label": "Dimensions Plié",
+                            "valeur": "158.4 x 72.8 x 8.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.215 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre Titane de Grade 5, Verre Gorilla Glass Armor, Charnière Ultra Titane"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP48 (Résistant à l'eau jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Principal (Interne)",
+                            "valeur": "8.0\" Foldable Dynamic AMOLED 2X, LTPO (1-120Hz), 2184 x 1968 pixels"
+                        },
+                        {
+                            "label": "Écran Secondaire (Externe)",
+                            "valeur": "6.5\" Dynamic AMOLED 2X, LTPO (1-120Hz), 2520 x 1080 pixels"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go / 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "200 MP, f/1.7, 24mm, multi-directional PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif Périscope",
+                            "valeur": "50 MP, f/3.4, 115mm, PDAF, OIS, Zoom optique 5x"
+                        },
+                        {
+                            "label": "Téléobjectif Secondaire",
+                            "valeur": "10 MP, f/2.4, 67mm, PDAF, OIS, Zoom optique 3x"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Externe / Interne)",
+                            "valeur": "10 MP f/2.2 externe + 4 MP f/1.8 sous écran interne"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 30 fps, 4K à 60/120 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5000 mAh Li-Po double cellule"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "45W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Fast Wireless Charging 2.0"
+                        },
+                        {
+                            "label": "Partage d'Énergie",
+                            "valeur": "4.5W Wireless PowerShare inversé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI (Optimisé FlexMode & Multitâche)"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "7 ans de mises à jour système et sécurité garanties"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI intégrée (Interprète, Note Assist, Photo Assist, Live Translate)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+8+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+8+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Violet",
+            "color_en": "Violet Shadow",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1290000",
+            "sku_suffix": "12-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Violet Shadow",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1675000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Violet Shadow",
+            "color_code": "VIOLET",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2065000",
+            "sku_suffix": "16-GB-1-TB-VIOLET"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1290000",
+            "sku_suffix": "12-GB-256-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1675000",
+            "sku_suffix": "12-GB-512-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC-CREME",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2065000",
+            "sku_suffix": "16-GB-1-TB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1290000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1675000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2065000",
+            "sku_suffix": "16-GB-1-TB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green Shadow",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1290000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green Shadow",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1675000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green Shadow",
+            "color_code": "VERT",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "2065000",
+            "sku_suffix": "16-GB-1-TB-VERT"
+        }
+    ]
+}

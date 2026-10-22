@@ -1,0 +1,273 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Table 9",
+        "generation_date": "2026-07-29"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/table-9-price"
+            }
+        ],
+        "pricing_reference": "80000",
+        "official_sku": "BV-TABLE-9"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Moniteur IPS 60Hz",
+        "processor_ghz": "Signal vidéo USB Type-C & Mini HDMI",
+        "screen_size": "16.0 pouces",
+        "screen_technology": "FHD IPS LCD Mat Antireflet Slim",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation USB-C / Secteur)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Windows, Mac, Android, Linux",
+        "os_skin": "Menu OSD Tactile",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Deux Haut-parleurs Stéréo Intégrés",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "N/A",
+        "card_slot": "N/A",
+        "charging_wired": "Port d'alimentation USB Type-C",
+        "dimensions": "368 x 237 x 29.5 mm",
+        "weight": "1.270 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TABLE-9-MASTER",
+        "Name": "Blackview Table 9",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "80000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview Table 9, Moniteur Portable 16 pouces, Ecran Extendeur, USB-C HDMI, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.270 kg",
+        "Attribute 4 default": "1.270 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Table 9 : Moniteur Portable 16 Pouces FHD IPS USB-C Mini HDMI Haut-Parleurs",
+        "brand_line": "Le moniteur portable ultra-fin Blackview idéal pour travailler en double écran lors de vos déplacements.",
+        "marketing_conclusion": "Commandez le Blackview Table 9 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Table 9 propose un écran portable de 16.0 pouces Full HD IPS, une connectique complète USB-C et Mini HDMI, ainsi que deux haut-parleurs intégrés.",
+        "features": [
+            {
+                "feature": "Écran Portable 16.0\" FHD IPS",
+                "benefice": "Déploiement rapide d'un second écran en voyage."
+            },
+            {
+                "feature": "Double Connectique USB-C & HDMI",
+                "benefice": "Raccordement instantané sur tout ordinateur ou console."
+            },
+            {
+                "feature": "Conception Ultra-Fine 1.27 kg",
+                "benefice": "Glissement très facile dans votre sac à dos d'ordinateur."
+            },
+            {
+                "feature": "Haut-Parleurs Stéréo Intégrés",
+                "benefice": "Écoute multimédia claire sans accessoires supplémentaires."
+            }
+        ],
+        "slogan_final": "Blackview Table 9 — Votre second écran nomade ultra-compact.",
+        "seo": {
+            "meta_title": "Acheter Blackview Table 9 Moniteur 16\" à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable 16\" Full HD Blackview Table 9 avec ports USB-C et Mini HDMI. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Table 9, ecran portable 16 pouces, prix Abidjan, moniteur usb-c hdmi nomade"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Table 9",
+            "lsi_keywords": [
+                "Blackview Table 9",
+                "moniteur portable 16 pouces Blackview Abidjan",
+                "Blackview Table 9 prix",
+                "ecran portable voyage usb-c",
+                "moniteur pc portable hdmi",
+                "accessoire informatique nomade Côte d'Ivoire",
+                "achat ecran portable Table 9 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Table 9 Moniteur : Écran 16\" FHD Nomade | My-eStore",
+            "meta_description": "Achetez le moniteur portable nomade Blackview Table 9. Écran 16\" FHD IPS, connectique USB-C/HDMI, housse support et haut-parleurs. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Table 9 : Spécifications du Moniteur Portable 16 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU MONITEUR NOMADE 16 POUCES",
+            "items": [
+                {
+                    "feature": "Format Écran Portable 16 Pouces FHD",
+                    "benefice": "Confort visuel de double écran partout avec vous."
+                },
+                {
+                    "feature": "Connexion par Câble Unique USB-C",
+                    "benefice": "Affichage et alimentation simultanés sur votre PC."
+                },
+                {
+                    "feature": "Poids Plume de 1.27 kg",
+                    "benefice": "Transport sans encombrement dans vos bagages."
+                },
+                {
+                    "feature": "Dalle Mat Antireflet Lumineuse",
+                    "benefice": "Lisibilité visuelle optimale en café ou extérieur."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Table 9 est un moniteur portable compact particulièrement moderne et pratique. Cet équipement convient très bien aux consultants et étudiants mobiles en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 16.0 pouces en définition Full HD offre une lisibilité visuelle très claire. De plus, son traitement antireflet protège la vue lors des travaux en extérieur. L'alimentation via le port USB-C permet de travailler en toute sérénité sans encombrement. Son boîtier affiné de 29.5 mm garantit une prise en main très agréable. La compatibilité Plug and Play sous Windows et Mac simplifie l'accès à tous vos dossiers. Enfin, cet écran nomade constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 16.0 Pouces Full HD et Dalle IPS Nomade",
+                "paragraphs": [
+                    "Le Blackview Table 9 intègre une dalle IPS compacte de 16.0 pouces en définition Full HD. Sa résolution de 1920 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, la fidélité des couleurs restitue des images très naturelles. De surcroît, les angles de vision larges de 178 degrés préservent la lisibilité lors du partage d'écran. L'affichage reste parfaitement fluide.",
+                    "La structure épurée s'insère facilement à côté de votre ordinateur portable. L'étui de protection inclus se transforme en pied inclinable en un instant. En effet, le filtre de lumière bleue intégré préserve vos yeux lors des sessions prolongées. Cette conception soignée protège la dalle en toutes circonstances. Vos applications de travail restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Connectique USB-C, Mini HDMI et Son Stéréo",
+                "paragraphs": [
+                    "Le Blackview Table 9 embarque un port USB Type-C complet gérant le signal vidéo et l'alimentation. Cet équipement permet de relier votre ordinateur portable via un unique câble pratique. En outre, la prise Mini HDMI s'avère très pratique pour le raccordement à une console. Les deux haut-parleurs stéréo intégrés optimisent la restitution sonore avec netteté. Ainsi, la prise jack 3.5mm autorise l'écoute musicale au casque. La précision audio reste constante.",
+                    "Par ailleurs, les boutons de réglage latéraux gèrent facilement la luminosité et le volume. De plus, le mode d'affichage écran secondaire duplique ou étend votre bureau. Également, la faible consommation énergétique préserve l'autonomie de votre PC portable. De surcroît, le boîtier noir mat évite les rayures de transport. En somme, ce moniteur portable réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Productivité Nomade et Transport sans Effort",
+                "paragraphs": [
+                    "La conception nomade du moniteur procure une productivité professionnelle supérieure en voyage. Cette deuxième dalle d'affichage vous permet de garder vos e-mails ou tableurs toujours ouverts. D'ailleurs, son format de 16 pouces correspond exactement aux sacoches standards. En effet, l'utilisation ne nécessite aucun logiciel spécifique ni configuration lourde. Vos travaux sur le terrain se poursuivent sans interruption.",
+                    "La silhouette épurée offre une tenue sur table stable et très naturelle au quotidien. Son poids léger de 1.27 kg témoigne de la légèreté des matériaux choisis. D'autre part, le Blackview Table 9 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa praticité en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Table 9",
+                "subtitle": "Spécifications matérielles certifiées du moniteur portable Blackview Table 9."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "368 x 237 x 29.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.270 kg"
+                        },
+                        {
+                            "label": "Accessoire inclus",
+                            "valeur": "Housse de protection intelligente servant de support"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "16.0 pouces IPS LCD Full HD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Angles de vision",
+                            "valeur": "178° horizontal / 178° vertical"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique & Ports",
+                    "rows": [
+                        {
+                            "label": "Port USB Type-C",
+                            "valeur": "2x USB Type-C (Vidéo DisplayPort & Alimentation)"
+                        },
+                        {
+                            "label": "Port HDMI",
+                            "valeur": "1x Mini HDMI"
+                        },
+                        {
+                            "label": "Sortie Audio",
+                            "valeur": "Prise jack casque 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Haut-Parleurs",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Deux haut-parleurs stéréo intégrés (2x 1.5W)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alimentation & Énergie",
+                    "rows": [
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Alimenté directement via USB-C par l'ordinateur hôte"
+                        },
+                        {
+                            "label": "Consommation",
+                            "valeur": "Classe A (Trés faible consommation)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes pris en charge",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS, Consoles"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/table-9-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

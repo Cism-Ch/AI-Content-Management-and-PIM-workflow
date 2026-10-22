@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel 9a."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel 9a",
+    "category": "smartphone",
+    "sub_category": "mid-range",
+    "release_year": 2025,
+    "release_quarter": "Q1",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel 9a",
+    "G9A00",
+    "Smartphone",
+    "Android 15",
+    "Tensor G4",
+    "Écran OLED 120Hz",
+    "Appareil Photo IA",
+    "Gemini Nano",
+    "Smartphone Abordable",
+    "Téléphone Google",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "G9A00",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "G9A00"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/pixel_9a"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_9a-13478.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base G9A00 pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel 9a 128Go",
+      "sku_suffix": "/128",
+      "configurations": {
+        "ram": "8Go",
+        "storage": "128Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 320000,
+          "max": 380000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 9a 256Go",
+      "sku_suffix": "/256",
+      "configurations": {
+        "ram": "8Go",
+        "storage": "256Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 320000,
+          "max": 380000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Obsidian",
+      "Porcelain",
+      "Iris",
+      "Peony"
+    ],
+    "exclusive": [],
+    "default": "Obsidian"
+  },
+  "key_specifications": {
+    "processor": "Google Tensor G4 (4 nm)",
+    "ram_options": [
+      "8Go"
+    ],
+    "storage_options": [
+      "128Go",
+      "256Go"
+    ],
+    "screen_size": "6.3 inches, 94.7 cm2 (~83.5% screen-to-body ratio)",
+    "screen_technology": "P-OLED, HDR, 120Hz, 1800 nits (HBM), 2700 nits (peak)",
+    "screen_resolution": "1080 x 2424 pixels, 20:9 ratio (~422 ppi density)",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "Li-Po 5100 mAh",
+    "charging_wired": "23W wired, PD3.0 7.5W",
+    "charging_wireless": "15W wireless",
+    "os": "Android",
+    "os_version": "Android 15, upgradable to Android 16, up to 7 major Android upgrades",
+    "camera_main": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 13 MP, f/2.2, 120˚ (ultrawide), 1/3.1\", 1.12µm",
+    "camera_selfie": "10.5 MP",
+    "video_max": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)",
+    "connectivity_bluetooth": "5.3, A2DP, LE",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "154.7 x 73.3 x 8.9 mm (6.09 x 2.89 x 0.35 in)",
+    "weight": "186 g (6.56 oz)",
+    "materials": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+    "biometrics": "Capteur d'empreinte sous l'écran",
+    "additional_features": [
+      "IA Google (Circle to Search, Gemini intégré, Magic Eraser)",
+      "7 ans de mises à jour de sécurité et système",
+      "Haut-parleurs stéréo"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/pixel_9a",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

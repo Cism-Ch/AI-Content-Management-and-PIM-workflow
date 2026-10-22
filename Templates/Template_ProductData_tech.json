@@ -1,0 +1,115 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "",
+        "notes": ""
+    },
+    "product_identity": {
+        "brand": "",
+        "product_line": "",
+        "commercial_name": "",
+        "category": "",
+        "sub_category": "",
+        "release_year": null,
+        "release_quarter": "",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": ""
+            }
+        ],
+        "verification_sources": [
+            {
+                "source": "",
+                "url": ""
+            }
+        ],
+        "disambiguation_notes": ""
+    },
+    "variants": [
+        {
+            "variant_name": "",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "",
+                "storage": ""
+            },
+            "pricing": {
+                "official_price_fcfa": null,
+                "market_price_range_fcfa": {
+                    "min": null,
+                    "max": null
+                },
+                "price_source": "",
+                "price_date": "",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [],
+        "exclusive": [],
+        "default": ""
+    },
+    "key_specifications": {
+        "processor": "",
+        "processor_ghz": "",
+        "ram_options": [],
+        "ram_extension": "",
+        "storage_options": [],
+        "card_slot": "",
+        "screen_size": "",
+        "screen_technology": "",
+        "screen_resolution": "",
+        "screen_refresh_rate": "",
+        "battery_capacity": "",
+        "charging_wired": "",
+        "charging_wireless": "",
+        "os": "",
+        "os_version": "",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "",
+        "audio_tech": "",
+        "connectivity_5g": false,
+        "connectivity_wifi": "",
+        "connectivity_bluetooth": "",
+        "connectivity_nfc": false,
+        "navigation_gps": "",
+        "sim_type": "",
+        "water_resistance": "",
+        "dimensions": "",
+        "weight": "",
+        "materials": "",
+        "biometrics": "",
+        "additional_features": []
+    },
+    "sources": [
+        {
+            "name": "",
+            "url": "",
+            "accessed_date": "",
+            "data_extracted": []
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "long_description": {
+        "full_specs": {
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        }
+    }
+}

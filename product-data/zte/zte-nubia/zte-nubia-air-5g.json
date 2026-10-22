@@ -1,0 +1,402 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Air 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Air+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Air+5G+specifications"
+            }
+        ],
+        "pricing_reference": "135000",
+        "official_sku": "ZTE-NUBIA-AIR-5G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Night Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "256GB-8GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Starlight White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "256GB-8GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Night Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "155000",
+            "sku_suffix": "512GB-8GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Starlight White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "155000",
+            "sku_suffix": "512GB-8GB-BLANC"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc T760 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.72 pouces",
+        "screen_technology": "IPS LCD FHD+ 120Hz Ultra Fin",
+        "screen_resolution": "2400 x 1080 pixels",
+        "battery_capacity": "4500 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "Double capteur 50 MP Haute Résolution + 2 MP Macro",
+        "camera_selfie": "16 MP",
+        "audio_config": "Haut-parleur optimisé DTS Audio",
+        "audio_tech": "Son spatial DTS & prise 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 33W USB-C",
+        "dimensions": "166.0 x 76.0 x 7.4 mm",
+        "weight": "0.178 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-AIR-5G-MASTER",
+        "Name": "ZTE Nubia Air 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "135000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Air 5G, Ultra Fin 7.4mm, Écran 120Hz FHD+, 50MP, 5G, NFC, Charge 33W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.178 kg",
+        "Attribute 4 default": "0.178 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Air 5G : Châssis Fin 7.4mm Écran FHD+ 120Hz et Charge 33W",
+        "brand_line": "Le smartphone 5G ultra léger au design épuré associant affichage 120 Hz et recharge 33W.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Air 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Air 5G combine un profil ultra fin de 7.4 mm, un écran FHD+ 120Hz de 6.72 pouces, la puce Unisoc T760 5G et un capteur photo 50 MP.",
+        "features": [
+            {
+                "feature": "Châssis Ultra Fin 7.4mm & 178g",
+                "benefice": "Prise en main très légère et encombrement minimal."
+            },
+            {
+                "feature": "Écran 6.72\" Full HD+ 120Hz",
+                "benefice": "Définition précise et fluidité visuelle continue."
+            },
+            {
+                "feature": "Puce 5G Unisoc T760 Gravée en 6nm",
+                "benefice": "Hauts débits réseau et consommation énergétique modérée."
+            },
+            {
+                "feature": "Charge Rapide 33W & NFC",
+                "benefice": "Recharge véloce en USB-C et paiements sans contact."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Air 5G — L'extrême finesse au service de la connectivité moderne.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Air 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Air 5G ultra fin (7.4mm) avec écran FHD+ 120Hz, 50 MP, 5G et charge rapide 33W. Achetez en ligne au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Nubia Air 5G, smartphone ultra fin Abidjan, 120Hz FHD+, 5G 33W, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Air 5G",
+            "lsi_keywords": [
+                "ZTE Nubia Air 5G",
+                "smartphone ZTE Nubia Air 5G Abidjan",
+                "ZTE Nubia Air 5G prix",
+                "téléphone ultra fin 7mm 5g",
+                "smartphone écran 120hz fhd+",
+                "téléphone nfc charge 33w",
+                "achat smartphone 5g My-eStore",
+                "livraison smartphone Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Air 5G 256 Go : Châssis 7.4mm & FHD+ 120Hz | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Air 5G. Épaisseur fine de 7.4 mm, dalle 6.72 pouces FHD+ 120Hz, puce 5G 6nm, capteur 50 MP et charge 33W. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Nubia Air 5G : Châssis Fin, Puce 5G 6nm et Écran FHD+ 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA AIR 5G",
+            "items": [
+                {
+                    "feature": "Profil Minceur de 7.4 mm",
+                    "benefice": "Maniabilité très agréable et port facile en poche."
+                },
+                {
+                    "feature": "Dalle FHD+ 120Hz",
+                    "benefice": "Précision d'image et confort visuel élevé."
+                },
+                {
+                    "feature": "Réseau 5G Très Haut Débit",
+                    "benefice": "Téléchargements de fichiers volumineux en quelques secondes."
+                },
+                {
+                    "feature": "Recharge Rapide 33 Watts",
+                    "benefice": "Ravitaillement d'énergie très rapide en USB-C."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Air 5G impressionne par son profil élancé de seulement 7.4 millimètres d'épaisseur. Ce smartphone répond avec élégance aux exigences des professionnels en mouvement régulier à Abidjan. En effet, son poids plume de 178 grammes procure une excellente maniabilité au quotidien. De plus, sa dalle de 6.72 pouces en définition Full HD Plus fonctionne à 120 Hz. La puce Unisoc T760 compatible 5G assure une transmission rapide de toutes vos communications. Par ailleurs, la recharge rapide de 33W réduit le temps passé près d'une prise de courant. L'appareil procure ainsi un équilibre réussi entre compacité et réactivité.",
+        "sections": [
+            {
+                "h2_title": "Écran Full HD+ 120Hz et Finesse de Châssis 7.4 mm",
+                "paragraphs": [
+                    "Le ZTE Nubia Air 5G intègre une dalle IPS de 6.72 pouces en définition Full HD Plus. Cette résolution procure une grande netteté pour visionner vos documents de travail et séries. De plus, sa fréquence de rafraîchissement à 120 Hz élimine les flous de mouvement lors du défilement tactile. Ainsi, les animations s'affichent avec une clarté continue sans aucune saccade. Le processeur Unisoc T760 gravé en 6 nanomètres combine vélocité et économie d'énergie.",
+                    "La mémoire vive allant jusqu'à 8 Go soutient un multitâche réactif pour vos applications simultanées. D'ailleurs, le stockage interne de 256 Go offre un espace suffisant pour vos archives numériques. En outre, la connectivité 5G assure une stabilité continue des données mobiles. Le profil mince de 7.4 mm confère une élégance sobre et moderne à l'ensemble. Vous profitez d'un grand confort de lecture à chaque instant."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP et Puce NFC Polyvalente",
+                "paragraphs": [
+                    "Le module photographique principal de 50 Mégapixels capture des clichés riches en contrastes et fidèles aux teintes réelles. Cet objectif principal est assisté par un capteur macro pour immortaliser les détails rapprochés. De plus, la caméra avant de 16 Mégapixels assure des visioconférences nettes lors de vos entretiens professionnels. Les réglages automatisés par intelligence artificielle optimisent l'exposition sans effort de configuration. Ainsi, vos souvenirs familiaux conservent une excellente qualité.",
+                    "La puce NFC intégrée facilite vos paiements sans contact et l'appairage rapide de vos accessoires. En effet, cette technologie simplifie vos transactions quotidiennes de façon sécurisée. Également, le traitement audio DTS assure une écoute musicale détaillée et bien spatialisée. Le capteur d'empreintes digitales latéral garantit un déverrouillage fluide en une fraction de seconde. Vous bénéficiez d'une expérience multimédia très aboutie."
+                ]
+            },
+            {
+                "h2_title": "Batterie 4500 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie de 4500 mAh fournit une alimentation équilibrée pour couvrir une journée complète d'activité. Cette autonomie solide s'adapte sans encombre aux consultations régulières de courriels et aux trajets urbains. Par ailleurs, la technologie de charge rapide 33W remplit rapidement la cellule énergétique. En effet, une trentaine de minutes de charge suffit pour retrouver plus de la moitié de l'énergie. Vos déplacements s'organisent avec une grande sérénité.",
+                    "Le boîtier soigné se décline en coloris noir et argent avec un poids remarquable de 178 grammes. D'autre part, les finitions raffinées soulignent la qualité de fabrication de la marque ZTE. En somme, le ZTE Nubia Air 5G réunit finesse extrême et vitesse 5G à un tarif mesuré. Vous pouvez valider votre achat en toute sécurité sur My-eStore. Le service de livraison rapide dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Air 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Air 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "166.0 x 76.0 x 7.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.178 kg (178 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, châssis ultra mince et dos soigné"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Shadow Black), Argent (Silver Mist)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.72 pouces (~86.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD grand format ultra fluide"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2400 x 1080 pixels, 20:9, ~392 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T760 5G (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.2 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "4500 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 33W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son optimisé DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Air+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Air+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

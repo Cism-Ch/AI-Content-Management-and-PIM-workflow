@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel Watch 3."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel Watch 3",
+    "category": "wearable",
+    "sub_category": "watch",
+    "release_year": 2024,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel Watch 3",
+    "G4TSL",
+    "Montre Connectée",
+    "Wear OS",
+    "Suivi Activité",
+    "Suivi Sommeil",
+    "GPS Intégré",
+    "Écran Actua AMOLED",
+    "Fitbit Premium",
+    "Smartwatch Google",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "G4TSL",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "G4TSL"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/google_pixel_watch_3"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_watch_3-13253.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base G4TSL pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel Watch 3 Wi-Fi",
+      "sku_suffix": "/WI-FI",
+      "configurations": {
+        "connectivity": "wi-fi",
+        "storage": "32Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 190000,
+          "max": 240000
+        },
+        "price_source": "Mitc / Boutique locale",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel Watch 3 LTE",
+      "sku_suffix": "/LTE",
+      "configurations": {
+        "connectivity": "lte",
+        "storage": "32Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 190000,
+          "max": 240000
+        },
+        "price_source": "Mitc / Boutique locale",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Matte Black",
+      "Polished Silver",
+      "Champagne Gold",
+      "Matte Hazel"
+    ],
+    "exclusive": [],
+    "default": "Matte Black"
+  },
+  "key_specifications": {
+    "screen_size": "1.4 inches",
+    "screen_technology": "LTPO AMOLED, 2000 nits (peak)",
+    "screen_resolution": "456 x 456 pixels (~320 ppi density)",
+    "battery_capacity": "Li-Ion 420 mAh",
+    "charging_wired": "Wired, 50% in 28 min, 80% in 50 min - 45mm model Wired, 50% in 24 min, 80% in 35 min - 41mm model",
+    "os": "Wear OS",
+    "os_version": "Android Wear OS 5, up to 3 major Android upgrades",
+    "processor": "Qualcomm SW5100",
+    "ram_options": [
+      "2Go"
+    ],
+    "storage_options": [
+      "32Go"
+    ],
+    "connectivity_bluetooth": "5.3, A2DP",
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "connectivity_nfc": true,
+    "water_resistance": "IP68 dust tight and water resistant (immersible up to 50m/5ATM) ECG certified",
+    "dimensions": "45 x 45 x 12.3 mm (1.77 x 1.77 x 0.48 in)",
+    "weight": "37 g (1.31 oz)",
+    "materials": "Glass front (Gorilla Glass 5), aluminum frame",
+    "sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance",
+    "health_features": [
+      "Suivi du sommeil",
+      "ECG",
+      "SpO2",
+      "Suivi de l'activité physique"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/google_pixel_watch_3",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_watch_3-13253.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

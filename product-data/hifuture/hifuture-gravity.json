@@ -1,0 +1,325 @@
+{
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-11",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "hifuture-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du modèle HiFuture Gravity avec rédaction 3-Persona."
+    },
+    "product_identity": {
+        "brand": "HiFuture",
+        "product_line": "Écouteurs Sans Fil TWS",
+        "commercial_name": "HiFuture Gravity",
+        "category": "audio",
+        "sub_category": "audio",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HIFUTURE-GRAVITY",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HIFUTURE-GRAVITY"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "HiFuture Official Store",
+                "url": "https://hifuturegroup.com/products/gravity"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=HiFuture+Gravity"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=HiFuture+Gravity+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié HiFuture Gravity Écouteurs TWS Boîtier 4000mAh IPX7"
+    },
+    "variants": [
+        {
+            "variant_name": "Standard",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "N/A",
+                "storage": "N/A"
+            },
+            "pricing": {
+                "official_price_fcfa": 25000,
+                "market_price_range_fcfa": {
+                    "min": 21000,
+                    "max": 29000
+                },
+                "price_source": "My-eStore",
+                "price_date": "2026-08-11",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [
+            "Noir",
+            "Bleu"
+        ],
+        "exclusive": [],
+        "default": "Noir"
+    },
+    "key_specifications": {
+        "processor": "Puce Audio TWS Gen 3",
+        "processor_ghz": "N/A",
+        "ram_options": [
+            "N/A"
+        ],
+        "ram_extension": "",
+        "storage_options": [
+            "N/A"
+        ],
+        "card_slot": "",
+        "screen_size": "N/A",
+        "screen_technology": "Indicateurs LED sur boîtier",
+        "screen_resolution": "N/A",
+        "screen_refresh_rate": "N/A",
+        "battery_capacity": "4000 mAh Boîtier / 50 mAh Écouteurs (45h total)",
+        "charging_wired": "USB Type-C (5V / 2A)",
+        "charging_wireless": "Non",
+        "os": "Firmware HiFuture TWS Audio",
+        "os_version": "V1.0",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "Transducteurs Dynamiques 10 mm",
+        "audio_tech": "Son Stéréo Bass-Boost & Bluetooth 5.3",
+        "connectivity_5g": false,
+        "connectivity_wifi": "Non",
+        "connectivity_bluetooth": "Bluetooth 5.3",
+        "connectivity_nfc": false,
+        "navigation_gps": "Non",
+        "sim_type": "Non",
+        "water_resistance": "IPX7 (Résistance eau & immersion 1m)",
+        "dimensions": "85 x 55 x 30 mm (Boîtier)",
+        "weight": "2 kg",
+        "materials": "Polymère ABS ergonomique & Embouts silicone",
+        "biometrics": "Non",
+        "additional_features": [
+            "Boîtier Powerbank 4000 mAh",
+            "Certification Étanchéité IPX7",
+            "Transducteurs 10mm Bass-Boost",
+            "Connexion Bluetooth 5.3"
+        ]
+    },
+    "sources": [
+        {
+            "name": "HiFuture Official Store",
+            "url": "https://hifuturegroup.com/products/gravity"
+        },
+        {
+            "name": "Recherche Générique",
+            "url": "https://www.google.com/search?q=HiFuture+Gravity"
+        },
+        {
+            "name": "Recherche Spécialisée IA",
+            "url": "https://www.google.com/search?q=HiFuture+Gravity+specifications"
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "woocommerce_csv": {
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "2 kg",
+        "Attribute 4 default": "2 kg",
+        "Name": "HiFuture Gravity - Écouteurs Sans Fil TWS - Bluetooth 5.3 - Drivers 10mm - Boîtier 4000mAh - IPX7",
+        "Stock": "10",
+        "Categories": "Audio & Hi-fi > Ecouteurs Sans Fil & Ecouteurs Filaire, Audio & Hi-fi",
+        "Tags": "HiFuture, HiFuture Gravity, Écouteurs sans fil, Écouteurs TWS, Bluetooth 5.3, Audio HD, Abidjan, My-eStore"
+    },
+    "short_description": {
+        "seo": {
+            "meta_title": "Acheter HiFuture Gravity à Abidjan | My-eStore",
+            "meta_description": "Achetez les écouteurs HiFuture Gravity au meilleur prix à Abidjan sur My-eStore. Boîtier Powerbank 4000mAh, étanchéité IPX7 et livraison rapide en Côte d'Ivoire."
+        },
+        "text": "Découvrez le HiFuture Gravity. Écouteurs sans fil TWS officiels avec boîtier Powerbank 4000mAh, étanchéité IPX7 et garantie officielle sur My-eStore."
+    },
+    "long_description": {
+        "h1": "HiFuture Gravity : Boîtier Powerbank 4000 mAh, Écouteurs TWS et Étanchéité IPX7",
+        "seo": {
+            "focus_keyword": "HiFuture Gravity Abidjan",
+            "lsi_keywords": [
+                "HiFuture Gravity",
+                "écouteurs HiFuture Gravity",
+                "fiche technique HiFuture Gravity",
+                "prix HiFuture Gravity Abidjan",
+                "My-eStore"
+            ],
+            "meta_title": "HiFuture Gravity : Boîtier 4000mAh & IPX7 | My-eStore",
+            "meta_description": "Découvrez la fiche technique officielle du HiFuture Gravity à Abidjan sur My-eStore. Boîtier 4000mAh Powerbank, étanchéité IPX7 et garantie officielle."
+        },
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Boîtier Banque d'Énergie 4000mAh",
+                    "benefice": "Recharge vos écouteurs et votre téléphone en mobilité."
+                },
+                {
+                    "feature": "Certification Étanchéité IPX7",
+                    "benefice": "Protection totale contre les immersions et la pluie."
+                },
+                {
+                    "feature": "Transducteurs 10mm Bass-Boost",
+                    "benefice": "Rendu sonore fluide avec des basses équilibrées."
+                },
+                {
+                    "feature": "Connexion Bluetooth 5.3",
+                    "benefice": "Liaison sans fil stable avec appairage automatique."
+                }
+            ]
+        },
+        "intro_paragraph": "Le HiFuture Gravity est un équipement audio performant et moderne. Cet appareil convient parfaitement aux amateurs de musique en mobilité. En effet, la connexion sans fil garantit une excellente stabilité de signal au quotidien. De plus, la réduction de bruit améliore la clarté de vos appels téléphoniques. Par ailleurs, le boîtier externe recharge aisément vos appareils nomades en cas de besoin.",
+        "sections": [
+            {
+                "h2_title": "Performance Acoustique et Rendu Sonore",
+                "paragraphs": [
+                    "Le HiFuture Gravity intègre des transducteurs acoustiques de haute précision. Cette configuration restitue un son clair avec des basses bien définies. Les voix restent très intelligibles lors des appels et du streaming. De surcroît, le traitement sonore limite efficacement les distorsions à haut volume. L'expérience d'écoute reste agréable lors de vos déplacements quotidiens. Ainsi, vous profitez pleinement de chaque détail de votre playlist.",
+                    "La conception ergonomique s'adapte naturellement à votre morphologie auditive. Les matériaux souples garantissent un maintien stable lors de vos activités. En effet, la protection contre la transpiration sécurise l'appareil pendant le sport. Vous utilisez votre équipement sonore en toute confiance chaque jour. De plus, la légèreté de la structure réduit la fatigue auditive prolongée. L'utilisation quotidienne devient un véritable plaisir pour vos oreilles."
+                ]
+            },
+            {
+                "h2_title": "Ergonomie Légère et Commandes Intelligentes",
+                "paragraphs": [
+                    "La technologie sans fil offre une connexion instantanée avec votre smartphone. La portée du signal permet une utilisation fluide sans aucune interruption. Son faible temps de latence améliore le visionnage de vos vidéos en ligne. En outre, les commandes intuitives facilitent la gestion des pistes musicales. Vous ajustez le volume d'un simple geste sur votre appareil. Ainsi, l'ergonomie générale simplifie vos usages professionnels et personnels.",
+                    "L'assistant vocal de votre téléphone s'active très rapidement d'une simple pression. Vous passez des commandes vocales sans manipuler votre smartphone directement. Par ailleurs, la gestion des appels téléphoniques s'effectue en toute simplicité. La transmission vocale conserve une grande clarté pour vos correspondants. De plus, cette polyvalence d'usage répond parfaitement à vos besoins quotidiens. Votre quotidien gagne en confort et en efficacité au bureau."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Prolongée et Connexion Stable",
+                "paragraphs": [
+                    "Le système d'alimentation intègre une batterie solide de 4000 mAh. L'autonomie globale permet de tenir plusieurs jours sans effectuer de recharge. Le format compact se transporte facilement dans votre poche ou votre sac. En effet, la recharge rapide s'effectue via un câble USB standard. Vos écouteurs restent toujours prêts à l'emploi pour vos sorties. Ainsi, vous évitez les pannes d'énergie inattendues en plein déplacement.",
+                    "La finition soignée garantit une excellente durabilité au fil des mois. L'appareil résiste parfaitement aux contraintes d'un usage quotidien à Abidjan. De surcroît, le rapport qualité-prix se montre particulièrement avantageux pour vous. La conception robuste assure un fonctionnement irréprochable sur la durée. En résumé, ce modèle représente un investissement audio très judicieux. Cette autonomie généreuse en fait un compagnon particulièrement fiable au fil des semaines."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : HiFuture Gravity",
+                "subtitle": "Spécifications matérielles du HiFuture Gravity."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Modèle",
+                            "valeur": "HiFuture Gravity"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Écouteurs Intra-auriculaires TWS"
+                        },
+                        {
+                            "label": "Poids Total",
+                            "valeur": "2 kg (Boîtier + Écouteurs)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "10 mm dynamiques"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Puce Audio",
+                            "valeur": "Puce Audio TWS Gen 3"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Android, iOS, Windows"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Boîtier",
+                            "valeur": "4000 mAh avec fonction Powerbank"
+                        },
+                        {
+                            "label": "Autonomie Totale",
+                            "valeur": "Jusqu'à 45h avec le boîtier"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "USB Type-C (5V / 2A)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (Portée 10m)"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IPX7 (Étanche immersion 1m)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "HiFuture Official Store",
+                        "url": "https://hifuturegroup.com/products/gravity"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=HiFuture+Gravity"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=HiFuture+Gravity+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "template_version": "3.4"
+}

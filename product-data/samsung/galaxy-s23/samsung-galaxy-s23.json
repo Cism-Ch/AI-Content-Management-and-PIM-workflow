@@ -1,0 +1,467 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s23-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S23 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S23",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2023,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S23",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S23"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s23/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S23"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S23+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S23 6.1\" 120Hz 8Go RAM 3900mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S23",
+        "Name": "Samsung Galaxy S23 - 6.1\" 120Hz - 8Go/128Go - 50MP - 3900mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "380000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S23, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 3900mAh, Snapdragon 8 Gen 2, Galaxy AI, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Blanc, Lavande, Vert, Noir, Gris, Vert Clair",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Alliance du format compact et de la puissance Snapdragon.",
+        "teaser": "Découvrez le Samsung Galaxy S23 avec son écran Dynamic AMOLED 2X de 6.1 pouces 120Hz, son processeur Snapdragon 8 Gen 2 for Galaxy et son triple capteur 50MP.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.1\" Dynamic AMOLED 2X",
+                "benefice": "Dalle 120 Hz très fluide offrant un confort de lecture optimal et une prise en main compacte"
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 2 for Galaxy",
+                "benefice": "Exécution rapide des applications et grande efficacité énergétique au quotidien"
+            },
+            {
+                "feature": "Triple Capteur Photo 50MP OIS",
+                "benefice": "Clichés lumineux en toutes conditions et téléobjectif 3x optique pour les détails"
+            },
+            {
+                "feature": "Batterie 3900 mAh & Charge Rapide",
+                "benefice": "Autonomie équilibrée pour votre journée avec recharge sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone compact de référence alliant grande maniabilité et performances stables.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S23 (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S23 au meilleur prix à Abidjan sur My-eStore. Écran 6.1\" 120Hz, Snapdragon 8 Gen 2, 8Go RAM, 50MP et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S23 128Go : Écran 120Hz & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S23 sur My-eStore. Écran Dynamic AMOLED 6.1 pouces 120Hz, triple capteur 50MP, batterie 3900 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S23",
+            "lsi_keywords": [
+                "Samsung Galaxy S23 Abidjan",
+                "prix Samsung S23",
+                "fiche technique Galaxy S23",
+                "smartphone Samsung compact 5G",
+                "Galaxy S23 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S23 : Format Compact, Écran 120Hz et Puce Snapdragon 8 Gen 2",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S23 propose un affichage Dynamic AMOLED 2X très lumineux. Cette dalle compacte procure une fluidité visuelle continue grâce à son rafraîchissement adaptatif de 120 Hz. De plus, sa puce Snapdragon 8 Gen 2 accélère le traitement de vos requêtes quotidiennes. Le châssis en aluminium renforcé assure une prise en main stable au creux de la paume. Enfin, sa batterie de 3900 mAh garantit une disponibilité durable tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S23",
+            "items": [
+                {
+                    "feature": "Dalle 6.1\" 120Hz Adaptative",
+                    "benefice": "Grand confort de lecture et encombrement réduit en poche"
+                },
+                {
+                    "feature": "Triple Capteur Polyvalent 50MP",
+                    "benefice": "Stabilisation optique et téléobjectif 3x pour des détails nets"
+                },
+                {
+                    "feature": "Processeur Snapdragon 8 Gen 2",
+                    "benefice": "Puissance de calcul optimisée et consommation énergétique maîtrisée"
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions accidentelles"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Lumineux et Ergonomie Compacte",
+                "paragraphs": [
+                    "D'un côté, l'écran de 6.1 pouces permet une manipulation complète et aisée à une seule main. La technologie Dynamic AMOLED offre des couleurs équilibrées pour la consultation de tous vos documents. La protection en verre trempé limite le risque de rayures lors des déplacements fréquents. Par ailleurs, la luminosité maximale autorise une lisibilité claire même en plein soleil en extérieur. Le profil affiné se glisse aisément dans une poche sans encombrement inutile au quotidien. Vous profitez ainsi d'un appareil maniable adapté à un usage professionnel régulier.",
+                    "D'un autre côté, la fréquence d'affichage s'ajuste dynamiquement selon les besoins de chaque application. Ce mécanisme régule la consommation électrique lors de la lecture prolongée de pages internet statiques. Les contrastes profonds mettent en valeur vos photographies ainsi que vos flux vidéo personnels. En outre, la sensibilité tactile garantit une réactivité immédiate pour la saisie de vos courriels. Les finitions soignées témoignent d'une conception pensée pour résister avec fiabilité aux années. Ce modèle concilie compacité pratique et performances d'affichage de premier ordre."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, le processeur moderne exécute les calculs complexes sans ralentissement ni échauffement anormal. Les huit gigaoctets de mémoire vive assurent des passages instantanés entre vos applications ouvertes. L'espace de stockage interne accueille vos fichiers professionnels et vos galeries de photos volumineuses. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des performances stables et régulières. L'optimisation logicielle facilite la navigation fluide à travers vos différents logiciels de productivité. Vous réalisez vos démarches numériques avec une fluidité constante et sécurisante.",
+                    "Dans cette optique, le protocole de charge rapide filaire rétablit promptement la disponibilité de votre téléphone. La compatibilité avec la recharge par induction apporte un confort appréciable sur votre espace de travail. La puce de sécurité protège efficacement l'intégrité de vos identifiants et transactions bancaires courantes. Également, la compatibilité avec le réseau cinq G accélère l'envoi de vos pièces jointes lourdes. Vos appels vidéo restent stables grâce à une gestion optimale de la bande passante. Ce modèle constitue une solution durable et performante pour la productivité mobile."
+                ]
+            },
+            {
+                "h2_title": "Photographie 50MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 50 mégapixels enregistre des scènes nettes et détaillées. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le téléobjectif optique 3x rapproche les éléments distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous partagez des photos soignées directement avec vos collaborateurs ou proches.",
+                    "Enfin, l'accumulateur de 3900 mAh fournit l'énergie requise pour franchir l'ensemble de votre journée. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La fonction de partage d'énergie sans fil dépanne ponctuellement vos accessoires connectés compatibles. Par conséquent, vous conservez une totale sérénité lors de vos trajets professionnels ou personnels. Les matériaux sélectionnés garantissent une tenue exemplaire face aux contraintes du quotidien. Le Galaxy S23 constitue un choix équilibré pour les adeptes de formats compacts."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S23",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S23."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "146.3 x 70.9 x 7.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.168 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus 2, Cadre Armor Aluminum"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.1\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2340 x 1080 pixels (FHD+), 425 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif (48-120Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1750 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 2 for Galaxy (4nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 4.0 (128Go UFS 3.1)"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, 24mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "10 MP, f/2.4, 70mm, Zoom optique 3x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 13mm, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "12 MP, f/2.2, 26mm, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 30 fps, 4K à 60 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "3900 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6E, Bluetooth 5.3, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI disponible via mise à jour logicielle"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s23/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S23"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S23+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Blanc",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "380000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Lavande",
+            "color_en": "Lavender",
+            "color_code": "LAVANDE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "380000",
+            "sku_suffix": "8-GB-128-GB-LAVANDE"
+        },
+        {
+            "color_fr": "Lavande",
+            "color_en": "Lavender",
+            "color_code": "LAVANDE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "8-GB-256-GB-LAVANDE"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "380000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "380000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "380000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Lime",
+            "color_code": "VERT-CLAIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "380000",
+            "sku_suffix": "8-GB-128-GB-VERT-CLAIR"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Lime",
+            "color_code": "VERT-CLAIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "8-GB-256-GB-VERT-CLAIR"
+        }
+    ]
+}

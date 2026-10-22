@@ -1,0 +1,426 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 17T conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 17T",
+        "category": "smartphone",
+        "sub_category": "flagship-killer-t-series",
+        "release_year": 2026,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-17T",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-17T"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-17t/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+17T"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+17T+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi 17T avec puce Dimensity 8500-Ultra, écran AMOLED 144Hz 6.56 pouces, batterie 6500 mAh et optiques Leica."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8500-Ultra (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "6500 mAh",
+        "charging_wired": "Charge turbo 67W HyperCharge",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM ou SIM + eSIM)",
+        "weight": "0.200 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-17T",
+        "Name": "Xiaomi 17T - Dual SIM - Écran 6.56\" 144Hz - (12 Go & 256 Go|512 Go) - 6500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "395000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 17T, Xiaomi Series, Smartphone, Android, 5G, Écran 144Hz, Optiques Leica, 6500mAh, Charge 67W, Dimensity 8500-Ultra, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc | Bleu Ciel | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.200 kg",
+        "Attribute 4 default": "0.200 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Opal White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "440000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Opal White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "440000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "440000",
+            "sku_suffix": "12-GB-512-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "440000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "L'Équilibre Idéal entre Dimensity 8500-Ultra, Écran 144Hz et Batterie 6500 mAh.",
+        "teaser": "Le smartphone polyvalent Xiaomi 17T combine le processeur MediaTek Dimensity 8500-Ultra et une dalle CrystalRes AMOLED 144Hz de 6.56 pouces. Équipé d'optiques professionnelles Leica 50MP et d'une imposante batterie de 6500 mAh avec charge 67W, il assure une fluidité sans faille et une endurance de deux jours.",
+        "top_features_detailed": [
+            {
+                "feature": "Puce Dimensity 8500-Ultra",
+                "benefice": "Architecture 4nm véloce et sobre garantissant une réactivité fluide lors de vos usages intensifs"
+            },
+            {
+                "feature": "Écran CrystalRes 144Hz 6.56\"",
+                "benefice": "Dalle AMOLED 1.5K lumineuse offrant une fluidité d'affichage optimale pour le confort des yeux"
+            },
+            {
+                "feature": "Triple Appareil Photo Leica 50MP",
+                "benefice": "Capteur principal stabilisé avec téléobjectif dédié pour des clichés fidèles de jour comme de nuit"
+            },
+            {
+                "feature": "Batterie Longue Durée 6500 mAh & 67W",
+                "benefice": "Capacité remarquable garantissant plus de quarante-huit heures d'autonomie et recharge rapide"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone équilibré de référence alliant endurance majeure de 6500 mAh, affichage 144Hz et précision photographique Leica.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 17T (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi 17T chez My-eStore. Écran 144Hz 6.56 pouces, puce Dimensity 8500-Ultra, optiques Leica et batterie 6500 mAh au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 17T 256 Go : Dimensity 8500-Ultra & Leica | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 17T chez My-eStore. Écran AMOLED 144Hz 6.56 pouces, puce Dimensity 8500-Ultra, optiques Leica et batterie 6500 mAh à Abidjan.",
+            "focus_keyword": "Xiaomi 17T",
+            "lsi_keywords": [
+                "Xiaomi 17T Abidjan",
+                "Dimensity 8500-Ultra",
+                "smartphone Xiaomi 144Hz",
+                "triple capteur photo Leica",
+                "batterie 6500 mAh charge 67W"
+            ]
+        },
+        "h1": "Xiaomi 17T : Dimensity 8500-Ultra, Écran AMOLED 144Hz et Batterie 6500 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 17T",
+            "items": [
+                {
+                    "feature": "Processeur Dimensity 8500-Ultra",
+                    "benefice": "Puce 4nm puissante et économe gérant aisément vos jeux et applications multitâches"
+                },
+                {
+                    "feature": "Batterie longue durée 6500 mAh",
+                    "benefice": "Autonomie très confortable de deux jours couplée à la charge rapide filaire 67W"
+                },
+                {
+                    "feature": "Écran AMOLED 1.5K 144Hz",
+                    "benefice": "Grand confort de lecture avec une fluidité remarquable et haute luminosité"
+                },
+                {
+                    "feature": "Optiques Leica authentiques",
+                    "benefice": "Triple module 50MP assurant des couleurs naturelles et des contrastes nets"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le Xiaomi 17T propose un équilibre technique remarquable pour tous les utilisateurs. Son écran CrystalRes AMOLED de 6.56 pouces délivre une netteté visuelle constante et soignée. De plus, le taux de rafraîchissement 144Hz fluidifie immédiatement chaque animation à l'écran. Le processeur MediaTek Dimensity 8500-Ultra exécute toutes vos applications sans aucun ralentissement. Enfin, la batterie de 6500 mAh garantit une indépendance énergétique très sécurisante au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Un Affichage CrystalRes 144Hz Confortable et Résistant",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.56 pouces offre une reproduction chromatique d'une grande justesse. En outre, la résolution 1.5K apporte des détails fins pour la lecture de vos textes. La luminosité élevée assure une excellente visibilité même sous un ensoleillement direct. Le verre renforcé protège efficacement la surface avant contre les petits chocs involontaires. Par ailleurs, la fluidité de 144Hz rend chaque défilement agréable sur les réseaux sociaux. Les bordures équilibrées renforcent le confort de prise en main lors de vos sessions.",
+                    "D'autre part, la certification IP68 préserve l'appareil contre les projections d'eau et poussières. Le châssis rigide dissipe naturellement la chaleur émise lors des sollicitations graphiques. Les technologies de confort oculaire réduisent la fatigue visuelle lors des soirées de travail. Ainsi, vous profitez d'un confort de visionnage durable à chaque instant. Le calibrage colorimétrique respecte scrupuleusement la norme cinématographique DCI-P3. L'expérience multimédia gagne en immersion grâce aux deux haut-parleurs stéréo intégrés."
+                ]
+            },
+            {
+                "h2_title": "Puce Dimensity 8500-Ultra et Photographie Co-développée avec Leica",
+                "paragraphs": [
+                    "Tout d'abord, la puce Dimensity 8500-Ultra déploie des calculs réactifs à toute épreuve. L'architecture en 4 nanomètres optimise la consommation d'énergie de façon très efficace. La mémoire vive de 12 Go permet d'alterner sans délai entre vos logiciels professionnels. De surcroît, le moteur graphique gère sereinement les jeux mobiles récents en haute résolution. Le système de refroidissement interne maintient une cadence fluide sans baisse de régime. Le modem 5G offre une navigation web véloce sur tous les réseaux disponibles.",
+                    "De ce fait, le bloc photo Leica capture des images d'un réalisme saisissant. Le capteur principal de 50 mégapixels bénéficie d'une stabilisation optique OIS précise. Le téléobjectif dédié permet de réussir des portraits expressifs avec un flou naturel. Également, l'ultra grand-angle restitue de vastes panoramas sans déformation sur les bords. Le traitement logiciel Leica offre deux styles photographiques pour personnaliser vos prises de vue. L'enregistrement vidéo en haute définition garantit des séquences stables et lumineuses."
+                ]
+            },
+            {
+                "h2_title": "Grande Batterie de 6500 mAh et Charge Rapide 67W",
+                "paragraphs": [
+                    "D'abord, la batterie de 6500 mAh délivre une autonomie remarquable de deux jours complets. Vous menez vos activités professionnelles sans dépendre constamment d'une prise murale. Le chargeur filaire 67W restaure rapidement une autonomie confortable en cas de besoin pressant. De même, la gestion intelligente de charge préserve la longévité de l'accumulateur interne. Le protocole de sécurité surveille la température en continu pendant l'alimentation rapide. Ce niveau d'autonomie apporte une véritable tranquillité d'esprit aux utilisateurs nomades.",
+                    "Enfin, le stockage généreux jusqu'à 512 Go accueille vos nombreux fichiers et vidéos. L'interface Xiaomi HyperOS propose une navigation claire et personnalisable selon vos préférences. La connectivité moderne intègre le Bluetooth 5.4 et le Wi-Fi haute vitesse. Par conséquent, ce modèle complet représente une solution de premier choix à Abidjan. Les finitions métallisées confèrent à l'appareil une allure moderne et soignée. Ce smartphone robuste répondra idéalement aux exigences de votre quotidien en Côte d'Ivoire."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 17T - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "157.6 x 75.2 x 8.17 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "200 g (0.200 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre métallique fin, dos en verre trempé satiné"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Blanc (Opal White), Bleu Ciel (Blue), Violet (Violet)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED CrystalRes 144Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.56 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), 446 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "Jusqu'à 144Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1400 nits (HBM), 3000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 8500-Ultra (4 nm, Octa-core jusqu'à 3.25 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "ARM Mali-G615 MC6"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Triple optique Leica : 50 MP principal (f/1.7, OIS) + 50 MP téléobjectif (50mm, f/1.9) + 12 MP ultra grand-angle (f/2.2)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, HDR, enregistrement 4K"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6500 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 67W HyperCharge"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-17t/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+17T"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+17T+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

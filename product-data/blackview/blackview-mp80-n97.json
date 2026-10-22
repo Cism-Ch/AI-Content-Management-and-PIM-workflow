@@ -1,0 +1,301 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "MP80 (N97)",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/mp80-price"
+            }
+        ],
+        "pricing_reference": "155000",
+        "official_sku": "BV-MP80-N97"
+    },
+    "key_specifications": {
+        "processor": "Intel Alder Lake N97 3.6 GHz",
+        "processor_ghz": "Fréquence 3.6 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "Triple Affichage 4K UHD via 3x HDMI 2.0",
+        "screen_resolution": "Support 4K 60Hz Triple Écran",
+        "battery_capacity": "Alimentation secteur DC 12V 2.5A (30W)",
+        "ram_options": [
+            "16 Go"
+        ],
+        "storage_options": [
+            "512 Go"
+        ],
+        "ram_extension": "N/A (LPDDR5 Haute Vitesse intégrée)",
+        "os": "Windows 11 Pro Officiel préinstallé",
+        "os_skin": "Double Port Ethernet Gigabit & Refroidissement Discret",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Prise Jack Audio Combo 3.5mm & Audio HDMI",
+        "audio_tech": "Son Spatial HD Realtek",
+        "connectivity_nfc": "Wi-Fi 5 Dual-Band & Bluetooth 4.2",
+        "navigation_gps": "N/A",
+        "card_slot": "Emplacement M.2 NVMe/SATA SSD 512 Go",
+        "charging_wired": "Adaptateur Secteur 30W inclus",
+        "dimensions": "87.8 x 87.8 x 37 mm",
+        "weight": "0.214 kg",
+        "graphics": "Intel UHD Graphics",
+        "graphics_card": "Intel UHD Graphics"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MP80-MASTER",
+        "Name": "Blackview MP80 Mini PC",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "35",
+        "Regular price": "155000",
+        "Categories": "Matériels Informatique & Bureautique > Ordinateurs Portable > Mini PC, Matériels Informatique & Bureautique > Ordinateurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview MP80, Mini PC Intel N97, 16GB LPDDR5, 512GB SSD, Triple 4K, Windows 11 Pro, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.214 kg",
+        "Attribute 4 default": "0.214 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview MP80 : Mini PC Cube Intel N97 16 Go LPDDR5 Triple Écran 4K 3x HDMI",
+        "brand_line": "Le Mini PC cube le plus compact de Blackview conçu pour la bureautique et le multi-écrans.",
+        "marketing_conclusion": "Commandez le Blackview MP80 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview MP80 embarque un processeur Intel N97 4 cœurs, 16 Go de RAM LPDDR5, trois sorties HDMI 4K et un format ultra-réduit de 8.7x8.7 cm.",
+        "features": [
+            {
+                "feature": "Format Cube Ultra-Poche 8.7 x 8.7 cm",
+                "benefice": "Encombrement insignifiant pesant seulement 214 grammes."
+            },
+            {
+                "feature": "Processeur Intel N97 & 16 Go LPDDR5",
+                "benefice": "Vitesse d'exécution rapide pour vos logiciels informatiques."
+            },
+            {
+                "feature": "Triple Sortie Écran 4K via 3x HDMI",
+                "benefice": "Affichage simultané sur 3 moniteurs pour votre productivité."
+            },
+            {
+                "feature": "Double Port Ethernet LAN 1G",
+                "benefice": "Sécurisation réseau double réseau pour les professionnels."
+            }
+        ],
+        "slogan_final": "Blackview MP80 — La puissance d'un PC de bureau dans un cube de poche.",
+        "seo": {
+            "meta_title": "Acheter Blackview MP80 Mini PC à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Mini PC cube Blackview MP80 avec puce Intel N97, 16 Go RAM LPDDR5 et triple HDMI 4K. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview MP80, Mini PC cube, prix Abidjan, Intel N97 16GB 512GB Windows 11 Pro"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview MP80",
+            "lsi_keywords": [
+                "Blackview MP80",
+                "Mini PC cube Blackview Abidjan",
+                "Blackview MP80 prix",
+                "mini pc de poche intel n97",
+                "mini pc triple hdmi 4k",
+                "ordinateur fixe cube Côte d'Ivoire",
+                "achat mini pc mp80 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview MP80 Mini PC : Intel N97 16 Go LPDDR5 & 3x HDMI 4K | My-eStore",
+            "meta_description": "Achetez le Mini PC cube Blackview MP80. Processeur Intel N97 4 cœurs 3.6 GHz, 16 Go RAM LPDDR5, 512 Go SSD et triple HDMI 4K. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview MP80 : Spécifications du Mini PC Cube",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT CUBE",
+            "items": [
+                {
+                    "feature": "Dimensions Réduites 8.7x8.7 cm",
+                    "benefice": "Intégration invisible sur n'importe quel bureau."
+                },
+                {
+                    "feature": "Mémoire 16 Go LPDDR5 Rapide",
+                    "benefice": "Fluidité remarquable sur la navigation web."
+                },
+                {
+                    "feature": "Triple Port HDMI 2.0 4K 60Hz",
+                    "benefice": "Productivité visuelle étendue sans adaptateur."
+                },
+                {
+                    "feature": "Double Connexion Ethernet LAN",
+                    "benefice": "Fiabilité réseau optimale pour les serveurs."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview MP80 est un Mini PC cube particulièrement compact et surprenant. Cet équipement convient très bien aux bureaux modernes et bornes interactives en Côte d'Ivoire. Par ailleurs, sa structure miniature de 87.8 mm offre une lisibilité visuelle très épurée. De plus, sa ventilation silencieuse garantit un confort de travail quotidien sans aucune nuisance. Le processeur Intel N97 permet de travailler en toute sérénité sans ralentissement. Son poids plume de 214 grammes garantit une prise en main très pratique. Le système Windows 11 Pro préinstallé simplifie l'accès à vos logiciels. Enfin, cet ordinateur cube constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Processeur Intel N97 et Mémoire LPDDR5",
+                "paragraphs": [
+                    "Le Blackview MP80 intègre une puce Intel N97 à 4 cœurs et 4 threads. Sa fréquence Turbo grimpe à 3.6 GHz pour restituer des détails de calcul impressionnants. De plus, la puce graphique Intel UHD Graphics apporte une fluidité constante sur la vidéo 4K. De surcroît, la mémoire RAM LPDDR5 de 16 Go gère facilement vos multitâches. Les applications de bureau réagissent immédiatement.",
+                    "Le stockage SSD M.2 de 512 Go conserve l'ensemble de vos fichiers volumineux. La rapidité du disque PCIe assure des démarrages de système en quelques secondes seulement. En effet, la conception interne dissipe la chaleur en toutes circonstances. Cette construction robuste protège les puces des vibrations. Vos documents professionnels restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Triple Sortie HDMI 4K, Double LAN et Wi-Fi",
+                "paragraphs": [
+                    "Le Blackview MP80 embarque trois sorties vidéo HDMI 2.0 certifiées 4K UHD. Cet équipement multimédia diffuse une image haute définition d'une précision remarquable sur trois écrans. En outre, la présence de deux ports Ethernet Gigabit s'avère très pratique pour la gestion réseau. Les contrôleurs filaires optimisent le routage des données professionnelles. Ainsi, le module Wi-Fi Dual-Band immortalise vos accès internet sans fil. La vitesse de réseau reste constante.",
+                    "Par ailleurs, les trois ports USB 3.0 permettent de connecter votre clavier et souris. De plus, la prise audio 3.5mm autorise le branchement de vos écouteurs. Également, la fixation VESA fournie permet de fixer le PC derrière un écran. De surcroît, la consommation réduite de 30W garantit un fonctionnement économique. En somme, ce Mini PC cube réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Refroidissement Silencieux et Windows 11 Pro",
+                "paragraphs": [
+                    "Le système de ventilation à haut débit procure une dissipation thermique supérieure. Cette importante technologie vous permet de travailler sans interruption dans le calme. D'ailleurs, l'alimentation externe 30W prend en charge le fonctionnement sans surchauffe au bureau. En effet, le ventilateur intelligent s'adapte automatiquement à la charge de travail. Vos sessions informatiques se poursuivent sans interruption.",
+                    "La silhouette épurée de 37 mm d'hauteur offre une installation sur bureau naturelle et très esthétique. Son poids ultra-léger de 214 grammes témoigne de l'excellence de la miniaturisation. D'autre part, le Blackview MP80 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son format cube en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview MP80",
+                "subtitle": "Spécifications matérielles certifiées du Mini PC cube Blackview MP80."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "87.8 x 87.8 x 37 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.214 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Format cube ultra-compact (Support VESA amovible inclus)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Intel N97 (4 Cœurs / 4 Threads, jusqu'à 3.6 GHz, 6 Mo Cache)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Intel UHD Graphics (1.20 GHz)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5 4800 MHz (Soudée haute vitesse)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go SSD M.2 (SATA/NVMe)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Affichage multi-écrans",
+                            "valeur": "Jusqu'à 3 écrans 4K simultanés"
+                        },
+                        {
+                            "label": "Connecteurs vidéo",
+                            "valeur": "3x HDMI 2.0 (4K@60Hz)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 ac) Dual-Band 2.4G/5G"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 4.2"
+                        },
+                        {
+                            "label": "Réseau filaire (LAN)",
+                            "valeur": "2x Ports Ethernet RJ45 Gigabit (1000 Mbps)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique E/S",
+                    "rows": [
+                        {
+                            "label": "Ports USB",
+                            "valeur": "3x USB 3.0 Type-A"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack combo casque/micro 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Windows 11 Pro 64-bit Officiel préinstallé"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Adaptateur secteur externe DC 12V / 2.5A (30W)"
+                        },
+                        {
+                            "label": "Refroidissement",
+                            "valeur": "Ventilateur silencieux à grande vitesse & dissipateur alu"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/mp80-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

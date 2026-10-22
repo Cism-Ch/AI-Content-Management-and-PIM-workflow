@@ -1,0 +1,435 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Z70 Ultra",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z70+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z70+Ultra+specifications"
+            }
+        ],
+        "pricing_reference": "685000",
+        "official_sku": "ZTE-NUBIA-Z70-ULTRA"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "685000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "24 Go",
+            "storage": "1 To",
+            "price": "895000",
+            "sku_suffix": "1TB-24GB-NOIR"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "685000",
+            "sku_suffix": "256GB-12GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "512GB-16GB-JAUNE"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Starry Night Blue",
+            "color_code": "BLEU",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "512GB-16GB-BLEU"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm) Octa-Core Oryon",
+        "processor_ghz": "Fréquence 4.32 GHz",
+        "screen_size": "6.85 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Sans Bords 1.25mm et Sans Poinçon",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "6150 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go",
+            "24 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X",
+        "os": "Android 15",
+        "os_skin": "Nebula AIOS",
+        "camera_main": "Triple capteur OIS (50 MP 35mm à ouverture variable f/1.59-f/4.0 + 50 MP 13mm + 64 MP 85mm Périscope)",
+        "camera_selfie": "16 MP sous l'écran (UDC 7e génération)",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra et Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & bouton physique photo bi-étage",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS tri-band + GLONASS + BDS + Galileo + QZSS",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge rapide 80W USB-C",
+        "dimensions": "164.3 x 77.1 x 8.6 mm",
+        "weight": "0.228 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-Z70-ULTRA-MASTER",
+        "Name": "ZTE Nubia Z70 Ultra",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "685000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Z70 Ultra, Snapdragon 8 Elite, 35mm Ouverture Variable, IP68 IP69, 6150mAh, 144Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Jaune, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go, 24 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.228 kg",
+        "Attribute 4 default": "0.228 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Z70 Ultra : Snapdragon 8 Elite Optique 35mm Variable et Écran 144Hz",
+        "brand_line": "Le smartphone porte-étendard doté de la puce 3nm Snapdragon 8 Elite, d'une ouverture variable et de l'indice IP69.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Z70 Ultra sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Z70 Ultra réunit la puce Snapdragon 8 Elite (4.32 GHz), un capteur 35mm à ouverture variable f/1.59-f/4.0, un écran 144Hz sans bordure et une batterie 6150 mAh.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Elite (3nm, 4.32 GHz)",
+                "benefice": "Vitesse d'exécution élevée avec architecture CPU Oryon."
+            },
+            {
+                "feature": "Optique 35 mm à Ouverture Variable",
+                "benefice": "Gestion physique de la profondeur de champ de f/1.59 à f/4.0."
+            },
+            {
+                "feature": "Dalle AMOLED 144Hz Sans Bords 1.25mm",
+                "benefice": "Immersion totale avec caméra invisible sous l'écran."
+            },
+            {
+                "feature": "Batterie 6150 mAh Silicium & IP68/IP69",
+                "benefice": "Grande autonomie et étanchéité face aux projections haute pression."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Z70 Ultra — L'équilibre entre ingénierie visuelle et puissance mobile.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Z70 Ultra (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Z70 Ultra avec Snapdragon 8 Elite, optique 35mm variable, écran 144Hz sans trou, 6150 mAh et IP69. Achetez sur My-eStore.",
+            "keywords": "ZTE Nubia Z70 Ultra, Snapdragon 8 Elite Abidjan, photo 35mm variable, IP69 6150mAh, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Z70 Ultra",
+            "lsi_keywords": [
+                "ZTE Nubia Z70 Ultra",
+                "smartphone ZTE Nubia Z70 Ultra Abidjan",
+                "ZTE Nubia Z70 Ultra prix",
+                "téléphone snapdragon 8 elite photo 35mm",
+                "smartphone ouverture variable ip68 ip69",
+                "téléphone écran sans bordure 144hz",
+                "achat smartphone flagship My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Z70 Ultra 256 Go : Snapdragon 8 Elite & 35mm Variable | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Z70 Ultra. Puce Snapdragon 8 Elite (4.32 GHz), capteur 35mm à ouverture variable, écran 144Hz et batterie 6150 mAh. Livraison à Abidjan."
+        },
+        "h1": "ZTE Nubia Z70 Ultra : Snapdragon 8 Elite, Écran 1.5K 144Hz et Batterie 6150 mAh",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA Z70 ULTRA",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite 3nm",
+                    "benefice": "Performances informatiques supérieures cadencées à 4.32 GHz."
+                },
+                {
+                    "feature": "Diaphragme Physique Variable",
+                    "benefice": "Ajustement précis du flou d'arrière-plan optique."
+                },
+                {
+                    "feature": "Écran 144Hz aux Bordures 1.25 mm",
+                    "benefice": "Affichage plein cadre d'une grande fluidité."
+                },
+                {
+                    "feature": "Double Certification IP68 / IP69",
+                    "benefice": "Protection maximale contre l'immersion et l'eau chaude."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Z70 Ultra redéfinit les standards de l'industrie mobile grâce à la puce Qualcomm Snapdragon 8 Elite. Cet équipement haut de gamme comble les exigences des passionnés de photographie et cadres dirigeants à Abidjan. En effet, son objectif de 35 millimètres intègre une ouverture physique réglable de f/1.59 à f/4.0. Sa dalle AMOLED 1.5K de 6.85 pouces fonctionne à 144 Hz avec des bordures de 1.25 millimètre. La batterie au silicium-carbone de 6150 mAh procure une autonomie durable. Par ailleurs, la double certification IP68 et IP69 protège le smartphone face aux liquides sous pression. Enfin, son bouton déclencheur bi-étage apporte une ergonomie photographique intuitive au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Optique 35 mm à Ouverture Variable et Bouton Bi-Étage",
+                "paragraphs": [
+                    "Le ZTE Nubia Z70 Ultra innove avec un diaphragme mécanique physique réglable sur son objectif principal de 35 mm. Ce mécanisme permet de moduler la profondeur de champ optique pour enrichir les portraits sans artifice logiciel. Le capteur ultra grand-angle de 50 Mégapixels et le téléobjectif périscope 64 Mégapixels stabilisé complètent l'ensemble. Ainsi, vos clichés bénéficient d'un piqué uniforme en toute circonstance lumineuse. La caméra frontale de 16 Mégapixels sous l'écran reste totalement invisible.",
+                    "La touche mécanique latérale à double détente permet d'ajuster le point à mi-course avant de déclencher la photo. D'ailleurs, cette sensation tactile rappelle l'usage d'un boîtier reflex professionnel. En outre, la connectivité 5G assure un transfert rapide de vos fichiers RAW haute résolution. Le boîtier aux angles droits procure une prise en main très structurée. Vous disposez d'un instrument photographique haut de gamme."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 8 Elite 3nm et Écran 144Hz Sans Bords",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite gravé en 3 nanomètres intègre les nouveaux cœurs CPU Oryon cadencés jusqu'à 4.32 GHz. Cette architecture assure une vélocité très élevée pour exécuter les tâches d'intelligence artificielle locale. L'écran AMOLED de 6.85 pouces affiche une définition 1.5K avec une fréquence élevée de 144 Hz. La mémoire vive de 12 Go ou 16 Go en LPDDR5X soutient un multitâche intensif sans la moindre latence. Ainsi, vos logiciels professionnels s'exécutent instantanément.",
+                    "Le système d'exploitation Nebula AIOS optimise la consommation d'énergie grâce à des algorithmes prédictifs. En effet, l'interface s'adapte en temps réel à vos habitudes d'utilisation quotidiennes. Également, la puce NFC multifonction simplifie vos transactions sans contact en toute sécurité. Les haut-parleurs stéréo avec son spatial DTS:X Ultra procurent une immersion acoustique remarquable. Vous profitez d'une expérience multimédia très complète."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6150 mAh Silicium, Charge 80W et Indice IP69",
+                "paragraphs": [
+                    "La batterie au silicium-carbone de 6150 mAh délivre une densité énergétique supérieure dans un châssis fin de 8.6 millimètres. Cette autonomie solide couvre facilement plus de deux jours complets d'activité professionnelle. Par ailleurs, la technologie de charge rapide 80W rétablit rapidement la pleine capacité énergétique. En effet, une courte pause suffit pour retrouver une réserve opérationnelle pour la journée. Vos déplacements se déroulent sans contrainte d'alimentation.",
+                    "Le smartphone affiche un poids de 228 grammes avec des finitions en noir classique, ambre et bleu nuit étoilé. D'autre part, la double étanchéité IP68 et IP69 résiste aux immersions complètes et aux nettoyages à l'eau chaude. En somme, le ZTE Nubia Z70 Ultra réunit puissance, étanchéité et triple optique OIS. Vous pouvez valider votre achat en toute sécurité sur le site My-eStore. Le service de livraison rapide dessert la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Z70 Ultra",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Z70 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.3 x 77.1 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.228 kg (228 g)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 et IP69 (résistant à l'eau, à la poussière et aux jets d'eau chaude sous haute pression)"
+                        },
+                        {
+                            "label": "Bouton photo physique",
+                            "valeur": "Touche mécanique bi-étage dédiée avec mise au point tactile à mi-course"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Black), Ambre (Amber), Bleu Nuit (Starry Night Collector)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.8% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED BOE Q9+ 10-bit, 144 Hz, bordures ultra fines de 1.25 mm, UDC sans encoche"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, 20:9, ~430 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "2000 nits (pic), gradation PWM 2592 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core Oryon (2x4.32 GHz Phoenix L + 6x3.53 GHz Phoenix M)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X (débit 9600 Mbps)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 15 avec interface Nebula AIOS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal 35mm",
+                            "valeur": "50 MP (Sony IMX906, 1/1.56\", ouverture mécanique variable f/1.59 à f/4.0, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle 13mm",
+                            "valeur": "50 MP (f/2.0, OmniVision OV50D, 1/2.88\", 122˚, autofocus macro 2.5 cm)"
+                        },
+                        {
+                            "label": "Téléobjectif périscope 85mm",
+                            "valeur": "64 MP (f/2.48, OmniVision OV64B, 1/2.0\", zoom optique 3.3x, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran UDC 7e génération avec IA)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60/120 fps, 1080p à 30/60/120 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6150 mAh (Technologie Silicium-Carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 80W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 5, USB Power Delivery 3.0"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.2 Gen 1 réversible avec sortie DisplayPort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be) tri-band 2x2 MIMO"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE et aptX Lossless"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra et Snapdragon Sound"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales optique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z70+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z70+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

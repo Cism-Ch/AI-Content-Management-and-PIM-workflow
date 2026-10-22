@@ -1,0 +1,311 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Mega 3",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/mega-3-price"
+            }
+        ],
+        "pricing_reference": "215000",
+        "official_sku": "BV-MEGA-3"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "12.1 pouces",
+        "screen_technology": "2.5K IPS LCD 120Hz TUV Rheinland Low Blue Light",
+        "screen_resolution": "2560 x 1600 pixels",
+        "battery_capacity": "8800 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 36 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "50 MP avec Flash LED",
+        "camera_selfie": "13 MP HD",
+        "audio_config": "Quatre Haut-parleurs Stéréo Harman Kardon",
+        "audio_tech": "Son Spatial Quad-Speaker",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "278.45 x 180.45 x 7.4 mm",
+        "weight": "0.555 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MEGA-3-MASTER",
+        "Name": "Blackview Mega 3",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "35",
+        "Regular price": "215000",
+        "Categories": "Tablettes > Blackview > Mega Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Mega 3, Tablette 12.1 pouces, 2.5K, 120Hz, 8800mAh, 33W, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.555 kg",
+        "Attribute 4 default": "0.555 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Mega 3 : Tablette 12.1 Pouces 2.5K 120Hz Helio G99 50 MP 8800 mAh",
+        "brand_line": "La tablette phare grand écran Blackview offrant une expérience visuelle et sonore d'élite.",
+        "marketing_conclusion": "Commandez le Blackview Mega 3 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Mega 3 propose un écran 12.1 pouces 2.5K à 120 Hz, une caméra 50 MP, quatre haut-parleurs Harman Kardon et une batterie 8800 mAh avec charge 33W.",
+        "features": [
+            {
+                "feature": "Écran Géant 12.1\" 2.5K 120Hz",
+                "benefice": "Immersion visuelle totale et grande fluidité de défilement."
+            },
+            {
+                "feature": "Quatre Haut-Parleurs Harman Kardon",
+                "benefice": "Rendu audio spatial immersif d'une clarté impressionnante."
+            },
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Capture de documents ultra-nette et photos détaillées."
+            },
+            {
+                "feature": "Batterie 8800 mAh & Charge 33W",
+                "benefice": "Excellente autonomie pour vos journées de travail intensives."
+            }
+        ],
+        "slogan_final": "Blackview Mega 3 — Le sommet de l'affichage et de la productivité.",
+        "seo": {
+            "meta_title": "Acheter Blackview Mega 3 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Mega 3 avec écran 12.1\" 2.5K 120Hz, caméra 50 MP et haut-parleurs Harman Kardon. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Mega 3, tablette 12.1 pouces, prix Abidjan, 2.5K 120Hz 8800mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Mega 3",
+            "lsi_keywords": [
+                "Blackview Mega 3",
+                "tablette 12.1 pouces Blackview Abidjan",
+                "Blackview Mega 3 prix",
+                "tablette 2.5K 120Hz harman kardon",
+                "tablette 8800 mAh 33W",
+                "tablette travail creation Côte d'Ivoire",
+                "achat tablette 12.1 pouces Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Mega 3 256 Go : Écran 12.1\" 2.5K 120Hz & 8800 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Mega 3. Écran géant 12.1\" 2.5K 120Hz, audio Harman Kardon, batterie 8800 mAh 33W et 12 Go RAM. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Mega 3 : Spécifications de la Tablette 12.1 Pouces 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE L'AFFICHAGE 2.5K",
+            "items": [
+                {
+                    "feature": "Dalle Haute Définition 2.5K 12.1\"",
+                    "benefice": "Netteté extrême pour les professionnels du graphisme."
+                },
+                {
+                    "feature": "Taux de Rafraîchissement 120 Hz",
+                    "benefice": "Navigation ultra-fluide sans aucun ralentissement."
+                },
+                {
+                    "feature": "Audio Spatial Harman Kardon",
+                    "benefice": "Immersion sonore naturelle lors de vos conférences."
+                },
+                {
+                    "feature": "Châssis Affiné 7.4 mm",
+                    "benefice": "Prise en main très confortable malgré le grand format."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Mega 3 est une tablette tactile 12.1 pouces particulièrement avancée et raffinée. Cet équipement convient très bien aux professionnels et créateurs exigeants en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 12.1 pouces en définition 2.5K offre une lisibilité visuelle très claire. De plus, son rafraîchissement de 120 Hz apporte une fluidité constante. La batterie généreuse de 8800 mAh permet de travailler en toute sérénité sans interruption. Son boîtier en aluminium ultra-fin de 7.4 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à tous vos projets. Enfin, cette grande tablette constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 12.1 Pouces 2.5K 120Hz et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview Mega 3 intègre une grande dalle IPS de 12.1 pouces en définition 2.5K. Sa résolution de 2560 x 1600 pixels restitue des détails d'une clarté impressionnante. De plus, la fréquence dynamique de 120 Hz améliore la réactivité tactile de vos gestes. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le châssis en toutes circonstances. Vos projets de création restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Audio Quad Harman Kardon, Appareil 50 MP et 4G LTE",
+                "paragraphs": [
+                    "Le Blackview Mega 3 embarque quatre haut-parleurs stéréo certifiés Harman Kardon. Cet équipement audio restitue un son haute définition d'une puissance remarquable en vidéo. En outre, la caméra arrière de 50 Mégapixels s'avère très pratique pour numériser des croquis clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous lumière ambiante. Ainsi, l'objectif frontal de 13 Mégapixels immortalise vos réunions avec netteté. La précision d'image reste constante.",
+                    "Par ailleurs, le Mode PC transforme l'écran en station de travail complète. De plus, la comptabilité avec le stylet magnétique facilite la prise de notes directes. Également, la connectivité 4G LTE assure des appels et internet sans réseau Wi-Fi. De surcroît, le récepteur GPS intégré garantit un guidage très précis en déplacement. En somme, cette grande tablette réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8800 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 8800 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption durant de longues heures. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la gestion intelligente de la batterie préserve la durée de vie globale. Vos sessions de travail se poursuivent sans interruption.",
+                    "La silhouette épurée de 7.4 mm offre une tenue en main naturelle et très esthétique. Son poids maîtrisé de 555 grammes témoigne de l'ergonomie apportée au grand écran. D'autre part, le Blackview Mega 3 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son affichage 2.5K en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Mega 3",
+                "subtitle": "Spécifications matérielles certifiées de la tablette 12.1 pouces Blackview Mega 3."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "278.45 x 180.45 x 7.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.555 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis en aluminium anodisé ultra-fin"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "12.1 pouces IPS LCD 2.5K"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Refresh"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2560 x 1600 pixels (WQXGA)"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Certification TÜV Rheinland Low Blue Light"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR4X (+24 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP HD"
+                        },
+                        {
+                            "label": "Système audio",
+                            "valeur": "4 haut-parleurs stéréo certifiés Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8800 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0 avec Mode PC)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/mega-3-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

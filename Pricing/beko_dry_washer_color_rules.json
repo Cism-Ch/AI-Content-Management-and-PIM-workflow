@@ -1,0 +1,15 @@
+{
+  "sku_map": {
+    "BEKO_WTLI120S": "Gris Clair",
+    "BEKO_WTV7513BS": "Gris",
+    "BEKO_WTV8612XSS": "Gris",
+    "BEKO_WTV9734XS": "Gris"
+  },
+  "keyword_rules": [
+    ["BS$", "Gris"],
+    ["XS$", "Gris"],
+    ["XSS$", "Gris"],
+    ["WBW", "Blanc"]
+  ],
+  "fallback": "Blanc"
+}

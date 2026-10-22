@@ -1,0 +1,329 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Fort 100",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/fort-100-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "89000",
+        "official_sku": "BV-FORT-100"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G36 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.56 pouces",
+        "screen_technology": "HD+ IPS LCD Gorilla Glass 5",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 3.1",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Haut-parleur Smart-PA intégré",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 10W USB-C",
+        "dimensions": "174.6 x 83 x 10.7 mm",
+        "weight": "0.245 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-FORT-100-MASTER",
+        "Name": "Blackview Fort 100",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "89000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Fort 100, Smartphone Durci, IP68, IP69K, 5000mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.245 kg",
+        "Attribute 4 default": "0.245 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Fort 100 : Le Smartphone Durci Compact et Élégant",
+        "brand_line": "Smartphone résistant Blackview pensé pour une prise en main confortable sur le terrain.",
+        "marketing_conclusion": "Commandez le Blackview Fort 100 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Fort 100 associe un écran 6.56 pouces HD+ Gorilla Glass, un processeur Helio G36, une batterie de 5000 mAh et un châssis fin de 10.7mm certifié IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Puce MediaTek Helio G36 Octa-Core",
+                "benefice": "Réactivité constante pour vos tâches de communication quotidienne."
+            },
+            {
+                "feature": "Écran 6.56\" HD+ Gorilla Glass 5",
+                "benefice": "Protection efficace contre les rayures et les chocs mécaniques."
+            },
+            {
+                "feature": "Épaisseur Fine 10.7 mm & Poids 245g",
+                "benefice": "Tenue en main ergonomique et encombrement réduit en poche."
+            },
+            {
+                "feature": "Étanchéité IP68 & IP69K",
+                "benefice": "Protection certifiée contre l'eau, la poussière et l'immersion."
+            }
+        ],
+        "slogan_final": "Blackview Fort 100 — La robustesse et la compacité réunies.",
+        "seo": {
+            "meta_title": "Acheter Blackview Fort 100 (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci compact Blackview Fort 100 avec écran 6.56, 8Go RAM et étanchéité IP68. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Fort 100, smartphone durci Blackview, prix Abidjan, 4G IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Fort 100",
+            "lsi_keywords": [
+                "Blackview Fort 100",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable compact",
+                "meilleur prix Côte d'Ivoire",
+                "Helio G36 Octa-Core",
+                "batterie 5000 mAh",
+                "IP68 IP69K",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Fort 100 128 Go : Helio G36 & 5000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview Fort 100. Processeur Helio G36, écran 6.56 pouces, 8Go RAM et 128Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Fort 100 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Processeur Helio G36 Octa-Core",
+                    "benefice": "Performances fiables pour les appels et la navigation Internet."
+                },
+                {
+                    "feature": "Conception Affinée 10.7 mm",
+                    "benefice": "Ergonomie moderne facilitant le transport quotidien sans lourdeur."
+                },
+                {
+                    "feature": "Appareil Photo 13 MP HD",
+                    "benefice": "Captures d'images nettes pour vos besoins professionnels ou personnels."
+                },
+                {
+                    "feature": "Certifications de Durabilité IP68/IP69K",
+                    "benefice": "Résistance à l'immersion sous l'eau et protection contre les chutes."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Fort 100 est un smartphone durci compact et performant. Cet appareil convient très bien aux utilisateurs recherchant un téléphone robuste et maniable en Côte d'Ivoire. Par ailleurs, la puce MediaTek Helio G36 garantit une navigation fluide. De plus, son écran HD+ de 6.56 pouces offre une bonne clarté d'affichage. Le verre Corning Gorilla Glass 5 préserve l'écran des chocs et frottements. Sa batterie de 5000 mAh assure une journée entière d'autonomie en usage continu. En effet, sa coque renforcée certifiée IP68 et IP69K résiste à l'eau et à la poussière. Enfin, vous restez serein lors de vos déplacements.",
+        "sections": [
+            {
+                "h2_title": "Performances Matérielles et Mémoire 8 Go",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G36 du Blackview Fort 100 offre une bonne réactivité. Ses huit cœurs cadencés à 2.2 GHz assurent l'exécution rapide de vos applications. De plus, les 8 Go de mémoire RAM permettent un multitâche sans ralentissement. De surcroît, la mémoire interne de 128 Go stocke facilement vos données et photos. L'ajout d'une carte MicroSD jusqu'à 1 To permet d'augmenter votre espace disponible. La stabilité du système reste constante au quotidien.",
+                    "L'écran de 6.56 pouces affiche des images lumineuses et agréables à regarder. Sa résolution HD+ de 1612 x 720 pixels garantit la lisibilité de vos messages. En effet, la vitre tactile réagit avec précision même si vos doigts sont légèrement humides. Le châssis renforcé dissipe les chocs mécaniques en cas de chute accidentelle. Ainsi, votre smartphone conserve toute son intégrité sur le terrain."
+                ]
+            },
+            {
+                "h2_title": "Étanchéité IP68/IP69K et Appareil Photo 13 MP",
+                "paragraphs": [
+                    "Le Blackview Fort 100 bénéficie d'une conception étanche certifiée IP68 et IP69K. Il résiste à une immersion prolongée dans l'eau jusqu'à 1.5 mètre de profondeur. En outre, la conformité aux normes MIL-STD-810H valide sa tolérance aux secousses et variations thermiques. Les bords antidérapants offrent un maintien solide lors des activités professionnelles. L'étanchéité empêche la poussière et la terre d'entrer dans les composants. La durabilité du matériel est ainsi assurée.",
+                    "Par ailleurs, la caméra principale de 13 Mégapixels capture vos clichés avec clarté. Ce capteur convient parfaitement pour documenter vos travaux ou prendre des photos de famille. De plus, la caméra selfie de 8 Mégapixels assure des appels vidéo nets avec vos proches. La puce NFC multifonction vous permet de régler vos achats sans contact. En somme, ce modèle réunit des fonctionnalités très pratiques."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Ergonomie Affinée",
+                "paragraphs": [
+                    "La batterie de 5000 mAh offre une réserve d'énergie très rassurante. Cet accumulateur vous accompagne tout au long de la journée sans nécessiter de recharge intermédiaire. Le port USB-C moderne permet de faire le plein d'énergie simplement et rapidement. En effet, l'interface DokeOS 3.1 optimisée sous Android 13 réduit la consommation des applications inactives. Vous passez vos appels professionnels sans interruption.",
+                    "Avec une épaisseur de seulement 10.7 mm, ce smartphone se glisse facilement dans vos poches. Son poids léger de 245 grammes procure une sensation de confort immédiate en main. Le Blackview Fort 100 représente un choix très judicieux pour s'équiper à Abidjan. En somme, son rapport qualité-prix en fait un produit très attractif. Vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Fort 100",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview Fort 100."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "174.6 x 83 x 10.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.245 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.56 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1612 x 720 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G36 (12 nm) Octa-Core 2.2 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "PowerVR GE8320"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 480 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 3.1"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/fort-100-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

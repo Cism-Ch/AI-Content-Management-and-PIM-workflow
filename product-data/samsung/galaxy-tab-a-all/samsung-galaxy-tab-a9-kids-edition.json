@@ -1,0 +1,373 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab A9 Kids Edition conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab A Series",
+        "commercial_name": "Samsung Galaxy Tab A9 Kids Edition",
+        "category": "tablet",
+        "sub_category": "tablet-kids",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-A9-KIDS-EDITION",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-A9-KIDS-EDITION"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/ph/tablets/galaxy-tab-a/galaxy-tab-a9-kids-edition/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Kids+Edition"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Kids+Edition+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab A9 Kids Edition 8.7 pouces Helio G99 5100mAh Coque Antichoc Enfant"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 (6nm) Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 4 Go",
+        "audio_config": "2 Haut-parleurs stéréo",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "5100 mAh",
+        "charging_wired": "Charge 15W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Slot MicroSD jusqu'à 1 To",
+        "weight": "0.332 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-A9-KIDS-EDITION",
+        "Name": "Samsung Galaxy Tab A9 Kids Edition - Écran 8.7\" - 4 Go/64 Go - Coque Antichoc - 5100mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "155000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab A Series",
+        "Tags": "Samsung, Galaxy Tab A9 Kids Edition, Galaxy Tab A Series, Tablette, Tablette Android, 4G, 5100mAh, Helio G99, Écran 8.7 Pouces, Coque Antichoc, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Bleu Marine",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.332 kg",
+        "Attribute 4 default": "0.332 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi, 4G LTE, Bluetooth 5.3, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Tablette Enfant Compacte 8.7 Pouces avec Coque Antichoc et Univers Samsung Kids.",
+        "teaser": "Découvrez la Samsung Galaxy Tab A9 Kids Edition avec sa dalle compacte de 8.7 pouces, sa coque de protection antichoc avec support ergonomique, sa puce Helio G99 et son univers éducatif sécurisé pour les enfants.",
+        "top_features_detailed": [
+            {
+                "feature": "Coque Antichoc Protectrice Spéciale Enfants",
+                "benefice": "Protection efficace contre les chutes et maintien facile d'une seule main"
+            },
+            {
+                "feature": "Écran Compact 8.7\" & Haut-Parleurs Stéréo",
+                "benefice": "Prise en main adaptée aux enfants et restitution sonore équilibrée"
+            },
+            {
+                "feature": "Puce MediaTek Helio G99 Performante",
+                "benefice": "Jeux d'éveil fluides et animations éducatives sans ralentissement"
+            },
+            {
+                "feature": "Environnement Samsung Kids avec Contrôle Parental",
+                "benefice": "Contenus sécurisés et régulation stricte des temps d'écran"
+            }
+        ],
+        "marketing_conclusion": "La tablette compacte et robuste idéale pour divertir et éveiller les plus jeunes en toute sécurité.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab A9 Kids Edition à Abidjan | My-eStore",
+            "meta_description": "Commandez la Samsung Galaxy Tab A9 Kids Edition à Abidjan sur My-eStore. Écran 8.7\", coque antichoc, Samsung Kids, 5100 mAh, livraison express et garantie.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab A9 Kids Edition",
+                "Galaxy Tab A9 Kids Abidjan",
+                "Galaxy Tab A9 Kids Edition prix",
+                "Tablette compacte enfant Samsung"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab A9 Kids Edition : Écran 8.7\", Coque Antichoc et Batterie 5100 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab A9 Kids Edition : Écran 8.7\" & Coque | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab A9 Kids Edition sur My-eStore. Écran 8.7\", coque antichoc, univers Samsung Kids, batterie 5100 mAh et processeur Helio G99.",
+            "focus_keyword": "Samsung Galaxy Tab A9 Kids Edition",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab A9 Kids Edition Abidjan",
+                "prix Samsung Galaxy Tab A9 Kids",
+                "fiche technique Tab A9 Kids Edition",
+                "tablette enfant compacte Samsung",
+                "Galaxy Tab A9 Kids 64Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab A9 Kids Edition",
+            "items": [
+                {
+                    "feature": "Coque Antichoc avec Poignée et Support",
+                    "benefice": "Protection totale face aux maladresses et inclinaison pratique"
+                },
+                {
+                    "feature": "Dalle Compacte 8.7\" WXGA+",
+                    "benefice": "Gabarit idéal pour les petites mains lors des séances de coloriage"
+                },
+                {
+                    "feature": "Puce Helio G99 & Mémoire 4 Go",
+                    "benefice": "Animation fluide des histoires et puzzles interactifs"
+                },
+                {
+                    "feature": "Contrôle Parental Samsung Kids",
+                    "benefice": "Navigation sécurisée sans achat inopiné ni publicité"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab A9 Kids Edition propose une expérience ludique et protégée pour les jeunes utilisateurs. Sa dalle compacte de 8.7 pouces s'adapte parfaitement aux petites mains. De plus, sa coque protectrice en silicone épais absorbe les chocs du quotidien avec une belle efficacité. L'environnement Samsung Kids offre des parcours éducatifs amusants et entièrement sécurisés. Enfin, sa batterie de 5100 mAh procure une autonomie adaptée pour les activités du week-end.",
+        "sections": [
+            {
+                "h2_title": "Coque Protectrice Colorée et Écran Compact",
+                "paragraphs": [
+                    "D'un côté, la coque antichoc en mousse renforcée protège tous les coins de la tablette face aux maladresses habituelles. Les rebords surélevés empêchent le contact direct de l'écran tactile avec le sol en cas de chute. La béquille rabattable arrière permet de positionner la tablette sur une table pour regarder des vidéos sans la tenir. Par ailleurs, la dalle de huit virgule sept pouces offre une netteté suffisante pour lire des livres d'images. Le format léger de trois cent trente-deux grammes évite d'alourdir le sac de vos enfants lors des voyages. Vous disposez ainsi d'un matériel adapté aux besoins physiques de vos petits.",
+                    "D'un autre côté, les deux haut-parleurs stéréo avec traitement Dolby Atmos restituent les comptines avec une clarté remarquable. Le volume sonore maximal peut être bridé via les réglages pour préserver la santé auditive des jeunes auditeurs. Les touches de commandes sont moulées directement sur la coque pour faciliter leur enfoncement par les enfants. En outre, la matière non toxique de la housse assure une utilisation sans risque pour la santé. Les ouvertures précises permettent un branchement aisé du chargeur sans retirer la protection. Ce modèle combine sécurité mécanique et praticité pour les parents vigilants."
+                ]
+            },
+            {
+                "h2_title": "Univers Éducatif Samsung Kids et Sécurité des Données",
+                "paragraphs": [
+                    "Tout d'abord, l'espace Samsung Kids transforme l'interface en un terrain de jeu ludique rempli de personnages interactifs. Les applications intégrées stimulent la logique, la créativité et l'apprentissage des langues de manière naturelle. Les parents définissent un temps de jeu quotidien qui verrouille automatiquement l'écran une fois la limite atteinte. De surcroît, l'accès aux paramètres généraux et à internet nécessite obligatoirement la saisie d'un code secret parental. Les enfants évoluent dans un écosystème fermé sans risque de télécharger des fichiers inconnus. Vous supervisez les progrès numériques de vos enfants en toute sérénité.",
+                    "Dans cette optique, la caméra avant permet de réaliser des photos amusantes avec des filtres et autocollants virtuels colorés. Le microphone enregistre les chants des enfants avec une fidélité agréable pour garder des souvenirs précieux. La compatibilité avec les plateformes scolaires autorise le suivi des cours en ligne en cas de besoin. Également, la fonction de sauvegarde conserve les dessins réalisés dans une galerie privée protégée. Toutes les options d'achat dans les applications sont désactivées par défaut pour prévenir toute dépense accidentelle. Cet outil pédagogique enrichit les temps calmes de la maison avec douceur."
+                ]
+            },
+            {
+                "h2_title": "Processeur Helio G99 et Batterie Nomade",
+                "paragraphs": [
+                    "D'abord, la puce MediaTek Helio G99 assure une excellente fluidité lors du lancement des livres animés en couleur. La mémoire vive de quatre gigaoctets permet d'ouvrir plusieurs activités éducatives sans ralentir le système. L'espace de stockage peut accueillir une multitude de contes audio et de dessins animés pour les trajets en voiture. De même, la connexion sans fil stable garantit un téléchargement rapide des nouveaux contenus validés par les parents. Le système Android sécurisé protège les données familiales contre les intrusions indésirables. Vous bénéficiez ainsi d'une tablette enfant réactive et durable.",
+                    "Enfin, l'accumulateur de 5100 mAh procure l'énergie requise pour franchir plusieurs sessions de jeu réparties dans la semaine. Le port de charge réversible USB Type-C permet aux plus grands d'apprendre à brancher l'appareil sans forcer. La gestion logicielle met automatiquement en veille la tablette après quelques minutes d'inactivité pour économiser l'énergie. Par conséquent, vous évitez de retrouver l'appareil totalement déchargé au moment de partir en promenade. Les composants électroniques éprouvés ont été testés pour durer au fil des années d'apprentissage. La Galaxy Tab A9 Kids Edition s'affirme comme une compagne éducative fiable."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab A9 Kids Edition",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab A9 Kids Edition</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "211.0 x 124.7 x 8.0 mm (hors coque antichoc)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.332 kg (332 g tablette seule)"
+                        },
+                        {
+                            "label": "Accessoires Spéciaux",
+                            "valeur": "Coque de protection antichoc en mousse renforcée avec béquille / poignée incluse"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "Non certifié étanche, Coque haute résistance aux chocs"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Tablette tactile compacte éducative 8.7 pouces pour enfants"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "8.7 pouces (22.10 cm), 1340 x 800 pixels (WXGA+), 179 ppi, ratio 5:3"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé avec rebord surélevé de la coque"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G99 (6nm) Octa-Core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "64 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 1 To (slot dédié)"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14 évolutif avec environnement Samsung Kids & One UI"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "8 MP, Autofocus, Enregistrement Vidéo 1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "2 MP, Enregistrement Vidéo pour appels vidéo"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "2 Haut-parleurs stéréo, Dolby Atmos, Prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "5100 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge filaire 15W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 13 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "Version Wi-Fi / Version 4G LTE selon modèle"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac) bi-bande, Bluetooth 5.3, GPS"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB Type-C 2.0, Prise Jack 3.5mm, Contrôle Parental Samsung Kids"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/ph/tablets/galaxy-tab-a/galaxy-tab-a9-kids-edition/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Kids+Edition"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Kids+Edition+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "155000",
+            "sku_suffix": "4-GB-64-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "155000",
+            "sku_suffix": "4-GB-64-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "155000",
+            "sku_suffix": "4-GB-64-GB-BLEU-MARINE"
+        }
+    ]
+}

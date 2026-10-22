@@ -1,0 +1,371 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO F8 Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO F Series",
+        "commercial_name": "Xiaomi POCO F8 Pro",
+        "category": "smartphone",
+        "sub_category": "smartphone-flagship-pro",
+        "release_year": 2025,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-F8-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-F8-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone ultra puissant Xiaomi POCO F8 Pro avec écran 2K AMOLED 120Hz processeur Snapdragon 8 Gen 3 batterie 5800 mAh et charge 120W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 16 Go",
+        "audio_config": "Double haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5800 mAh",
+        "charging_wired": "Charge HyperCharge 120W",
+        "navigation_gps": "GPS double bande, GLONASS, Galileo, BDS, NavIC",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.208 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-F8-PRO",
+        "Name": "Xiaomi POCO F8 Pro - Dual SIM - Écran 6.67\" 2K AMOLED 120Hz - (12 Go & 256 Go / 16 Go & 512 Go) - 5800 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "395000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO F8 Pro, POCO F Series, Smartphone, 5G, Écran 2K, Écran 120Hz, Capteur 50MP, OIS, 5800mAh, Charge 120W, Snapdragon 8 Gen 3, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.208 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Stealth Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Ceramic White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "395000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Stealth Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "445000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Ceramic White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "445000",
+            "sku_suffix": "16-GB-512-GB-BLANC"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO F Series",
+        "teaser": "Le smartphone haut de gamme Xiaomi POCO F8 Pro combine la puce Qualcomm Snapdragon 8 Gen 3 et une batterie renforcée de 5800 mAh. Équipé d'un écran AMOLED 2K à 120Hz et d'une recharge HyperCharge 120W, il procure une vitesse d'exécution très fluide pour tous vos usages intensifs à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran AMOLED 2K 120Hz",
+                "benefice": "Définition dense garantissant une finesse visuelle optimale sur vos graphiques."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 3",
+                "benefice": "Capacité de traitement véloce pour exécuter les jeux vidéo les plus exigeants."
+            },
+            {
+                "feature": "Batterie Généreuse 5800 mAh",
+                "benefice": "Autonomie renforcée permettant de tenir deux journées complètes en usage normal."
+            },
+            {
+                "feature": "Charge Éclair 120W",
+                "benefice": "Recharge totale obtenue en une vingtaine de minutes de branchement."
+            }
+        ],
+        "marketing_conclusion": "La référence haut de gamme associant affichage 2K de pointe et grande autonomie de 5800 mAh.",
+        "trust_badges": [
+            "Garantie 12 Mois Constructeur",
+            "Livraison Express à Abidjan",
+            "Service Client My-eStore Réactif"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO F8 Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F8 Pro à Abidjan chez My-eStore. Écran 2K 120Hz, Snapdragon 8 Gen 3 et batterie 5800 mAh au meilleur prix garanti.",
+            "focus_keywords": [
+                "Xiaomi POCO F8 Pro",
+                "POCO F8 Pro prix Abidjan",
+                "smartphone 2K 120W 5800mAh",
+                "POCO F8 Pro Abidjan"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO F8 Pro : 2K 120Hz & Batterie 5800mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO F8 Pro chez My-eStore. Écran AMOLED 2K 120Hz, Snapdragon 8 Gen 3 et batterie 5800 mAh au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO F8 Pro : Écran AMOLED 2K, Snapdragon 8 Gen 3 et Batterie 5800 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO F8 Pro",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 2K 120Hz",
+                    "benefice": "Définition dense garantissant une finesse visuelle optimale sur vos graphiques."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Gen 3",
+                    "benefice": "Capacité de traitement très fluide pour exécuter les jeux vidéo les plus exigeants."
+                },
+                {
+                    "feature": "Batterie Généreuse 5800 mAh",
+                    "benefice": "Autonomie renforcée permettant de tenir plus de deux jours en usage normal."
+                },
+                {
+                    "feature": "Charge Éclair 120W",
+                    "benefice": "Recharge totale obtenue en une vingtaine de minutes de branchement."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO F8 Pro concilie puissance graphique et autonomie solide dans un design soigné. Sa dalle AMOLED 2K de 6.67 pouces affiche des détails ciselés avec un contraste appréciable. De plus, la fréquence adaptative de 120Hz assure une navigation tactile très douce sur chaque application. La puce Qualcomm Snapdragon 8 Gen 3 exécute par ailleurs les calculs professionnels sans ralentissement. Enfin, la batterie de 5800 mAh avec charge 120W garantit une autonomie pérenne à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Affichage 2K AMOLED Lumineux et Conception Haut de Gamme",
+                "paragraphs": [
+                    "L'écran Flow AMOLED de 6.67 pouces propose une résolution 2K assurant une grande clarté. La finesse d'affichage supérieure permet de visualiser chaque document avec un piqué net et précis. De surcroît, le taux de rafraîchissement adaptatif de 120Hz fluidifie le guidage tactile des pages web. La luminosité maximale autorise une lecture agréable en plein air sous un fort ensoleillement tropical. La technologie de gradation PWM protège en outre les yeux des scintillements lors des lectures nocturnes. Vous profitez d'une précision graphique très soignée pour vos travaux bureautiques et vos loisirs réguliers.",
+                    "Le dos en finition céramique texturée apporte une sensation agréable au creux de la paume. Le châssis en alliage résistant renforce la solidité générale face aux sollicitations du quotidien nomade. Par conséquent, la prise en main demeure stable et confortable lors de vos longs trajets. Les deux haut-parleurs stéréo symétriques diffusent un son équilibré pour vos réunions vidéo à distance. Cette spatialisation sonore enrichit donc l'écoute de vos morceaux musicaux et de vos séries préférées. Cet équipement multimédia procure un confort d'usage constant dans toutes vos activités connectées journalières."
+                ]
+            },
+            {
+                "h2_title": "Optique Stabilisée 50 MP et Traitement Photographique Net",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 mégapixels utilise une optique lumineuse à large ouverture. La stabilisation optique OIS neutralise les légers mouvements de la main pour des clichés nets. Ainsi, les scènes urbaines et portraits conservent un niveau de détail précis sans flou résiduel. Le traitement numérique intégré équilibre automatiquement les zones d'ombre et de vive lumière ambiante. Le mode portrait dynamique applique en conséquence un détourage soigné autour des personnes photographiées. Cet enregistrement équilibré valorise chaque souvenir avec un rendu naturel des teintes de peau.",
+                    "L'objectif ultra grand-angle permet de cadrer de vastes paysages lors de vos déplacements extérieurs. La caméra frontale haute définition garantit des appels vidéo clairs avec vos collaborateurs professionnels. De plus, l'intelligence logicielle accélère la mise au point automatique sur les sujets en déplacement. L'enregistrement vidéo 8K restitue des textures fines adaptées aux exigences des créateurs de contenu. Vous disposez dès lors d'un studio photographique mobile pour documenter tous vos projets importants. La capture réactive évite de manquer les moments spontanés lors de vos réunions de famille."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon 8 Gen 3 et Batterie Solide de 5800 mAh",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Gen 3 traite les flux multitâches avec une grande aisance. Sa gravure en 4 nanomètres réduit la consommation électrique lors des calculs denses prolongés. En effet, les logiciels de retouche et les jeux compétitifs tournent avec une fluidité continue. Le circuit de refroidissement liquide évacue la chaleur efficacement durant les sessions intensives de travail. La mémoire vive généreuse permet également de maintenir ouvertes de multiples applications en arrière-plan. Vous conservez une productivité élevée sans ralentissement tout au long de votre journée ouvrée.",
+                    "La batterie conséquente de 5800 mAh offre une réserve énergétique rassurante pour deux jours complets. La technologie HyperCharge 120W recharge entièrement l'accumulateur en une vingtaine de minutes de branchement. Par ailleurs, le double circuit de contrôle Surge veille en permanence sur la sécurité électrique. Cette régulation thermique prévient tout échauffement excessif pendant les séances de recharge rapide. Cet ensemble de spécifications confirme assurément l'intérêt du POCO F8 Pro pour le public ivoirien. Le Xiaomi POCO F8 Pro constitue un équipement moderne combinant puissance, confort et autonomie accrue."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO F8 Pro - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.0 x 75.0 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "208 g (0.208 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre métallique, dos en finition céramique texturée"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Stealth Black), Blanc (Ceramic White)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED 2K, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+, 4500 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~89.2% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2K (1440 x 3200 pixels, ratio 20:9, ~526 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 3 (4 nm, Octa-core jusqu'à 3.3 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 750"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "12 Go + 256 Go / 16 Go + 512 Go (LPDDR5X, UFS 4.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP (f/1.6, 1/1.55\", OIS, Dual Pixel PDAF)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 118°)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4, HDR)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 24 fps, 4K jusqu'à 60 fps, gyroscope-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5800 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "HyperCharge 120W (100% en ~21 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 7 (802.11 be), Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale optique sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

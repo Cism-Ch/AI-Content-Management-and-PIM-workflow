@@ -1,0 +1,419 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-z-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy Z Flip 7 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Z Series",
+        "commercial_name": "Samsung Galaxy Z Flip 7",
+        "category": "smartphone",
+        "sub_category": "foldable-clamshell",
+        "release_year": 2025,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-Z-FLIP-7",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-Z-FLIP-7"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip7/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+7"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+7+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Z Flip 7 6.9\" Pliable 120Hz 12Go RAM 4300mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-Z-FLIP-7",
+        "Name": "Samsung Galaxy Z Flip 7 - 6.9\" Pliable 120Hz - 12Go/256Go - 50MP - 4300mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "590000",
+        "Categories": "Smartphones > Samsung > Galaxy Z Series",
+        "Tags": "Samsung, Galaxy Z Flip 7, Galaxy Z Series, Smartphone Pliable, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 4300mAh, Galaxy AI, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Bleu, Noir, Rouge, Vert",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Nouvelle Génération Pliable avec Grand Écran 6.9\" et Batterie 4300mAh.",
+        "teaser": "Découvrez le Samsung Galaxy Z Flip 7 avec son écran pliable agrandi de 6.9 pouces, son écran externe étendu, son capteur photo 50MP et sa batterie renforcée de 4300 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Pliable Agrandie 6.9\" AMOLED",
+                "benefice": "Confort visuel maximal et immersion totale pour la lecture et les vidéos"
+            },
+            {
+                "feature": "Puce Nouvelle Génération 3nm",
+                "benefice": "Traitement réactif des fonctionnalités d'intelligence artificielle et fluidité accrue"
+            },
+            {
+                "feature": "Capteur Photo 50MP & FlexCam",
+                "benefice": "Photographies précises et cadrage mains libres facilité sous tous les angles"
+            },
+            {
+                "feature": "Batterie 4300 mAh Haute Capacité",
+                "benefice": "Autonomie sécurisante pour couvrir l'ensemble de vos journées intenses"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone pliable à clapet nouvelle génération alliant grand affichage et compacité ergonomique.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Z Flip 7 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy Z Flip 7 au meilleur prix à Abidjan sur My-eStore. Écran pliable 6.9\" 120Hz, 12Go RAM, 50MP, 4300mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Z Flip 7 256Go : Écran 6.9\" & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy Z Flip 7 sur My-eStore. Écran pliable 6.9 pouces 120Hz, capteur 50MP, puce 3nm, batterie 4300 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy Z Flip 7",
+            "lsi_keywords": [
+                "Samsung Galaxy Z Flip 7 Abidjan",
+                "prix Samsung Z Flip 7",
+                "fiche technique Galaxy Z Flip 7",
+                "smartphone pliable compact 5G",
+                "Galaxy Z Flip 7 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy Z Flip 7 : Écran Pliable 6.9\", Puce 3nm et Batterie 4300mAh",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy Z Flip 7 adopte une dalle pliable agrandie de 6.9 pouces. Cet affichage procure une fluidité visuelle exemplaire grâce à son rafraîchissement adaptatif de 120 Hz. De plus, sa puce moderne gravée en 3nm accélère le traitement de vos requêtes quotidiennes. Le châssis en aluminium renforcé assure une prise en main stable au creux de la paume. Enfin, sa batterie de 4300 mAh garantit une disponibilité durable tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy Z Flip 7",
+            "items": [
+                {
+                    "feature": "Dalle Pliable 6.9\" 120Hz Lumineuse",
+                    "benefice": "Grand confort de visionnage et compacité de poche une fois replié"
+                },
+                {
+                    "feature": "Capteur Photo 50MP avec OIS",
+                    "benefice": "Clichés lumineux de jour comme de nuit avec stabilisation optique"
+                },
+                {
+                    "feature": "Écran Externe Panoramique",
+                    "benefice": "Gestion rapide des alertes prioritaires sans ouvrir l'appareil"
+                },
+                {
+                    "feature": "Protection Certifiée IP48",
+                    "benefice": "Résistance éprouvée contre l'eau et les poussières du quotidien"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Grand Affichage Pliable 6.9 Pouces et Écran Externe",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 6.9 pouces offre un espace confortable pour la lecture de tableaux professionnels. La technologie Dynamic AMOLED procure des contrastes soutenus et des couleurs éclatantes pour vos présentations. La protection en verre trempé renforce la dalle face aux frottements et micro-rayures de la journée. Par ailleurs, la luminosité maximale autorise une lisibilité claire même en plein soleil en extérieur. Le profil affiné se glisse aisément dans une poche sans encombrement inutile au quotidien. Vous profitez ainsi d'un appareil maniable adapté à un usage professionnel régulier.",
+                    "D'un autre côté, l'écran externe panoramique permet de contrôler vos notifications prioritaires en un geste simple. Cet affichage d'appoint réduit les sollicitations en proposant des réponses préenregistrées pertinentes. Les contrastes profonds mettent en valeur vos photographies ainsi que vos flux vidéo personnels. En outre, la sensibilité tactile garantit une réactivité immédiate pour la saisie de vos messages. Les finitions soignées témoignent d'une conception pensée pour résister avec fiabilité aux années. Ce modèle concilie compacité pratique et performances d'affichage de premier ordre."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, le processeur moderne exécute les calculs complexes sans ralentissement ni échauffement anormal. Les douze gigaoctets de mémoire vive assurent des passages instantanés entre vos applications ouvertes. L'espace de stockage interne accueille vos fichiers professionnels et vos galeries de photos volumineuses. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des performances stables et régulières. L'optimisation logicielle facilite la navigation fluide à travers vos différents logiciels de productivité. Vous réalisez vos démarches numériques avec une fluidité constante et sécurisante.",
+                    "Dans cette optique, le protocole de charge rapide filaire rétablit promptement la disponibilité de votre téléphone. La compatibilité avec la recharge par induction apporte un confort appréciable sur votre espace de travail. La puce de sécurité protège efficacement l'intégrité de vos identifiants et transactions bancaires courantes. Également, la compatibilité avec le réseau cinq G accélère l'envoi de vos pièces jointes lourdes. Vos appels vidéo restent stables grâce à une gestion optimale de la bande passante. Ce modèle constitue une solution durable et performante pour la productivité mobile."
+                ]
+            },
+            {
+                "h2_title": "Photographie 50MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 50 mégapixels enregistre des scènes nettes et très détaillées en toutes conditions. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le zoom assisté par traitement numérique rapproche les éléments distants sans dégradation de la netteté. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode FlexCam autorise des prises de vue mains libres stables sous différents angles de pose. Vous partagez des photos soignées directement avec vos collaborateurs ou proches.",
+                    "Enfin, l'accumulateur de 4300 mAh fournit l'énergie requise pour franchir l'ensemble de votre journée. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La fonction de partage d'énergie sans fil dépanne ponctuellement vos accessoires connectés compatibles. Par conséquent, vous conservez une totale sérénité lors de vos trajets professionnels ou personnels. Les matériaux sélectionnés garantissent une tenue exemplaire face aux contraintes du quotidien. Le Galaxy Z Flip 7 constitue un choix équilibré pour les adeptes de formats pliables compacts."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Z Flip 7",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Z Flip 7."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Déplié",
+                            "valeur": "166.7 x 75.2 x 6.5 mm"
+                        },
+                        {
+                            "label": "Dimensions Plié",
+                            "valeur": "85.5 x 75.2 x 13.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.188 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus 2, Cadre Enhanced Armor Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP48 (Résistant à l'eau jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Principal (Interne)",
+                            "valeur": "6.9\" Foldable Dynamic AMOLED 2X, LTPO (1-120Hz), 2640 x 1080 pixels"
+                        },
+                        {
+                            "label": "Écran Secondaire (Externe)",
+                            "valeur": "Écran externe Super AMOLED panoramique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Puce Hautes Performances 3nm Octa-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, 23mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Selfie (Interne)",
+                            "valeur": "10 MP, f/2.2, 23mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4300 mAh Li-Po double cellule"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Fast Wireless Charging 2.0"
+                        },
+                        {
+                            "label": "Partage d'Énergie",
+                            "valeur": "4.5W Wireless PowerShare inversé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI (Optimisé FlexMode)"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "7 ans de mises à jour système et sécurité garanties"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI intégrée (Interprète, Photo Assist, Live Translate)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip7/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+7"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+7+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue Shadow",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "590000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue Shadow",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Jet Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "590000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Jet Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coral Red",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "590000",
+            "sku_suffix": "12-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coral Red",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "12-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "590000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "765000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "sku_map": {},
+  "keyword_rules": [
+    ["MIRROR", "Miroir Noir (Verre Trempé)"],
+    ["JFS-24N1", "Blanc"],
+    ["INV-J24-N1", "Blanc"],
+    ["-N1", "Blanc"]
+  ],
+  "fallback": "Blanc"
+}

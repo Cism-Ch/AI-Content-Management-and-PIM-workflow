@@ -1,0 +1,305 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Zeno 1",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Support Store",
+                "url": "https://support.blackview.hk/product/zeno1"
+            }
+        ],
+        "pricing_reference": "65000",
+        "official_sku": "BV-ZENO-1"
+    },
+    "key_specifications": {
+        "processor": "Allwinner A133P Quad-Core",
+        "processor_ghz": "Fréquence 1.8 GHz",
+        "screen_size": "8.0 pouces",
+        "screen_technology": "HD IPS LCD avec Protection Oculaire",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "6000 mAh",
+        "ram_options": [
+            "4 Go",
+            "6 Go"
+        ],
+        "storage_options": [
+            "64 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 12 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS_P 3.0",
+        "camera_main": "5 MP avec Flash LED",
+        "camera_selfie": "2 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo Box",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "N/A (Connexion Wi-Fi 6)",
+        "card_slot": "Port MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "198.6 x 125.9 x 8.2 mm",
+        "weight": "0.336 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ZENO-1-MASTER",
+        "Name": "Blackview Zeno 1",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "65000",
+        "Categories": "Tablettes > Blackview > Zeno Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Zeno 1, Tablette 8 pouces, Wi-Fi 6, 6000mAh, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Orange | Noir | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6. Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.336 kg",
+        "Attribute 4 default": "0.336 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Zeno 1 : Tablette 8 Pouces HD Wi-Fi 6 6 Go RAM 256 Go 6000 mAh",
+        "brand_line": "La tablette tactile compacte et performante Blackview conçue pour les loisirs et la lecture nomade.",
+        "marketing_conclusion": "Commandez la Blackview Zeno 1 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Zeno 1 propose un écran de 8.0 pouces HD, la connectivité sans fil Wi-Fi 6, jusqu'à 256 Go de stockage et une batterie de 6000 mAh.",
+        "features": [
+            {
+                "feature": "Format Compact & Écran 8.0\" HD",
+                "benefice": "Prise en main très aisée pour la lecture d'e-books."
+            },
+            {
+                "feature": "Connexion sans fil Wi-Fi 6",
+                "benefice": "Streaming fluide et chargements rapides à la maison."
+            },
+            {
+                "feature": "Mémoire Stockage de 256 Go",
+                "benefice": "Espace suffisant pour toutes vos applications et films."
+            },
+            {
+                "feature": "Batterie Généreuse 6000 mAh",
+                "benefice": "Autonomie durable pour toute la journée de transport."
+            }
+        ],
+        "slogan_final": "Blackview Zeno 1 — Le divertissement nomade en toute simplicité.",
+        "seo": {
+            "meta_title": "Acheter Blackview Zeno 1 (6Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette compacte Blackview Zeno 1 avec écran 8.0\" HD, Wi-Fi 6 et batterie 6000 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Zeno 1, tablette 8 pouces, prix Abidjan, wifi 6 6000mAh 256GB"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Zeno 1",
+            "lsi_keywords": [
+                "Blackview Zeno 1",
+                "tablette compacte Blackview Abidjan",
+                "Blackview Zeno 1 prix",
+                "tablette 8 pouces pas cher",
+                "tablette wifi 6 6000 mAh",
+                "tablette de lecture Côte d'Ivoire",
+                "achat tablette Tab Zeno 1 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Zeno 1 256 Go : Écran 8.0\" HD & 6000 mAh | My-eStore",
+            "meta_description": "Achetez la tablette compacte Blackview Zeno 1. Écran 8.0\" HD IPS, Wi-Fi 6 rapide, 256 Go de stockage et batterie 6000 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Zeno 1 : Spécifications de la Tablette Compacte 8 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT COMPACT",
+            "items": [
+                {
+                    "feature": "Format Éducatif Compact 8.0 Pouces",
+                    "benefice": "Tenue légère pour les longs moments de lecture."
+                },
+                {
+                    "feature": "Vitesse Réseau Wi-Fi 6 Moderne",
+                    "benefice": "Téléchargements fluides et streaming de cours net."
+                },
+                {
+                    "feature": "Double Haut-Parleur Stéréo Box",
+                    "benefice": "Rendu audio clair pour vos musiques et vidéos."
+                },
+                {
+                    "feature": "Batterie Longue Durée 6000 mAh",
+                    "benefice": "Autonomie remarquable sur plusieurs jours de transport."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Zeno 1 est une tablette tactile 8.0 pouces particulièrement compacte et pratique. Cet équipement convient très bien aux adeptes de lecture et étudiants en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 8.0 pouces en définition HD offre une lisibilité visuelle très claire. De plus, son filtre de lumière bleue protège la vue des plus jeunes. La batterie généreuse de 6000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.2 mm garantit une prise en main très agréable. L'interface DokeOS_P 3.0 sous Android 13 simplifie l'accès à tous vos documents. Enfin, cette tablette pratique constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 8.0 Pouces HD et Puce Quad-Core",
+                "paragraphs": [
+                    "La Blackview Zeno 1 intègre une dalle IPS de 8.0 pouces en définition HD. Sa résolution de 1280 x 800 pixels restitue des détails d'une clarté impressionnante. De plus, la luminosité s'ajuste intelligemment pour s'adapter à la lecture nocturne. De surcroît, le processeur Quad-Core cadencé à 1.8 GHz gère facilement vos logiciels d'étude. Les 6 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 64 Go ou 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, la connectivité Wi-Fi 6 assure des vitesses de téléchargement accrues en ligne. Cette conception soignée protège le châssis en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 5 MP, Dual Speakers et Wi-Fi 6",
+                "paragraphs": [
+                    "La Blackview Zeno 1 embarque un capteur photo arrière de 5 Mégapixels avec Flash LED. Cet objectif capture des images claires pour enregistrer vos notes de cours. En outre, la caméra frontale de 2 Mégapixels s'avère très pratique pour les réunions familiales. Les haut-parleurs stéréo intégrés optimisent la restitution sonore avec netteté. Ainsi, la prise jack 3.5mm immortalise vos sessions d'écoute au casque. La précision audio reste constante.",
+                    "Par ailleurs, le système Android 13 offre des paramètres de sécurité modernes. De plus, le mode de contrôle du temps d'écran protège l'usage des enfants. Également, l'association Bluetooth permet de relier vos accessoires sans fil en un instant. De surcroît, la faible consommation d'énergie préserve l'autonomie globale. En somme, cette tablette compacte réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 6000 mAh et Port USB-C",
+                "paragraphs": [
+                    "La batterie intégrée de 6000 mAh procure une autonomie énergétique supérieure. Cette réserve efficace vous permet de l'utiliser durant plusieurs heures de cours. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble fourni. En effet, la gestion thermique intelligente préserve la durée de vie du composant. Vos activités de divertissement se poursuivent sans interruption.",
+                    "La silhouette épurée de 8.2 mm offre une tenue en main naturelle et très confortable. Son poids maîtrisé de 336 grammes témoigne du soin apporté à l'ergonomie. D'autre part, la Blackview Zeno 1 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son Wi-Fi 6 en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Zeno 1",
+                "subtitle": "Spécifications matérielles certifiées de la tablette compacte Blackview Zeno 1."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "198.6 x 125.9 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.336 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis polymère renforcé texturé"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Orange, Noir, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "8.0 pouces IPS LCD HD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Protection des Yeux (Filtre lumière bleue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Allwinner A133P Quad-Core 1.8 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "PowerVR GE8300"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go (+6 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go / 256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "5 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "2 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo Box"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "6000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Connectivité sans fil",
+                            "valeur": "Wi-Fi 6 (802.11 ax) Dual-Band 2.4G/5G, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack casque 3.5 mm"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS_P 3.0)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Support Store",
+                        "url": "https://support.blackview.hk/product/zeno1"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

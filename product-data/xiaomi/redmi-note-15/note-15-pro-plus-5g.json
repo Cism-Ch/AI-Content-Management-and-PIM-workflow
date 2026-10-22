@@ -1,0 +1,406 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-15-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 15 Pro+ 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 15 Pro+ 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-flagship-pro-plus",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-15-PRO-PLUS-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-15-PRO-PLUS-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+Plus+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+Plus+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone haut de gamme Xiaomi Redmi Note 15 Pro+ 5G avec capteur 50MP OIS charge 120W HyperCharge batterie 6000 mAh et processeur Dimensity 9400."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 9400 (3 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "6000 mAh",
+        "charging_wired": "Charge HyperCharge 120W",
+        "navigation_gps": "GPS double bande, GLONASS, Galileo, BDS, NavIC",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.208 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-15-PRO-PLUS-5G",
+        "Name": "Xiaomi Redmi Note 15 Pro+ 5G - Dual SIM - Écran 6.67\" AMOLED 1.5K 120Hz Incurvé - (8 Go & 256 Go / 12 Go & 512 Go) - 6000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "285000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 15 Pro+ 5G, Redmi Note 15, Smartphone, 5G, Écran AMOLED 1.5K, Écran 120Hz, Capteur 50MP, OIS, IP68, 6000mAh, Charge 120W, Dimensity 9400, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc | Or",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.208 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Carbon Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Pearl White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Champagne Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-OR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Carbon Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "325000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Pearl White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "325000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Champagne Gold",
+            "color_code": "OR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "325000",
+            "sku_suffix": "12-GB-512-GB-OR"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 15",
+        "teaser": "Le Xiaomi Redmi Note 15 Pro+ 5G concentre une batterie de 6000 mAh et une recharge ultra-rapide 120W. Doté du puissant processeur Dimensity 9400 et d'un écran AMOLED incurvé 1.5K, il propose des performances de haut vol.",
+        "top_features_detailed": [
+            {
+                "label": "Charge HyperCharge 120W",
+                "detail": "Restauration complète de l'énergie en une vingtaine de minutes de branchement sur secteur."
+            },
+            {
+                "label": "Batterie Massive 6000 mAh",
+                "detail": "Autonomie étendue de deux journées pour supporter les usages les plus intensifs sans faiblir."
+            },
+            {
+                "label": "Écran AMOLED Incurvé 1.5K",
+                "detail": "Prise en main ergonomique et immersion visuelle enrichie protégée par une étanchéité IP68."
+            },
+            {
+                "label": "Capteur 50 MP OIS et Téléobjectif",
+                "detail": "Rendu lumineux très fidèle avec stabilisation optique avancée et téléobjectif dédié pour portraits."
+            }
+        ],
+        "marketing_conclusion": "Le fleuron de la gamme Redmi Note, combinant recharge éclair 120W, autonomie de deux jours et étanchéité certifiée IP68.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 15 Pro+ 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi Note 15 Pro+ 5G chez My-eStore. Écran AMOLED 1.5K incurvé, charge 120W et batterie 6000 mAh au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 15 Pro+ 5G : 120W & 6000 mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 15 Pro+ 5G chez My-eStore. Écran AMOLED 1.5K incurvé, charge 120W et batterie 6000 mAh au meilleur prix à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 15 Pro+ 5G",
+            "lsi_keywords": [
+                "Redmi Note 15 Pro Plus Abidjan",
+                "smartphone charge 120W Xiaomi",
+                "Dimensity 9400 Xiaomi",
+                "ecran incurve AMOLED 1.5K",
+                "batterie 6000 mAh telephone"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 15 Pro+ 5G : Batterie 6000 mAh, Charge 120W et Écran AMOLED 1.5K",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi Note 15 Pro+ 5G",
+            "items": [
+                {
+                    "feature": "Charge Turbo 120W & 6000 mAh",
+                    "benefice": "Batterie longue durée de deux jours rechargée à 100% en une vingtaine de minutes."
+                },
+                {
+                    "feature": "Écran AMOLED Incurvé 1.5K",
+                    "benefice": "Définition fine 120Hz et prise en main ergonomique protégée par étanchéité IP68."
+                },
+                {
+                    "feature": "Capteur 50 MP OIS & Téléobjectif",
+                    "benefice": "Module stabilisé haute précision avec téléobjectif dédié pour des portraits valorisants."
+                },
+                {
+                    "feature": "Puce Dimensity 9400 3 nm",
+                    "benefice": "Puissance de calcul véloce et chambre à vapeur assurant une fluidité continue."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi Note 15 Pro+ 5G élève les standards d'endurance et de vélocité mobile. En effet, sa batterie imposante de 6000 mAh alimente vos journées les plus intenses sans faiblir. Son écran AMOLED incurvé 1.5K procure une immersion visuelle remarquable lors de chaque consultation. De plus, la technologie HyperCharge 120W redonne une énergie complète en un temps très réduit. La puce Dimensity 9400 assure ainsi un traitement réactif de toutes vos sollicitations à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Écran Incurvé AMOLED 1.5K et Résistance Étanche IP68",
+                "paragraphs": [
+                    "La dalle AMOLED incurvée de 6.67 pouces diffuse une définition 1.5K d'une netteté exemplaire. Les courbes latérales adoucies facilitent ainsi la prise en main lors d'une utilisation d'une seule main. La fréquence dynamique de 120Hz garantit des animations soyeuses sur l'ensemble des menus interactifs. De surcroît, la luminosité maximale autorise une lisibilité impeccable sous les rayons intenses du soleil. Le verre Corning Gorilla Glass Victus 2 protège la face avant contre les impacts imprévus. Les bordures réduites renforcent l'immersion lors du visionnage de tutoriels ou de créations graphiques.",
+                    "Le châssis hermétique dispose d'une certification IP68 protégeant l'électronique contre l'immersion et la pluie. Cette barrière protectrice élimine par conséquent toute inquiétude lors des déplacements pendant la saison pluvieuse. La surface tactile conserve une réactivité exacte même sous des doigts légèrement humides. En outre, le lecteur biométrique intégré sous l'écran sécurise immédiatement l'accès à vos dossiers. Deux haut-parleurs stéréo symétriques délivrent une spatialisation acoustique soignée certifiée par Dolby Atmos. Cette conception haut de gamme répond idéalement aux attentes des utilisateurs les plus rigoureux."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50 MP OIS et Téléobjectif Dédié",
+                "paragraphs": [
+                    "Le capteur principal de 50 mégapixels bénéficie d'une grande dimension optique pour capter la lumière. Il enregistre ainsi des clichés nocturnes détaillés sans générer de flou cinétique disgracieux. La stabilisation optique OIS compense mécaniquement les oscillations de la main lors de la capture. De plus, les algorithmes de fusion logicielle équilibrent l'exposition des scènes à fort contraste lumineux. Le téléobjectif dédié permet de cadrer des sujets éloignés avec une remarquable netteté optique. Vous immortalisez vos réunions de famille avec une fidélité de colorimétrie naturelle très soignée.",
+                    "La lentille ultra grand-angle permet de saisir de vastes panoramas sans déformation gênante des perspectives. Le mode portrait sépare par ailleurs le sujet de l'arrière-plan avec un flou très harmonieux. La caméra selfie de 32 mégapixels garantit des appels en visioconférence d'une clarté professionnelle appréciée. De surcroît, l'enregistrement vidéo 4K préserve une cadence d'image fluide pour vos projets personnels. L'application photo intègre de multiples réglages professionnels pour exprimer votre sensibilité artistique. Cet équipement polyvalent offre une solution photographique complète adaptée à toutes les situations."
+                ]
+            },
+            {
+                "h2_title": "Puissance Dimensity 9400 3 nm et HyperCharge 120W",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 9400 exploite un procédé moderne de gravure en 3 nanomètres. Cette avancée technique libère ainsi une force de calcul véloce tout en limitant la chauffe. Les huit cœurs cadencés exécutent les applications graphiques les plus exigeantes avec grande fluidité. Par conséquent, les jeux 3D complexes tournent sans aucun ralentissement ni baisse de rythme. La chambre à vapeur interne diffuse uniformément la chaleur pour préserver les performances durables. La mémoire vive généreuse permet de naviguer instantanément entre vos différents outils de travail.",
+                    "L'accumulateur d'une capacité de 6000 mAh fournit une endurance de deux jours d'usage soutenu. Vous pilotez ainsi vos projets sereinement sans craindre de panne de batterie en journée. La technologie HyperCharge 120W restaure l'intégralité de la batterie en une vingtaine de minutes. De plus, les circuits de sécurité Surge régulent le courant électrique durant chaque cycle. Le système Xiaomi HyperOS optimise l'énergie consommée par les programmes résidant en mémoire vive. Cet ensemble technologique abouti fait du Redmi Note 15 Pro+ 5G une référence d'efficacité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 15 Pro+ 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.5 x 74.7 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "208 g (0.208 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière (jusqu'à 1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Carbon Black), Blanc (Pearl White), Or (Champagne Gold)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED incurvé 1.5K, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+, 2000 nits"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~89.9% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (1220 x 2712 pixels, ratio 20:9, ~446 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Dimensity 9400 (3 nm, Octa-core jusqu'à 3.6 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Immortalis-G925"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "8 Go + 256 Go / 12 Go + 512 Go (UFS 4.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP (f/1.6, capteur 1/1.55\", OIS, omnidirectionnel PDAF)"
+                        },
+                        {
+                            "label": "Téléobjectif portrait",
+                            "valeur": "50 MP (f/2.0, zoom optique 2.5x, OIS)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120°)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "20 MP (f/2.2, grand-angle, HDR)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "HyperCharge 120W (100% en ~19 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano / eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 7 (802.11 be), Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale optique sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo symétriques Dolby Atmos, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "verification_sources": [
+                {
+                    "name": "Xiaomi Official Store",
+                    "url": "https://www.mi.com/global/"
+                },
+                {
+                    "name": "Recherche Générique",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+Plus+5G"
+                },
+                {
+                    "name": "Recherche Spécialisée IA",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+Plus+5G+specifications"
+                }
+            ],
+            "official_disclaimer": "Les spécifications techniques et visuels sont fournis à titre indicatif selon les données constructeur certifiées. Les caractéristiques d'autonomie et de vitesse de charge peuvent varier selon les conditions d'utilisation réelles.",
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+Plus+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+Plus+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,435 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-14-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi 14C 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi C Series",
+        "commercial_name": "Xiaomi Redmi 14C 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-budget-5g",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-14C-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-14C-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+14C+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+14C+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G grand format Xiaomi Redmi 14C 5G avec écran 6.88 pouces 120Hz processeur Snapdragon 4 Gen 2 et capteur 50MP."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 4 Gen 2 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Haut-parleur avec volume renforcé à 150%",
+        "audio_tech": "Son clair et prise jack 3.5mm",
+        "battery_capacity": "5160 mAh",
+        "charging_wired": "Charge filaire 18W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.204 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-14C-5G",
+        "Name": "Xiaomi Redmi 14C 5G - Dual SIM - Écran 6.88\" 120Hz - (4 Go & 128 Go / 6 Go & 128 Go / 8 Go & 256 Go) - 5160 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "105000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi 14C 5G, Redmi Note 14, Smartphone, 5G, Écran 120Hz, Capteur 50MP, 5160mAh, Charge 18W, Snapdragon 4 Gen 2, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go | 8 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.204 kg",
+        "Attribute 4 default": "0.204 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Sage Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "4-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Starry Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "4-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Sage Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Starry Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Sage Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Starry Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi 14",
+        "teaser": "Le Xiaomi Redmi 14C 5G combine un très grand écran 120Hz de 6.88 pouces et la connectivité cellulaire 5G. Animé par la puce Snapdragon 4 Gen 2 gravée en 4 nm et pourvu d'une batterie de 5160 mAh, il rend le divertissement grand format accessible à tous.",
+        "top_features_detailed": [
+            {
+                "label": "Très Grand Écran 6.88\" 120Hz",
+                "detail": "Large surface d'affichage certifiée TÜV offrant une fluidité 120Hz très agréable pour lire et visionner."
+            },
+            {
+                "label": "Puce Snapdragon 4 Gen 2 (4 nm)",
+                "detail": "Excellente efficacité énergétique et réactivité continue de vos applications professionnelles et 5G."
+            },
+            {
+                "label": "Batterie 5160 mAh et Charge 18W",
+                "detail": "Autonomie généreuse sur plus d'une journée complète avec alimentation sécurisée via port Type-C."
+            },
+            {
+                "label": "Appareil Photo 50 MP avec IA",
+                "detail": "Photographies précises de vos événements quotidiens enrichies par un traitement numérique optimisé."
+            }
+        ],
+        "marketing_conclusion": "Un smartphone 5G grand format polyvalent associant lisibilité optimale, fluidité 120Hz et autonomie généreuse.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi 14C 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi 14C 5G à Abidjan chez My-eStore. Écran géant 6.88 pouces 120Hz, Snapdragon 4 Gen 2 5G et batterie 5160 mAh avec garantie."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi 14C 5G : Écran 6.88\" & 120Hz | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi 14C 5G chez My-eStore. Écran géant 6.88 pouces 120Hz, puce Snapdragon 4 Gen 2 et batterie 5160 mAh au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi 14C 5G",
+            "lsi_keywords": [
+                "Redmi 14C 5G Abidjan",
+                "smartphone grand ecran pas cher",
+                "Snapdragon 4 Gen 2 Xiaomi",
+                "telephone 5G ecran 120Hz",
+                "batterie 5160 mAh Xiaomi"
+            ]
+        },
+        "h1": "Xiaomi Redmi 14C 5G : Écran 6.88\" 120Hz, Snapdragon 4 Gen 2 et Batterie 5160 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi 14C 5G",
+            "items": [
+                {
+                    "feature": "Écran Géant 6.88\" 120Hz",
+                    "benefice": "Surface d'affichage spacieuse et fluide certifiée TÜV pour un confort visuel reposant."
+                },
+                {
+                    "feature": "Puce Snapdragon 4 Gen 2 4 nm",
+                    "benefice": "Finesse de gravure moderne offrant une réactivité continue et une connectivité 5G fluide."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP AI",
+                    "benefice": "Traitement d'image assisté pour des portraits naturels et des clichés très nets."
+                },
+                {
+                    "feature": "Batterie 5160 mAh",
+                    "benefice": "Endurance prolongée jusqu'à une journée et demie sans contrainte de chargeur mural."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi 14C 5G démocratise l'accès aux réseaux très haut débit avec une grande aisance. En effet, sa puce Snapdragon 4 Gen 2 gravée en 4 nanomètres assure une réactivité constante au quotidien. Son grand écran de 6.88 pouces rafraîchi à 120Hz métamorphose la consultation de vos flux multimédias. De plus, le capteur photo dorsal de 50 mégapixels enregistre des souvenirs familiaux clairs et détaillés. L'accumulateur généreux de 5160 mAh soutient ainsi vos longues journées de déplacement sans contrainte.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 6.88 Pouces 120Hz et Confort Visuel",
+                "paragraphs": [
+                    "La dalle panoramique de 6.88 pouces procure une surface d'affichage très confortable pour vos yeux. Cette large diagonale facilite ainsi la lecture de textes et la navigation sur les sites internet. La fréquence d'actualisation de 120Hz garantit des défilements réguliers sans saccade ni ralentissement gênant. De surcroît, la certification TÜV Rheinland limite efficacement la fatigue oculaire lors des sessions prolongées. Le mode lecture adapte la température des couleurs pour préserver un confort visuel reposant. Les bordures fines renforcent l'immersion lors du visionnage de tutoriels ou de séries télévisées.",
+                    "La réactivité tactile immédiate améliore l'agilité de saisie au clavier virtuel pour les messages. L'écran conserve par conséquent une lisibilité agréable lors de vos déplacements extérieurs en ville. Le haut-parleur intégré délivre une puissance sonore augmentée pour vos conversations en mode mains-libres. En outre, la prise jack 3.5 millimètres autorise le branchement direct de vos casques audio filaires. La structure arrière présente un revêtement élégant résistant aux traces de doigts habituelles. Cette conception sobre assure une prise en main équilibrée pour un usage intensif."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 4 Gen 2 et Connectivité 5G Rapide",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 4 Gen 2 utilise une gravure moderne en 4 nanomètres. Cette technologie fine offre ainsi une excellente sobriété énergétique tout au long de la journée. Les huit cœurs cadencés exécutent vos tâches courantes avec une fluidité constante et rassurante. Par conséquent, les applications bancaires et les messageries s'ouvrent sans le moindre ralentissement. La mémoire vive extensible permet de conserver plusieurs programmes ouverts en tâche de fond. La mémoire de stockage interne stocke tous vos documents importants en toute sécurité.",
+                    "Le modem 5G intégré télécharge vos contenus audiovisuels à des vitesses particulièrement soutenues. La navigation cellulaire devient par ailleurs instantanée lors de vos trajets quotidiens à Abidjan. Le lecteur d'empreintes digitales latéral déverrouille l'appareil de manière prompte et sécurisée. De plus, le tiroir hybride accepte une carte mémoire microSD pour étendre votre espace. L'interface Xiaomi HyperOS organise vos paramètres de façon intuitive et épurée. Cet environnement stable procure une expérience logicielle conviviale et pérenne sur le long terme."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50 MP AI et Batterie Durable 5160 mAh",
+                "paragraphs": [
+                    "L'appareil photo dorsal embarque un capteur principal de 50 mégapixels d'une remarquable netteté. Il capture ainsi des clichés détaillés de vos événements de vie en pleine clarté. Les algorithmes d'intelligence artificielle optimisent l'équilibre des contrastes et de la luminosité générale. De surcroît, le mode portrait génère un flou d'arrière-plan harmonieux valorisant vos sujets. La caméra avant de 13 mégapixels garantit des appels vidéo nets pour vos réunions. Vous partagez facilement vos créations photographiques instantanées sur l'ensemble de vos réseaux favoris.",
+                    "L'accumulateur d'une capacité de 5160 mAh fournit une autonomie généreuse de plus d'une journée. Vous travaillez ainsi sereinement sans craindre une interruption de batterie imprévue en chemin. La charge filaire de 18W recharge la batterie via un port USB Type-C réversible. De plus, les protections électroniques intégrées préviennent la surchauffe lors de la charge. L'optimisation énergétique logicielle coupe discrètement les connexions inactives durant vos heures de sommeil. Ce smartphone grand format représente donc une acquisition économique et robuste à long terme."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi 14C 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.9 x 77.8 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "204 g (0.204 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre résistant, dos avec finition texturée premium"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Vert (Sage Green), Violet (Starry Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 120Hz, 450 nits typique, 600 nits HBM"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.88 pouces (ratio écran-corps ~84.0%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (1640 x 720 pixels), format 20.5:9 (~260 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 4 Gen 2 (4 nm, 8 cœurs jusqu'à 2.20 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno 613"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go, 6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC (emplacement hybride)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP, f/1.8, 28mm (grand-angle), PDAF"
+                        },
+                        {
+                            "label": "Caméra auxiliaire",
+                            "valeur": "Capteur de profondeur"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP, f/2.0, vidéo 1080p@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur mono, volume augmenté à 150%, prise jack 3.5mm"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5160 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge filaire 18W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM (Double Nano-SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (A2DP, LE)"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+14C+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+14C+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

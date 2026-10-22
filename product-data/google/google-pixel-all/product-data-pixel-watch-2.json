@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel Watch 2."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel Watch 2",
+    "category": "wearable",
+    "sub_category": "watch",
+    "release_year": 2023,
+    "release_quarter": "Q4",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel Watch 2",
+    "GD2WG",
+    "Montre Connectée",
+    "Wear OS",
+    "Capteur Cardiaque",
+    "Suivi Sommeil",
+    "GPS Intégré",
+    "Fitbit Intégré",
+    "Smartwatch Google",
+    "Autonomie 24h",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "GD2WG",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "GD2WG"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/google_pixel_watch_2"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_watch_2-12547.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base GD2WG pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel Watch 2 Wi-Fi",
+      "sku_suffix": "/WI-FI",
+      "configurations": {
+        "connectivity": "wi-fi",
+        "storage": "32Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 140000,
+          "max": 180000
+        },
+        "price_source": "Mitc / Boutique locale",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel Watch 2 LTE",
+      "sku_suffix": "/LTE",
+      "configurations": {
+        "connectivity": "lte",
+        "storage": "32Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 140000,
+          "max": 180000
+        },
+        "price_source": "Mitc / Boutique locale",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Polished Silver",
+      "Matte Black",
+      "Champagne Gold"
+    ],
+    "exclusive": [],
+    "default": "Polished Silver"
+  },
+  "key_specifications": {
+    "screen_size": "1.2 inches",
+    "screen_technology": "AMOLED, 1000 nits (peak)",
+    "screen_resolution": "450 x 450 pixels (~320 ppi density)",
+    "battery_capacity": "Li-Ion 306 mAh",
+    "charging_wired": "Wired, 80% in 45 min",
+    "os": "Wear OS",
+    "os_version": "Android Wear OS 4",
+    "processor": "Qualcomm 5100",
+    "ram_options": [
+      "2Go"
+    ],
+    "storage_options": [
+      "32Go"
+    ],
+    "connectivity_bluetooth": "5.0, A2DP, LE",
+    "connectivity_wifi": "Wi-Fi 802.11 b/g/n",
+    "connectivity_nfc": true,
+    "water_resistance": "IP68 dust tight and water resistant (immersible up to 50m/5ATM) ECG certified",
+    "dimensions": "41 x 41 x 12.3 mm (1.61 x 1.61 x 0.48 in)",
+    "weight": "31 g (1.09 oz)",
+    "materials": "Glass front (Gorilla Glass 5), aluminum frame",
+    "sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance",
+    "health_features": [
+      "Suivi du sommeil",
+      "ECG",
+      "SpO2",
+      "Suivi de l'activité physique"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/google_pixel_watch_2",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_watch_2-12547.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

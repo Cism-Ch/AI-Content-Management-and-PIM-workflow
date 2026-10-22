@@ -1,0 +1,503 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s10-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S10 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S10",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2019,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S10",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S10"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s10/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S10 6.1\" QHD+ 8Go RAM Triple Capteur 3400mAh 4G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S10",
+        "Name": "Samsung Galaxy S10 - 6.1\" QHD+ - 8Go/128Go - 16MP - 3400mAh - 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "150000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S10, Galaxy S Series, Smartphone, Android, 4G, 12MP, 3400mAh, Snapdragon 855, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Vert, Bleu, Jaune, Rose, Rouge, Bleu Ciel",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 512 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Écran Infinity-O emblématique et la polyvalence photo.",
+        "teaser": "Découvrez le Samsung Galaxy S10 avec son écran Dynamic AMOLED incurvé de 6.1 pouces en Quad HD+, son triple module photo et son lecteur d'empreintes ultrasonique.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.1\" Dynamic AMOLED QHD+",
+                "benefice": "Dalle Infinity-O lumineuse offrant une précision d'affichage et une netteté exemplaires"
+            },
+            {
+                "feature": "Puce 8nm & 8Go de RAM",
+                "benefice": "Multitâche fluide et exécution sans ralentissement de vos logiciels quotidiens"
+            },
+            {
+                "feature": "Triple Capteur Photo Polyvalent",
+                "benefice": "Objectif principal à double ouverture, ultra grand-angle et téléobjectif stabilisé"
+            },
+            {
+                "feature": "Batterie 3400 mAh & Partage Sans Fil",
+                "benefice": "Autonomie équilibrée pour votre journée et recharge sans fil réversible pratique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone compact de référence alliant grande élégance visuelle et polyvalence multimédia.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S10 (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S10 au meilleur prix à Abidjan sur My-eStore. Écran 6.1\" QHD+, 8Go RAM, triple capteur, 3400mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S10 128Go : Écran QHD+ & Triple Capteur | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S10 sur My-eStore. Écran Dynamic AMOLED 6.1 pouces Quad HD+, triple capteur photo, batterie 3400 mAh et connectivité 4G rapide.",
+            "focus_keyword": "Samsung Galaxy S10",
+            "lsi_keywords": [
+                "Samsung Galaxy S10 Abidjan",
+                "prix Samsung S10",
+                "fiche technique Galaxy S10",
+                "smartphone Samsung compact 4G",
+                "Galaxy S10 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S10 : Format Compact, Écran QHD+ et Triple Capteur Photo",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S10 propose un affichage Dynamic AMOLED incurvé très lumineux. Cette dalle compacte procure une résolution Quad HD Plus d'une grande netteté pour vos contenus. De plus, sa puce gravée en 8nm accélère le traitement de vos requêtes quotidiennes. Le châssis en aluminium aux bordures soignées assure une prise en main stable au creux de la paume. Enfin, sa batterie de 3400 mAh garantit une disponibilité durable tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S10",
+            "items": [
+                {
+                    "feature": "Dalle 6.1\" Quad HD+ AMOLED",
+                    "benefice": "Grand confort de lecture et compacité appréciable en poche"
+                },
+                {
+                    "feature": "Triple Capteur Photo avec Ouverture Variable",
+                    "benefice": "Excellente adaptation lumineuse et zoom optique 2x stabilisé"
+                },
+                {
+                    "feature": "Lecteur d'Empreinte Ultrasonique",
+                    "benefice": "Déverrouillage rapide et sécurisé directement sous la surface de l'écran"
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions accidentelles"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Haute Définition et Ergonomie Incurvée",
+                "paragraphs": [
+                    "D'un côté, l'écran de 6.1 pouces permet une manipulation complète et aisée à une seule main. La technologie Dynamic AMOLED offre des couleurs éclatantes pour la consultation de tous vos documents. La protection en verre trempé limite le risque de rayures lors des déplacements fréquents. Par ailleurs, la luminosité maximale autorise une lisibilité claire même en plein soleil en extérieur. Le profil affiné se glisse aisément dans une poche sans encombrement inutile au quotidien. Vous profitez ainsi d'un appareil maniable adapté à un usage professionnel régulier.",
+                    "D'un autre côté, la définition Quad HD Plus met en valeur chaque détail sur vos photographies. La certification HDR10 Plus procure une plage dynamique étendue pour vos séquences vidéo préférées. Les contrastes profonds améliorent le confort visuel lors des sessions de lecture prolongées. En outre, la sensibilité tactile garantit une réactivité immédiate pour la saisie de vos courriels. Les finitions soignées témoignent d'une conception pensée pour résister avec fiabilité aux années. Ce modèle concilie compacité pratique et performances d'affichage de premier ordre."
+                ]
+            },
+            {
+                "h2_title": "Puissance Équilibrée et Fonctionnalités Avancées",
+                "paragraphs": [
+                    "Tout d'abord, le processeur moderne exécute les calculs complexes sans ralentissement ni échauffement anormal. Les huit gigaoctets de mémoire vive assurent des passages instantanés entre vos applications ouvertes. L'espace de stockage interne accueille vos fichiers professionnels et vos galeries de photos volumineuses. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des performances stables et régulières. L'optimisation logicielle facilite la navigation fluide à travers vos différents logiciels de productivité. Vous réalisez vos démarches numériques avec une fluidité constante et sécurisante.",
+                    "Dans cette optique, le protocole de charge rapide filaire rétablit promptement la disponibilité de votre téléphone. La compatibilité avec la recharge par induction apporte un confort appréciable sur votre espace de travail. La puce de sécurité protège efficacement l'intégrité de vos identifiants et transactions bancaires courantes. Également, la compatibilité avec le réseau quatre G LTE accélère l'envoi de vos pièces jointes. Vos appels vidéo restent stables grâce à une gestion optimale de la bande passante. Ce modèle constitue une solution durable et performante pour la productivité mobile."
+                ]
+            },
+            {
+                "h2_title": "Triple Module Photo et Disponibilité Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur principal à double ouverture mécanique capture des clichés lumineux en toutes circonstances. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le téléobjectif optique 2x rapproche les éléments distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous partagez des photos soignées directement avec vos collaborateurs ou proches.",
+                    "Enfin, l'accumulateur de 3400 mAh fournit l'énergie requise pour franchir l'ensemble de votre journée. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La fonction de partage d'énergie sans fil dépanne ponctuellement vos accessoires connectés compatibles. Par conséquent, vous conservez une totale sérénité lors de vos trajets professionnels ou personnels. Les matériaux sélectionnés garantissent une tenue exemplaire face aux contraintes du quotidien. Le Galaxy S10 constitue un choix équilibré pour les adeptes de formats compacts."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S10",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S10."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "149.9 x 70.4 x 7.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.157 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 6, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.1\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "3040 x 1440 pixels (Quad HD+), 550 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 9820 (8nm) / Snapdragon 855"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 512 Go UFS 2.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé jusqu'à 512 Go)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.5-2.4, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "12 MP, f/2.4, 52mm, Zoom optique 2x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "16 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "10 MP, f/1.9, 26mm, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "3400 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "15W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Wireless PowerShare 4.5W"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Recharge complète en environ 90 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + Nano-SIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes ultrasonique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s10/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-JAUNE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-ROSE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Bleu Ciel",
+            "color_code": "BLEU-CIEL",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "8-GB-128-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Bleu Ciel",
+            "color_code": "BLEU-CIEL",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-512-GB-BLEU-CIEL"
+        }
+    ]
+}

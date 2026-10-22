@@ -1,0 +1,491 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy A57 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy A Series",
+        "commercial_name": "Samsung Galaxy A57",
+        "category": "smartphone",
+        "sub_category": "midrange-premium",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-A57",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-A57"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+A57"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+A57+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy A57 6.7\" Super AMOLED 120Hz 50MP OIS 5000mAh IP68 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-A57",
+        "Name": "Samsung Galaxy A57 - 6.7\" Super AMOLED 120Hz - 8Go/128Go - 50MP - 5000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "290000",
+        "Categories": "Smartphones > Samsung > Galaxy A Series",
+        "Tags": "Samsung, Galaxy A57, Galaxy A Series, Smartphone, Android, 5G, Super AMOLED, Écran 120Hz, 50MP, 5000mAh, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Bleu Nuit, Gris, Bleu Clair, Violet",
+        "Attribute 1 default": "Bleu Nuit",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Élégance Super AMOLED avec Étanchéité IP68 et Capteur 50MP OIS.",
+        "teaser": "Découvrez le Samsung Galaxy A57 avec son écran Super AMOLED 120Hz de 6.7 pouces, son capteur photo 50MP stabilisé, son étanchéité IP68 et sa batterie 5000 mAh avec charge 45W.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.7\" Super AMOLED 120Hz",
+                "benefice": "Affichage ultra-fluide et contrastes infinis pour vos vidéos et navigations"
+            },
+            {
+                "feature": "Capteur Photo 50MP avec OIS",
+                "benefice": "Clichés nets et vidéos stables de jour comme de nuit sans flou de bougé"
+            },
+            {
+                "feature": "Étanchéité Certifiée IP68",
+                "benefice": "Protection éprouvée contre la poussière et les immersions accidentelles dans l'eau"
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 45W",
+                "benefice": "Autonomie sécurisante sur deux jours et récupération rapide de l'énergie"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone milieu de gamme de référence associant écran haut de gamme, étanchéité complète et endurance.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy A57 (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy A57 au meilleur prix à Abidjan sur My-eStore. Écran 6.7\" Super AMOLED 120Hz, 50MP OIS, IP68, 5000mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy A57 128Go : Super AMOLED & IP68 | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy A57 sur My-eStore. Écran Super AMOLED 6.7 pouces 120Hz, triple capteur 50MP OIS, batterie 5000 mAh, charge 45W et 5G rapide.",
+            "focus_keyword": "Samsung Galaxy A57",
+            "lsi_keywords": [
+                "Samsung Galaxy A57 Abidjan",
+                "prix Samsung Galaxy A57",
+                "fiche technique Galaxy A57",
+                "smartphone étanche IP68 5G",
+                "Galaxy A57 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy A57 : Écran 6.7\" Super AMOLED 120Hz, Capteur 50MP OIS et IP68",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy A57 s'impose comme une référence équilibrée du segment milieu de gamme. Son grand écran Super AMOLED de 6.7 pouces offre une fluidité visuelle exemplaire de 120 Hz. De plus, sa puce moderne gravée en 4nm gère sans ralentissement vos applications de productivité. Le châssis au profil fin de 6.9 millimètres assure une prise en main très confortable au quotidien. Enfin, son accumulateur de 5000 mAh procure une autonomie rassurante sur plusieurs journées de travail.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy A57",
+            "items": [
+                {
+                    "feature": "Dalle 6.7\" Super AMOLED 120Hz",
+                    "benefice": "Fluidité d'affichage optimale et contrastes profonds pour le visionnage"
+                },
+                {
+                    "feature": "Capteur Photo 50MP avec OIS",
+                    "benefice": "Prises de vue lumineuses et stabilisation optique efficace pour les vidéos"
+                },
+                {
+                    "feature": "Protection Certifiée IP68",
+                    "benefice": "Résistance totale à la poussière et aux immersions sous l'eau"
+                },
+                {
+                    "feature": "Charge Rapide Filaire 45W",
+                    "benefice": "Rétablissement rapide de la batterie lors de vos pauses quotidiennes"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Super AMOLED 120Hz et Conception Épurée",
+                "paragraphs": [
+                    "D'un côté, la dalle Super AMOLED de 6.7 pouces propose des contrastes saisissants pour l'affichage de vos flux multimédias. Le taux de rafraîchissement adaptatif de 120 Hz rend chaque défilement de texte remarquablement fluide et agréable. La protection en verre trempé Gorilla Glass renforce l'écran face aux frottements et micro-rayures de la journée. Par ailleurs, la luminosité maximale élevée assure une lisibilité claire même en plein soleil en extérieur. Le profil aminci à 6.9 millimètres se glisse sans effort dans toutes les poches de pantalon. Vous profitez ainsi d'un appareil ergonomique adapté aux exigences de votre quotidien professionnel.",
+                    "D'un autre côté, la certification IP68 garantit une étanchéité complète contre les infiltrations de liquides et de poussières fines. Ce niveau de protection préserve les circuits internes lors d'une averse imprévue ou d'un incident domestique. Les bordures affinées maximisent la surface d'affichage tout en conservant une préhension naturelle et sûre. En outre, la réactivité tactile immédiate autorise une saisie rapide de tous vos courriers électroniques. Les coloris contemporains apportent une touche soignée qui s'accorde avec chaque tenue vestimentaire. Ce smartphone allie élégance visuelle et robustesse matérielle au service de vos activités."
+                ]
+            },
+            {
+                "h2_title": "Performances 5G et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, le processeur moderne traite les flux multitâches avec une remarquable sobriété énergétique. La mémoire vive généreuse soutient le fonctionnement simultané de vos logiciels sans temps d'attente parasite. L'espace de stockage interne accueille vos nombreuses applications ainsi que vos galeries de photos sans saturation. De surcroît, le circuit interne canalise la chaleur afin de conserver des performances stables et régulières. La surcouche One UI simplifie l'accès à vos fonctions préférées grâce à une interface claire et intuitive. Vous menez vos démarches numériques avec une aisance appréciable à chaque instant.",
+                    "Dans cette optique, la compatibilité avec le réseau mobile cinq G assure des débits rapides lors de vos déplacements urbains. Le protocole de charge filaire 45W rétablit promptement l'énergie de votre appareil lors d'une courte pause. La puce de sécurité dédiée Knox isole vos données personnelles des tentatives d'accès non autorisées. Également, les haut-parleurs stéréo certifiés Dolby Atmos délivrent une acoustique claire pour tous vos appels professionnels. Le capteur d'empreintes sous l'écran autorise un déverrouillage biométrique rapide et hautement sécurisé. Ce modèle constitue une solution durable pour les utilisateurs connectés exigeants."
+                ]
+            },
+            {
+                "h2_title": "Polyvalence Photo 50MP et Autonomie Longue Durée",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 50 mégapixels enregistre des scènes nettes et détaillées en toutes circonstances lumineuses. La stabilisation optique compense les micro-mouvements pour éliminer les flous de bougé lors des prises nocturnes. Le capteur ultra grand-angle élargit le champ de vision pour capturer des panoramas urbains complets. De même, l'objectif macro dédié permet de photographier des détails rapprochés avec une mise au point nette. Les algorithmes de traitement d'image ajustent automatiquement l'exposition pour valoriser chaque teinte naturelle. Vous obtenez des clichés valorisants prêts à être partagés sur vos réseaux préférés.",
+                    "Enfin, l'accumulateur haute densité de 5000 mAh procure une réserve énergétique solide pour plus d'une journée d'utilisation. Le système de veille adaptatif régule les processus d'arrière-plan pour préserver l'autonomie lors des moments creux. La gestion thermique intelligente protège les cellules chimiques de la batterie au cours des cycles de charge successifs. Par conséquent, vous travaillez en toute confiance sans craindre une panne d'énergie inattendue en déplacement. Les matériaux de qualité garantissent une excellente longévité mécanique au fil des mois d'usage. Le Galaxy A57 représente un choix équilibré associant polyvalence technique et endurance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy A57",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy A57."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.5 x 76.8 x 6.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.179 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre avant Gorilla Glass Victus+, Cadre en aluminium, Dos en verre"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Résistant à l'eau jusqu'à 1.5m pendant 30 min et poussière)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.7\" Super AMOLED, 120Hz, HDR10+"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "FHD+ (1080 x 2340 pixels), 385 ppi"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1600 nits (HBM pic)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus+"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Puce Octa-Core 4nm Haute Efficacité"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "MicroSD jusqu'à 1 To (slot partagé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 123˚"
+                        },
+                        {
+                            "label": "Capteur Macro",
+                            "valeur": "5 MP, f/2.4"
+                        },
+                        {
+                            "label": "Capteur Selfie",
+                            "valeur": "12 MP, f/2.2, 26mm, 4K"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 30/60 fps, 1080p à 30/60 fps, Gyro-EIS"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5000 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "45W rapide Super Fast Charging 2.0"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "65% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.3, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Dual SIM (Nano-SIM + eSIM ou hybride)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes sous l'écran optique, Samsung Knox"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "6 ans de mises à jour de sécurité et système garanties"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+A57"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+A57+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Awesome Navy",
+            "color_code": "BLEU-NUIT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-128-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Awesome Navy",
+            "color_code": "BLEU-NUIT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "8-GB-256-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Awesome Navy",
+            "color_code": "BLEU-NUIT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Awesome Navy",
+            "color_code": "BLEU-NUIT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "550000",
+            "sku_suffix": "12-GB-512-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Awesome Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Awesome Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Awesome Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Awesome Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "550000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Awesome Icyblue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-128-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Awesome Icyblue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "8-GB-256-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Awesome Icyblue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Awesome Icyblue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "550000",
+            "sku_suffix": "12-GB-512-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Awesome Lilac",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Awesome Lilac",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Awesome Lilac",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Awesome Lilac",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "550000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ]
+}

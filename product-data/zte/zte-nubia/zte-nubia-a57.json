@@ -1,0 +1,242 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia A57",
+        "generation_date": "2026-09-02"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A57"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A57+specifications"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "ZTE-NUBIA-A57"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T7250 (12 nm) Octa-Core",
+        "processor_ghz": "Fréquence 1.8 GHz",
+        "screen_size": "6.75 pouces",
+        "screen_technology": "IPS LCD 120Hz Grand Format",
+        "screen_resolution": "1570 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 15",
+        "os_skin": "MyOS 15",
+        "camera_main": "13 MP avec autofocus et flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur multimédia avec prise jack 3.5mm",
+        "audio_tech": "Son clair pour appels et musique",
+        "connectivity_nfc": "Non spécifié",
+        "navigation_gps": "GPS + GLONASS",
+        "card_slot": "Dual Nano SIM / Port MicroSD dédié",
+        "charging_wired": "Charge 22.5W USB-C",
+        "dimensions": "168.0 x 77.0 x 8.3 mm",
+        "weight": "0.193 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-A57-MASTER",
+        "Name": "ZTE Nubia A57",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "95000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Nubia A57, Smartphone Économique, 120Hz, 13MP, 5000mAh, 128Go, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Argent, Noir, Orange",
+        "Attribute 1 default": "Argent",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.193 kg",
+        "Attribute 4 default": "0.193 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia A57 : Écran 120 Hz 6.75\" Batterie 5000 mAh et Stockage 128 Go",
+        "brand_line": "Le smartphone accessible offrant un grand écran 120 Hz et une excellente autonomie.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia A57 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia A57 intègre une dalle 120Hz de 6.75 pouces, une batterie 5000 mAh avec charge 22.5W, un capteur 13 MP et un stockage confortable de 128 Go.",
+        "features": [
+            {
+                "feature": "Écran 6.75\" 120Hz Fluide",
+                "benefice": "Navigation confortable et défilement visuel sans à-coups."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 22.5W",
+                "benefice": "Endurance durable pour communiquer toute la journée."
+            },
+            {
+                "feature": "Espace de Stockage 128 Go",
+                "benefice": "Conservation facile de vos photos et applications favorites."
+            },
+            {
+                "feature": "Capteur Photo 13 MP & Selfie 8 MP",
+                "benefice": "Prises de vue nettes pour vos moments partagés."
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia A57 (4Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia A57 au meilleur prix à Abidjan sur My-eStore. Grand écran 120Hz de 6.75 pouces, batterie 5000 mAh, 128 Go et charge 22.5W."
+        }
+    },
+    "long_description": {
+        "h1": "ZTE Nubia A57 : Écran 6.75\" 90Hz, Batterie 5000 mAh et Capteur 13 MP",
+        "intro_paragraph": "Le ZTE Nubia A57 constitue un choix judicieux pour les personnes souhaitant un téléphone moderne et économique à Abidjan. En effet, sa grande dalle de 6.75 pouces assure une fréquence de 120 Hz très confortable. Sa puce Unisoc à huit cœurs exécute facilement vos échanges quotidiens. De plus, son espace de stockage de 128 Go accueille tous vos contenus personnels. Par ailleurs, la batterie de 5000 mAh vous accompagne du matin jusqu'au soir. Vous achetez votre modèle en toute confiance sur la plateforme My-eStore.",
+        "sections": [
+            {
+                "title": "Grand Affichage 120 Hz et Espace de 128 Go",
+                "paragraphs": [
+                    "Le ZTE Nubia A57 propose un écran de 6.75 pouces doté d'une fréquence de rafraîchissement à 120 Hz. Cette caractéristique rend la lecture de vos messages particulièrement agréable. Ainsi, les animations s'affichent avec une fluidité continue lors de chaque interaction. La mémoire vive de 4 Go soutient les usages courants.",
+                    "Le stockage interne de 128 Go permet de conserver vos documents sans saturation précoce. En effet, l'emplacement pour carte mémoire offre une solution d'extension simple et pratique. D'ailleurs, la gestion logicielle optimise l'espace disponible au quotidien. Vous profitez d'une mémoire généreuse pour vos applications habituelles."
+                ]
+            },
+            {
+                "title": "Prises de Vue 13 MP et Prise en Main Confortable",
+                "paragraphs": [
+                    "L'appareil photo principal de 13 Mégapixels permet de capturer des scènes du quotidien avec simplicité. Cet objectif restitue des clichés équilibrés sous un bon éclairage naturel. De plus, la caméra selfie de 8 Mégapixels assure des visioconférences claires. Vous partagez facilement vos souvenirs avec vos proches sur les réseaux.",
+                    "Le système Android 15 propose une interface claire et agréable à utiliser au quotidien. En outre, le capteur d'empreintes situé sur la tranche latérale protège vos données. La prise audio jack 3.5 mm permet de brancher vos écouteurs usuels. Cet ensemble de caractéristiques répond parfaitement aux besoins de chaque jour."
+                ]
+            },
+            {
+                "title": "Batterie 5000 mAh et Alimentation 22.5W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh assure une excellente longévité pour vos appels et divertissements. Par ailleurs, la charge filaire de 22.5W permet de regagner rapidement de l'autonomie. Vous vaquez à vos occupations professionnelles sans interruption fâcheuse. Cette endurance solide constitue un avantage précieux pour vos déplacements.",
+                    "Le châssis moderne présente des lignes épurées avec une épaisseur maîtrisée de 8.3 mm. Ainsi, le téléphone se glisse aisément dans une poche ou un sac. En somme, ce modèle combine grand écran et grande autonomie à un coût très doux. Vous pouvez finaliser votre commande en toute sécurité sur My-eStore. La livraison à Abidjan est effectuée avec rapidité et ponctualité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "design_physique": {
+                "Dimensions": "168.0 x 77.0 x 8.3 mm",
+                "Poids": "0.193 kg (193 g)",
+                "Matériaux": "Châssis ergonomique, dos soigné et moderne",
+                "Coloris officiels": "Argent (Silver), Noir (Black), Orange (Orange)"
+            },
+            "affichage_ecran": {
+                "Taille de l'écran": "6.75 pouces (~84.5% ratio écran-corps)",
+                "Technologie de dalle": "IPS LCD, 120Hz",
+                "Définition": "HD+ (1570 x 720 pixels, ~256 ppi)",
+                "Fréquence de rafraîchissement": "120 Hz",
+                "Particularité": "Dalle spacieuse adaptée à la lecture et aux vidéos"
+            },
+            "performances_systeme": {
+                "Processeur (SoC)": "Unisoc T7250 (12 nm)",
+                "Architecture CPU": "Octa-Core (2x1.8 GHz Cortex-A75 + 6x1.6 GHz Cortex-A55)",
+                "Puce graphique (GPU)": "Mali-G57",
+                "Mémoire RAM": "4 Go",
+                "Stockage interne": "128 Go (extensible via carte microSDXC)",
+                "Système d'exploitation": "Android 15 avec interface MyOS"
+            },
+            "photographie_video": {
+                "Capteur principal arrière": "13 MP (f/2.2, autofocus, flash LED)",
+                "Caméra frontale (Selfie)": "8 MP (f/2.0)",
+                "Enregistrement vidéo": "1080p à 30 fps"
+            },
+            "batterie_alimentation": {
+                "Capacité de la batterie": "5000 mAh (Li-Po non amovible)",
+                "Puissance de charge": "Charge rapide 22.5W filaire",
+                "Protocole de charge": "USB Type-C Fast Charge"
+            },
+            "connectivite_reseau": {
+                "Réseaux cellulaires": "4G LTE, 3G, 2G",
+                "Carte SIM": "Dual Nano SIM",
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac dual-band",
+                "Bluetooth": "Bluetooth 5.2 avec A2DP et LE",
+                "Prise casque": "Jack 3.5 mm",
+                "Port USB": "USB Type-C 2.0 réversible"
+            },
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A57"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A57+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "seo": {
+            "meta_title": "ZTE Nubia A57 128Go : Écran 120Hz & 5000mAh | My-eStore",
+            "meta_description": "Fiche technique du ZTE Nubia A57. Écran 120Hz de 6.75 pouces, batterie 5000 mAh, stockage 128 Go et charge rapide 22.5W au meilleur prix à Abidjan."
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Argent",
+            "color_fr": "Argent",
+            "color_en": "Silver"
+        },
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Black"
+        },
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Orange",
+            "color_fr": "Orange",
+            "color_en": "Orange"
+        }
+    ]
+}

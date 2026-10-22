@@ -1,0 +1,379 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade A76 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A76+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A76+5G+specifications"
+            }
+        ],
+        "pricing_reference": "105000",
+        "official_sku": "ZTE-BLADE-A76-5G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Shadow Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "128GB-6GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "128GB-6GB-BLEU"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc T760 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.60 pouces",
+        "screen_technology": "IPS LCD 120Hz",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "6 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "50 MP Haute Résolution avec IA et flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur optimisé DTS Audio",
+        "audio_tech": "Son spatial DTS & prise 3.5mm",
+        "connectivity_nfc": "Non disponible sur ce modèle",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 18W USB-C",
+        "dimensions": "163.6 x 74.9 x 8.3 mm",
+        "weight": "0.192 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-A76-5G-MASTER",
+        "Name": "ZTE Blade A76 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "105000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade A76 5G, Smartphone 5G, Écran 120Hz, 50MP, 128Go, 5000mAh, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.192 kg",
+        "Attribute 4 default": "0.192 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade A76 5G : Écran 6.6 Pouces 120Hz Connectivité 5G et 5000 mAh",
+        "brand_line": "Le smartphone 5G alliant connectivité moderne, affichage 120 Hz et autonomie prolongée.",
+        "marketing_conclusion": "Commandez votre ZTE Blade A76 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade A76 5G combine un écran 120Hz de 6.6 pouces, la puce Unisoc T760 5G, un appareil photo 50 MP et une batterie 5000 mAh avec charge 18W.",
+        "features": [
+            {
+                "feature": "Dalle HD+ 120Hz Fluide",
+                "benefice": "Défilement rapide et netteté continue des animations."
+            },
+            {
+                "feature": "Puce Unisoc T760 Gravée en 6nm",
+                "benefice": "Excellente efficacité énergétique et compatibilité 5G."
+            },
+            {
+                "feature": "Capteur Photo Principal 50 MP",
+                "benefice": "Prises de vue très précises en toutes conditions."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 18W",
+                "benefice": "Autonomie solide sur toute la journée en USB-C."
+            }
+        ],
+        "slogan_final": "ZTE Blade A76 5G — La vélocité du réseau 5G au service de votre productivité.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade A76 5G (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone 5G ZTE Blade A76 5G avec écran 120Hz, caméra 50 MP, 128 Go et batterie 5000 mAh. Achetez en ligne au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Blade A76 5G, smartphone 5G Abidjan, 120Hz, 128Go stockage, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade A76 5G",
+            "lsi_keywords": [
+                "ZTE Blade A76 5G",
+                "smartphone ZTE Blade A76 5G Abidjan",
+                "ZTE Blade A76 5G prix",
+                "téléphone écran 120hz 5g",
+                "smartphone 5g 128 go pas cher",
+                "téléphone appareil photo 50 mp 5g",
+                "achat smartphone 5g My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Blade A76 5G 128 Go : Écran 120Hz & Puce 5G 6nm | My-eStore",
+            "meta_description": "Achetez le ZTE Blade A76 5G. Écran 6.6 pouces 120Hz, puce 5G 6nm, capteur photo 50 MP, 128 Go et batterie 5000 mAh. Livraison sécurisée à Abidjan."
+        },
+        "h1": "ZTE Blade A76 5G : Connectivité 5G, Écran 120Hz et Capteur 50 MP",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE BLADE A76 5G",
+            "items": [
+                {
+                    "feature": "Dalle 120Hz Ultra Fluide",
+                    "benefice": "Confort de lecture supérieur sans saccade visuelle."
+                },
+                {
+                    "feature": "Réseau 5G Très Haut Débit",
+                    "benefice": "Téléchargements de fichiers lourds quasi instantanés."
+                },
+                {
+                    "feature": "Capteur Photo 50 Mégapixels",
+                    "benefice": "Images claires et riches en contrastes."
+                },
+                {
+                    "feature": "Batterie 5000 mAh & Charge 18W",
+                    "benefice": "Grande autonomie et recharge rapide en USB-C."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade A76 5G met l'accent sur une réactivité réseau élevée et une navigation agréable. Ce modèle constitue un choix judicieux pour les professionnels et étudiants connectés à Abidjan. En effet, sa dalle IPS de 6.6 pouces affiche une fréquence de rafraîchissement fluide de 120 Hz. De plus, sa compatibilité avec les bandes 5G garantit des communications ultra rapides. La puce Unisoc T760 gravée en 6 nanomètres optimise la consommation de batterie au quotidien. Par ailleurs, la batterie de 5000 mAh procure une autonomie rassurante pour vos déplacements. L'appareil offre ainsi un confort de travail remarquable dans un usage régulier.",
+        "sections": [
+            {
+                "h2_title": "Écran 120Hz Fluide et Processeur Unisoc T760 5G",
+                "paragraphs": [
+                    "Le ZTE Blade A76 5G embarque une dalle IPS de 6.6 pouces fonctionnant à 120 Hz. Cette fréquence élevée assure une réactivité exemplaire lors du défilement des pages web. Ainsi, les vidéos et les contenus animés s'affichent avec une clarté continue sans saccade. De surcroît, le processeur Unisoc T760 intègre huit cœurs cadencés jusqu'à 2.2 GHz. La mémoire vive de 4 Go soutient une exécution stable de vos applications professionnelles.",
+                    "Le stockage interne de 128 Go permet d'enregistrer tous vos fichiers importants en toute tranquillité. D'ailleurs, un tiroir microSD permet d'étendre la mémoire selon l'évolution de votre activité. En outre, la connexion 5G améliore la fluidité de vos échanges multimédias en ligne. Le boîtier présente une prise en main ergonomique et naturelle. Vous profitez d'un smartphone moderne pour toutes vos tâches régulières."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50 MP et Fonctionnalités Audio DTS",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 Mégapixels enregistre des clichés nets et lumineux. Cet objectif dispose d'un traitement d'image par intelligence artificielle pour valoriser chaque scène. De plus, le capteur auxiliaire permet d'obtenir un flou d'arrière-plan soigné sur les portraits. La caméra frontale de 8 Mégapixels assure des appels vidéo nets pour vos échanges à distance. Ainsi, vos photos conservent un rendu naturel en toutes circonstances.",
+                    "La prise jack 3.5 mm et le système sonore DTS assurent une restitution audio équilibrée au casque. En effet, vous profitez d'une belle clarté acoustique lors de vos écoutes musicales quotidiennes. Également, le port USB Type-C réversible simplifie les opérations de branchement au bureau. Le lecteur d'empreintes biométrique positionné sur le côté protège efficacement vos informations personnelles. Vous bénéficiez d'une expérience multimédia très satisfaisante."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 18W Efficace",
+                "paragraphs": [
+                    "La batterie de 5000 mAh fournit une alimentation généreuse capable de tenir sur de longues journées. Cette capacité robuste vous évite de chercher une prise de courant en cours de journée. Par ailleurs, la technologie de charge rapide 18W rétablit rapidement la réserve d'énergie. En effet, vous récupérez une autonomie confortable en quelques dizaines de minutes de pause. Vos activités professionnelles se déroulent en toute sérénité.",
+                    "Le boîtier en coloris noir et bleu propose un poids équilibré de 192 grammes. D'autre part, la finition soignée résiste efficacement aux marques du quotidien. En somme, le ZTE Blade A76 5G offre une transition réussie vers le très haut débit à prix contenu. Vous pouvez valider votre commande en toute confiance sur le site My-eStore. Le service de livraison dessert efficacement l'ensemble de la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade A76 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade A76 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 74.9 x 8.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.192 kg (192 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, coque arrière traitée anti-traces"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Space Black), Bleu (Ice Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.60 pouces (~85.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1612 x 720 pixels, 20:9, ~267 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T760 5G (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.2 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur de profondeur 2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "8 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 18W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM (double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et traitement sonore DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A76+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A76+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

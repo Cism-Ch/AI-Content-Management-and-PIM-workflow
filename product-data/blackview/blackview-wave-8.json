@@ -1,0 +1,308 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Wave 8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview France Store",
+                "url": "https://www.blackview.fr/products/blackview-wave-8-smartphone-4g-unisoc-t606-octa-core-4-go-128-256-go-5000-mah-13-mp-avec-ecran-de-6-56-pouces-a-90-hz"
+            }
+        ],
+        "pricing_reference": "65000",
+        "official_sku": "BV-WAVE-8"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.56 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz Smart-Display",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "5 MP HD",
+        "audio_config": "Haut-parleur Smart-K Box & Prise Jack 3.5mm",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "163.2 x 75.16 x 8.75 mm",
+        "weight": "0.192 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-WAVE-8-MASTER",
+        "Name": "Blackview Wave 8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "65000",
+        "Categories": "Smartphones > Blackview > Wave Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Wave 8, Smartphone 6.56 pouces, 90Hz, 13MP, 5000mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.192 kg",
+        "Attribute 4 default": "0.192 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Wave 8 : Smartphone Écran 6.56 Pouces 90Hz Caméra 13 MP Batterie 5000 mAh",
+        "brand_line": "Le smartphone 4G polyvalent Blackview associant grand écran et autonomie robuste.",
+        "marketing_conclusion": "Commandez le Blackview Wave 8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Wave 8 propose un grand écran de 6.56 pouces HD+ à 90 Hz, un capteur photo 13 MP, la puce Octa-Core et une batterie de 5000 mAh avec charge USB-C.",
+        "features": [
+            {
+                "feature": "Grand Écran 6.56\" HD+ 90Hz",
+                "benefice": "Affichage fluide idéal pour la vidéo et les réseaux sociaux."
+            },
+            {
+                "feature": "Mémoire Stockage jusqu'à 256 Go",
+                "benefice": "Conservation facile de toutes vos photos et applications."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge USB-C",
+                "benefice": "Autonomie solide sur une journée complète de travail."
+            },
+            {
+                "feature": "Puce Octa-Core Unisoc T606",
+                "benefice": "Performances fiables pour vos besoins quotidiens."
+            }
+        ],
+        "slogan_final": "Blackview Wave 8 — L'essentiel du smartphone moderne accessible.",
+        "seo": {
+            "meta_title": "Acheter Blackview Wave 8 (4Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Wave 8 avec écran 6.56\" 90Hz, caméra 13 MP et batterie 5000 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Wave 8, smartphone 6.56 pouces, prix Abidjan, 90Hz 13MP 5000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Wave 8",
+            "lsi_keywords": [
+                "Blackview Wave 8",
+                "smartphone Blackview Abidjan",
+                "Blackview Wave 8 prix",
+                "téléphone grand écran 90Hz",
+                "téléphone 13 MP 5000 mAh",
+                "smartphone accessible Côte d'Ivoire",
+                "achat téléphone Blackview Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Wave 8 256 Go : Écran 6.56\" 90Hz & 5000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Wave 8. Écran 6.56\" HD+ 90Hz, caméra 13 MP, batterie 5000 mAh et stockage 256 Go. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Wave 8 : Spécifications du Smartphone 6.56 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU WAVE 8",
+            "items": [
+                {
+                    "feature": "Dalle 6.56 Pouces 90Hz Fluidité",
+                    "benefice": "Confort visuel de lecture pour vos applications."
+                },
+                {
+                    "feature": "Stockage Spacieux de 256 Go",
+                    "benefice": "Espace suffisant pour sauvegarder vos documents."
+                },
+                {
+                    "feature": "Autonomie Durable 5000 mAh",
+                    "benefice": "Alimentation constante tout au long de la journée."
+                },
+                {
+                    "feature": "Prise en Main Mince 8.75 mm",
+                    "benefice": "Châssis élégant facile à manipuler au quotidien."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Wave 8 est un smartphone grand écran particulièrement moderne et accessible. Cet équipement convient très bien aux jeunes et professionnels actifs en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.56 pouces en définition HD+ offre une lisibilité visuelle très claire. De plus, son taux de rafraîchissement de 90 Hz apporte une fluidité constante. La batterie généreuse de 5000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.75 mm garantit une prise en main très agréable. L'interface DokeOS 4.0 sous Android 13 simplifie l'accès à vos applications. Enfin, ce smartphone élégant constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.56 Pouces 90Hz et Puce Octa-Core",
+                "paragraphs": [
+                    "Le Blackview Wave 8 intègre une dalle IPS de 6.56 pouces en définition HD+. Sa résolution de 1612 x 720 pixels restitue des détails d'une clarté impressionnante. De plus, le taux de rafraîchissement de 90 Hz apporte une fluidité constante lors du défilement. De surcroît, le processeur Unisoc T606 à huit cœurs cadencés à 1.6 GHz gère facilement vos logiciels. Les 4 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go ou 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le téléphone en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 13 MP, Son Smart-K et Triple Slot",
+                "paragraphs": [
+                    "Le Blackview Wave 8 embarque un capteur photo principal de 13 Mégapixels avec Flash LED. Cet objectif capture des images claires d'une grande netteté au quotidien. En outre, la caméra frontale de 5 Mégapixels s'avère très pratique pour vos visioconférences. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, la transmission sonore via le haut-parleur Smart-K immortalise vos chansons préférées. La qualité audio reste constante.",
+                    "Par ailleurs, le capteur d'empreintes digitales latéral garantit un accès sécurisé immédiat. De plus, le module GPS intégré assure un guidage précis lors de vos déplacements. Également, le triple slot permet d'utiliser simultanément deux cartes SIM et une carte mémoire. De surcroît, la prise jack 3.5mm autorise l'écoute musicale avec votre casque filaire. En somme, ce smartphone polyvalent réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Port USB-C",
+                "paragraphs": [
+                    "La batterie impressionnante de 5000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption tout au long de la journée. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble inclus. En effet, le système d'économie d'énergie préserve la batterie lors des veilles prolongées. Vos activités quotidiennes se poursuivent sans interruption.",
+                    "La silhouette affinée de 8.75 mm offre une tenue en main confortable et très légère. Son poids maîtrisé de 192 grammes témoigne du soin apporté au format. D'autre part, le Blackview Wave 8 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son écran 90Hz en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Wave 8",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Wave 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.2 x 75.16 x 8.75 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.192 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Coque polymère texturée"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir, Violet"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.56 pouces IPS LCD"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1612 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "5 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview France Store",
+                        "url": "https://www.blackview.fr/products/blackview-wave-8-smartphone-4g-unisoc-t606-octa-core-4-go-128-256-go-5000-mah-13-mp-avec-ecran-de-6-56-pouces-a-90-hz"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

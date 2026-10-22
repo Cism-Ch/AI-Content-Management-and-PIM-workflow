@@ -1,0 +1,23 @@
+{
+  "sku_map": {
+    "NASCO-GCNAS-5050B": "Noir",
+    "NASCO-GCNAS-5055B": "Noir",
+    "NASCO-GCNAS-5055S": "Silver",
+    "NASCO-NASGC-SNIPER50TB": "Noir",
+    "NASCO-NASGC-SNIPER50TS": "Silver",
+    "NASCO-NASGC-SNIPER60B": "Noir",
+    "NASCO-NASGC-SNIPER60S": "Silver",
+    "NASCO-NASGC-AMG80S": "Silver",
+    "NASCO-NASGC-80X60-CTZ": "Noir",
+    "NASCO-GCNAS-9060S(SLASH)SM": "Inox",
+    "NASCO-NASGC-LME90B": "Noir",
+    "NASCO-GCNAS-8060B": "Noir"
+  },
+  "keyword_rules": [
+    ["NOIR|NOIRE", "Noir"],
+    ["SILVER|ARGENT", "Silver"],
+    ["INOX|AVEC.GRILL|AQUARIUS", "Inox"],
+    ["BLANC", "Blanc"]
+  ],
+  "fallback": "Noir"
+}

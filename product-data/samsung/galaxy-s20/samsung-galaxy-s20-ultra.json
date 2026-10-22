@@ -1,0 +1,525 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s20-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S20 Ultra conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S20 Ultra",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2020,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S20-ULTRA",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S20-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s20-ultra/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S20 Ultra 6.9\" QHD+ 120Hz 108MP Space Zoom 100x 5000mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S20-ULTRA",
+        "Name": "Samsung Galaxy S20 Ultra - 6.9\" QHD+ 120Hz - 12Go/128Go - 108MP - 5000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "290000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S20 Ultra, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 108MP, 5000mAh, Snapdragon 865, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Noir, Blanc",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Pionnier du Capteur 108MP et du Space Zoom 100x.",
+        "teaser": "Découvrez le Samsung Galaxy S20 Ultra avec son écran géant Dynamic AMOLED 2X de 6.9 pouces, son capteur photo 108MP avec zoom 100x et sa batterie de 5000 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur Principal 108MP & Zoom 100x",
+                "benefice": "Précision photographique remarquable et téléobjectif périscope pour les détails éloignés"
+            },
+            {
+                "feature": "Écran 6.9\" Dynamic AMOLED 120Hz",
+                "benefice": "Immersion visuelle totale et grande fluidité d'affichage en haute définition"
+            },
+            {
+                "feature": "Puce 7nm & Jusqu'à 16Go RAM",
+                "benefice": "Multitâche rapide et puissance de calcul optimale pour tous vos usages"
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 45W",
+                "benefice": "Autonomie solide pour deux jours de productivité et récupération rapide"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone de référence pour les passionnés de photographie mobile et de grands écrans.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S20 Ultra (12Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S20 Ultra au meilleur prix à Abidjan sur My-eStore. Écran 6.9\" 120Hz, 108MP, zoom 100x, 5000mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S20 Ultra 128Go : 108MP & 120Hz | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S20 Ultra sur My-eStore. Capteur 108MP, zoom 100x, écran 6.9 pouces 120Hz, batterie 5000 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S20 Ultra",
+            "lsi_keywords": [
+                "Samsung Galaxy S20 Ultra Abidjan",
+                "prix Samsung S20 Ultra",
+                "fiche technique Galaxy S20 Ultra",
+                "smartphone Samsung 108MP 5G",
+                "Galaxy S20 Ultra 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S20 Ultra : Capteur 108MP, Space Zoom 100x et Écran 6.9\"",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S20 Ultra intègre un boîtier imposant aux finitions très soignées. Son grand écran de 6.9 pouces propose un affichage Quad HD Plus d'une netteté appréciable. De plus, son module photographique principal de 108 mégapixels capture des détails remarquables sur chaque scène. La stabilisation optique compense les mouvements pour maintenir des séquences vidéo parfaitement fluides. Enfin, l'accumulateur de 5000 mAh soutient les flux de travail professionnels les plus intenses.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S20 Ultra",
+            "items": [
+                {
+                    "feature": "Capteur Principal 108MP",
+                    "benefice": "Détails photographiques exceptionnels et vidéo 8K professionnelle"
+                },
+                {
+                    "feature": "Téléobjectif Périscope Space Zoom 100x",
+                    "benefice": "Rapprochement optique et numérique poussé pour les sujets distants"
+                },
+                {
+                    "feature": "Dalle 6.9\" AMOLED 120Hz",
+                    "benefice": "Grand confort d'affichage et fluidité continue pour la consultation"
+                },
+                {
+                    "feature": "Batterie 5000mAh & Charge 45W",
+                    "benefice": "Autonomie solide pour deux jours de productivité continue"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Haute Définition et Finitions Robustes",
+                "paragraphs": [
+                    "D'un côté, la dalle Dynamic AMOLED 2X de 6.9 pouces propose une définition Quad HD Plus remarquable. Le verre protecteur renforce efficacement la dalle tactile face aux frottements du quotidien. La rigidité du cadre en aluminium protège les composants électroniques internes contre les chocs accidentels. Par ailleurs, la luminosité maximale facilite grandement la consultation des courriels en extérieur. Les lignes ergonomiques facilitent la saisie de texte à deux mains pour vos rédactions. Vous visualisez tous vos documents complexes avec un confort de lecture optimal et constant.",
+                    "D'un autre côté, le taux de rafraîchissement à 120 Hz élimine toute saccade lors de la navigation internet. Ce confort visuel dynamique réduit la fatigue oculaire lors des sessions de lecture soutenues. La fidélité colorimétrique certifiée répond aux exigences strictes des graphistes et photographes mobiles. En outre, la résistance à l'eau IP68 permet une utilisation sereine sous les intempéries locales. Les bordures soignées garantissent une prise en main ferme et sécurisante. Ce smartphone combine une allure sobre avec des matériaux de fabrication haut de gamme."
+                ]
+            },
+            {
+                "h2_title": "Architecture Matérielle et Productivité Avancée",
+                "paragraphs": [
+                    "Tout d'abord, la puce gravée en technologie 7nm exécute les calculs lourds avec une promptitude exemplaire. La mémoire vive allant jusqu'à seize gigaoctets soutient le traitement simultané de plusieurs applications professionnelles. Le stockage rapide accueille de volumineux fichiers vidéo ainsi que des banques de photos complètes. De surcroît, le circuit interne canalise la chaleur lors des sessions de travail soutenues. L'optimisation logicielle One UI assure une ergonomie intuitive au service de vos priorités professionnelles. Vous gagnez en efficacité opérationnelle sur tous vos projets numériques quotidiens.",
+                    "Dans cette optique, l'environnement logiciel sécurisé Knox isole vos données confidentielles des menaces extérieures. La reconnaissance biométrique par empreinte ultrasonique déverrouille l'appareil avec rapidité sous l'écran. La compatibilité réseau 5G ultrarapide accélère l'envoi de pièces jointes lourdes lors de vos réunions. Également, la norme sans fil Wi-Fi 6 garantit un débit stable à votre domicile ou bureau. La synchronisation automatique avec vos ordinateurs simplifie le transfert de vos documents de travail. L'ensemble forme un écosystème bureautique complet accessible directement depuis votre poche."
+                ]
+            },
+            {
+                "h2_title": "Photographie 108MP et Autonomie Professionnelle",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 108 mégapixels restitue des détails microscopiques sur chaque prise de vue. Le téléobjectif périscope optique permet de zoomer jusqu'à 100x pour immortaliser des détails très éloignés. La stabilisation optique de l'image compense les mouvements pour maintenir des séquences vidéo parfaitement fluides. De même, le mode portrait applique un flou d'arrière-plan précis autour de votre sujet principal. L'enregistrement vidéo 8K conserve une netteté d'image optimale pour vos montages professionnels futurs. Vous capturez des souvenirs nets et fidèles en toutes conditions lumineuses.",
+                    "Enfin, l'accumulateur haute capacité de 5000 mAh assure une disponibilité énergétique tout au long de la journée. Le protocole de charge filaire 45W restaure rapidement l'autonomie lors d'une courte pause au bureau. La gestion logicielle de l'alimentation réduit la consommation passive des applications fonctionnant en arrière-plan. Par conséquent, vous travaillez en toute confiance sans craindre une coupure inopinée de votre terminal. La durabilité éprouvée des cellules de batterie garantit des performances stables sur plusieurs années. Le Galaxy S20 Ultra répond aux besoins des utilisateurs les plus rigoureux et actifs."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S20 Ultra",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S20 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "166.9 x 76.0 x 8.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.222 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 6, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.9\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "3200 x 1440 pixels (Quad HD+), 511 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz (en FHD+)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1400 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 990 (7nm+) / Snapdragon 865"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 3.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "108 MP, f/1.8, 26mm, PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif Périscope",
+                            "valeur": "48 MP, f/3.5, 103mm, Zoom optique 4x, Zoom hybride 10x, Space Zoom 100x, OIS"
+                        },
+                        {
+                            "label": "Capteur Profondeur",
+                            "valeur": "0.3 MP, TOF 3D, f/1.0"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 13mm, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "40 MP, f/2.2, 26mm, PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 24 fps, 4K à 60 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5000 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "45W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 25 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Fonctionnalités intelligentes intégrées"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s20-ultra/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "640000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "16 Go",
+            "storage": "128 Go",
+            "price": "375000",
+            "sku_suffix": "16-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "16 Go",
+            "storage": "256 Go",
+            "price": "550000",
+            "sku_suffix": "16-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "725000",
+            "sku_suffix": "16-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "640000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "128 Go",
+            "price": "375000",
+            "sku_suffix": "16-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "256 Go",
+            "price": "550000",
+            "sku_suffix": "16-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "725000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "640000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "128 Go",
+            "price": "375000",
+            "sku_suffix": "16-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "256 Go",
+            "price": "550000",
+            "sku_suffix": "16-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "725000",
+            "sku_suffix": "16-GB-512-GB-BLANC"
+        }
+    ]
+}

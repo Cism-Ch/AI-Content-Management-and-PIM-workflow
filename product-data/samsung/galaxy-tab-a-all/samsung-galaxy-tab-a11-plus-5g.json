@@ -1,0 +1,400 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab A11+ conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab A Series",
+        "commercial_name": "Samsung Galaxy Tab A11+",
+        "category": "tablet",
+        "sub_category": "tablet-midrange",
+        "release_year": 2025,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-A11-PLUS-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-A11-PLUS-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-a11-plus/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A11+Plus"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A11+Plus+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab A11+ 11.0 pouces 90Hz Dimensity 7300 7040mAh 5G"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7300 (4nm) Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 6 Go",
+        "audio_config": "4 Haut-parleurs stéréo",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "7040 mAh",
+        "charging_wired": "Charge Rapide 25W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM + eSIM / Slot MicroSD jusqu'à 2 To",
+        "weight": "0.477 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-A11-PLUS-5G",
+        "Name": "Samsung Galaxy Tab A11+ - Écran 11.0\" 90Hz - (6 Go|8 Go & 128 Go|256 Go) - 7040mAh 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "245000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab A Series",
+        "Tags": "Samsung, Galaxy Tab A11+, Galaxy Tab A Series, Tablette, Tablette Android, 5G, Écran 90Hz, 7040mAh, Écran 11 Pouces, 90Hz, Dimensity 7300, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.477 kg",
+        "Attribute 4 default": "0.477 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, 4G LTE, Wi-Fi 6, Bluetooth 5.3, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Affichage 11.0 Pouces 90Hz avec Puce Dimensity 7300 et 5G.",
+        "teaser": "Découvrez la Samsung Galaxy Tab A11+ 5G avec son grand écran immersif de 11 pouces 90Hz, sa puce gravée en 4nm, son quadruple haut-parleur Dolby Atmos et sa batterie de 7040 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Spacieux 11.0\" 90Hz WUXGA",
+                "benefice": "Grand confort de lecture et fluidité d'affichage pour les études et le streaming"
+            },
+            {
+                "feature": "Puce Dimensity 7300 & Modem 5G",
+                "benefice": "Exécution rapide des applications et téléchargements sans attente en mobilité"
+            },
+            {
+                "feature": "Quadruple Haut-Parleur Dolby Atmos",
+                "benefice": "Immersion sonore spatiale claire lors des visionnages de films et visioconférences"
+            },
+            {
+                "feature": "Batterie 7040 mAh & Charge 25W",
+                "benefice": "Autonomie sécurisante pour toute la journée et reprise rapide d'énergie"
+            }
+        ],
+        "marketing_conclusion": "La tablette familiale polyvalente par excellence associant grand écran 90Hz, son immersif et connectivité 5G nomade.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab A11+ à Abidjan | My-eStore",
+            "meta_description": "Commandez la Samsung Galaxy Tab A11+ 5G à Abidjan sur My-eStore. Écran 11\" 90Hz, Dimensity 7300, 7040 mAh, 5G, livraison rapide et garantie officielle.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab A11 Plus",
+                "Galaxy Tab A11+ Abidjan",
+                "Galaxy Tab A11 Plus prix",
+                "Tablette tactile Samsung 11 pouces"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab A11+ : Écran 11\" 90Hz, Dimensity 7300 et Batterie 7040 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab A11+ 5G : Écran 11\" & 5G | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab A11+ 5G sur My-eStore. Écran 11\" 90Hz, puce Dimensity 7300, 4 haut-parleurs Dolby Atmos, batterie 7040 mAh et 5G.",
+            "focus_keyword": "Samsung Galaxy Tab A11 Plus",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab A11 Plus Abidjan",
+                "prix Samsung Galaxy Tab A11 Plus",
+                "fiche technique Tab A11 Plus",
+                "tablette 11 pouces Samsung",
+                "Galaxy Tab A11+ 128Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab A11+",
+            "items": [
+                {
+                    "feature": "Dalle 11.0\" 90Hz WUXGA",
+                    "benefice": "Lisibilité confortable et fluidité visuelle pour tous vos loisirs"
+                },
+                {
+                    "feature": "Puce MediaTek Dimensity 7300",
+                    "benefice": "Puissance moderne et sobriété énergétique grâce à la gravure 4nm"
+                },
+                {
+                    "feature": "Quadruple Haut-Parleur Stéréo",
+                    "benefice": "Scène acoustique enveloppante avec traitement Dolby Atmos"
+                },
+                {
+                    "feature": "Batterie 7040 mAh & Charge 25W",
+                    "benefice": "Autonomie continue pour vous accompagner tout au long du jour"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab A11+ propose un compromis remarquable entre taille d'écran et puissance. Sa grande dalle de 11 pouces offre une clarté bienvenue pour vos devoirs et contenus multimédias. De plus, sa puce Dimensity 7300 exécute vos applications quotidiennes sans la moindre hésitation. Le châssis au design épuré assure une tenue très agréable pour toute la famille. Enfin, son accumulateur de 7040 mAh procure une autonomie rassurante sur l'ensemble de votre journée.",
+        "sections": [
+            {
+                "h2_title": "Affichage Fluide 11 Pouces et Prise en Main Confortable",
+                "paragraphs": [
+                    "D'un côté, l'écran de onze pouces propose une surface spacieuse adaptée à la consultation de manuels électroniques. La technologie de rafraîchissement cadencée à 90 Hz fluidifie agréablement les transitions visuelles lors du défilement des pages. La haute résolution WUXGA restitue des caractères typographiques parfaitement nets pour limiter la fatigue des yeux. Par ailleurs, la luminosité équilibrée permet une lecture sans reflet gênant dans votre salon. Le poids plume de quatre cent soixante-dix-sept grammes facilite grandement sa manipulation à deux mains. Vous profitez ainsi d'un espace d'affichage harmonieux pensé pour toute la maisonnée.",
+                    "D'un autre côté, le boîtier épuré en aluminium confère une belle rigidité face aux manipulations habituelles des enfants. L'épaisseur contenue de six virgule neuf millimètres favorise une insertion aisée dans une sacoche de protection. Les finitions soignées protègent le dos des traces de doigts au fil des utilisations répétées. En outre, la sensibilité de la dalle tactile répond promptement à chaque interaction de vos doigts. Les touches de volume procurent une réponse mécanique nette et précise. Ce modèle allie compacité esthétique et solidité matérielle pour un usage familial durable."
+                ]
+            },
+            {
+                "h2_title": "Expérience Multimédia Immersive et Partage Familial",
+                "paragraphs": [
+                    "Tout d'abord, les quatre haut-parleurs stéréo diffusent un son clair et spatialisé avec la norme Dolby Atmos. Les voix lors des visioconférences restent compréhensibles sans besoin de recourir à un casque audio externe. Le mode multi-fenêtres permet de regarder un tutoriel vidéo tout en prenant des notes en vis-à-vis. De surcroît, l'environnement Samsung Kids propose des espaces éducatifs sécurisés et contrôlés pour les plus jeunes. Les outils de contrôle parental définissent facilement des limites de temps d'écran personnalisées. Vous partagez l'appareil en toute sérénité avec vos proches.",
+                    "Dans cette optique, la caméra frontale maintient un cadrage équilibré lors des réunions professionnelles ou scolaires à distance. Le microphone directionnel atténue efficacement les bruits ambiants pour restituer fidèlement votre voix. La compatibilité avec les étuis protecteurs transforme la tablette en pupitre de visionnage très pratique. Également, la fonction de transfert sans fil partage instantanément vos photos de vacances avec votre téléphone. Toutes vos applications éducatives restent synchronisées sur votre compte en ligne sécurisé. Cet outil convivial répond avec simplicité aux attentes de chaque membre du foyer."
+                ]
+            },
+            {
+                "h2_title": "Puce Moderne 4nm et Autonomie Rassurante",
+                "paragraphs": [
+                    "D'abord, le processeur Dimensity 7300 gravé en quatre nanomètres combine rapidité d'exécution et maîtrise thermique exemplaire. La mémoire vive allant jusqu'à huit gigaoctets soutient un passage sans attente entre vos différents logiciels. L'espace de stockage spacieux accueille sans difficulté vos bibliothèques d'applications, séries et cours enregistrés. De même, la connectivité 5G assure des débits rapides pour vos diffusions vidéo lors de vos voyages. Le déverrouillage sécurisé par reconnaissance faciale protège vos documents privés avec une grande réactivité. Vous utilisez votre tablette avec un confort fluide au quotidien.",
+                    "Enfin, la batterie de 7040 mAh assure une utilisation continue tout au long d'une journée de divertissement. La compatibilité avec la recharge rapide de 25 watts écourte grandement le temps passé près d'une prise. La gestion logicielle équilibre la consommation selon vos besoins réels pour préserver l'autonomie restante. Par conséquent, vous regardez vos séries préférées sans craindre une coupure inopinée en plein visionnage. Les composants de qualité constructeur ont été conçus pour durer face aux sollicitations quotidiennes. La Galaxy Tab A11+ constitue un investissement durable réunissant performance et plaisir visuel."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab A11+",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab A11+</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "257.1 x 168.7 x 6.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.477 kg (477 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre, Dos et Cadre en Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "Non certifié étanche"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Tablette tactile familiale 11 pouces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "11.0 pouces (27.94 cm), 1920 x 1200 pixels (WUXGA), 206 ppi, ratio 16:10"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Dimensity 7300 (4nm) Octa-Core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 2 To (slot dédié)"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 16 avec One UI 8.0 et fonctions IA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "8 MP, f/2.0, Autofocus, Enregistrement Vidéo 1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "5 MP, Enregistrement Vidéo HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "4 Haut-parleurs stéréo, Dolby Atmos, Prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "7040 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Rapide",
+                            "valeur": "Charge filaire 25W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 14 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Nano-SIM + support eSIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 6 (802.11ax), Bluetooth 5.3, GPS, GLONASS, Galileo, Beidou"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB Type-C 2.0, Prise Jack 3.5mm, Reconnaissance faciale"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-a11-plus/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A11+Plus"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A11+Plus+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "320000",
+            "sku_suffix": "6-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "390000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "245000",
+            "sku_suffix": "6-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "320000",
+            "sku_suffix": "6-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "390000",
+            "sku_suffix": "8-GB-256-GB-ARGENT"
+        }
+    ]
+}

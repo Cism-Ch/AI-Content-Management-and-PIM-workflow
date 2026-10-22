@@ -1,0 +1,791 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s10-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S10+ conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S10+",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2019,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S10-PLUS",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S10-PLUS"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s10/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Plus"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Plus+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S10+ 6.4\" QHD+ 8Go/12Go RAM 4100mAh 4G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S10-PLUS",
+        "Name": "Samsung Galaxy S10+ - 6.4\" QHD+ - 8Go/128Go - 16MP - 4100mAh - 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "180000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S10+, Galaxy S Series, Smartphone, Android, 4G, 12MP, 4100mAh, Snapdragon 855, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Vert, Bleu, Jaune, Rouge, Gris Sombre, Blanc Crème",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 512 Go, 1 To",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Format de la Série Galaxy S10 avec Double Caméra Frontale.",
+        "teaser": "Découvrez le Samsung Galaxy S10+ avec son grand écran Dynamic AMOLED de 6.4 pouces en Quad HD+, son triple capteur arrière et sa batterie endurante de 4100 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.4\" Dynamic AMOLED QHD+",
+                "benefice": "Dalle Infinity-O lumineuse et immersive offrant une lisibilité et des contrastes exceptionnels"
+            },
+            {
+                "feature": "Puce 8nm & Jusqu'à 12Go RAM",
+                "benefice": "Multitâche fluide et grande capacité de traitement pour toutes vos applications"
+            },
+            {
+                "feature": "Triple Capteur & Double Caméra Selfie",
+                "benefice": "Polyvalence photographique complète et portraits soignés avec effet de profondeur"
+            },
+            {
+                "feature": "Batterie 4100 mAh & PowerShare",
+                "benefice": "Autonomie solide pour votre journée et partage d'énergie sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Un smartphone grand écran pensé pour allier puissance durable et confort visuel au quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S10+ (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S10+ au meilleur prix à Abidjan sur My-eStore. Écran 6.4\" QHD+, 8Go RAM, triple capteur, 4100mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S10+ 128Go : Écran QHD+ & Triple Capteur | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S10+ sur My-eStore. Écran Dynamic AMOLED 6.4 pouces Quad HD+, triple capteur photo, batterie 4100 mAh et connectivité 4G rapide.",
+            "focus_keyword": "Samsung Galaxy S10+",
+            "lsi_keywords": [
+                "Samsung Galaxy S10+ Abidjan",
+                "prix Samsung S10 Plus",
+                "fiche technique Galaxy S10 Plus",
+                "smartphone Samsung grand écran 4G",
+                "Galaxy S10 Plus 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S10+ : Grand Écran 6.4\" QHD+, Puce 8nm et Batterie 4100mAh",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S10+ se distingue par sa dalle Dynamic AMOLED de 6.4 pouces. Cet affichage procure une définition Quad HD Plus très détaillée pour tous vos contenus professionnels. De plus, sa puce moderne gravée en 8nm traite vos applications avec une promptitude continue. Le cadre en aluminium renforcé assure une robustesse éprouvée face aux aléas de vos déplacements. Enfin, l'accumulateur de 4100 mAh offre une disponibilité prolongée tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S10+",
+            "items": [
+                {
+                    "feature": "Dalle 6.4\" Quad HD+ AMOLED",
+                    "benefice": "Grand confort de lecture et excellente lisibilité en extérieur"
+                },
+                {
+                    "feature": "Triple Capteur avec Ouverture Variable",
+                    "benefice": "Clichés équilibrés de jour comme de nuit avec zoom optique 2x"
+                },
+                {
+                    "feature": "Double Caméra Avant pour Portraits",
+                    "benefice": "Gestion avancée de la profondeur de champ pour vos selfies professionnels"
+                },
+                {
+                    "feature": "Étanchéité IP68 Certifiée",
+                    "benefice": "Protection complète contre les projections d'eau et les poussières"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Grand Affichage Immersif et Prise en Main Équilibrée",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 6.4 pouces offre un espace confortable pour la lecture de tableaux professionnels. La définition Quad HD Plus permet de distinguer les détails les plus fins sur vos photographies. Le traitement du verre trempé protège efficacement la dalle contre les rayures accidentelles du quotidien. Par ailleurs, la luminosité maximale facilite grandement la consultation des courriels en extérieur. Le design soigné répartit le poids de manière homogène pour limiter la fatigue lors d'un usage prolongé. Vous bénéficiez ainsi d'une excellente ergonomie pour vos sessions multimédias quotidiennes.",
+                    "D'un autre côté, la technologie Dynamic AMOLED procure des contrastes profonds et des couleurs vives équilibrées. Ce rendu visuel soigné met en valeur vos présentations ainsi que vos vidéos haute définition. Les bordures fines maximisent la surface d'affichage tout en conservant une préhension naturelle et agréable. En outre, la dalle tactile réagit instantanément aux commandes pour une navigation fluide sans saccade. Les lignes épurées s'harmonisent facilement avec vos accessoires professionnels de la même gamme. Ce smartphone associe grand gabarit et finesse pour une utilisation confortable en mobilité."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce gravée en 8nm accomplit les calculs exigeants avec une grande efficacité énergétique. La mémoire vive allant jusqu'à douze gigaoctets soutient le fonctionnement simultané de plusieurs applications lourdes. L'espace de stockage généreux accueille sans difficulté vos dossiers professionnels volumineux et vidéos haute fidélité. De surcroît, le dissipateur thermique canalise la chaleur pour maintenir des cadences d'horloge stables. Les algorithmes d'optimisation logicielle facilitent la mise en page et la gestion de vos flux bureautiques. Vous accomplissez vos démarches professionnelles avec une régularité exemplaire.",
+                    "Dans cette optique, le système de charge rapide restaure l'autonomie en un temps très limité. La compatibilité avec la charge à induction offre une grande praticité sur votre bureau personnel. L'architecture matérielle sécurisée Knox isole vos identifiants confidentiels des tentatives d'accès non autorisées. Également, la connectivité quatre G LTE assure des transferts de données volumineux sans ralentissement. Vos visioconférences conservent une stabilité audio et vidéo appréciable en réseau mobile. Ce terminal constitue une référence performante pour les travailleurs connectés."
+                ]
+            },
+            {
+                "h2_title": "Système Photo Polyvalent et Autonomie Prolongée",
+                "paragraphs": [
+                    "D'abord, le capteur principal à ouverture variable enregistre des clichés équilibrés en toutes circonstances lumineuses. Le système autofocus ultra-rapide verrouille la netteté sur les sujets mobiles sans hésitation. Le téléobjectif optique 2x préserve l'intégralité des détails lors des plans rapprochés. De même, le capteur ultra grand-angle capture l'ensemble de vos paysages avec une grande fidélité géométrique. La double caméra frontale réalise des portraits nets avec un flou d'arrière-plan progressif et précis. Vous créez des albums photographiques soignés directement exploitables pour vos projets.",
+                    "Enfin, l'accumulateur de 4100 mAh procure l'énergie indispensable pour couvrir vos journées les plus intenses. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes d'usage réelles. La fonction de recharge inversée dépanne facilement vos écouteurs sans fil compatibles. Par conséquent, vous travaillez en toute sérénité sans dépendre d'une prise murale permanente. La robustesse globale des composants assure une fiabilité durable sur plusieurs années d'utilisation. Le Galaxy S10+ représente une solution complète alliant autonomie et confort visuel."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S10+",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S10+."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "157.6 x 74.1 x 7.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.175 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 6 / Céramique, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.4\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "3040 x 1440 pixels (Quad HD+), 522 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 9820 (8nm) / Snapdragon 855"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 512 Go / 1 To UFS 2.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé jusqu'à 512 Go)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.5-2.4, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "12 MP, f/2.4, 52mm, Zoom optique 2x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "16 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Selfie Double (Avant)",
+                            "valeur": "10 MP, f/1.9 + 8 MP, f/2.2 (profondeur), Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4100 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "15W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Wireless PowerShare 4.5W"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Recharge complète en environ 95 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + Nano-SIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes ultrasonique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s10/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Plus"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Plus+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-BLEU"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-JAUNE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-ROUGE"
+        },
+        {
+            "color_fr": "Gris Sombre",
+            "color_en": "Gris Sombre",
+            "color_code": "GRIS-SOMBRE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-GRIS-SOMBRE"
+        },
+        {
+            "color_fr": "Gris Sombre",
+            "color_en": "Gris Sombre",
+            "color_code": "GRIS-SOMBRE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-GRIS-SOMBRE"
+        },
+        {
+            "color_fr": "Gris Sombre",
+            "color_en": "Gris Sombre",
+            "color_code": "GRIS-SOMBRE",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-GRIS-SOMBRE"
+        },
+        {
+            "color_fr": "Gris Sombre",
+            "color_en": "Gris Sombre",
+            "color_code": "GRIS-SOMBRE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-GRIS-SOMBRE"
+        },
+        {
+            "color_fr": "Gris Sombre",
+            "color_en": "Gris Sombre",
+            "color_code": "GRIS-SOMBRE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-GRIS-SOMBRE"
+        },
+        {
+            "color_fr": "Gris Sombre",
+            "color_en": "Gris Sombre",
+            "color_code": "GRIS-SOMBRE",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-GRIS-SOMBRE"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Blanc Crème",
+            "color_code": "BLANC-CREME",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "8-GB-128-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Blanc Crème",
+            "color_code": "BLANC-CREME",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "8-GB-512-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Blanc Crème",
+            "color_code": "BLANC-CREME",
+            "ram": "8 Go",
+            "storage": "1 To",
+            "price": "395000",
+            "sku_suffix": "8-GB-1-TB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Blanc Crème",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-128-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Blanc Crème",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "340000",
+            "sku_suffix": "12-GB-512-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Blanc Crème",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "450000",
+            "sku_suffix": "12-GB-1-TB-BLANC-CREME"
+        }
+    ]
+}

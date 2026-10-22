@@ -1,0 +1,407 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Axon 40 Ultra",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Axon+40+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Axon+40+Ultra+specifications"
+            }
+        ],
+        "pricing_reference": "450000",
+        "official_sku": "ZTE-AXON-40-ULTRA"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 1 (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 3.0 GHz",
+        "screen_size": "6.80 pouces",
+        "screen_technology": "AMOLED Incurvé 120Hz sans encoche",
+        "screen_resolution": "2480 x 1116 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Extensible via mémoire virtuelle LPDDR5",
+        "os": "Android 12",
+        "os_skin": "MyOS 12",
+        "camera_main": "Triple capteur 64 MP Master (Principal 35mm OIS + Ultra Grand-Angle OIS + Téléobjectif Périscope OIS 5.7x)",
+        "camera_selfie": "16 MP sous l'écran 3e génération",
+        "audio_config": "Haut-parleurs Stéréo doubles",
+        "audio_tech": "Son spatial DTS:X Ultra & Snapdragon Sound",
+        "connectivity_nfc": "NFC Multifonction",
+        "navigation_gps": "GPS dual-band + GLONASS + BDS + GALILEO",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 65W / 80W",
+        "dimensions": "163.2 x 73.5 x 8.4 mm",
+        "weight": "0.204 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-AXON-40-ULTRA-MASTER",
+        "Name": "ZTE Axon 40 Ultra",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "450000",
+        "Categories": "Smartphones > ZTE > Axon Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Axon 40 Ultra, Triple 64MP, Snapdragon 8 Gen 1, Écran sans encoche, 65W, 5G, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.204 kg",
+        "Attribute 4 default": "0.204 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Axon 40 Ultra : Triple Capteur 64 MP Master et Snapdragon 8 Gen 1",
+        "brand_line": "Le smartphone haut de gamme avec triple capteur stabilisé et affichage intégral sans bordure.",
+        "marketing_conclusion": "Commandez votre ZTE Axon 40 Ultra sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Axon 40 Ultra propose un écran AMOLED 120Hz de 6.8 pouces sans encoche, un triple capteur 64 MP OIS d'exception, la puce Snapdragon 8 Gen 1 et la charge 65W.",
+        "features": [
+            {
+                "feature": "Triple Capteur 64 MP Master OIS",
+                "benefice": "Stabilisation optique complète sur les trois optiques photo."
+            },
+            {
+                "feature": "Écran AMOLED 6.8\" Sans Encoche",
+                "benefice": "Caméra invisible sous l'écran pour une immersion intégrale."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 1 (4 nm)",
+                "benefice": "Exécution rapide de tous vos logiciels professionnels."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 65W",
+                "benefice": "Autonomie généreuse et temps de charge très court."
+            }
+        ],
+        "slogan_final": "ZTE Axon 40 Ultra — L'alliance de l'excellence photographique et du design épuré.",
+        "seo": {
+            "meta_title": "Acheter ZTE Axon 40 Ultra (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Axon 40 Ultra avec triple appareil photo 64 MP OIS, écran 6.8\" sans encoche et Snapdragon 8 Gen 1. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "ZTE Axon 40 Ultra, smartphone haut de gamme Abidjan, triple 64MP OIS, caméra sous écran, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Axon 40 Ultra",
+            "lsi_keywords": [
+                "ZTE Axon 40 Ultra",
+                "smartphone ZTE Axon 40 Ultra Abidjan",
+                "ZTE Axon 40 Ultra prix",
+                "téléphone triple capteur 64 MP",
+                "smartphone caméra sous écran 120hz",
+                "téléphone snapdragon 8 gen 1",
+                "achat smartphone premium My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Axon 40 Ultra 256 Go : Triple 64 MP OIS & AMOLED 6.8\" | My-eStore",
+            "meta_description": "Achetez le ZTE Axon 40 Ultra. Triple appareil photo 64 MP OIS, écran AMOLED 120Hz sans encoche, puce Snapdragon 8 Gen 1 et charge 65W. Livraison sur Abidjan."
+        },
+        "h1": "ZTE Axon 40 Ultra : Snapdragon 8 Gen 1, Triple Capteur 64 MP et Écran AMOLED 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE AXON 40 ULTRA",
+            "items": [
+                {
+                    "feature": "Triple Capteur 64 MP OIS",
+                    "benefice": "Précision optique sur chaque focale photographique."
+                },
+                {
+                    "feature": "Caméra Sous Écran 3e Génération",
+                    "benefice": "Surface d'affichage continue sans trou ni encoche."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Gen 1",
+                    "benefice": "Puissance de calcul optimale pour le multitâche."
+                },
+                {
+                    "feature": "Recharge Rapide 65W USB-C",
+                    "benefice": "Recharge complète en moins de 45 minutes."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Axon 40 Ultra incarne l'excellence technique à travers une conception soignée et des finitions élégantes. Ce modèle haut de gamme s'adresse directement aux passionnés d'image et aux professionnels exigeants à Abidjan. En effet, sa dalle AMOLED intégrale de 6.8 pouces libère entièrement l'espace visuel. De plus, son système photo réunit trois capteurs de 64 Mégapixels dotés d'une stabilisation optique. La puce Qualcomm Snapdragon 8 Gen 1 garantit une puissance de premier ordre. Par ailleurs, la batterie de 5000 mAh soutient une utilisation intensive continue. Enfin, commander sur My-eStore vous fait bénéficier d'un suivi personnalisé.",
+        "sections": [
+            {
+                "h2_title": "Écran AMOLED 120Hz sans Découpe et Puissance Snapdragon",
+                "paragraphs": [
+                    "Le ZTE Axon 40 Ultra dispose d'un écran AMOLED immersif de 6.8 pouces en définition 2480 par 1116 pixels. Sa fréquence de rafraîchissement de 120 Hz garantit un confort visuel très agréable. Ainsi, les textes et les vidéos s'affichent avec une netteté remarquable sur toute la surface. De surcroît, le processeur Snapdragon 8 Gen 1 gravé en 4 nanomètres assure une réactivité exemplaire. La mémoire vive de 12 Go ou 16 Go permet d'exécuter plusieurs logiciels simultanément.",
+                    "Le stockage interne allant jusqu'à 512 Go accueille sans contrainte vos fichiers volumineux. D'ailleurs, la technologie UFS 3.1 garantit des vitesses de lecture et d'écriture élevées. En outre, une chambre à vapeur multicouche dissipe efficacement la chaleur lors des calculs intenses. L'ergonomie générale procure une prise en main stable et très rassurante. Vous profitez d'une fluidité irréprochable pour tous vos usages professionnels."
+                ]
+            },
+            {
+                "h2_title": "Triple Système Photo 64 MP Master avec Stabilisation OIS",
+                "paragraphs": [
+                    "Le module photo intègre trois capteurs haute précision de 64 Mégapixels chacun. L'objectif principal de 35 mm reproduit une perspective naturelle proche de la vision humaine. De plus, le capteur ultra grand-angle de 16 mm capture de vastes paysages avec un minimum de distorsion. Le téléobjectif périscope de 91 mm offre un zoom optique sans perte de qualité. Ainsi, chaque cliché conserve un niveau de détail saisissant même à distance.",
+                    "La caméra frontale de 16 Mégapixels reste parfaitement invisible sous la dalle protectrice. En effet, la densité de pixels de 400 ppi dissimule le capteur sans altérer la clarté d'affichage. Également, l'enregistrement vidéo monte jusqu'en résolution 8K avec une stabilisation optique active. Le double haut-parleur stéréo certifié DTS:X diffuse une ambiance sonore enveloppante. Vous disposez d'un véritable outil de création visuelle."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Ultra Rapide 65W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh fournit une réserve énergétique confortable pour vos longues journées d'activité. Cette grande capacité vous libère de l'obligation de recharger votre téléphone en journée. Par ailleurs, la technologie de charge rapide 65W permet de faire le plein en un temps record. En effet, vous récupérez l'essentiel de votre autonomie en quelques instants de pause. Vos obligations professionnelles se poursuivent sans aucune interruption.",
+                    "Le boîtier en métal et verre affiche un poids maîtrisé de 204 grammes. D'autre part, la protection des données s'effectue via un lecteur d'empreintes digital optique sous l'écran. En somme, le ZTE Axon 40 Ultra allie innovation esthétique et puissance dans un format raffiné. Vous pouvez passer votre commande en toute simplicité sur My-eStore. La livraison sécurisée à Abidjan répond à des standards de qualité stricts."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Axon 40 Ultra",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Axon 40 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.2 x 73.5 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.204 kg (204 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade et dos en verre, châssis en aluminium"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Black), Argent (Silver)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.80 pouces (~93.1% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED incurvé, 1 milliard de couleurs (10-bit)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2480 x 1116 pixels, 20:9, ~400 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1500 nits (pic)"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Caméra frontale invisible sous l'écran (UDC 3e gen)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 1 (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.00 GHz Cortex-X2 + 3x2.50 GHz + 4x1.80 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 730"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 12 avec interface MyOS 12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "64 MP (f/1.6, 35mm, Sony IMX787, OIS, PDAF multi-directionnel)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "64 MP (f/2.4, 16mm, Sony IMX787, 120˚, OIS, PDAF)"
+                        },
+                        {
+                            "label": "Capteur téléobjectif périscope",
+                            "valeur": "64 MP (f/3.5, 91mm, OIS, zoom optique 5.7x, PDAF)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, 26mm, sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60/120 fps, HDR10, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 65W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, USB Power Delivery 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6e tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP, LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.1, compatible OTG"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec DTS:X Ultra et Snapdragon Sound"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+40+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+40+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Black"
+        },
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Argent",
+            "color_fr": "Argent",
+            "color_en": "Silver"
+        },
+        {
+            "ram": "16 Go",
+            "rom": "512 Go",
+            "storage": "512 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Black"
+        },
+        {
+            "ram": "16 Go",
+            "rom": "512 Go",
+            "storage": "512 Go",
+            "color": "Argent",
+            "color_fr": "Argent",
+            "color_en": "Silver"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AirBuds 30",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/airbuds30"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "22000",
+        "official_sku": "BV-AIRBUDS-30"
+    },
+    "key_specifications": {
+        "processor": "Puce Bluetooth 5.3 Low Energy",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "350 mAh (boîtier) / 35 mAh (écouteur)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio TWS",
+        "os_skin": "Contrôles tactiles épurés",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Drivers 13 mm dynamiques acoustiques HD",
+        "audio_tech": "Débruitage ENC & Son HD Stéréo",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "54 x 44 x 22 mm",
+        "weight": "0.042 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AIRBUDS-30-MASTER",
+        "Name": "Blackview AirBuds 30",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "60",
+        "Regular price": "22000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AirBuds 30, Écouteurs Sans Fil, TWS, Bluetooth 5.3, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.042 kg",
+        "Attribute 4 default": "0.042 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AirBuds 30 : Débruitage ENC et Design Ultra-Léger",
+        "brand_line": "Écouteurs sans fil Blackview conçus pour le confort et la simplicité.",
+        "marketing_conclusion": "Commandez les Blackview AirBuds 30 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les écouteurs Blackview AirBuds 30 combinent la puce Bluetooth 5.3, des transducteurs 13 mm et une réduction de bruit ENC efficace pour vos appels au quotidien.",
+        "features": [
+            {
+                "feature": "Bluetooth 5.3 Stabilité",
+                "benefice": "Liaison sans fil réactive et sans coupure jusqu'à 10 mètres."
+            },
+            {
+                "feature": "Transducteurs 13 mm HD",
+                "benefice": "Restitution audio équilibrée idéale pour la musique et le streaming."
+            },
+            {
+                "feature": "Débruitage ENC pour Appels",
+                "benefice": "Voix nette lors des communications téléphoniques en extérieur."
+            },
+            {
+                "feature": "Poids Ultra-Plume 42g",
+                "benefice": "Boîtier ultra-compact se glissant facilement dans une poche."
+            }
+        ],
+        "slogan_final": "Blackview AirBuds 30 — L'essentiel de l’audio en toute légèreté.",
+        "seo": {
+            "meta_title": "Acheter Blackview AirBuds 30 (TWS Bluetooth 5.3) à Abidjan | My-eStore",
+            "meta_description": "Découvrez les écouteurs sans fil Blackview AirBuds 30 avec Bluetooth 5.3 et réduction ENC. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AirBuds 30, écouteurs sans fil Blackview, prix Abidjan, Bluetooth 5.3"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AirBuds 30",
+            "lsi_keywords": [
+                "Blackview AirBuds 30",
+                "écouteurs sans fil Blackview",
+                "prix Abidjan",
+                "écouteurs Bluetooth Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écouteurs TWS 20h",
+                "boîtier 350 mAh",
+                "Bluetooth 5.3",
+                "achat écouteurs Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AirBuds 30 : Bluetooth 5.3 & Autonomie 20h | My-eStore",
+            "meta_description": "Achetez les écouteurs Blackview AirBuds 30. Puce Bluetooth 5.3, transducteurs 13 mm et boîtier 350 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AirBuds 30 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Connexion Bluetooth 5.3",
+                    "benefice": "Appairage automatique rapide et stabilité de signal constante."
+                },
+                {
+                    "feature": "Drivers 13 mm Dynamiques",
+                    "benefice": "Rendu sonore clair avec des voix très intelligibles."
+                },
+                {
+                    "feature": "Réduction de Bruit ENC",
+                    "benefice": "Atténuation des bruits de fond lors des conversations."
+                },
+                {
+                    "feature": "Format Compact 42g",
+                    "benefice": "Conception légère facilitant le transport au quotidien."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview AirBuds 30 sont des écouteurs sans fil légers et performants. Cet équipement répond parfaitement aux besoins des utilisateurs à la recherche d'une solution simple en Côte d'Ivoire. Par ailleurs, le composant Bluetooth 5.3 assure une liaison audio très fluide. De plus, la réduction de bruit ENC améliore la clarté des communications. Les transducteurs de 13 mm offrent une acoustique équilibrée. Le boîtier de charge de 350 mAh garantit une autonomie idéale pour la journée. En effet, l'ergonomie des embouts assure une tenue agréable sans gêne. Enfin, vous profitez de votre musique en toute liberté.",
+        "sections": [
+            {
+                "h2_title": "Qualité Acoustique et Réduction ENC",
+                "paragraphs": [
+                    "Les Blackview AirBuds 30 embarquent des haut-parleurs dynamiques de 13 mm. Cette configuration restituant un son très clair convient à tous les styles musicaux. De plus, la réponse en fréquence offre des médiums détaillés et des graves agréables. De surcroît, le filtrage de bruit ENC atténue les bruits de fond pendant les appels. La voix reste parfaitement audible pour vos correspondants. L'expérience sonore globale demeure très plaisante au quotidien.",
+                    "La forme semi-intra-auriculaire s'adapte confortablement à votre oreille. Cette conception limite la fatigue auriculaire même lors d'une utilisation prolongée. En effet, la tenue reste stable lors de vos trajets quotidiens à Abidjan. La protection contre l'humidité permet un usage sans risque sous une pluie fine. Ainsi, vous écoutez vos morceaux préférés en toute confiance."
+                ]
+            },
+            {
+                "h2_title": "Connexion Bluetooth 5.3 et Contrôle Tactile",
+                "paragraphs": [
+                    "Le composant Bluetooth 5.3 garantit une connexion rapide dès la sortie du boîtier. La portée du signal s'étend jusqu'à 10 mètres de votre smartphone. En outre, la faible latence assure une excellente synchronisation lors du visionnage de vidéos. Vous gérez la musique et vos appels au moyen de commandes tactiles réactives. La manipulation reste simple et intuitive en toute circonstance. L'utilisation quotidienne gagne en commodité.",
+                    "Par ailleurs, l'assistant vocal se sollicite d'une simple pression tactile. Vous lancez vos recherches sans sortir le téléphone de votre poche. De plus, le mode mono permet d'utiliser un seul écouteur en cas de besoin. Cette option s'avère très pratique pour rester attentif aux bruits environnants. En somme, cette polyvalence simplifie grandement vos déplacements."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Quotidienne et Boîtier Ergonomique",
+                "paragraphs": [
+                    "Le boîtier de charge abrite une batterie efficace de 350 mAh. Chaque écouteur fournit jusqu'à 5 heures d'écoute continue sur une seule charge. Le boîtier autorise plusieurs recharges complètes au cours de votre journée. Vous profitez ainsi d'une autonomie cumulée atteignant 20 heures au total. En effet, le port USB-C assure une recharge rapide du boîtier. Vos écouteurs retrouvent très rapidement leur pleine capacité.",
+                    "Le boîtier présente un design élégant et très facile à transporter. Son poids plume de 42 grammes le rend totalement imperceptible dans une poche. Les écouteurs AirBuds 30 constituent une opportunité très intéressante pour vos achats audio à Abidjan. En somme, leur rapport qualité-prix en fait une solution extrêmement avantageuse. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AirBuds 30",
+                "subtitle": "Spécifications matérielles certifiées des écouteurs Blackview AirBuds 30."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "54 x 44 x 22 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.042 kg (boîtier + écouteurs)"
+                        },
+                        {
+                            "label": "Poids par écouteur",
+                            "valeur": "3.8 g"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Semi-intra-auriculaire True Wireless (TWS)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "13 mm dynamiques haute fidélité"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Impédance",
+                            "valeur": "32 Ohms"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction de bruit environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Autonomie écouteurs",
+                            "valeur": "Jusqu'à 5h d'écoute continue"
+                        },
+                        {
+                            "label": "Autonomie avec boîtier",
+                            "valeur": "Jusqu'à 20h grâce au boîtier de 350 mAh"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "1h20 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C Charge Rapide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP, HSP"
+                        },
+                        {
+                            "label": "Connexion automatique",
+                            "valeur": "Appairage rapide à l'ouverture du boîtier"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri & Google Assistant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Commandes tactiles intuitives sur la tige"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance aux éclaboussures et à la sueur IPX4"
+                        },
+                        {
+                            "label": "Mode Mono/Stéréo",
+                            "valeur": "Utilisation indépendante de chaque écouteur"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Microphone HD avec technologie ENC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Boîtier",
+                            "valeur": "Boîtier de charge compact"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/airbuds30"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

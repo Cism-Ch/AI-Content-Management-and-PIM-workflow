@@ -1,0 +1,311 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Shark 9",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/blackview_shark_9-13453.php"
+            }
+        ],
+        "pricing_reference": "115000",
+        "official_sku": "BV-SHARK-9"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T820 5G Octa-Core 6nm",
+        "processor_ghz": "Fréquence 2.7 GHz",
+        "screen_size": "6.67 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz Smart-Display",
+        "screen_resolution": "1604 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP (Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Haut-parleurs Stéréo Smart-PA & Prise Jack 3.5mm",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 5G / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 18W USB-C",
+        "dimensions": "164.8 x 75.6 x 8.65 mm",
+        "weight": "0.200 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-SHARK-9-MASTER",
+        "Name": "Blackview Shark 9 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "45",
+        "Regular price": "115000",
+        "Categories": "Smartphones > Blackview > Shark Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Shark 9, Smartphone 5G, 6.67 pouces, 90Hz, 50MP, 5000mAh, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.200 kg",
+        "Attribute 4 default": "0.200 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Shark 9 5G : Smartphone 6.67 Pouces 90Hz Unisoc T820 50 MP 5000 mAh",
+        "brand_line": "Le smartphone 5G ultra-rapide Blackview associant design irisé et hautes performances.",
+        "marketing_conclusion": "Commandez le Blackview Shark 9 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Shark 9 propose la connectivité 5G ultra-rapide, un écran 6.67 pouces 90 Hz, un capteur 50 MP et une batterie de 5000 mAh avec charge 18W.",
+        "features": [
+            {
+                "feature": "Vitesse Ultra-Rapide 5G Dual SIM",
+                "benefice": "Téléchargements réseau instantanés et streaming 4K sans latence."
+            },
+            {
+                "feature": "Écran 6.67\" HD+ 90Hz Fluidité",
+                "benefice": "Défilement très réactif et couleurs vibrantes en jeu."
+            },
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Prises de vue haute définition claires même de nuit."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 18W",
+                "benefice": "Autonomie sereine sur plus d'une journée d'utilisation."
+            }
+        ],
+        "slogan_final": "Blackview Shark 9 5G — Entrez dans l'ère du très haut débit.",
+        "seo": {
+            "meta_title": "Acheter Blackview Shark 9 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone 5G Blackview Shark 9 avec écran 6.67\" 90Hz, processeur T820 5G et caméra 50 MP. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Shark 9, smartphone 5G, prix Abidjan, 90Hz 50MP 5000mAh 256GB"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Shark 9",
+            "lsi_keywords": [
+                "Blackview Shark 9",
+                "smartphone 5G Blackview Abidjan",
+                "Blackview Shark 9 prix",
+                "téléphone 5G 50 MP 6.67 pouces",
+                "téléphone unisoc t820 5000 mAh",
+                "smartphone 5G pas cher Côte d'Ivoire",
+                "achat téléphone 5G Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Shark 9 5G 256 Go : Écran 6.67\" 90Hz & 50 MP | My-eStore",
+            "meta_description": "Achetez le smartphone 5G Blackview Shark 9. Écran 6.67\" HD+ 90Hz, caméra 50 MP, batterie 5000 mAh 18W et puce Unisoc T820 5G. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Shark 9 5G : Spécifications du Smartphone 5G",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU SMARTPHONE 5G",
+            "items": [
+                {
+                    "feature": "Processeur 5G Unisoc T820 6nm",
+                    "benefice": "Vitesse réseau exceptionnelle et calculs rapides."
+                },
+                {
+                    "feature": "Dalle 6.67 Pouces 90Hz Fluidité",
+                    "benefice": "Affichage immersif idéal pour les vidéos."
+                },
+                {
+                    "feature": "Capteur 50 MP ISOCELL JN1",
+                    "benefice": "Photos ultra-nettes d'une grande résolution."
+                },
+                {
+                    "feature": "Mémoire 256 Go & 8 Go RAM",
+                    "benefice": "Stockage spacieux et multitâche réactif."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Shark 9 est un smartphone 5G particulièrement moderne et véloce. Cet équipement convient très bien aux utilisateurs exigeants à la recherche de vitesse en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.67 pouces en définition HD+ offre une lisibilité visuelle très claire. De plus, son taux de rafraîchissement de 90 Hz apporte une fluidité constante. La batterie généreuse de 5000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.65 mm garantit une prise en main très agréable. L'interface DokeOS 4.0 sous Android 14 simplifie l'accès à vos applications. Enfin, ce smartphone 5G constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.67 Pouces 90Hz et Puce Unisoc T820 5G",
+                "paragraphs": [
+                    "Le Blackview Shark 9 intègre une grande dalle IPS de 6.67 pouces en définition HD+. Sa résolution de 1604 x 720 pixels restitue des détails d'une clarté impressionnante. De plus, la fréquence dynamique de 90 Hz améliore la réactivité tactile dans vos jeux. De surcroît, le processeur Unisoc T820 5G à huit cœurs cadencés à 2.7 GHz gère facilement vos logiciels. Les 8 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 5G pour une connectivité réseau constante. Cette conception soignée protège le téléphone en toutes circonstances. Vos applications vidéo restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 50 MP, Puce NFC et Son Stéréo Smart-PA",
+                "paragraphs": [
+                    "Le Blackview Shark 9 embarque un capteur photo principal de 50 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en extérieur. En outre, la caméra frontale de 8 Mégapixels s'avère très pratique pour les selfies clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, le système haut-parleur stéréo immortalise vos vidéos avec clarté. La précision sonore reste constante.",
+                    "Par ailleurs, la puce NFC multifonction permet des paiements rapides sans contact. De plus, le capteur d'empreintes digitales latéral garantit un accès sécurisé immédiat. Également, le module GPS quadruples réseaux assure un guidage très précis lors de vos déplacements. De surcroît, la prise jack 3.5mm autorise le raccordement de votre casque audio. En somme, ce smartphone 5G réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Charge Rapide 18W",
+                "paragraphs": [
+                    "La batterie impressionnante de 5000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption durant de longues heures. D'ailleurs, le port USB-C prend en charge la charge rapide 18W pour faire le plein rapidement. En effet, la gestion thermique intelligente préserve la batterie lors des sessions web 5G. Vos activités en ligne se poursuivent sans interruption.",
+                    "La silhouette épurée de 8.65 mm offre une tenue en main naturelle et très légère. Son poids contenu de 200 grammes témoigne de l'ergonomie apportée au boîtier. D'autre part, le Blackview Shark 9 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa connectivité 5G en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Shark 9 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone 5G Blackview Shark 9."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.8 x 75.6 x 8.65 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.200 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Dos irisé avec effet verre étoilé"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir (Midnight Black), Bleu (Starry Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.67 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1604 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc T820 5G Octa-Core 2.7 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+16 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 2.2 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP (Samsung ISOCELL JN1, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra macro & profondeur",
+                            "valeur": "2 MP + 2 MP"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "18W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/blackview_shark_9-13453.php"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,319 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "BV9300",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/bv9300-laser-rangefinder-price"
+            }
+        ],
+        "pricing_reference": "179000",
+        "official_sku": "BV-BV9300"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.70 pouces",
+        "screen_technology": "FHD+ IPS LCD 120Hz Corning Gorilla Glass 5",
+        "screen_resolution": "2388 x 1080 pixels",
+        "battery_capacity": "15080 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 21 Go via RAM virtuelle",
+        "os": "Android 12",
+        "os_skin": "DokeOS 3.1",
+        "camera_main": "50 MP (Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "32 MP HD",
+        "audio_config": "Haut-parleur Smart-PA Box & Prise Jack 3.5mm",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C & Charge inversée 5W",
+        "dimensions": "184.6 x 85.6 x 22.8 mm",
+        "weight": "0.520 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-BV9300-MASTER",
+        "Name": "Blackview BV9300",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "179000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview BV9300, Smartphone Incassable, Helio G99, Telemetre Laser, 15080mAh, 33W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Vert | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.520 kg",
+        "Attribute 4 default": "0.520 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview BV9300 : Smartphone Incassable 6.7\" 120Hz 12 Go RAM 256 Go 15080 mAh 33W",
+        "brand_line": "Le smartphone incassable 4G de chantier Blackview équipé d'un télémètre laser 40m et d'une batterie géante.",
+        "marketing_conclusion": "Commandez le Blackview BV9300 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview BV9300 combine un écran 6.7 pouces FHD+ à 120 Hz, un télémètre laser intégré de précision, un capteur photo de 50 MP, la puce Helio G99 et une batterie géante de 15080 mAh.",
+        "features": [
+            {
+                "feature": "Télémètre Laser 40m de précision",
+                "benefice": "Mesures de distance directes et rapides pour vos travaux."
+            },
+            {
+                "feature": "Accumulateur Géant 15080 mAh",
+                "benefice": "Autonomie remarquable de plusieurs jours en autonomie totale."
+            },
+            {
+                "feature": "Écran 6.7\" FHD+ IPS 120Hz",
+                "benefice": "Fluidité de défilement très appréciable pour vos applications."
+            },
+            {
+                "feature": "Puce Helio G99 & Robustesse IP68",
+                "benefice": "Performances fiables et résistance absolue face aux chutes."
+            }
+        ],
+        "slogan_final": "Blackview BV9300 — Le télémètre et la puissance dans un boîtier blindé.",
+        "seo": {
+            "meta_title": "Acheter Blackview BV9300 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone incassable Blackview BV9300 avec télémètre laser, 12 Go RAM et batterie 15080 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview BV9300, smartphone incassable telemetre, prix Abidjan, 15080mAh 120Hz"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview BV9300",
+            "lsi_keywords": [
+                "Blackview BV9300",
+                "smartphone incassable Blackview Abidjan",
+                "Blackview BV9300 prix",
+                "téléphone chantier télémètre laser",
+                "téléphone helio g99 15080 mAh",
+                "téléphone résistant Côte d'Ivoire",
+                "achat téléphone BV9300 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview BV9300 256 Go : 15080 mAh & Télémètre Laser | My-eStore",
+            "meta_description": "Achetez le smartphone incassable Blackview BV9300. Écran 6.7\" 120Hz, télémètre laser, caméra 50 MP, batterie 15080 mAh 33W et puce Helio G99. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview BV9300 : Spécifications du Smartphone avec Télémètre Laser",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU SMARTPHONE DE CHANTIER",
+            "items": [
+                {
+                    "feature": "Télémètre Laser Intégré 40 Mètres",
+                    "benefice": "Mesure rapide de longueurs et surfaces sans mètre ruban."
+                },
+                {
+                    "feature": "Batterie Géante de 15080 mAh",
+                    "benefice": "Endurance remarquable durant plusieurs jours complets."
+                },
+                {
+                    "feature": "Châssis Renforcé IP68 & MIL-STD-810H",
+                    "benefice": "Résistance totale à l'eau, à la poussière et aux impacts."
+                },
+                {
+                    "feature": "Dalle Lumineuse FHD+ 120 Hz",
+                    "benefice": "Lisibilité visuelle optimale sous toutes les conditions."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview BV9300 est un smartphone incassable 4G particulièrement robuste et ingénieux. Cet équipement convient très bien aux ingénieurs du bâtiment et géomètres en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.70 pouces en définition FHD+ offre une lisibilité visuelle très claire. De plus, sa protection Gorilla Glass 5 gère très bien les accidents de chantier. La batterie gigantesque de 15080 mAh permet de travailler en toute sérénité sans interruption. Son boîtier blindé de 22.8 mm gagne une prise en main très sûre. L'interface DokeOS 3.1 sous Android 12 simplifie l'accès à tous vos documents. Enfin, ce smartphone avec outil laser constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.7 Pouces 120Hz et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview BV9300 intègre une grande dalle IPS de 6.70 pouces protégée par du verre trempé. Sa résolution de 2388 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, la fréquence de rafraîchissement de 120 Hz améliore la fluidité tactile lors du défilement. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception blindée protège le téléphone en toutes circonstances. Vos applications favorites restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Télémètre Laser 40m, Caméra 50 MP et NFC",
+                "paragraphs": [
+                    "Le Blackview BV9300 embarque un télémètre laser de précision situé sur la tranche supérieure. Cet équipement technique mesure des distances allant jusqu'à 40 mètres avec une grande clarté. En outre, la caméra arrière de 50 Mégapixels s'avère très pratique pour capturer les détails du chantier. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, la boussole numérique intégrée immortalise vos séances d'orientation. La précision de navigation reste constante.",
+                    "Par ailleurs, la puce NFC multifonction gère simplement vos paiements rapides sans contact. De plus, le capteur d'empreintes digitales latéral garantit un déverrouillage sécurisé immédiat. Également, le module GPS quadruples réseaux assure un guidage très précis lors de vos déplacements. De surcroît, la prise jack 3.5mm autorise le raccordement de votre casque audio. En somme, ce smartphone durci réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 15080 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 15080 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet d'utiliser le téléphone pendant plusieurs jours d'affilée. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour recharger rapidement le téléphone. En effet, la fonction de charge inversée 5W permet d'alimenter vos autres appareils. Vos activités de terrain se poursuivent sans interruption.",
+                    "La silhouette renforcée offre une tenue en main robuste et très résistante aux agressions extérieures. Son poids de 520 grammes témoigne du blindage complet et de l'accumulateur. D'autre part, le Blackview BV9300 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son télémètre laser en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview BV9300",
+                "subtitle": "Spécifications matérielles certifiées du smartphone incassable Blackview BV9300."
+            },
+            "sections": [
+                {
+                    "name": "Design & Robustesse",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "184.6 x 85.6 x 22.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.520 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68 & IP69K & MIL-STD-810H (Résistant à la poussière, eau et chocs)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Vert, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Outils Spéciaux & Écran",
+                    "rows": [
+                        {
+                            "label": "Outil de mesure",
+                            "valeur": "Télémètre laser 40m intégré (précision 1mm)"
+                        },
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.70 pouces IPS LCD FHD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Verre de protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR4X (+9 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 2.2 (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Son",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 f/1.8"
+                        },
+                        {
+                            "label": "Caméra arrière grand angle",
+                            "valeur": "8 MP avec Macro"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "32 MP HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "15080 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Oui (5W filaire pour dépannage externe)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 12 (DokeOS 3.1)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/bv9300-laser-rangefinder-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

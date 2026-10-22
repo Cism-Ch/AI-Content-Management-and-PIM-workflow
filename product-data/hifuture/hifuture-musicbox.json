@@ -1,0 +1,329 @@
+{
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-11",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "hifuture-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du modèle HiFuture MusicBox avec rédaction 3-Persona."
+    },
+    "product_identity": {
+        "brand": "HiFuture",
+        "product_line": "Enceinte Portable Bluetooth",
+        "commercial_name": "HiFuture MusicBox",
+        "category": "audio",
+        "sub_category": "audio",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HIFUTURE-MUSICBOX",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HIFUTURE-MUSICBOX"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "HiFuture Official Store",
+                "url": "https://hifuturegroup.com/products/musicbox"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=HiFuture+MusicBox"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=HiFuture+MusicBox+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié HiFuture MusicBox Enceinte 100W 12000mAh IPX7"
+    },
+    "variants": [
+        {
+            "variant_name": "Standard",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "N/A",
+                "storage": "N/A"
+            },
+            "pricing": {
+                "official_price_fcfa": 65000,
+                "market_price_range_fcfa": {
+                    "min": 58000,
+                    "max": 72000
+                },
+                "price_source": "My-eStore",
+                "price_date": "2026-08-11",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [
+            "Noir",
+            "Argent"
+        ],
+        "exclusive": [],
+        "default": "Noir"
+    },
+    "key_specifications": {
+        "processor": "Puce DSP Audio 100W",
+        "processor_ghz": "N/A",
+        "ram_options": [
+            "N/A"
+        ],
+        "ram_extension": "",
+        "storage_options": [
+            "N/A"
+        ],
+        "card_slot": "",
+        "screen_size": "N/A",
+        "screen_technology": "Indicateurs LED d'état",
+        "screen_resolution": "N/A",
+        "screen_refresh_rate": "N/A",
+        "battery_capacity": "12000 mAh (30h d'écoute continuous)",
+        "charging_wired": "USB Type-C Fast Charge (5V / 3A)",
+        "charging_wireless": "Non",
+        "os": "Firmware HiFuture Audio DSP",
+        "os_version": "V1.0",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "Drivers 78 mm Woofers + Tweeters HD",
+        "audio_tech": "Puissance 100W RMS, Couplage TWS & Bluetooth 5.3",
+        "connectivity_5g": false,
+        "connectivity_wifi": "Non",
+        "connectivity_bluetooth": "Bluetooth 5.3",
+        "connectivity_nfc": false,
+        "navigation_gps": "Non",
+        "sim_type": "Non",
+        "water_resistance": "IPX7 (Résistant pluie & immersion 1m)",
+        "dimensions": "320 x 160 x 140 mm",
+        "weight": "2.58 kg",
+        "materials": "Châssis Polymère Renforcé & Grille Métallique",
+        "biometrics": "Non",
+        "additional_features": [
+            "Puissance Audio 100W RMS",
+            "Batterie Massive 12000 mAh",
+            "Couplage Stéréo TWS 200W",
+            "Certification Étanchéité IPX7"
+        ]
+    },
+    "sources": [
+        {
+            "name": "HiFuture Official Store",
+            "url": "https://hifuturegroup.com/products/musicbox"
+        },
+        {
+            "name": "Recherche Générique",
+            "url": "https://www.google.com/search?q=HiFuture+MusicBox"
+        },
+        {
+            "name": "Recherche Spécialisée IA",
+            "url": "https://www.google.com/search?q=HiFuture+MusicBox+specifications"
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "woocommerce_csv": {
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "2.58 kg",
+        "Attribute 4 default": "2.58 kg",
+        "Name": "HiFuture MusicBox - Écouteurs Sans Fil TWS - Bluetooth 5.3 - ANC - Drivers 78mm - Boîtier 12000mAh - IPX7",
+        "Stock": "10",
+        "Categories": "Audio & Hi-fi > Ecouteurs Sans Fil & Ecouteurs Filaire, Audio & Hi-fi",
+        "Tags": "HiFuture, HiFuture MusicBox, Écouteurs sans fil, Écouteurs TWS, Bluetooth 5.3, Audio HD, Abidjan, My-eStore"
+    },
+    "short_description": {
+        "seo": {
+            "meta_title": "Acheter HiFuture MusicBox à Abidjan | My-eStore",
+            "meta_description": "Achetez l'enceinte HiFuture MusicBox 100W au meilleur prix à Abidjan sur My-eStore. Batterie 12000mAh, étanchéité IPX7 et livraison rapide en Côte d'Ivoire."
+        },
+        "text": "Découvrez la HiFuture MusicBox. Enceinte portable 100W officielle avec batterie 12000mAh, étanchéité IPX7 et garantie officielle sur My-eStore."
+    },
+    "long_description": {
+        "h1": "HiFuture MusicBox : Puissance 100W RMS, Batterie 12000 mAh et Étanchéité IPX7",
+        "seo": {
+            "focus_keyword": "HiFuture MusicBox Abidjan",
+            "lsi_keywords": [
+                "HiFuture MusicBox",
+                "enceinte HiFuture MusicBox",
+                "fiche technique HiFuture MusicBox",
+                "prix HiFuture MusicBox Abidjan",
+                "My-eStore"
+            ],
+            "meta_title": "HiFuture MusicBox : Puissance 100W & 12000mAh | My-eStore",
+            "meta_description": "Découvrez la fiche technique officielle de la HiFuture MusicBox à Abidjan sur My-eStore. Puissance 100W RMS, batterie 12000mAh et garantie officielle."
+        },
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Puissance Audio 100W RMS",
+                    "benefice": "Son très puissant idéal pour les événements en extérieur."
+                },
+                {
+                    "feature": "Batterie Massive 12000 mAh",
+                    "benefice": "Autonomie fluide jusqu'à 30 heures d'écoute continue."
+                },
+                {
+                    "feature": "Couplage Stéréo TWS",
+                    "benefice": "Possibilité d'associer deux enceintes pour un son 200W."
+                },
+                {
+                    "feature": "Certification Étanchéité IPX7",
+                    "benefice": "Résistance éprouvée contre la pluie et la poussière."
+                }
+            ]
+        },
+        "intro_paragraph": "La HiFuture MusicBox est une enceinte portable particulièrement puissante et moderne. Cet appareil convient parfaitement aux événements musicaux en Côte d'Ivoire. En effet, la connexion sans fil garantit une excellente stabilité de signal au quotidien. De plus, la réserve d'énergie assure des heures d'animation sans interruption. Par ailleurs, la fonction de couplage stéréo permet d'associer deux enceintes en extérieur.",
+        "sections": [
+            {
+                "h2_title": "Puissance Sonore 100W et Acoustique Immersive",
+                "paragraphs": [
+                    "La HiFuture MusicBox intègre des haut-parleurs acoustiques de haute précision. Cette configuration de 100W restitue un son puissant avec des basses très dynamiques. Les voix restent très intelligibles lors de la diffusion de vos morceaux. De surcroît, le processeur DSP limite efficacement les distorsions à fort volume. L'expérience d'écoute reste agréable lors de vos animations en extérieur. Ainsi, vous profitez pleinement de chaque détail de votre musique.",
+                    "La conception acoustique optimise la diffusion sonore dans les grands espaces. Les woofers dynamiques garantissent des percussions intenses et très bien équilibrées. En effet, la structure renforcée absorbe les vibrations parasites lors de l'écoute. Vous utilisez votre matériel sonore en toute confiance chaque jour. De plus, la clarté des médiums favorise un rendu musical équilibré. La qualité sonore répond parfaitement aux exigences des mélomanes."
+                ]
+            },
+            {
+                "h2_title": "Batterie 12000 mAh et Autonomie Extrême",
+                "paragraphs": [
+                    "Le système d'alimentation s'appuie sur une batterie massive de 12000 mAh. Cette réserve d'énergie offre jusqu'à 30 heures d'autonomie en lecture continue. Son mode de recharge rapide s'effectue simplement via le port USB Type-C. En outre, la fonction banque d'énergie permet de recharger vos smartphones. Vous gardez vos appareils mobiles toujours fonctionnels lors de vos fêtes. Ainsi, cette polyvalence simplifie la gestion de vos événements.",
+                    "Le témoin lumineux indique précisément le niveau de charge restant en temps réel. Vous anticipez facilement les recharges avant vos déplacements du week-end. Par ailleurs, la gestion intelligente de l'énergie préserve la durée de vie de la batterie. La sécurité électronique protège l'appareil contre les surchauffes et surtensions. De plus, cette fiabilité garantit une utilisation quotidienne très sereine au fil du temps. Votre investissement matériel reste durablement protégé."
+                ]
+            },
+            {
+                "h2_title": "Robuste Étanchéité IPX7 et Usage Extérieur",
+                "paragraphs": [
+                    "La certification IPX7 garantit une étanchéité totale contre l'eau et la pluie. L'enceinte supporte sans risque une immersion temporaire dans l'eau. Le revêtement résistant protège la structure contre les projections de poussière et chocs. En effet, la poignée ergonomique facilite le transport lors de vos sorties. Vous emportez votre musique partout avec une grande facilité d'usage. Ainsi, l'appareil s'adapte parfaitement à tous les environnements.",
+                    "La finition soignée offre une excellente résistance mécanique aux contraintes extérieures. L'enceinte convient parfaitement aux activités de plein air à Abidjan. De surcroît, la fonction TWS permet d'appairer une seconde enceinte sans fil. Vous obtenez un véritable système stéréo de 200W très impressionnant. En résumé, ce modèle constitue un choix matériel particulièrement recommandable. Cette puissance acoustique répond ainsi parfaitement aux exigences des passionnés de musique nomade."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : HiFuture MusicBox",
+                "subtitle": "Spécifications matérielles du HiFuture MusicBox."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Modèle",
+                            "valeur": "HiFuture MusicBox"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Enceinte Portable Boombox"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "2.58 kg"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Argent"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Acoustique",
+                    "rows": [
+                        {
+                            "label": "Puissance",
+                            "valeur": "100W RMS"
+                        },
+                        {
+                            "label": "Drivers",
+                            "valeur": "78 mm Woofers + Tweeters HD"
+                        },
+                        {
+                            "label": "Mode TWS",
+                            "valeur": "Oui (Appairage de 2 enceintes 200W)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "DSP Audio",
+                            "valeur": "Puce DSP Audio 100W"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Tous appareils Bluetooth, AUX, USB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "12000 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 30 heures"
+                        },
+                        {
+                            "label": "Recharge",
+                            "valeur": "USB Type-C Fast Charge"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Entrées",
+                            "valeur": "AUX 3.5mm, USB, Carte MicroSD"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IPX7 (Étanche immersion 1m)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "HiFuture Official Store",
+                        "url": "https://hifuturegroup.com/products/musicbox"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=HiFuture+MusicBox"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=HiFuture+MusicBox+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "template_version": "3.4"
+}

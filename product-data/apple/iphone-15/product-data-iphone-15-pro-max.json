@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-15-series-v2",
+    "notes": "Données extraites des sources officielles Apple et GSMArena. Prix basés sur Jumia CI et Negoce.ci."
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 15 Pro Max",
+    "category": "Smartphones",
+    "sub_category": "Premium",
+    "release_year": 2023,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3106",
+    "regional_variants": [
+      { "region": "International", "sku": "A3106" },
+      { "region": "USA", "sku": "A2849" },
+      { "region": "China/Hong Kong", "sku": "A3108" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://support.apple.com/kb/SP876" }
+    ],
+    "disambiguation_notes": "Le modèle A3106 est la version internationale la plus commune en Afrique, supportant la double SIM (Nano-SIM + eSIM) ou double eSIM."
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 15 Pro Max 256GB",
+      "sku_suffix": "256",
+      "configurations": {
+        "ram": "8GB",
+        "storage": "256GB"
+      },
+      "pricing": {
+        "official_price_fcfa": 1045000,
+        "market_price_range_fcfa": {
+          "min": 995000,
+          "max": 1150000
+        },
+        "price_source": "Jumia CI / Negoce.ci",
+        "price_date": "2026-05-12",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "iPhone 15 Pro Max 512GB",
+      "sku_suffix": "512",
+      "configurations": {
+        "ram": "8GB",
+        "storage": "512GB"
+      },
+      "pricing": {
+        "official_price_fcfa": 1195000,
+        "market_price_range_fcfa": {
+          "min": 1145000,
+          "max": 1300000
+        },
+        "price_source": "Jumia CI",
+        "price_date": "2026-05-12",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+    "exclusive": [],
+    "default": "Natural Titanium"
+  },
+  "key_specifications": {
+    "processor": "Apple A17 Pro (3 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["256GB", "512GB", "1TB"],
+    "screen_size": "6.7 pouces",
+    "screen_technology": "LTPO Super Retina XDR OLED",
+    "screen_resolution": "1290 x 2796 pixels",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "4422 mAh",
+    "charging_wired": "27W (50% en 30 min)",
+    "charging_wireless": "15W (MagSafe/Qi2)",
+    "os": "iOS",
+    "os_version": "17 (évolutif)",
+    "camera_main": "48 MP, f/1.8, 24mm, OIS",
+    "camera_ultrawide": "12 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "12 MP, f/2.8, 120mm, 5x zoom optique, OIS",
+    "camera_selfie": "12 MP, f/1.9, 23mm, OIS",
+    "video_max": "4K@60fps, ProRes, Log",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 6E",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68 (jusqu'à 6m pendant 30 min)",
+    "dimensions": "159.9 x 76.7 x 8.3 mm",
+    "weight": "221 g",
+    "materials": "Titane Grade 5 (cadre), Verre Corning",
+    "biometrics": "Face ID",
+    "additional_features": ["Action Button", "USB-C 3.0", "SOS d'urgence via satellite"]
+  },
+  "sources": [
+    {
+      "name": "Apple Official Specs",
+      "url": "https://www.apple.com/iphone-15-pro/specs/",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Dimensions", "Poids", "Puce", "Caméras", "Batterie"]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_15_pro_max-12542.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Détails techniques complets", "Résolution écran"]
+    }
+  ]
+}

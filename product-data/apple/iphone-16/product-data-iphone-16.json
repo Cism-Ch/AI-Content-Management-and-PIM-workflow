@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-16-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 16",
+    "category": "Smartphones",
+    "sub_category": "Standard",
+    "release_year": 2024,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3286",
+    "regional_variants": [
+      { "region": "International", "sku": "A3286" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://support.apple.com/en-us/121118" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 16 128GB",
+      "sku_suffix": "128",
+      "configurations": { "ram": "8GB", "storage": "128GB" },
+      "pricing": { "official_price_fcfa": 770000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Ultramarine", "Teal", "Pink", "White", "Black"],
+    "default": "Ultramarine"
+  },
+  "key_specifications": {
+    "processor": "Apple A18 (3 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "screen_size": "6.1 pouces",
+    "screen_technology": "Super Retina XDR OLED",
+    "screen_resolution": "1179 x 2556 pixels",
+    "screen_refresh_rate": "60Hz",
+    "battery_capacity": "3561 mAh",
+    "charging_wired": "25W",
+    "charging_wireless": "25W (MagSafe)",
+    "os": "iOS",
+    "os_version": "18",
+    "camera_main": "48 MP, f/1.6, 26mm, OIS",
+    "camera_ultrawide": "12 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "Via capteur principal (Zoom 2x)",
+    "camera_selfie": "12 MP, f/1.9",
+    "video_max": "4K@60fps, Dolby Vision HDR",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 7",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "147.6 x 71.6 x 7.8 mm",
+    "weight": "170 g",
+    "materials": "Aluminium, Ceramic Shield",
+    "biometrics": "Face ID",
+    "additional_features": ["Camera Control", "Action Button", "Dynamic Island", "USB-C 2.0", "Apple Intelligence"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_16-13314.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

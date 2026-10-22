@@ -1,0 +1,443 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-14-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 14 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 14 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-5g",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-14-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-14-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G Xiaomi Redmi Note 14 5G avec capteur photo 108MP OIS puce Dimensity 7025-Ultra écran OLED 120Hz et charge 45W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7025-Ultra 5G (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res",
+        "battery_capacity": "5110 mAh",
+        "charging_wired": "Charge rapide 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.190 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-14-5G",
+        "Name": "Xiaomi Redmi Note 14 5G - Dual SIM - Écran 6.67\" OLED 120Hz - (6 Go & 128 Go / 8 Go & 256 Go / 12 Go & 512 Go) - 5110 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "145000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 14 5G, Redmi Note 14, Smartphone, 5G, Écran OLED, Écran 120Hz, Capteur 108MP, 5110mAh, Charge 45W, Dimensity 7025 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go | 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go | 12 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.190 kg",
+        "Attribute 4 default": "0.190 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "145000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Coral Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "145000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "145000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Coral Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Coral Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Lavender Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "195000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Vitesse 5G et la Stabilité OIS avec Écran OLED 120Hz Lumineux.",
+        "teaser": "Le smartphone Xiaomi Redmi Note 14 5G allie connectivité 5G haute vitesse et capteur photo de 108 MP avec stabilisation optique OIS. Doté d'une dalle OLED 120Hz et d'une charge rapide 45W, il répond aux besoins des utilisateurs connectés recherchant vivacité et polyvalence.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur 108 MP avec OIS",
+                "benefice": "Stabilisation optique mécanique pour des photos nettes même en conditions sombres"
+            },
+            {
+                "feature": "Connectivité 5G Rapide",
+                "benefice": "Navigation ultra-fluide et streaming continu sur l'ensemble des réseaux mobiles"
+            },
+            {
+                "feature": "Écran OLED 120Hz 2100 nits",
+                "benefice": "Lisibilité lumineuse sous le soleil d'Abidjan et réactivité tactile exemplaire"
+            },
+            {
+                "feature": "Batterie 5110 mAh 45W",
+                "benefice": "Autonomie durable et récupération rapide d'énergie par câble Type-C"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G moderne conçu pour offrir netteté d'image et transmission rapide.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 14 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi Redmi Note 14 5G à Abidjan chez My-eStore. Capteur 108MP OIS, écran OLED 120Hz et connexion 5G au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 14 5G 256 Go : 108MP OIS & 5G | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 14 5G chez My-eStore. Capteur photo 108 MP OIS, écran OLED 120Hz et modem 5G Dimensity 7025-Ultra à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 14 5G",
+            "lsi_keywords": [
+                "Xiaomi Redmi Note 14 5G Abidjan",
+                "smartphone 5G Xiaomi 108MP",
+                "Redmi Note 14 5G prix Côte d'Ivoire",
+                "Redmi Note 14 5G Dimensity 7025",
+                "Xiaomi Redmi Note 14 5G fiche technique"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 14 5G : Capteur 108 MP OIS, Écran OLED 120Hz et Dimensity 7025-Ultra",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 14 5G",
+            "items": [
+                {
+                    "feature": "Capteur 108 MP OIS",
+                    "benefice": "Stabilisation optique matérielle pour des clichés et vidéos nets sans flou"
+                },
+                {
+                    "feature": "Écran OLED 120Hz",
+                    "benefice": "Luminosité de pointe à 2100 nits et fluidité exemplaire pour l'extérieur"
+                },
+                {
+                    "feature": "Puce Dimensity 7025-Ultra",
+                    "benefice": "Connectivité 5G rapide et gestion économe des tâches bureautiques"
+                },
+                {
+                    "feature": "Batterie 5110 mAh & 45W",
+                    "benefice": "Autonomie sereine sur plus d'une journée avec recharge rapide 45W"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi Redmi Note 14 5G enrichit la gamme par sa connectivité véloce. Son module photo dorsal de 108 mégapixels bénéficie d'une stabilisation optique particulièrement rassurante. De plus, l'écran OLED 120Hz monte jusqu'à 2100 nits pour une clarté remarquable en extérieur. La puce Dimensity 7025-Ultra garantit un fonctionnement réactif sur les bandes cellulaires actuelles. Enfin, son accumulateur de 5110 mAh soutenu par la charge 45W sécurise vos journées à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran OLED 120Hz Lumineux aux Bordures Affinées",
+                "paragraphs": [
+                    "La dalle OLED de 6.67 pouces diffuse des teintes nuancées avec une netteté remarquable. Par conséquent, la lisibilité sous un plein soleil ivoirien s'opère sans la moindre fatigue oculaire. Le rafraîchissement adaptatif à 120Hz garantit une transition fluide entre vos applications usuelles. La réactivité tactile immédiate facilite la saisie de messages courts en cours de déplacement. De surcroît, le filtre de protection oculaire limite l'agression des lumières artificielles nocturnes. L'affichage spacieux restitue fidèlement vos contenus vidéo sans empiéter sur l'ergonomie de prise.",
+                    "Le verre renforcé Corning Gorilla Glass prévient efficacement les rayures lors du transport quotidien. En outre, les bordures affinées accentuent l'immersion visuelle lors des séances de visionnage. Deux haut-parleurs stéréo diffusent un son spatialisé équilibré pour les échanges téléphoniques. Le capteur biométrique d'empreintes situé sous l'écran réagit avec une grande précision. D'autre part, la prise jack 3.5 mm accueille vos écouteurs traditionnels sans adaptateur. Le châssis moderne offre une excellente tenue en main pour les gestes fréquents."
+                ]
+            },
+            {
+                "h2_title": "Capteur 108 MP Stabilisé et Polyvalence Multimédia",
+                "paragraphs": [
+                    "Le capteur photographique dorsal rassemble 108 millions de points pour capter chaque détail. Effectivement, la stabilisation optique mécanique élimine les flous de tremblement inopportuns. Le zoom sans perte 3x permet de cadrer des sujets éloignés avec netteté. Le système de traitement dynamique rééquilibre les contrastes dans les zones d'ombres complexes. Ainsi, vous capturez des scènes familiales vivantes lors de toutes vos rencontres. Les portraits conservent une authenticité naturelle particulièrement valorisante pour vos proches.",
+                    "La caméra frontale de 16 mégapixels produit des autoportraits nets pour vos profils. Dès lors, vos visioconférences de travail gagnent en clarté visuelle et en netteté. Des filtres photographiques créatifs personnalisent l'atmosphère visuelle de vos souvenirs capturés. L'enregistrement vidéo en haute résolution conserve une grande stabilité lors de la marche. Par ailleurs, le mode nuit dédié éclaire délicatement les ruelles faiblement illuminées. Cet attirail photographique complet s'adapte sans compromis à vos aspirations esthétiques régulières."
+                ]
+            },
+            {
+                "h2_title": "Puce Dimensity 7025-Ultra 5G et Recharge Rapide 45W",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 7025-Ultra gravé en 6 nanomètres délivre une cadence soutenue. Par conséquent, les téléchargements cellulaires en 5G s'effectuent à une allure appréciable. Les huit cœurs équilibrent le rendement énergétique pour préserver l'autonomie générale du smartphone. La mémoire vive dynamique soutient l'exécution conjointe de multiples fenêtres sans surchauffe. De plus, l'espace de stockage accueille vos fichiers professionnels les plus volumineux. Cette configuration pérenne maintient une régularité de service tout au long de l'année.",
+                    "L'accumulateur d'une réserve de 5110 mAh accorde une autonomie supérieure à la journée. En effet, vous suivez vos rendez-vous professionnels sans angoisse de panne électrique. Le chargeur filaire de 45W rétablit la moitié de l'énergie en vingt minutes. La gestion thermique surveille le flux de courant pour ménager la chimie interne. Enfin, les composants certifiés garantissent une excellente sécurité d'alimentation sur secteur. Ce smartphone s'affirme comme un compagnon 5G idéal pour les usagers exigeants."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 14 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.4 x 75.7 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "190 g (0.190 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP64 résistant à la poussière et aux projections d'eau"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Vert (Coral Green), Violet (Lavender Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "OLED, 1 milliard de couleurs, 120Hz, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~88.1%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2400 x 1080 pixels), format 20:9 (~395 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "600 nits typique, 1200 nits HBM, 2100 nits en pic"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 7025-Ultra 5G (6 nm, 8 cœurs jusqu'à 2.50 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "IMG BXM-8-256"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go, 8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go, 256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC (emplacement hybride)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "108 MP, f/1.7, (grand-angle), 1/1.67\", 0.64µm, PDAF, OIS"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.2, vidéo 1080p@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5110 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge rapide filaire 45W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (A2DP, LE)"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

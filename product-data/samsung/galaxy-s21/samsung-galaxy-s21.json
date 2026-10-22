@@ -1,0 +1,431 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s21-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S21 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S21",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2021,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S21",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S21"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s21/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S21"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S21+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S21 6.2\" 120Hz 8Go RAM 4000mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S21",
+        "Name": "Samsung Galaxy S21 - 6.2\" 120Hz - 8Go/128Go - 64MP - 4000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "240000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S21, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 12MP, 4000mAh, Snapdragon 888, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Blanc, Violet, Rose",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Design iconique Contour Cut et l'affichage 120Hz.",
+        "teaser": "Découvrez le Samsung Galaxy S21 avec son écran Dynamic AMOLED 2X de 6.2 pouces 120Hz, son téléobjectif de 64 mégapixels et sa connectivité 5G fluide.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.2\" Dynamic AMOLED 2X",
+                "benefice": "Dalle 120 Hz adaptative offrant un grand confort de lecture et une grande fluidité"
+            },
+            {
+                "feature": "Puce 5nm & 8Go de RAM",
+                "benefice": "Multitâche rapide et exécution fluide de vos logiciels quotidiens"
+            },
+            {
+                "feature": "Téléobjectif 64MP & Enregistrement 8K",
+                "benefice": "Clichés ultra-détaillés et zoom optique hybride 3x pour saisir chaque scène"
+            },
+            {
+                "feature": "Batterie 4000 mAh & Charge Rapide",
+                "benefice": "Autonomie équilibrée pour votre journée et recharge sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone compact de référence alliant style novateur et performances pérennes.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S21 (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S21 au meilleur prix à Abidjan sur My-eStore. Écran 6.2\" 120Hz, 8Go RAM, 64MP, 4000mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S21 128Go : Écran 120Hz & 64MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S21 sur My-eStore. Écran Dynamic AMOLED 6.2 pouces 120Hz, téléobjectif 64MP, batterie 4000 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S21",
+            "lsi_keywords": [
+                "Samsung Galaxy S21 Abidjan",
+                "prix Samsung S21",
+                "fiche technique Galaxy S21",
+                "smartphone Samsung compact 5G",
+                "Galaxy S21 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S21 : Format Compact, Écran 120Hz et Téléobjectif 64MP",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S21 propose un affichage Dynamic AMOLED 2X très lumineux. Cette dalle compacte procure une fluidité visuelle continue grâce à son rafraîchissement adaptatif de 120 Hz. De plus, sa puce gravée en 5nm accélère le traitement de vos requêtes quotidiennes. Le châssis au design Contour Cut assure une prise en main stable au creux de la paume. Enfin, sa batterie de 4000 mAh garantit une disponibilité durable tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S21",
+            "items": [
+                {
+                    "feature": "Dalle 6.2\" 120Hz Adaptative",
+                    "benefice": "Grand confort de lecture et encombrement réduit en poche"
+                },
+                {
+                    "feature": "Téléobjectif Haute Précision 64MP",
+                    "benefice": "Zoom optique hybride 3x et enregistrement vidéo 8K fluide"
+                },
+                {
+                    "feature": "Processeur Moderne Gravé en 5nm",
+                    "benefice": "Puissance de calcul optimisée et exécution réactive des applications"
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions accidentelles"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Lumineux et Ergonomie Compacte",
+                "paragraphs": [
+                    "D'un côté, l'écran de 6.2 pouces permet une manipulation complète et aisée à une seule main. La technologie Dynamic AMOLED offre des couleurs équilibrées pour la consultation de tous vos documents. La protection en verre trempé limite le risque de rayures lors des déplacements fréquents. Par ailleurs, la luminosité maximale autorise une lisibilité claire même en plein soleil en extérieur. Le profil affiné se glisse aisément dans une poche sans encombrement inutile au quotidien. Vous profitez ainsi d'un appareil maniable adapté à un usage professionnel régulier.",
+                    "D'un autre côté, la fréquence d'affichage s'ajuste dynamiquement selon les besoins de chaque application. Ce mécanisme régule la consommation électrique lors de la lecture prolongée de pages internet statiques. Les contrastes profonds mettent en valeur vos photographies ainsi que vos flux vidéo personnels. En outre, la sensibilité tactile garantit une réactivité immédiate pour la saisie de vos courriels. Les finitions soignées témoignent d'une conception pensée pour résister avec fiabilité aux années. Ce modèle concilie compacité pratique et performances d'affichage de premier ordre."
+                ]
+            },
+            {
+                "h2_title": "Puissance Moderne et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, le processeur moderne exécute les calculs complexes sans ralentissement ni échauffement anormal. Les huit gigaoctets de mémoire vive assurent des passages instantanés entre vos applications ouvertes. L'espace de stockage interne accueille vos fichiers professionnels et vos galeries de photos volumineuses. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des performances stables et régulières. L'optimisation logicielle facilite la navigation fluide à travers vos différents logiciels de productivité. Vous réalisez vos démarches numériques avec une fluidité constante et sécurisante.",
+                    "Dans cette optique, le protocole de charge rapide filaire rétablit promptement la disponibilité de votre téléphone. La compatibilité avec la recharge par induction apporte un confort appréciable sur votre espace de travail. La puce de sécurité protège efficacement l'intégrité de vos identifiants et transactions bancaires courantes. Également, la compatibilité avec le réseau cinq G accélère l'envoi de vos pièces jointes lourdes. Vos appels vidéo restent stables grâce à une gestion optimale de la bande passante. Ce modèle constitue une solution durable et performante pour la productivité mobile."
+                ]
+            },
+            {
+                "h2_title": "Photographie 64MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le téléobjectif principal de 64 mégapixels enregistre des scènes nettes et très détaillées. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le zoom optique hybride 3x rapproche les éléments distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous partagez des photos soignées directement avec vos collaborateurs ou proches.",
+                    "Enfin, l'accumulateur de 4000 mAh fournit l'énergie requise pour franchir l'ensemble de votre journée. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La fonction de partage d'énergie sans fil dépanne ponctuellement vos accessoires connectés compatibles. Par conséquent, vous conservez une totale sérénité lors de vos trajets professionnels ou personnels. Les matériaux sélectionnés garantissent une tenue exemplaire face aux contraintes du quotidien. Le Galaxy S21 constitue un choix équilibré pour les adeptes de formats compacts."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S21",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S21."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "151.7 x 71.2 x 7.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.169 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.2\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2400 x 1080 pixels (FHD+), 421 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif (48-120Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1300 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 2100 (5nm) / Snapdragon 888"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR5"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.8, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "64 MP, f/2.0, 29mm, Zoom optique hybride 3x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 13mm, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "10 MP, f/2.2, 26mm, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 24 fps, 4K à 60 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4000 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Fonctionnalités intelligentes intégrées"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s21/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S21"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S21+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Phantom Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "240000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Phantom Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "310000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Phantom White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "240000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Phantom White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "310000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Phantom Violet",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "240000",
+            "sku_suffix": "8-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Phantom Violet",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "310000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Phantom Pink",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "240000",
+            "sku_suffix": "8-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Phantom Pink",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "310000",
+            "sku_suffix": "8-GB-256-GB-ROSE"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "_doc": "Configuration pour wc_json_attributes_fixer.py et wc_csv_attr_patcher.py.",
+    "_version": "1.0",
+
+    "rename_rules": [
+        { "from": "Capacité",  "to": "Stockage" },
+        { "from": "Capacite",  "to": "Stockage" },
+        { "from": "Capacity",  "to": "Stockage" }
+    ],
+
+    "storage_normalize": {
+        "enabled": true,
+        "patterns": [
+            { "regex": "(\\d+)\\s*(TB|To)", "output": "{n} To" },
+            { "regex": "(\\d+)\\s*(GB|Go)", "output": "{n} Go" },
+            { "regex": "(\\d+)\\s*(MB|Mo)", "output": "{n} Mo" }
+        ]
+    },
+
+    "attributes_to_inject": [
+        {
+            "name": "RAM",
+            "normalize": "ram",
+            "sources": [
+                {
+                    "_comment": "Chercher d'abord dans woocommerce_csv > Attribute N name == RAM",
+                    "type": "woo_attribute",
+                    "attr_name": "RAM"
+                },
+                {
+                    "_comment": "Puis dans full_specs > section contenant 'performance' > row 'mémoire vive'",
+                    "type": "full_specs_row",
+                    "section_contains": "performance",
+                    "label_contains": ["mémoire vive", "ram"]
+                },
+                {
+                    "_comment": "Fallback : Tags (ex: '8Go RAM')",
+                    "type": "tags_regex",
+                    "regex": "(\\d+)\\s*Go\\s*RAM"
+                },
+                {
+                    "_comment": "Dernier recours : cherche dans tout le JSON",
+                    "type": "full_text_regex",
+                    "regex": "(\\d+)\\s*Go?\\s*de\\s*RAM"
+                }
+            ],
+            "valid_value_regex": "^\\d+\\s*(Go|GB)",
+            "skip_if_non_applicable": true
+        }
+    ],
+
+    "accessory_detection": {
+        "_comment": "Si le produit correspond à un mot-clé accessoire, on ne lui injecte pas de RAM.",
+        "check_fields": ["Name", "Categories", "Tags"],
+        "keywords": [
+            "airbuds", "aura bass", "fitbuds", "casque", "ecouteur",
+            "smartwatch", "smart watch", "galaxy watch", "amazfit",
+            "action cam", "routeur", "router",
+            "mini speaker", "haut-parleur bluetooth",
+            "moniteur portable", "dual screen",
+            "r30 pro"
+        ],
+        "full_specs_non_applicable_values": [
+            "non applicable", "intégrée au soc", "integree au soc",
+            "non spécifié", "non specifie"
+        ]
+    },
+
+    "ram_normalize_patterns": [
+        { "regex": "(\\d+)\\s*(Go|GB)", "output": "{n} Go" }
+    ],
+
+    "backup_extension": ".bak",
+
+    "json_file_prefix": "pack-data-",
+    "json_file_suffix": ".json"
+}

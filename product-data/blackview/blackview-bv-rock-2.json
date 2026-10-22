@@ -1,0 +1,346 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Rock 2 5G",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/rock2"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "195000",
+        "official_sku": "BV-ROCK-2"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 6100+ 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.67 pouces",
+        "screen_technology": "HD+ IPS LCD 120Hz Gorilla Glass 5",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "15000 mAh",
+        "ram_options": [
+            "8 Go",
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP (Capteur Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "16 MP HD",
+        "audio_config": "Haut-parleur stéréo Smart-PA 3W",
+        "audio_tech": "Son HD & Débruitage double micro",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "188.6 x 89.7 x 25.3 mm",
+        "weight": "0.548 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ROCK-2-MASTER",
+        "Name": "Blackview Rock 2 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "195000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Rock 2 5G, Smartphone Durci, 5G, 15000mAh, 120Hz, IP68, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.548 kg",
+        "Attribute 4 default": "0.548 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Rock 2 5G : Le Smartphone Durci 5G Batterie 15000 mAh",
+        "brand_line": "Smartphone incassable 5G Blackview combinant très haute autonomie et vitesse réseau.",
+        "marketing_conclusion": "Commandez le Blackview Rock 2 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Rock 2 5G embarque une batterie monstre de 15000 mAh, la puce Dimensity 6100+ 5G, un écran 120Hz de 6.67 pouces et l'étanchéité IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Vitesse Ultra-Rapide 5G & Dimensity 6100+",
+                "benefice": "Téléchargements de fichiers et navigation Web à grande vitesse."
+            },
+            {
+                "feature": "Batterie Géante 15000 mAh & Charge 33W",
+                "benefice": "Autonomie extrême de plusieurs jours d'utilisation continue."
+            },
+            {
+                "feature": "Écran 6.67\" HD+ 120Hz Gorilla Glass",
+                "benefice": "Fluidité d'affichage remarquable et résistance renforcée."
+            },
+            {
+                "feature": "Certifications IP68, IP69K & MIL-STD-810H",
+                "benefice": "Protection totale contre l'eau, les immersions et les chutes."
+            }
+        ],
+        "slogan_final": "Blackview Rock 2 5G — La puissance 5G au service du terrain.",
+        "seo": {
+            "meta_title": "Acheter Blackview Rock 2 5G (8Go/12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci 5G Blackview Rock 2 avec batterie 15000 mAh, écran 120Hz et étanchéité IP68. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Rock 2 5G, smartphone durci Blackview, prix Abidjan, 15000mAh 5G IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Rock 2 5G",
+            "lsi_keywords": [
+                "Blackview Rock 2 5G",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable 5G 15000mAh",
+                "meilleur prix Côte d'Ivoire",
+                "Dimensity 6100+ 5G",
+                "batterie 15000 mAh",
+                "IP68 IP69K 120Hz",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Rock 2 5G 256 Go : 15000 mAh & Dimensity 6100+ | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview Rock 2 5G. Batterie 15000 mAh, processeur Dimensity 6100+ 5G, écran 120Hz et 256Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Rock 2 5G : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Connectivité Moderne 5G Dual SIM",
+                    "benefice": "Transfert de données instantané pour les applications de terrain."
+                },
+                {
+                    "feature": "Autonomie Élevée 15000 mAh",
+                    "benefice": "Réserve énergétique massive permettant la charge inversée Powerbank."
+                },
+                {
+                    "feature": "Écran 120Hz Gorilla Glass 5",
+                    "benefice": "Défilement d'une grande fluidité et protection contre les rayures."
+                },
+                {
+                    "feature": "Appareil Photo 50 MP Samsung",
+                    "benefice": "Prises de vues précises pour documenter vos travaux professionnels."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Rock 2 5G est un smartphone durci 5G d'une puissance remarquable. Cet appareil convient idéalement aux professionnels travaillant en zone isolée en Côte d'Ivoire. Par ailleurs, la puce MediaTek Dimensity 6100+ assure des débits 5G très élevés. De plus, sa batterie géante de 15000 mAh offre une autonomie de plusieurs jours d'affilée. Son écran de 6.67 pouces 120Hz procure un confort visuel d'une grande fluidité. Le système de charge rapide 33W permet de rétablir l'énergie en toute efficacité. En effet, son châssis renforcé étanche IP68 et IP69K résiste à toutes les intempéries. Enfin, vous travaillez en toute tranquillité.",
+        "sections": [
+            {
+                "h2_title": "Performances 5G Dimensity et Écran 120Hz",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 6100+ du Blackview Rock 2 5G délivre des performances solides. Ses huit cœurs gravés en 6 nm atteignent 2.2 GHz pour exécuter instantanément vos applications. De plus, la compatibilité 5G accélère le téléchargement de vos fichiers volumineux sur le chantier. De surcroît, le taux de rafraîchissement de 120 Hz garantit une réactivité d'affichage remarquable. Les 8 Go ou 12 Go de mémoire RAM gèrent le multitâche avec aisance. La fluidité d'utilisation reste constante au quotidien.",
+                    "L'écran de 6.67 pouces HD+ offre une visibilité claire sous la lumière du soleil à Abidjan. Sa résolution de 1600 x 720 pixels permet d'afficher les plans et messages sans difficulté. En effet, la vitre Corning Gorilla Glass 5 protège l'écran contre les chocs et les rayures. La structure renforcée absorbe l'énergie des chutes sur le béton. Ainsi, votre téléphone conserve toutes ses capacités fonctionnelles."
+                ]
+            },
+            {
+                "h2_title": "Batterie Géante 15000 mAh et Charge Inversée",
+                "paragraphs": [
+                    "Le Blackview Rock 2 5G intègre un accumulateur géant de 15000 mAh d'une grande fiabilité. Cette énorme capacité garantit plusieurs jours d'utilisation intensive sans besoin de prise secteur. En outre, la fonction de charge inversée permet d'alimenter vos outils et autres smartphones sur le terrain. Le protocole de charge rapide 33W recharge efficacement cette réserve d'énergie. La gestion thermique interne empêche toute surchauffe pendant la charge. L'autonomie énergétique reste au cœur de ses performances.",
+                    "Par ailleurs, le capteur photo principal Samsung de 50 Mégapixels capture vos clichés avec précision. Cette caméra restitue des couleurs naturelles pour vos rapports d'intervention. De plus, la caméra selfie de 16 Mégapixels assure des visioconférences claires avec vos équipes. Le module NFC multifonction facilite vos règlements d'achats sans contact. En somme, cet équipement 5G s'adapte à tous vos besoins."
+                ]
+            },
+            {
+                "h2_title": "Normes Militaires et Blindage IP68/IP69K",
+                "paragraphs": [
+                    "La structure du Blackview Rock 2 5G est bâtie selon la norme militaire MIL-STD-810H. Les certifications étanches IP68 et IP69K garantissent une étanchéité totale à l'eau et aux poussières. Ses angles caoutchoutés amortissent les impacts répétés lors des chutes de 1.5 mètre. En effet, les trappes d'étanchéité préservent les connecteurs USB-C contre les infiltrations de boue. Vous pouvez laver le téléphone à l'eau courante après une journée sur le terrain. La durabilité est garantie.",
+                    "La prise en main demeure ferme grâce aux lignes moulées antidérapantes sur le dos. Son poids de 548 grammes s'explique par sa batterie de 15000 mAh et sa coque renforcée. Le Blackview Rock 2 5G représente un choix très judicieux pour s'équiper à Abidjan. En somme, son rapport qualité-prix en fait un produit extrêmement compétitif. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Rock 2 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview Rock 2 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "188.6 x 89.7 x 25.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.548 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Orange, Noir, Rose"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.67 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1600 x 720 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 6100+ (6 nm) Octa-Core 2.2 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR4X (extensible jusqu'à 24 Go)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 (f/1.8)"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "16 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "15000 mAh"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 33W (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Oui (Reverse Powerbank)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 1450 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 4.0"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/rock2"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    },
+    "colors": {
+        "default": "Noir",
+        "standard": [
+            "Noir",
+            "Orange",
+            "Violet"
+        ]
+    }
+}

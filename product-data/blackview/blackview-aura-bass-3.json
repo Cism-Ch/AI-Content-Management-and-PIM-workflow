@@ -1,0 +1,325 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Aura Bass 3",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/aurabass-3-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "35000",
+        "official_sku": "BV-AURA-BASS-3"
+    },
+    "key_specifications": {
+        "processor": "Puce Audio DSP & Bluetooth 5.3",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "3600 mAh",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio enceinte",
+        "os_skin": "Boutons physiques étanches",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Double haut-parleur 15W & Radiateur passif",
+        "audio_tech": "Son Stéréo 360° & Bass Boost",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Carte MicroSD supportée",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "77 x 81 x 191 mm",
+        "weight": "0.513 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AURA-BASS-3-MASTER",
+        "Name": "Blackview Aura Bass 3",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "35000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview Aura Bass 3, Enceinte Bluetooth, IPX7, 3600mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.513 kg",
+        "Attribute 4 default": "0.513 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Aura Bass 3 : L'Enceinte Bluetooth Nomade IPX7",
+        "brand_line": "Enceinte sans fil Blackview conçue pour la puissance sonore extérieure.",
+        "marketing_conclusion": "Commandez la Blackview Aura Bass 3 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "L'enceinte Blackview Aura Bass 3 propose une puissance audio de 15W avec radiateur passif de basses, la certification étanche IPX7 et une batterie de 3600 mAh.",
+        "features": [
+            {
+                "feature": "Puissance Audio 15W HD",
+                "benefice": "Sonorité puissante à 360° avec des basses profondes."
+            },
+            {
+                "feature": "Étanchéité IPX7 Renforcée",
+                "benefice": "Résistance totale à l'eau et aux immersions temporaires."
+            },
+            {
+                "feature": "Batterie 3600 mAh Autonomie 12h",
+                "benefice": "Écoute musicale continue tout au long de vos événements."
+            },
+            {
+                "feature": "Bluetooth 5.3 & MicroSD",
+                "benefice": "Connexion sans fil réactive et lecture directe sur carte mémoire."
+            }
+        ],
+        "slogan_final": "Blackview Aura Bass 3 — La puissance sonore partout avec vous.",
+        "seo": {
+            "meta_title": "Acheter Blackview Aura Bass 3 (Enceinte IPX7 15W) à Abidjan | My-eStore",
+            "meta_description": "Découvrez l'enceinte Bluetooth Blackview Aura Bass 3 avec puissance 15W et étanchéité IPX7. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Aura Bass 3, enceinte Bluetooth Blackview, prix Abidjan, enceinte IPX7 15W"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Aura Bass 3",
+            "lsi_keywords": [
+                "Blackview Aura Bass 3",
+                "enceinte Bluetooth Blackview",
+                "prix Abidjan",
+                "enceinte nomade Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "enceinte IPX7 15W",
+                "batterie 3600 mAh",
+                "Bluetooth 5.3",
+                "achat enceinte Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Aura Bass 3 : Enceinte IPX7 15W & 3600mAh | My-eStore",
+            "meta_description": "Achetez l'enceinte Bluetooth Blackview Aura Bass 3. Puissance 15W, étanchéité IPX7 et batterie 3600 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Aura Bass 3 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Puissance Stéréo 15W",
+                    "benefice": "Restitution acoustique claire et puissante en intérieur comme en extérieur."
+                },
+                {
+                    "feature": "Certification Étanche IPX7",
+                    "benefice": "Utilisation sereine au bord de la piscine et sous la pluie."
+                },
+                {
+                    "feature": "Autonomie Batterie 12 Hours",
+                    "benefice": "Accumulateur 3600 mAh assurant une journée complète de musique."
+                },
+                {
+                    "feature": "Format Cylindrique 513g",
+                    "benefice": "Prise en main ergonomique avec dragonne de transport intégrée."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Aura Bass 3 est une enceinte Bluetooth nomade robuste et très performante. Cet équipement répond parfaitement aux besoins des passionnés de musique en Côte d'Ivoire. Par ailleurs, la puce Bluetooth 5.3 assure une liaison audio très fluide. De plus, la puissance sonore de 15 Watts diffuse un son riche. Les deux haut-parleurs associés au radiateur passif renforcent la dynamique des basses. La batterie de 3600 mAh garantit une excellente autonomie lors de vos sorties. En effet, sa structure étanche IPX7 la protège contre les immersions accidentelles. Enfin, vous profitez de vos morceaux préférés en tout lieu.",
+        "sections": [
+            {
+                "h2_title": "Puissance Acoustique et basses Renforcées",
+                "paragraphs": [
+                    "La Blackview Aura Bass 3 intègre des transducteurs stéréo délivrant 15 Watts de puissance. Cette configuration acoustique diffuse une sonorité équilibrée à 360 degrés. De plus, le radiateur passif latéral accentue l'impact des basses fréquences sans distorsion. De surcroît, le processeur de signal numérique DSP optimise la clarté des médiums et des voix. La qualité sonore reste ainsi d'une excellente netteté à fort volume. L'ambiance musicale demeure très immersive au quotidien.",
+                    "Le revêtement renforcé protège le châssis cylindrique contre les chocs légers et la poussière. Cette étanchéité certifiée IPX7 autorise un rinçage direct sous l'eau. En effet, la prise en main reste très ferme grâce aux finitions antidérapantes. La dragonne incluse simplifie l'accrochage à un sac à dos lors de vos randonnées. Ainsi, vous transportez votre enceinte nomade en toute tranquillité."
+                ]
+            },
+            {
+                "h2_title": "Connexion Bluetooth 5.3 et Modes de Lecture",
+                "paragraphs": [
+                    "Le composant Bluetooth 5.3 offre un appairage immédiat avec tous vos appareils mobiles. La portée du signal s'étend jusqu'à 10 mètres sans aucune coupure audio. En outre, la faible latence permet de visionner vos vidéos sans décalage entre le son et l'image. Vous pilotez la lecture et le volume au moyen de boutons physiques étanches très réactifs. La gestion des morceaux devient simple et intuitive en toute circonstance. L'utilisation gagne en praticité.",
+                    "Par ailleurs, l'enceinte intègre un lecteur de carte MicroSD pour une écoute autonome. Vous pouvez diffuser vos fichiers MP3 sans dépendre du réseau ou de votre smartphone. De plus, le microphone HD intégré permet de répondre aux appels en mode mains libres. La clarté des communications téléphoniques est assurée par un filtre de débruitage ambiant. En somme, cette grande polyvalence répond à tous vos besoins."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Prolongée et Batterie 3600 mAh",
+                "paragraphs": [
+                    "La Blackview Aura Bass 3 abrite une batterie haute capacité de 3600 mAh. Cet accumulateur fournit jusqu'à 12 heures de lecture continue sur une seule charge. L'enceinte vous accompagne ainsi durant toutes vos journées d'excursion à Abidjan. En effet, la recharge s'effectue rapidement au moyen d'un port USB-C protégé par un cache étanche. Vos morceaux restent toujours accessibles.",
+                    "Le design moderne et les finitions soignées confèrent à l'enceinte une grande élégance. Son poids maîtrisé de 513 grammes s'insère facilement dans un sac de voyage. La Blackview Aura Bass 3 représente un choix audio particulièrement judicieux en Côte d'Ivoire. En somme, son rapport qualité-prix en fait une opportunité très intéressante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Aura Bass 3",
+                "subtitle": "Spécifications matérielles certifiées de l'enceinte Blackview Aura Bass 3."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "77 x 81 x 191 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.513 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Enceinte nomade cylindrique"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Puissance de sortie",
+                            "valeur": "15 Watts RMS Stéréo"
+                        },
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "Double driver + Radiateur passif de basses"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "60 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Traitement sonore",
+                            "valeur": "DSP (Digital Signal Processor) intégré"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "3600 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 12h d'écoute continue (à 50% de volume)"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "3h00 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C étanche"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Lecteur carte",
+                            "valeur": "Port Carte MicroSD (jusqu'à 32 Go)"
+                        },
+                        {
+                            "label": "Entrée auxiliaire",
+                            "valeur": "Prise Jack 3.5 mm AUX"
+                        },
+                        {
+                            "label": "Appels mains libres",
+                            "valeur": "Microphone HD avec débruitage"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Certification étanche IPX7 (immersion 1m pendant 30 min)"
+                        },
+                        {
+                            "label": "Commandes",
+                            "valeur": "Boutons physiques en caoutchouc étanche"
+                        },
+                        {
+                            "label": "Transport",
+                            "valeur": "Dragonne textile solide incluse"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Câble Audio",
+                            "valeur": "Câble Jack 3.5 mm inclus"
+                        },
+                        {
+                            "label": "Accessoire",
+                            "valeur": "Dragonne de transport"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/aurabass-3-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AirBuds 13",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/airbuds13"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "28000",
+        "official_sku": "BV-AIRBUDS-13"
+    },
+    "key_specifications": {
+        "processor": "Puce Bluetooth 5.3 Low Power",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "400 mAh (boîtier) / 40 mAh (écouteur)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio TWS",
+        "os_skin": "Commandes tactiles intelligentes",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Drivers 13 mm dynamiques haute fidélité",
+        "audio_tech": "Débruitage ENC & Son HD Stéréo",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "58 x 46 x 23 mm",
+        "weight": "0.048 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AIRBUDS-13-MASTER",
+        "Name": "Blackview AirBuds 13",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "60",
+        "Regular price": "28000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AirBuds 13, Écouteurs Sans Fil, TWS, Bluetooth 5.3, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.048 kg",
+        "Attribute 4 default": "0.048 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AirBuds 13 : Ergonomie Audio et Son HD",
+        "brand_line": "Écouteurs sans fil Blackview conçus pour une restitution sonore claire et fidèle.",
+        "marketing_conclusion": "Commandez les Blackview AirBuds 13 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les écouteurs Blackview AirBuds 13 intègrent la puce Bluetooth 5.3, des transducteurs de 13 mm et une réduction de bruit ENC efficace pour vos appels professionnels.",
+        "features": [
+            {
+                "feature": "Bluetooth 5.3 Rapide",
+                "benefice": "Connexion stable et synchronisation sonore optimale."
+            },
+            {
+                "feature": "Transducteurs 13 mm HD",
+                "benefice": "Son clair et équilibré avec des basses riches."
+            },
+            {
+                "feature": "Réduction de Bruit ENC",
+                "benefice": "Conversations téléphoniques nettes même en rue animée."
+            },
+            {
+                "feature": "Boîtier de Charge 400 mAh",
+                "benefice": "Jusqu'à 24 heures d'autonomie totale en déplacement."
+            }
+        ],
+        "slogan_final": "Blackview AirBuds 13 — La qualité sonore en toute légèreté.",
+        "seo": {
+            "meta_title": "Acheter Blackview AirBuds 13 (TWS Bluetooth 5.3) à Abidjan | My-eStore",
+            "meta_description": "Découvrez les écouteurs sans fil Blackview AirBuds 13 avec Bluetooth 5.3 et débruitage ENC. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AirBuds 13, écouteurs sans fil Blackview, prix Abidjan, Bluetooth 5.3"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AirBuds 13",
+            "lsi_keywords": [
+                "Blackview AirBuds 13",
+                "écouteurs sans fil Blackview",
+                "prix Abidjan",
+                "écouteurs Bluetooth Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écouteurs TWS 24h",
+                "boîtier 400 mAh",
+                "Bluetooth 5.3",
+                "achat écouteurs Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AirBuds 13 : Bluetooth 5.3 & Autonomie 24h | My-eStore",
+            "meta_description": "Achetez les écouteurs Blackview AirBuds 13. Puce Bluetooth 5.3, transducteurs 13 mm et boîtier de charge 400 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AirBuds 13 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Connexion Bluetooth 5.3",
+                    "benefice": "Stabilité de transmission élevée avec appairage automatique à l'ouverture."
+                },
+                {
+                    "feature": "Drivers 13 mm Dynamiques",
+                    "benefice": "Restitution audio haute définition avec une signature sonore équilibrée."
+                },
+                {
+                    "feature": "Débruitage ENC pour Appels",
+                    "benefice": "Maintien de la clarté vocale lors de vos appels téléphoniques en extérieur."
+                },
+                {
+                    "feature": "Étanchéité IPX7 Eau/Sueur",
+                    "benefice": "Utilisation sereine au quotidien et pendant vos séances de sport."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview AirBuds 13 sont des écouteurs sans fil performants et polyvalents. Cet équipement répond parfaitement aux besoins des utilisateurs connectés en Côte d'Ivoire. Par ailleurs, la puce Bluetooth 5.3 assure une transmission sonore fluide sans coupure. De plus, la réduction de bruit ENC améliore la clarté de vos appels. Les haut-parleurs de 13 mm délivrent une belle précision acoustique. Le boîtier de charge de 400 mAh garantit une excellente autonomie au quotidien. En effet, la conception ergonomique offre une tenue très confortable. Enfin, vous profitez d'une écoute agréable en tout lieu.",
+        "sections": [
+            {
+                "h2_title": "Rendu Acoustique Précis et Débruitage ENC",
+                "paragraphs": [
+                    "Les Blackview AirBuds 13 embarquent des transducteurs dynamiques de 13 mm. Cette configuration audio restitue un son équilibré pour la musique et les vidéos. De plus, les aigus restent limpides sans créer d'agressivité à l'écoute. De surcroît, le système de débruitage ENC atténue les bruits de fond lors des appels. La transmission vocale gagne ainsi en précision pour votre interlocuteur. L'expérience d'écoute reste très agréable au quotidien.",
+                    "L'embout en silicone s'adapte confortablement au canal auriculaire. Cette isolation passive limite efficacement la gêne due aux bruits extérieurs. En effet, la tenue reste ferme lors de vos déplacements à pied. La certification IPX7 protège les écouteurs contre les gouttes d'eau et la transpiration. Ainsi, vous profitez de votre musique en toute tranquillité d'esprit."
+                ]
+            },
+            {
+                "h2_title": "Puce Bluetooth 5.3 et Contrôle Tactile",
+                "paragraphs": [
+                    "Le composant Bluetooth 5.3 garantit un appairage rapide et une connexion stable. La liaison reste constante jusqu'à une distance de 10 mètres de votre téléphone. La faible latence évite tout décalage gênant lors du visionnage de vidéos. En outre, les capteurs tactiles situés sur la tige réagissent avec précision. Vous pouvez changer de piste musicale ou répondre aux appels d'une simple touche. La gestion des commandes devient particulièrement intuitive.",
+                    "Par ailleurs, l'accès à l'assistant vocal de votre smartphone est très simple. Vous lancez une recherche ou passez un appel sans toucher au téléphone. De plus, l'utilisation en mode mono reste possible avec un seul écouteur. Cette fonction s'avère très pratique pour rester à l'écoute de votre environnement. En somme, cette polyvalence facilite vos activités professionnelles."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Durable et Boîtier de Charge",
+                "paragraphs": [
+                    "Le boîtier de charge compact abrite une batterie efficace de 400 mAh. Chaque écouteur fournit jusqu'à 5 heures d'écoute continue en une charge. Le boîtier permet d'effectuer plusieurs recharges complètes en déplacement. Vous obtenez ainsi une autonomie globale atteignant 24 heures. En effet, la recharge s'effectue via un port USB-C moderne. Vos écouteurs retrouvent rapidement leur énergie maximale.",
+                    "Le design épuré du boîtier garantit une prise en main agréable. Son poids maîtrisé de 48 grammes facilite le transport dans une poche. Les écouteurs AirBuds 13 représentent un choix judicieux pour vos besoins audio à Abidjan. En somme, leur rapport qualité-prix en fait une solution très avantageuse. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AirBuds 13",
+                "subtitle": "Spécifications matérielles certifiées des écouteurs Blackview AirBuds 13."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "58 x 46 x 23 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.048 kg (boîtier + écouteurs)"
+                        },
+                        {
+                            "label": "Poids par écouteur",
+                            "valeur": "4.4 g"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Intra-auriculaire True Wireless (TWS)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "13 mm dynamiques haute fidélité"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Impédance",
+                            "valeur": "32 Ohms"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction de bruit environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Autonomie écouteurs",
+                            "valeur": "Jusqu'à 5h d'écoute continue"
+                        },
+                        {
+                            "label": "Autonomie avec boîtier",
+                            "valeur": "Jusqu'à 24h grâce au boîtier de 400 mAh"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "1h30 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP, HSP"
+                        },
+                        {
+                            "label": "Connexion automatique",
+                            "valeur": "Appairage rapide à l'ouverture du boîtier"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri & Google Assistant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Commandes tactiles intuitives sur la tige"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance à l'eau et à la sueur IPX7"
+                        },
+                        {
+                            "label": "Mode Mono/Stéréo",
+                            "valeur": "Utilisation indépendante de chaque écouteur"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Double micro HD avec débruitage ENC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Embouts silicone",
+                            "valeur": "3 tailles d'embouts fournies (S/M/L)"
+                        },
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Boîtier",
+                            "valeur": "Boîtier de charge intelligent compact"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/airbuds13"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

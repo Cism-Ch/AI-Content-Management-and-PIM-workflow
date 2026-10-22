@@ -1,0 +1,392 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade V60 Design",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V60+Design"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V60+Design+specifications"
+            }
+        ],
+        "pricing_reference": "89000",
+        "official_sku": "ZTE-BLADE-V60-DESIGN"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Dark Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "89000",
+            "sku_suffix": "256GB-4GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Sunrise Gold",
+            "color_code": "OR",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "89000",
+            "sku_suffix": "256GB-4GB-OR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Violet",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "89000",
+            "sku_suffix": "256GB-4GB-VIOLET"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.60 pouces",
+        "screen_technology": "IPS LCD 90Hz avec Live Island",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "50 MP Haute Définition + 2 MP Macro + Capteur IA",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur optimisé DTS Audio",
+        "audio_tech": "Son spatial DTS & prise jack 3.5mm",
+        "connectivity_nfc": "Non disponible sur ce modèle",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 22.5W USB-C",
+        "dimensions": "164.2 x 75.8 x 7.98 mm",
+        "weight": "0.189 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-V60-DESIGN-MASTER",
+        "Name": "ZTE Blade V60 Design",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "35",
+        "Regular price": "89000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade V60 Design, Dos en verre, Écran 90Hz, 50MP, 256Go, Charge 22.5W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Bleu Nuit, Or, Violet",
+        "Attribute 1 default": "Bleu Nuit",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.189 kg",
+        "Attribute 4 default": "0.189 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade V60 Design : Dos en Verre Écran 90Hz et 256 Go",
+        "brand_line": "Le smartphone au design élégant en verre doté d'une mémoire de 256 Go et d'une charge 22.5W.",
+        "marketing_conclusion": "Commandez votre ZTE Blade V60 Design sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade V60 Design propose un dos raffiné en verre, un écran 90Hz avec Live Island, un capteur 50 MP, 256 Go de stockage et une charge 22.5W.",
+        "features": [
+            {
+                "feature": "Dos Raffiné en Verre Sky-Mirror",
+                "benefice": "Finitions élégantes et sensation agréable en main."
+            },
+            {
+                "feature": "Écran 6.6\" 90Hz & Live Island",
+                "benefice": "Affichage fluide et alertes visuelles interactives."
+            },
+            {
+                "feature": "Vaste Stockage de 256 Go",
+                "benefice": "Espace confortable pour toutes vos applications et vidéos."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 22.5W",
+                "benefice": "Autonomie constante avec recharge rapide."
+            }
+        ],
+        "slogan_final": "ZTE Blade V60 Design — L'alliance de l'esthétique premium et du confort technique.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade V60 Design (4Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Blade V60 Design avec dos en verre, écran 90Hz, caméra 50 MP, 256 Go et charge 22.5W. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Blade V60 Design, smartphone dos verre Abidjan, 256Go stockage, 50MP, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade V60 Design",
+            "lsi_keywords": [
+                "ZTE Blade V60 Design",
+                "smartphone ZTE Blade V60 Design Abidjan",
+                "ZTE Blade V60 Design prix",
+                "téléphone dos en verre 256 go",
+                "smartphone écran 90hz live island",
+                "téléphone charge rapide 22.5w",
+                "achat smartphone design My-eStore",
+                "livraison smartphone Abidjan"
+            ],
+            "meta_title": "ZTE Blade V60 Design 256 Go : Dos en Verre & Écran 90Hz | My-eStore",
+            "meta_description": "Achetez le ZTE Blade V60 Design. Finition dos en verre, écran 6.6 pouces 90Hz avec Live Island, 256 Go et charge rapide 22.5W. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Blade V60 Design : Écran 6.6\" 90Hz, Capteur 50 MP et Batterie 5000 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE BLADE V60 DESIGN",
+            "items": [
+                {
+                    "feature": "Finition Dos en Verre",
+                    "benefice": "Esthétique moderne et toucher soigné."
+                },
+                {
+                    "feature": "Dalle 90Hz avec Live Island",
+                    "benefice": "Notifications animées et grand confort de lecture."
+                },
+                {
+                    "feature": "Mémoire Interne de 256 Go",
+                    "benefice": "Capacité généreuse pour tous vos fichiers."
+                },
+                {
+                    "feature": "Charge Rapide 22.5W",
+                    "benefice": "Recharge véloce pour un usage sans interruption."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade V60 Design séduit immédiatement par sa silhouette fine et son dos en verre élégant. Ce smartphone répond avec précision aux attentes des utilisateurs attentifs au style à Abidjan. En effet, son châssis de moins de 8 mm procure une prise en main très agréable. De plus, sa dalle de 6.6 pouces à 90 Hz affiche une fluidité continue au quotidien. La fonction Live Island centralise vos alertes utiles au sommet de l'écran. Par ailleurs, la batterie de 5000 mAh avec charge 22.5W garantit une grande tranquillité. L'appareil allie ainsi harmonieusement élégance visuelle et praticité fonctionnelle.",
+        "sections": [
+            {
+                "h2_title": "Écran 90Hz avec Live Island et Processeur Huit Cœurs",
+                "paragraphs": [
+                    "Le ZTE Blade V60 Design embarque une dalle IPS de 6.6 pouces rafraîchie à 90 Hz. Cette vitesse d'affichage permet de faire défiler les pages web et les menus en toute douceur. Ainsi, vos séances de navigation se déroulent avec un confort visuel très agréable. De surcroît, le processeur Unisoc T606 assure une gestion stable de vos applications de messagerie. La mémoire vive de 6 Go soutient une excellente réactivité multitâche.",
+                    "Le stockage interne de 256 Go offre un espace généreux pour sauvegarder tous vos contenus multimédias. D'ailleurs, un tiroir dédié permet d'ajouter une carte mémoire microSD pour étendre votre volume. En outre, la connexion 4G garantit des communications vocales claires et stables. Le dos en verre apporte une touche premium très valorisante. Vous disposez d'un téléphone agréable à manipuler au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP et Confort Audio DTS",
+                "paragraphs": [
+                    "Le module photographique principal de 50 Mégapixels capture des clichés nets avec un bon équilibre lumineux. Cet équipement bénéficie de l'assistance de l'intelligence artificielle pour sublimer les scènes du quotidien. De plus, la caméra macro dédiée permet d'immortaliser des détails précis en très gros plan. La caméra avant de 8 Mégapixels assure des visioconférences nettes et naturelles. Ainsi, vos portraits familiaux conservent des couleurs fidèles et éclatantes.",
+                    "La prise jack 3.5 mm et le système audio DTS procurent une écoute musicale immersive au casque. En effet, la clarté sonore renforce l'immersion lors du visionnage de séries ou de vidéos. Également, le port USB-C facilite les branchements au bureau comme à domicile. Le capteur d'empreintes digitales latéral garantit un déverrouillage sécurisé en un instant. Vous bénéficiez d'une expérience d'usage complète et harmonieuse."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 22.5W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh offre une réserve énergétique confortable pour couvrir une utilisation intensive. Cette endurance vous évite de chercher constamment un chargeur lors de vos déplacements extérieurs. Par ailleurs, la technologie de charge rapide 22.5W permet de faire le plein d'énergie en peu de temps. En effet, vous récupérez rapidement plusieurs heures d'autonomie lors d'une courte pause. Vos journées s'organisent avec une grande sérénité.",
+                    "Le boîtier ultra fin affiche une épaisseur de 7.98 mm pour un poids contenu de 189 grammes. D'autre part, les coloris noir, vert et violet offrent des reflets captivants à la lumière. En somme, le ZTE Blade V60 Design associe élégance des matériaux et confort d'utilisation au quotidien. Vous pouvez valider votre achat en toute sécurité sur My-eStore. Le service de livraison dessert rapidement les communes d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade V60 Design",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade V60 Design."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.2 x 75.8 x 7.98 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.189 kg (189 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, dos en verre Sky-mirror glass soigné"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Dark Charm Black), Vert (Sunrise Green), Violet (Champagne Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.60 pouces (~85.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD avec Live Island interactive"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1612 x 720 pixels, 20:9, ~267 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "90 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T606 (12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x1.6 GHz Cortex-A75 + 6x1.6 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go (extensible via RAM dynamique)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur de profondeur / IA"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "8 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 22.5W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son optimisé DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V60+Design"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V60+Design+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

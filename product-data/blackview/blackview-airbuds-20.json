@@ -1,0 +1,337 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AirBuds 20",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/airbuds20"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "32000",
+        "official_sku": "BV-AIRBUDS-20"
+    },
+    "key_specifications": {
+        "processor": "Puce Bluetooth 5.3 Low Power Dual Mode",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "600 mAh (boîtier) / 45 mAh (écouteur)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio TWS",
+        "os_skin": "Affichage LED de charge natif",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Drivers 13 mm dynamiques haute fidélité",
+        "audio_tech": "Débruitage ENC & Écran LED de charge",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "60 x 48 x 24 mm",
+        "weight": "0.052 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AIRBUDS-20-MASTER",
+        "Name": "Blackview AirBuds 20",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "60",
+        "Regular price": "32000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AirBuds 20, Écouteurs Sans Fil, TWS, Bluetooth 5.3, Écran LED, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.052 kg",
+        "Attribute 4 default": "0.052 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AirBuds 20 : L'Acoustique TWS avec Écran LED",
+        "brand_line": "Écouteurs sans fil Blackview intégrant un affichage numérique de batterie.",
+        "marketing_conclusion": "Commandez les Blackview AirBuds 20 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les écouteurs Blackview AirBuds 20 proposent un écran LED indiquant le niveau de charge, des haut-parleurs de 13 mm et une autonomie globale atteignant 35 heures.",
+        "features": [
+            {
+                "feature": "Écran LED Numérique",
+                "benefice": "Indication précise de la charge restante du boîtier et des écouteurs."
+            },
+            {
+                "feature": "Bluetooth 5.3 Stabilité",
+                "benefice": "Appairage instantané et liaison sans fil réactive à faible latence."
+            },
+            {
+                "feature": "Débruitage ENC pour Appels",
+                "benefice": "Atténuation efficace des bruits de fond lors de vos communications."
+            },
+            {
+                "feature": "Boîtier 600 mAh Autonomie 35h",
+                "benefice": "Grande réserve d'énergie permettant de nombreuses recharges complètes."
+            }
+        ],
+        "slogan_final": "Blackview AirBuds 20 — Le contrôle audio numérique à votre portée.",
+        "seo": {
+            "meta_title": "Acheter Blackview AirBuds 20 (TWS Écran LED) à Abidjan | My-eStore",
+            "meta_description": "Découvrez les écouteurs sans fil Blackview AirBuds 20 avec écran LED et batterie 600 mAh. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AirBuds 20, écouteurs sans fil Blackview, prix Abidjan, écran LED audio"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AirBuds 20",
+            "lsi_keywords": [
+                "Blackview AirBuds 20",
+                "écouteurs sans fil Blackview",
+                "prix Abidjan",
+                "écouteurs Bluetooth Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écouteurs TWS écran LED",
+                "boîtier 600 mAh",
+                "Bluetooth 5.3",
+                "achat écouteurs Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AirBuds 20 : Écran LED & Autonomie 35h | My-eStore",
+            "meta_description": "Achetez les écouteurs Blackview AirBuds 20. Puce Bluetooth 5.3, écran LED de charge et boîtier 600 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AirBuds 20 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Affichage Numérique LED",
+                    "benefice": "Visibilité claire du pourcentage de batterie restante en temps réel."
+                },
+                {
+                    "feature": "Transducteurs 13 mm HD",
+                    "benefice": "Sonorité dynamique avec des basses percutantes et des voix nettes."
+                },
+                {
+                    "feature": "Réduction de Bruit ENC Appels",
+                    "benefice": "Communications téléphoniques limpides même en environnement animé."
+                },
+                {
+                    "feature": "Étanchéité IPX7 Eau/Sueur",
+                    "benefice": "Protection renforcée pour un usage quotidien et sportif sans contrainte."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview AirBuds 20 sont des écouteurs sans fil innovants et performants. Cet équipement répond parfaitement aux attentes des utilisateurs connectés en Côte d'Ivoire. Par ailleurs, la puce Bluetooth 5.3 garantit une liaison sonore très réactive. De plus, la réduction de bruit ENC clarifie la transmission de vos appels. Les transducteurs de 13 mm restituent une acoustique particulièrement riche. L'écran LED de charge indique en direct l'énergie disponible dans le boîtier. En effet, la conception ergonomique offre une excellente tenue auriculaire. Enfin, vous profitez de votre musique préférée en toute simplicité.",
+        "sections": [
+            {
+                "h2_title": "Rendu Acoustique Précis et Débruitage ENC",
+                "paragraphs": [
+                    "Les Blackview AirBuds 20 s'appuient sur des haut-parleurs dynamiques de 13 mm. Cette configuration audio restitue un son équilibré pour vos musiques et vos films. De plus, les aigus restent cristallins sans provoquer de fatigue d'écoute. De surcroît, le système de débruitage ENC atténue les sons ambiants gênants lors des appels. La voix gagne ainsi en netteté lors de vos conversations téléphoniques. L'expérience d'écoute reste constante au quotidien.",
+                    "L'embout en silicone s'ajuste parfaitement à la forme du canal auriculaire. Cette isolation passive diminue efficacement les bruits environnants désagréables. En effet, la tenue reste stable lors de vos déplacements rapides à pied. La certification étanche IPX7 protège les écouteurs contre les gouttes d'eau. Ainsi, vous utilisez vos écouteurs en toute sérénité."
+                ]
+            },
+            {
+                "h2_title": "Affichage LED Précis et Ergonomie Tactile",
+                "paragraphs": [
+                    "Le boîtier des Blackview AirBuds 20 intègre un écran numérique LED très pratique. Cet affichage indique le niveau de charge exact du boîtier et de chaque écouteur. En outre, la puce Bluetooth 5.3 établit un appairage immédiat dès l'ouverture. La portée du signal atteint 10 mètres sans perte de qualité audio. Vous contrôlez la musique et les appels via des commandes tactiles intuitives. La gestion des fonctions quotidiennes devient très fluide.",
+                    "Par ailleurs, l'accès à l'assistant vocal de votre smartphone est instantané. Vous pouvez lancer une recherche ou envoyer un message sans manipuler le téléphone. De plus, chaque écouteur peut s'utiliser de manière indépendante en mode mono. Cette flexibilité préserve l'autonomie lors des longues journées de travail. En somme, cette conception répond parfaitement à vos besoins nomades."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Étendue 35h et Boîtier 600 mAh",
+                "paragraphs": [
+                    "Le boîtier de charge intègre une batterie haute capacité de 600 mAh. Chaque écouteur fournit jusqu'à 6 heures d'écoute continue sur une seule charge. Le boîtier permet de réaliser jusqu'à 5 recharges complètes sans prise secteur. Vous obtenez ainsi une autonomie globale impressionnante de 35 heures. En effet, la charge rapide USB-C rétablit l'énergie du boîtier très rapidement. Vos écouteurs restent opérationnels au quotidien.",
+                    "La finition moderne du boîtier procure un toucher très agréable en main. Son format compact permet de le glisser facilement dans une poche de vêtement. Les écouteurs AirBuds 20 constituent un choix judicieux pour vos déplacements à Abidjan. En somme, leur rapport qualité-prix en fait une solution extrêmement compétitive. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AirBuds 20",
+                "subtitle": "Spécifications matérielles certifiées des écouteurs Blackview AirBuds 20."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "60 x 48 x 24 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.052 kg (boîtier + écouteurs)"
+                        },
+                        {
+                            "label": "Poids par écouteur",
+                            "valeur": "4.5 g"
+                        },
+                        {
+                            "label": "Affichage",
+                            "valeur": "Écran LED numérique de niveau de batterie"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "13 mm dynamiques haute fidélité"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Impédance",
+                            "valeur": "32 Ohms"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction de bruit environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Autonomie écouteurs",
+                            "valeur": "Jusqu'à 6h d'écoute continue"
+                        },
+                        {
+                            "label": "Autonomie avec boîtier",
+                            "valeur": "Jusqu'à 35h grâce au boîtier de 600 mAh"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "1h30 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C Charge Rapide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP, HSP"
+                        },
+                        {
+                            "label": "Connexion automatique",
+                            "valeur": "Appairage rapide à l'ouverture du boîtier"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri & Google Assistant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Commandes tactiles intuitives sur la tige"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance à l'eau et à la sueur IPX7"
+                        },
+                        {
+                            "label": "Mode Mono/Stéréo",
+                            "valeur": "Utilisation indépendante de chaque écouteur"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Double micro HD avec débruitage ENC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Embouts silicone",
+                            "valeur": "3 tailles d'embouts fournies (S/M/L)"
+                        },
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Boîtier",
+                            "valeur": "Boîtier de charge intelligent avec écran LED"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/airbuds20"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

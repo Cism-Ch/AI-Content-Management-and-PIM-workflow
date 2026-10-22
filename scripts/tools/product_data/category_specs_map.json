@@ -1,0 +1,140 @@
+{
+  "_description": "Mapping des champs de spécifications obligatoires (required) et optionnels (optional) par catégorie de produit. Utilisé par le workflow /generate-product-data et le script validate_product_data.py.",
+  "_version": "1.0",
+
+  "smartphone": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["processor", "ram_options", "storage_options", "screen_size", "screen_technology", "battery_capacity", "os", "camera_main"],
+    "optional": ["screen_refresh_rate", "charging_wired", "charging_wireless", "camera_ultrawide", "camera_telephoto", "camera_selfie", "video_max", "connectivity_5g", "connectivity_wifi", "connectivity_bluetooth", "connectivity_nfc", "sim_type", "water_resistance", "dimensions", "weight", "materials", "biometrics"],
+    "price_range_fcfa": { "min": 30000, "max": 2500000 },
+    "model_number_patterns": ["SM-[A-Z][0-9]{3}[A-Z]?", "RMX[0-9]{4}", "M[0-9]{4}", "CPH[0-9]{4}", "V[0-9]{4}", "[A-Z]{2,3}-[0-9]{3,5}"]
+  },
+
+  "tablet": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["processor", "ram_options", "storage_options", "screen_size", "screen_technology", "battery_capacity", "os"],
+    "optional": ["screen_refresh_rate", "charging_wired", "camera_main", "camera_selfie", "connectivity_wifi", "dimensions", "weight", "sim_type", "stylus_support"],
+    "price_range_fcfa": { "min": 50000, "max": 1500000 },
+    "model_number_patterns": ["SM-[A-Z][0-9]{3}[A-Z]?", "[A-Z]{2,5}-[0-9]{2,5}", "[0-9]{4,5}[A-Z]{2,}[0-9A-Z]*"]
+  },
+
+  "laptop": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["processor", "ram_options", "storage_options", "screen_size", "screen_technology", "screen_resolution", "os", "battery_capacity"],
+    "optional": ["gpu", "charging_wired", "keyboard_backlit", "connectivity_wifi", "connectivity_bluetooth", "ports", "dimensions", "weight", "webcam", "biometrics"],
+    "price_range_fcfa": { "min": 150000, "max": 5000000 },
+    "model_number_patterns": ["[A-Z0-9]{2,}-[A-Z0-9]+"]
+  },
+
+  "pc_desktop": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["processor", "ram_options", "storage_options", "os"],
+    "optional": ["gpu", "power_supply", "form_factor", "ports", "connectivity_wifi", "dimensions", "weight"],
+    "price_range_fcfa": { "min": 150000, "max": 5000000 },
+    "model_number_patterns": ["[A-Z0-9-]+"]
+  },
+
+  "audio": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["battery_capacity", "connectivity_bluetooth"],
+    "optional": ["driver_size", "frequency_response", "noise_cancellation", "water_resistance", "charging_wired", "charging_wireless", "weight", "microphone", "codec_support"],
+    "price_range_fcfa": { "min": 2000, "max": 500000 },
+    "model_number_patterns": ["[A-Z0-9-]+"]
+  },
+
+  "wearable": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["screen_size", "battery_capacity", "os", "connectivity_bluetooth"],
+    "optional": ["screen_technology", "water_resistance", "sensors", "gps", "nfc", "charging_wireless", "weight", "materials", "health_features"],
+    "price_range_fcfa": { "min": 5000, "max": 800000 },
+    "model_number_patterns": ["SM-[A-Z][0-9]{3}[A-Z]?", "[A-Z0-9-]+"]
+  },
+
+  "storage": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["storage_options"],
+    "optional": ["interface", "read_speed", "write_speed", "form_factor", "encryption", "dimensions", "weight", "warranty"],
+    "price_range_fcfa": { "min": 2000, "max": 300000 },
+    "model_number_patterns": ["SDSD[A-Z0-9-]+", "[A-Z0-9-]+"]
+  },
+
+  "printer": {
+    "template": "Template_ProductData_tech.json",
+    "required": ["print_technology", "print_speed", "print_resolution"],
+    "optional": ["scanner", "copier", "fax", "duplex", "connectivity_wifi", "paper_sizes", "tray_capacity", "dimensions", "weight", "monthly_duty_cycle"],
+    "price_range_fcfa": { "min": 30000, "max": 2000000 },
+    "model_number_patterns": ["[A-Z0-9-]+"]
+  },
+
+  "peripheral": {
+    "template": "Template_ProductData_tech.json",
+    "required": [],
+    "optional": ["connectivity_type", "compatibility", "dimensions", "weight", "battery_capacity", "features"],
+    "price_range_fcfa": { "min": 2000, "max": 500000 },
+    "model_number_patterns": ["[A-Z0-9-]+"]
+  },
+
+  "appliance_refrigerator": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["capacity", "energy_class", "dimensions_hxwxd", "cooling_system", "appliance_type"],
+    "optional": ["noise_level_db", "weight_kg", "annual_consumption", "voltage", "special_functions", "safety_features", "material", "warranty"],
+    "price_range_fcfa": { "min": 80000, "max": 3000000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_washer": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["capacity", "energy_class", "dimensions_hxwxd", "programs_count", "appliance_type"],
+    "optional": ["spin_speed", "noise_level_db", "weight_kg", "voltage", "special_functions", "safety_features", "warranty"],
+    "price_range_fcfa": { "min": 100000, "max": 2000000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_cooker": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["appliance_type", "dimensions_hxwxd"],
+    "optional": ["burner_count", "oven_capacity", "oven_type", "ignition_type", "safety_features", "material", "weight_kg", "voltage", "warranty"],
+    "price_range_fcfa": { "min": 50000, "max": 2000000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_ac": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["capacity", "energy_class", "appliance_type", "power_watts"],
+    "optional": ["btu", "refrigerant", "noise_level_db", "dimensions_hxwxd", "weight_kg", "voltage", "special_functions", "connectivity", "warranty"],
+    "price_range_fcfa": { "min": 100000, "max": 3000000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_tv": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["capacity", "appliance_type"],
+    "optional": ["screen_size", "resolution", "panel_technology", "smart_tv_os", "speakers", "hdmi_count", "usb_count", "dimensions_hxwxd", "weight_kg", "voltage", "warranty"],
+    "price_range_fcfa": { "min": 50000, "max": 3000000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_small": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["appliance_type", "power_watts"],
+    "optional": ["capacity", "dimensions_hxwxd", "weight_kg", "voltage", "material", "special_functions", "safety_features", "warranty"],
+    "price_range_fcfa": { "min": 5000, "max": 500000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_fan": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["appliance_type", "power_watts"],
+    "optional": ["blade_diameter", "speed_count", "oscillation", "noise_level_db", "dimensions_hxwxd", "weight_kg", "remote_control", "timer", "voltage", "warranty"],
+    "price_range_fcfa": { "min": 10000, "max": 300000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  },
+
+  "appliance_water": {
+    "template": "Template_ProductData_appliance.json",
+    "required": ["appliance_type", "capacity"],
+    "optional": ["power_watts", "temperature_range", "dimensions_hxwxd", "weight_kg", "material", "safety_features", "voltage", "warranty"],
+    "price_range_fcfa": { "min": 20000, "max": 500000 },
+    "model_number_patterns": ["[A-Z0-9-/]+"]
+  }
+}

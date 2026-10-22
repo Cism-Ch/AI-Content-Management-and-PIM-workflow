@@ -1,0 +1,314 @@
+{
+    "template_version": "3.4",
+    "product_type": "wearable",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "R30 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/r30-pro-smartwatch-price"
+            }
+        ],
+        "pricing_reference": "22000",
+        "official_sku": "BV-R30-PRO"
+    },
+    "key_specifications": {
+        "processor": "Puce Realtek RTL8763EWE à faible consommation",
+        "processor_ghz": "Connexion Bluetooth 5.2",
+        "screen_size": "1.83 pouces",
+        "screen_technology": "TFT HD Tactile Couleur avec Verre 2.5D Curved",
+        "screen_resolution": "240 x 284 pixels",
+        "battery_capacity": "280 mAh",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Android 5.0+ et iOS 9.0+",
+        "os_skin": "Application GloryFit",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Haut-parleur & Micro intégrés pour appels Bluetooth",
+        "audio_tech": "Réduction de bruit pour appels clairs",
+        "connectivity_nfc": "Appels Bluetooth 5.2 Mains-Libres",
+        "navigation_gps": "Suivi via GPS du Smartphone connecté",
+        "card_slot": "N/A",
+        "charging_wired": "Chargeur Magnétique 2-pin USB",
+        "dimensions": "44.5 x 37 x 11.6 mm",
+        "weight": "0.050 kg",
+        "colors_available": [
+            "Gris",
+            "Noir",
+            "Rose",
+            "Violet"
+        ],
+        "colors_en": [
+            "Grey",
+            "Black",
+            "Pink",
+            "Purple"
+        ]
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-R30-PRO-MASTER",
+        "Name": "Blackview R30 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "22000",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Blackview Smartwatches, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "Blackview, Blackview R30 Pro, Montre Connectée, Smartwatch, Appels Bluetooth, IP68, SpO2, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Noir | Rose | Violet",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.050 kg",
+        "Attribute 4 default": "0.050 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview R30 Pro : Montre Connectée Écran 1.83 Pouces HD Appels Bluetooth IP68",
+        "brand_line": "La montre connectée polyvalente et sportive Blackview pour suivre votre santé au quotidien.",
+        "marketing_conclusion": "Commandez la Blackview R30 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview R30 Pro propose un écran tactile HD de 1.83 pouce, les appels Bluetooth mains-libres, le suivi de santé continu et une étanchéité IP68.",
+        "features": [
+            {
+                "feature": "Appels Bluetooth Mains-Libres",
+                "benefice": "Passez et recevez vos appels directement au poignet."
+            },
+            {
+                "feature": "Écran Tactile 1.83\" HD",
+                "benefice": "Affichage lumineux et lisibilité optimale des notifications."
+            },
+            {
+                "feature": "Suivi Cardiaque, SpO2 et Sommeil",
+                "benefice": "Mesure en temps réel de vos paramètres de santé."
+            },
+            {
+                "feature": "Étanchéité Certifiée IP68",
+                "benefice": "Résistance totale sous la pluie, les éclaboussures et la sueur."
+            }
+        ],
+        "slogan_final": "Blackview R30 Pro — Votre coach de santé et de communication au poignet.",
+        "seo": {
+            "meta_title": "Acheter Blackview R30 Pro Montre Connectée à Abidjan | My-eStore",
+            "meta_description": "Découvrez la montre connectée Blackview R30 Pro avec écran 1.83\" HD, appels Bluetooth et suivi santé IP68. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview R30 Pro, montre connectée, smartwatch, prix Abidjan, appels bluetooth IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview R30 Pro",
+            "lsi_keywords": [
+                "Blackview R30 Pro",
+                "montre connectée Blackview Abidjan",
+                "Blackview R30 Pro prix",
+                "smartwatch appels bluetooth",
+                "montre etanche ip68 1.83 pouces",
+                "montre sport santé Côte d'Ivoire",
+                "achat montre connectee Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview R30 Pro Montre Connectée : Écran 1.83\" HD & Appels Bluetooth | My-eStore",
+            "meta_description": "Achetez la montre connectée Blackview R30 Pro. Écran 1.83\" HD, appels Bluetooth, capteurs SpO2 & rythme cardiaque, batterie 280 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview R30 Pro : Spécifications de la Montre Connectée",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU SUIVI DE SANTÉ",
+            "items": [
+                {
+                    "feature": "Appels Bluetooth Mains-Libres",
+                    "benefice": "Répondez rapidement sans sortir votre smartphone."
+                },
+                {
+                    "feature": "Capteurs Optiques Fréquence & SpO2",
+                    "benefice": "Surveillance continue de votre rythme cardiaque."
+                },
+                {
+                    "feature": "Plus de 100 Modes Sportifs",
+                    "benefice": "Accompagnement personnalisé lors de vos entraînements."
+                },
+                {
+                    "feature": "Autonomie Jusqu'à 7 Jours",
+                    "benefice": "Utilisation sereine sans recharger chaque soir."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview R30 Pro est une montre connectée particulièrement élégante et complète. Cet équipement convient très bien aux sportifs et professionnels actifs en Côte d'Ivoire. Par ailleurs, son écran rectangulaire HD de 1.83 pouce offre une lisibilité visuelle très claire. De plus, sa structure légère garantit un confort idéal tout au long de la journée. La batterie de 280 mAh permet de travailler en toute sérénité pendant une semaine. Son boîtier affiné de 11.6 mm garantit une prise en main très agréable. L'application GloryFit sous Android et iOS simplifie l'accès à vos données de santé. Enfin, cette montre moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 1.83 Pouces HD et Appels Bluetooth",
+                "paragraphs": [
+                    "La Blackview R30 Pro intègre une dalle tactile HD de 1.83 pouce en résolution 240 x 284 pixels. Sa vitre incurvée 2.5D restitue des détails d'une clarté impressionnante. De plus, la luminosité réglable apporte une bonne lisibilité en plein soleil. De surcroît, le haut-parleur et micro intégrés gèrent facilement vos appels téléphoniques. La voix de votre interlocuteur reste très claire.",
+                    "Cette mémoire interne conserve l'ensemble de vos cadrans personnalisés à télécharger. La synchronisation Bluetooth 5.2 assure une réception instantanée de vos messages WhatsApp et SMS. En effet, le bracelet en silicone souple protège la peau des irritations en toutes circonstances. Cette conception soignée convient parfaitement aux entraînements. Vos notifications importantes restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Suivi Cardiaque, Oxygène SpO2 et Étanchéité IP68",
+                "paragraphs": [
+                    "La Blackview R30 Pro embarque un capteur biologique pour la fréquence cardiaque et l'oxygène SpO2. Cet équipement de mesure analyse vos constantes physiques avec une précision remarquable en continu. En outre, le suivi automatique du sommeil s'avère très pratique pour évaluer vos nuits. Les algorithmes sportifs optimisent l'analyse des calories brûlées durant le bilan. Ainsi, plus de 100 modes de sport immortalisent vos performances avec rigueur. La précision des mesures reste constante.",
+                    "Par ailleurs, le boîtier étanche IP68 résiste à la transpiration, la pluie et aux lavages de mains. De plus, le déclencheur photo à distance permet de prendre des selfies de groupe facilement. Également, la fonction de contrôle de musique simplifie la gestion de vos pistes audio. De surcroît, le rappel de sédentarité garantit un mode de vie plus actif. En somme, cette montre connectée réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 280 mAh et Chargeur Magnétique",
+                "paragraphs": [
+                    "La batterie intégrée de 280 mAh procure une autonomie énergétique longue durée. Cette importante réserve vous permet de l'utiliser jusqu'à 7 jours consécutifs en usage normal. D'ailleurs, le câble magnétique fourni prend en charge la recharge complète en seulement 2 heures. En effet, la mise en veille optimisée préserve l'énergie lors des périodes d'inactivité. Vos activités quotidiennes se poursuivent sans interruption.",
+                    "La silhouette épurée de 11.6 mm offre une tenue au poignet naturelle et très esthétique. Son poids plume de 50 grammes témoigne du confort apporté à la structure. D'autre part, la Blackview R30 Pro constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, ses appels Bluetooth en font une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview R30 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la montre connectée Blackview R30 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "44.5 x 37 x 11.6 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.050 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Boîtier en alliage de zinc avec bracelet en silicone médical"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Certification IP68 (Résistant à la pluie, sueur et immersion)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "1.83 pouce TFT HD Couleur"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "240 x 284 pixels"
+                        },
+                        {
+                            "label": "Type de verre",
+                            "valeur": "Verre incurvé 2.5D anti-traces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Suivi Santé",
+                    "rows": [
+                        {
+                            "label": "Fréquence cardiaque",
+                            "valeur": "Capteur optique PPG continu 24/7"
+                        },
+                        {
+                            "label": "Oxygène sanguin",
+                            "valeur": "Mesure du taux de SpO2"
+                        },
+                        {
+                            "label": "Sommeil & Stress",
+                            "valeur": "Analyse des phases de sommeil (Léger, Profond, REM) & Conseils"
+                        },
+                        {
+                            "label": "Modes sportifs",
+                            "valeur": "Plus de 100 modes de sport intégrés"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctions de Communication",
+                    "rows": [
+                        {
+                            "label": "Appels téléphoniques",
+                            "valeur": "Appels Bluetooth mains-libres avec micro et haut-parleur"
+                        },
+                        {
+                            "label": "Notifications",
+                            "valeur": "SMS, Appels, WhatsApp, Facebook, Email, AlCity"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "280 mAh Lithium-Polymère"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "5 à 7 jours (Usage standard) / 15 jours (Veille)"
+                        },
+                        {
+                            "label": "Recharge",
+                            "valeur": "Câble magnétique 2 broches USB (environ 2 heures)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité & Application",
+                    "rows": [
+                        {
+                            "label": "Connectivité",
+                            "valeur": "Bluetooth 5.2 à faible consommation"
+                        },
+                        {
+                            "label": "Application mobile",
+                            "valeur": "GloryFit (Disponible sur Google Play Store & Apple App Store)"
+                        },
+                        {
+                            "label": "Systèmes supportés",
+                            "valeur": "Android 5.0+ et iOS 9.0+"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/r30-pro-smartwatch-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    },
+    "colors": {
+        "default": "Noir",
+        "standard": [
+            "Blanc",
+            "Noir",
+            "Rose",
+            "Violet"
+        ]
+    }
+}

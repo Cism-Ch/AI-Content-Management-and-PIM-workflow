@@ -1,0 +1,402 @@
+{
+    "schema_version": "3.4",
+    "template_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-29",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "oukitel-wp-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone durci 5G Oukitel WP68 Air 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Oukitel",
+        "product_line": "WP Series",
+        "commercial_name": "Oukitel WP68 Air 5G",
+        "category": "smartphone",
+        "sub_category": "rugged-outdoor",
+        "release_year": 2024,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "OUKITEL-WP68-AIR-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "OUKITEL-WP68-AIR-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Oukitel Official Store",
+                "url": "https://oukitel.com/products/oukitel-wp68-air-rugged-phone"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Oukitel+WP68+Air+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Oukitel+WP68+Air+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone durci 5G Oukitel WP68 Air 5G étanche IP68/IP69K avec écran 6.88 pouces 120Hz, Dimensity 7025 et batterie 8000 mAh."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7025 (6 nm, Octa-core 5G)",
+        "ram_extension": "Extension de mémoire RAM dynamique jusqu'à 24 Go",
+        "audio_config": "Haut-parleur étanche puissant optimisé pour l'extérieur",
+        "audio_tech": "Son clair adapté aux environnements de chantier bruyants",
+        "battery_capacity": "8000 mAh",
+        "charging_wired": "Charge rapide filaire 33W Type-C",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou",
+        "card_slot": "Tiroir hybride double nano-SIM ou 1 nano-SIM + microSD",
+        "weight": "0.310 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "OUKITEL-WP68-AIR-5G",
+        "Name": "Oukitel WP68 Air 5G - Dual SIM - Antichoc IP68/IP69K - (12 Go & 512 Go) - 8000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "225000",
+        "Categories": "Smartphones > Oukitel > WP Series",
+        "Tags": "Oukitel, Oukitel WP68 Air 5G, WP Series, Smartphone Antichoc, Smartphone Durci, Android, 5G, Écran 120Hz, Capteur 64MP, 8000mAh, Charge 33W, Dimensity 7025, IP68 IP69K, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Orange | Vert | Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.310 kg",
+        "Attribute 4 default": "0.310 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "225000",
+            "sku_suffix": "12GB-512GB-ORANGE"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "225000",
+            "sku_suffix": "12GB-512GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "225000",
+            "sku_suffix": "12GB-512GB-NOIR"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Robustesse Tout-Terrain IP68/IP69K avec Connectivité 5G et Batterie 8000 mAh.",
+        "teaser": "Le smartphone durci Oukitel WP68 Air 5G associe une connectivité 5G ultra-rapide à une résistance certifiée IP68 et IP69K. Son écran FHD+ 120Hz de 6.88 pouces et sa batterie de 8000 mAh avec charge 33W garantissent une efficacité absolue sur le terrain.",
+        "top_features_detailed": [
+            {
+                "feature": "Protection IP68 / IP69K / MIL-STD-810H",
+                "benefice": "Résistance totale aux chutes d'un mètre cinquante, aux immersions et à la poussière fine"
+            },
+            {
+                "feature": "Puce Dimensity 7025 5G",
+                "benefice": "Débits très rapides et fluidité exemplaire sur tous vos logiciels techniques et plans de chantier"
+            },
+            {
+                "feature": "Batterie 8000 mAh & Charge 33W",
+                "benefice": "Autonomie de plusieurs jours d'affilée avec fonction pratique de batterie externe inversée"
+            },
+            {
+                "feature": "Dalle 6.88\" FHD+ 120Hz",
+                "benefice": "Excellente lisibilité en plein soleil et grand confort de lecture des documents graphiques"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone durci 5G sans compromis taillé pour les missions professionnelles les plus exigeantes.",
+        "trust_badges": [
+            "Garantie Officielle Oukitel",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Oukitel WP68 Air 5G (12 Go/512 Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le smartphone antichoc Oukitel WP68 Air 5G à Abidjan chez My-eStore. Écran FHD+ 120Hz, 5G Dimensity 7025 et batterie 8000 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Oukitel WP68 Air 5G 512 Go : Dimensity 7025 & Batterie 8000 mAh | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Oukitel WP68 Air 5G sur My-eStore. Normes IP68/IP69K, écran 120Hz 6.88 pouces, 5G rapide, 12Go/512Go et batterie 8000 mAh à Abidjan.",
+            "focus_keyword": "Oukitel WP68 Air 5G",
+            "lsi_keywords": [
+                "Oukitel WP68 Air 5G Abidjan",
+                "smartphone durci 5G Oukitel",
+                "téléphone antichoc IP68 Abidjan",
+                "prix Oukitel WP68 Air",
+                "Oukitel WP68 Air fiche technique"
+            ]
+        },
+        "h1": "Oukitel WP68 Air 5G : Dimensity 7025 5G, Écran 120Hz et Batterie 8000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Oukitel WP68 Air 5G",
+            "items": [
+                {
+                    "feature": "Normes IP68 / IP69K",
+                    "benefice": "Étanchéité complète à l'eau sous haute pression et protection totale contre la poussière"
+                },
+                {
+                    "feature": "Puce Dimensity 7025 5G",
+                    "benefice": "Connexion mobile très rapide et réactivité irréprochable sur vos logiciels métiers"
+                },
+                {
+                    "feature": "Batterie 8000 mAh 33W",
+                    "benefice": "Endurance remarquable permettant d'opérer plusieurs jours loin d'une prise de courant"
+                },
+                {
+                    "feature": "Mémoire 12 Go + 512 Go",
+                    "benefice": "Espace de travail confortable pour stocker plans lourds et photos de repérage"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone durci Oukitel WP68 Air 5G allie une résistance mécanique extrême aux débits mobiles modernes. Son grand écran FHD+ de 6.88 pouces offre une fluidité visuelle irréprochable cadencée à 120 Hz. De plus, la puce Dimensity 7025 garantit une réactivité exemplaire pour traiter vos dossiers sur le terrain. Le boîtier blindé certifié IP68 et IP69K résiste aux chocs sévères et aux intempéries violentes. Enfin, son accumulateur renforcé de 8000 mAh assure une disponibilité sans faille lors de vos expéditions.",
+        "sections": [
+            {
+                "h2_title": "Conception Blindée IP68/IP69K et Affichage FHD+ 120Hz",
+                "paragraphs": [
+                    "Le châssis renforcé du WP68 Air résiste aux chutes répétées sur le béton et la roche. En outre, la certification militaire MIL-STD-810H garantit son intégrité mécanique face aux températures extrêmes. Les coins amortisseurs en caoutchouc dense absorbent immédiatement l'onde de choc lors d'un impact direct. L'étanchéité intégrale prévient toute infiltration d'eau sous haute pression et de poussière industrielle. Par ailleurs, la dalle FHD+ de 6.88 pouces affiche vos plans avec une netteté remarquable. Le verre Corning Gorilla Glass 5 préserve l'écran contre les rayures profondes sur les chantiers.",
+                    "D'autre part, la fréquence d'actualisation de 120Hz procure un défilement très souple lors des lectures. La luminosité élevée de la dalle autorise une consultation limpide en plein soleil sans forcer. Le mode d'utilisation avec gants répond parfaitement pour manipuler l'appareil sans retirer vos protections. Ainsi, vous accédez à vos outils numériques même dans la boue ou sous la pluie. Le capteur photographique de 64 mégapixels capture des clichés de repérage riches en détails fins. Cet ensemble d'affichage robuste apporte une sérénité opérationnelle indispensable aux professionnels du bâtiment."
+                ]
+            },
+            {
+                "h2_title": "Connectivité 5G Dimensity 7025 et Stockage Massif de 512 Go",
+                "paragraphs": [
+                    "Tout d'abord, la puce MediaTek Dimensity 7025 gravée en 6 nanomètres optimise la vitesse de calcul. Le modem 5G intégré assure des vitesses de téléchargement rapides pour transférer des plans volumineux. La mémoire vive de 12 Go soutient sans peine le multitâche lourd entre vos applications spécialisées. De surcroît, le système Android 14 offre des fonctionnalités de sécurité logicielle adaptées au monde professionnel. Le GPS double fréquence verrouille instantanément vos coordonnées géographiques au cœur des zones reculées. Vous gérez vos interventions techniques en profitant d'une stabilité matérielle absolue en toute circonstance.",
+                    "De ce fait, le stockage généreux de 512 Go accueille vos photothèques et bibliothèques de documents techniques. Vous archivez des journées entières de relevés vidéo sans redouter le moindre manque d'espace disponible. Le tiroir hybride accepte une carte mémoire microSD pour doubler vos volumes de sauvegarde locale. Également, le système de dissipation thermique interne régule parfaitement les sollicitations soutenues du processeur. Le haut-parleur étanche diffuse des tonalités puissantes pour entendre vos interlocuteurs sur les sites bruyants. Cette puissance informatique embarquée procure une efficacité redoutable pour tous vos projets techniques nomades."
+                ]
+            },
+            {
+                "h2_title": "Batterie Tout-Terrain de 8000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "D'abord, l'imposante réserve d'énergie de 8000 mAh offre plusieurs jours d'autonomie continue sur le terrain. Vous utilisez vos instruments de mesure et vos communications radio sans rechercher continuellement une prise. La fonction de charge inversée dépanne facilement une lampe torche ou une montre connectée tierce. De même, le bloc de charge filaire 33W permet de reconstituer promptement la réserve disponible. Le port renforcé USB Type-C résiste vaillamment à l'usure mécanique des branchements répétés. Les capteurs de protection thermique veillent à la longévité des cellules d'accumulateur haute densité.",
+                    "Enfin, la compatibilité avec deux puces nano-SIM optimise la couverture réseau entre deux opérateurs complémentaires. Vous basculez aisément d'une ligne d'urgence à votre réseau professionnel selon la zone couverte. La puce NFC intégrée facilite grandement les paiements sans contact et les contrôles d'accès sécurisés. Par conséquent, ce terminal tout-en-un simplifie votre organisation quotidienne lors de tous vos déplacements. La structure étanche protège vos données de façon inaltérable face aux aléas climatiques d'Abidjan. L'Oukitel WP68 Air 5G constitue un investissement pérenne pour les professionnels affrontant des conditions rudes."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Oukitel WP68 Air 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Robustesse",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "178.4 x 83.2 x 11.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.310 kg"
+                        },
+                        {
+                            "label": "Certifications de Résistance",
+                            "valeur": "IP68, IP69K, MIL-STD-810H (antichoc, étanche, anti-poussière)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Alliage métallique renforcé et polymère absorbant les chocs"
+                        },
+                        {
+                            "label": "Coloris Disponibles",
+                            "valeur": "Orange, Vert, Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'Écran",
+                            "valeur": "6.88 pouces"
+                        },
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD FHD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (1080 x 2460 pixels)"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Protection de l'Écran",
+                            "valeur": "Verre trempé haute résistance aux rayures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 7025 (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (2x Cortex-A78 à 2.5 GHz + 6x Cortex-A55 à 2.0 GHz)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "IMG BXM-8-256"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR4X (extensible jusqu'à 24 Go virtuel)"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de Mémoire",
+                            "valeur": "MicroSD jusqu'à 2 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Principale Arrière",
+                            "valeur": "64 MP avec autofocus PDAF et flash LED"
+                        },
+                        {
+                            "label": "Capteur Auxiliaire",
+                            "valeur": "Capteur de profondeur / macro"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "32 MP grand angle"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "4K à 30 ips / 1080p à 60 ips"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la Batterie",
+                            "valeur": "8000 mAh"
+                        },
+                        {
+                            "label": "Puissance de Charge",
+                            "valeur": "Charge rapide filaire 33W"
+                        },
+                        {
+                            "label": "Charge Inversée",
+                            "valeur": "Oui, fonction Power Bank via OTG"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C étanche sans cache"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM ou 1 SIM + 1 microSD"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, compatible Google Pay"
+                        },
+                        {
+                            "label": "Localisation",
+                            "valeur": "GPS double fréquence, GLONASS, Galileo, Beidou"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Oukitel Official Store",
+                        "url": "https://oukitel.com/products/oukitel-wp68-air-rugged-phone"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Oukitel+WP68+Air+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Oukitel+WP68+Air+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

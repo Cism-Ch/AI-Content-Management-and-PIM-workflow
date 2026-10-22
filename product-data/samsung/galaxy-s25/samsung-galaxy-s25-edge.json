@@ -1,0 +1,409 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s25-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S25 Edge conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S25 Edge",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S25-EDGE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S25-EDGE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s25/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+Edge"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+Edge+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S25 Edge 6.7\" 120Hz Ultra-Fin 5.8mm 12Go RAM 3900mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S25-EDGE",
+        "Name": "Samsung Galaxy S25 Edge - 6.7\" 120Hz - 12Go/256Go - Ultra-Fin 5.8mm - 3900mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "750000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S25 Edge, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 3900mAh, Snapdragon 8 Elite, Galaxy AI, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Bleu, Argent, Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Élégance ultra-fine et l'innovation technologique.",
+        "teaser": "Découvrez le Samsung Galaxy S25 Edge, un smartphone au châssis ultra-fin de 5.8 mm avec écran Dynamic AMOLED 2X de 6.7 pouces et 12Go de RAM.",
+        "top_features_detailed": [
+            {
+                "feature": "Profil Ultra-Fin 5.8 mm",
+                "benefice": "Prise en main remarquable et légèreté exceptionnelle de seulement 163 grammes"
+            },
+            {
+                "feature": "Écran 6.7\" Dynamic AMOLED 2X",
+                "benefice": "Immersion visuelle totale avec fluidité 120 Hz pour vos contenus multimédias"
+            },
+            {
+                "feature": "Puce Haute Efficacité & 12Go RAM",
+                "benefice": "Traitement réactif de toutes vos applications bureautiques et créatives"
+            },
+            {
+                "feature": "Double Module Photo Stabilisé",
+                "benefice": "Photographies précises et enregistrement vidéo haute définition"
+            }
+        ],
+        "marketing_conclusion": "Un smartphone au design raffiné alliant finesse record et puissance moderne.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S25 Edge (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S25 Edge au meilleur prix à Abidjan sur My-eStore. Châssis ultra-fin 5.8mm, 6.7\" 120Hz, 12Go RAM et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S25 Edge 256Go : Finesse 5.8mm & 120Hz | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S25 Edge sur My-eStore. Châssis ultra-fin 5.8 mm, écran 6.7 pouces 120Hz, 12Go RAM, batterie 3900 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S25 Edge",
+            "lsi_keywords": [
+                "Samsung Galaxy S25 Edge Abidjan",
+                "prix Samsung S25 Edge",
+                "fiche technique Galaxy S25 Edge",
+                "smartphone Samsung ultra-fin 5G",
+                "Galaxy S25 Edge 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S25 Edge : Finesse 5.8mm, Grand Écran 6.7\" et Puissance 12Go RAM",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S25 Edge impressionne par son profil d'une finesse de 5.8 millimètres. Cette conception allégée accueille une dalle Dynamic AMOLED 2X lumineuse de 6.7 pouces. De plus, son processeur gravé en 3nm assure une réactivité exemplaire pour toutes vos applications mobiles. Le châssis en titane garantit une excellente rigidité malgré son poids réduit à 163 grammes. Enfin, sa batterie de 3900 mAh préserve une disponibilité adaptée à vos activités professionnelles.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S25 Edge",
+            "items": [
+                {
+                    "feature": "Épaisseur Record 5.8 mm",
+                    "benefice": "Prise en main très agréable et légèreté optimale au quotidien"
+                },
+                {
+                    "feature": "Dalle 6.7\" AMOLED 120Hz",
+                    "benefice": "Grand confort d'affichage et fluidité continue pour la lecture"
+                },
+                {
+                    "feature": "Cadre Titane Renforcé",
+                    "benefice": "Solidité structurelle durable face aux contraintes du transport"
+                },
+                {
+                    "feature": "Étanchéité IP68 Certifiée",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions accidentelles"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Châssis Ultra-Fin et Affichage de Grande Taille",
+                "paragraphs": [
+                    "D'un côté, l'épaisseur de 5.8 millimètres confère à l'appareil une élégance visuelle particulièrement soignée. Le poids plume de 163 grammes facilite son maniement prolongé sans générer de fatigue musculaire au poignet. Le verre résistant face et dos protège efficacement la structure contre les frottements du quotidien. Par ailleurs, la dalle de 6.7 pouces procure une surface de travail spacieuse pour consulter vos dossiers. La luminosité maximale assure une lecture aisée même sous une forte lumière zénithale en extérieur. Vous profitez ainsi d'un équilibre rare entre grand format et extrême finesse.",
+                    "D'un autre côté, le taux de rafraîchissement adaptatif module la fréquence entre 1 et 120 Hz. Cette gestion dynamique permet de préserver l'autonomie lors du défilement de documents administratifs. Les contrastes profonds mettent en valeur chaque détail sur vos photographies et flux vidéo. En outre, la sensibilité de la couche tactile permet des frappes rapides et précises de messages. Le boîtier épuré s'intègre harmonieusement avec les étuis fins officiels de la marque. Ce modèle représente une prouesse d'ingénierie mécanique au service du confort quotidien."
+                ]
+            },
+            {
+                "h2_title": "Puissance Embarquée et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce gravée en 3nm gère aisément le multitâche grâce à une architecture moderne optimisée. Les douze gigaoctets de mémoire vive assurent des passages instantanés entre vos différents outils logiciels. Le stockage interne rapide enregistre de volumineux catalogues photos et vos documents professionnels essentiels. De surcroît, le circuit interne répartit judicieusement les calories thermiques sur toute la surface métallique. Les fonctionnalités de la suite Galaxy AI vous assistent dans la rédaction rapide de courriels professionnels. Vous travaillez en mobilité avec un niveau de fluidité constant et sécurisant.",
+                    "Dans cette optique, le protocole de charge rapide rétablit rapidement la capacité de la batterie intégrée. La compatibilité avec les stations de charge sans fil apporte une commodité supplémentaire au bureau. La puce de sécurité matérielle isole scrupuleusement vos données sensibles contre les accès non sollicités. Également, la connectivité cinq G garantit des téléchargements très rapides de vos pièces jointes volumineuses. Vos appels professionnels demeurent clairs grâce à un traitement acoustique moderne et efficace. Ce smartphone constitue un choix judicieux pour les adeptes de technologies discrètes."
+                ]
+            },
+            {
+                "h2_title": "Module Photo Performant et Disponibilité Nomade",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal saisit des images lumineuses aux contours particulièrement nets et fidèles. La stabilisation optique compense les mouvements involontaires pour maintenir des vidéos parfaitement calmes et stables. Le capteur ultra grand-angle élargit la perspective pour immortaliser des panoramas complets sans déformation excessive. De même, le traitement logiciel équilibre les zones ombragées pour délivrer des clichés naturels instantanés. Les enregistrements vidéo haute définition conservent une grande clarté prête pour vos présentations. Vous immortalisez vos moments importants avec une netteté visuelle constante et satisfaisante.",
+                    "Enfin, l'accumulateur de 3900 mAh bénéficie d'une régulation énergétique poussée pour vous accompagner en journée. Les modes de gestion logicielle adaptent la consommation selon la fréquence d'usage de vos logiciels favoris. La recharge inversée permet de recharger ponctuellement de petits périphériques audio compatibles sans fil. Par conséquent, vous disposez d'un outil de communication fiable et élégant pour vos journées actives. La conception rigoureuse garantit une excellente tenue des performances matérielles dans la durée. Le Galaxy S25 Edge s'adresse aux utilisateurs recherchant finesse, style et performance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S25 Edge",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S25 Edge."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "158.2 x 75.6 x 5.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.163 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus 2, Cadre en Titane"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.7\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic LTPO AMOLED 2X"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2340 x 1080 pixels (FHD+)"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif (1-120Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "12 MP, f/2.2, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "3900 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "55% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android 15 avec One UI 7"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Jusqu'à 7 ans de mises à jour système et sécurité"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI (Traduction instantanée, Retouche intelligente, Circle to Search)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s25/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+Edge"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+Edge+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Bleu",
+            "color_en": "Titanium Icyblue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "750000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Titanium Icyblue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "975000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Titanium Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "750000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Titanium Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "975000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Titanium Jetblack",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "750000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Titanium Jetblack",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "975000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        }
+    ]
+}

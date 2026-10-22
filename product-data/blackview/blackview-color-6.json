@@ -1,0 +1,320 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Color 6",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/color-6-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "75000",
+        "official_sku": "COLOR-6"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.67 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP (Capteur Samsung ISOCELL) avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Haut-parleur Smart-PA stéréo",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge 18W USB-C",
+        "dimensions": "165.7 x 76.5 x 8.65 mm",
+        "weight": "0.199 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "COLOR-6-MASTER",
+        "Name": "Blackview Color 6",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "75000",
+        "Categories": "Smartphones > Blackview > Color Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Color 6, Smartphone 4G, 6.67 Pouces, 50MP, 5000mAh, 90Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.199 kg",
+        "Attribute 4 default": "0.199 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Color 6 : Smartphone Élégan Écran 6.67 Pouces 90Hz Capteur 50 MP",
+        "brand_line": "Smartphone 4G élégant Blackview doté d'un appareil photo haute définition.",
+        "marketing_conclusion": "Commandez le Blackview Color 6 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Color 6 propose un capteur photo de 50 MP, un écran 90Hz de 6.67 pouces, une batterie de 5000 mAh et une charge rapide 18W.",
+        "features": [
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Clichés haute définition riches en couleurs et détails."
+            },
+            {
+                "feature": "Écran HD+ 6.67\" 90Hz Fluid",
+                "benefice": "Navigation agréable et transitions visuelles très douces."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 18W",
+                "benefice": "Autonomie longue durée avec rechargement rapide."
+            },
+            {
+                "feature": "Finesse 8.65 mm & Poids 199g",
+                "benefice": "Prise en main très confortable au quotidien."
+            }
+        ],
+        "slogan_final": "Blackview Color 6 — La photographie haute définition au quotidien.",
+        "seo": {
+            "meta_title": "Acheter Blackview Color 6 (8Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Color 6 avec appareil photo 50 MP, écran 90Hz 6.67 pouces et batterie 5000 mAh. Commandez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Color 6, smartphone 50MP, prix Abidjan, 6.67 pouces 5000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Color 6",
+            "lsi_keywords": [
+                "Blackview Color 6",
+                "smartphone Blackview Abidjan",
+                "Blackview Color 6 prix",
+                "smartphone 50MP pas cher",
+                "batterie 5000 mAh 18W",
+                "écran 6.67 pouces 90Hz",
+                "achat smartphone Côte d'Ivoire",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "Blackview Color 6 50MP : 6.67\" & 5000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Color 6. Appareil photo 50 MP, écran 90Hz 6.67 pouces, processeur Tiger T606, 8Go RAM et batterie 5000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Color 6 : Spécifications et Performances Détaillées",
+        "experience_box": {
+            "box_title": "LES ATOUTS CLÉS DU DESIGN & PHOTO",
+            "items": [
+                {
+                    "feature": "Objectif Principal 50 Mégapixels",
+                    "benefice": "Capture de photos extrêmement détaillées de jour comme de nuit."
+                },
+                {
+                    "feature": "Écran 90Hz 6.67 Pouces Immersif",
+                    "benefice": "Grand confort d'affichage pour les vidéos et les jeux."
+                },
+                {
+                    "feature": "Mémoire RAM 8 Go Extensible",
+                    "benefice": "Exécution fluide de vos applications préférées sans ralentissement."
+                },
+                {
+                    "feature": "Charge Rapide 18W USB-C",
+                    "benefice": "Récupération rapide d'énergie en cas de batterie faible."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Color 6 est un smartphone moderne, performant et très élégant. Cet appareil répond très bien aux attentes des amateurs de photographie en Côte d'Ivoire. Par ailleurs, sa puce Unisoc Tiger T606 assure une navigation fluide. De plus, son grand écran de 6.67 pouces à 90 Hz offre une visibilité visuelle remarquable. La batterie généreuse de 5000 mAh vous permet de rester joignable tout au long de la journée. Son boîtier affiné de 8.65 mm garantit une tenue en main très agréable. L'interface DokeOS 4.0 sous Android 13 rend l'utilisation quotidienne très intuitive. Enfin, ce modèle propose un rapport qualité-prix particulièrement séduisant.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.67 Pouces 90Hz et Puce Tiger T606",
+                "paragraphs": [
+                    "Le Blackview Color 6 intègre un grand écran IPS de 6.67 pouces en définition HD+. Sa résolution de 1600 x 720 pixels restitue vos photos avec une belle netteté d'image. De plus, le taux de rafraîchissement de 90 Hz garantit une douceur constante lors des défilements. De surcroît, le processeur Tiger T606 à huit cœurs cadencés à 1.6 GHz gère rapidement vos logiciels. Les 8 Go de mémoire RAM assurent une stabilité satisfaisante lors des sessions multitâches.",
+                    "Cependant, la mémoire interne de 128 Go ou 256 Go stocke facilement vos clichés et vidéos HD. La présence d'un port MicroSD permet d'étendre la mémoire jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM et la carte mémoire sans compromis. Par conséquent, cette conception pratique simplifie l'utilisation de deux numéros de téléphone en même temps. Vos fichiers importants demeurent constamment à portée de main."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP Samsung et Connectivité NFC",
+                "paragraphs": [
+                    "Le Blackview Color 6 se distingue par son capteur photo principal de 50 Mégapixels signé Samsung. Cet objectif réalise des clichés très détaillés avec des couleurs naturelles et équilibrées. En outre, la caméra frontale de 8 Mégapixels s'avère très adaptée pour les selfies nets. De même, les algorithmes d'image optimisent le rendu des visages même sous faible éclairage. Ainsi, la captation vidéo en haute définition immortalise vos souvenirs de famille avec clarté. Vos prises de vue restent simples.",
+                    "Par ailleurs, le module NFC multifonction vous permet de payer sans contact en toute simplicité. De plus, la prise casque Jack 3.5 mm permet de raccorder votre casque filaire favori. Également, le lecteur d'empreinte digitale latérale déverrouille l'appareil en un instant. De surcroît, la connectivité Wi-Fi et le Bluetooth 5.0 maintiennent des connexions stables avec vos accessoires. En somme, ce smartphone réunit toutes les technologies modernes indispensables."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Charge Rapide 18W",
+                "paragraphs": [
+                    "La batterie intégrée de 5000 mAh procure une autonomie énergétique particulièrement rassurante. Cet accumulateur vous permet d'utiliser vos applications sociales sans crainte de panne. D'ailleurs, le port USB-C prend en charge la charge rapide 18W pour recharger le téléphone sans attente. En effet, l'optimisation matérielle d'Android 13 limite les consommations d'énergie superflues. Vos communications se poursuivent sans interruption superflue.",
+                    "La finesse du boîtier de 8.65 mm et le poids léger de 199 grammes offrent un grand confort. Sa finition soignée apporte une touche de modernité hautement séduisante au quotidien. D'autre part, le Blackview Color 6 constitue une opportunité très intéressante pour s'équiper à Abidjan. En somme, sa polyvalence en fait une option de choix pour tous. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Color 6",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Color 6."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "165.7 x 76.5 x 8.65 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.199 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Boîtier fin avec revêtement mat résistant aux empreintes"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc, Bleu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.67 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1600 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP (Capteur Samsung ISOCELL) avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "18W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte originale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/color-6-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

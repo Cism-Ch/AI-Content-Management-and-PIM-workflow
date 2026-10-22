@@ -1,0 +1,389 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Focus Pro 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+Pro+5G+specifications"
+            }
+        ],
+        "pricing_reference": "155000",
+        "official_sku": "ZTE-NUBIA-FOCUS-PRO-5G"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T760 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.72 pouces",
+        "screen_technology": "IPS LCD FHD+ 120Hz avec Live Island",
+        "screen_resolution": "2400 x 1080 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 20 Go via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "108 MP Neovision OIS (5 focales 18/24/35/50/72mm, capteur 1/1.67\") + 5 MP Ultra Grand-Angle + 2 MP Macro",
+        "camera_selfie": "32 MP Haute Définition",
+        "audio_config": "Haut-parleurs optimisés DTS Audio",
+        "audio_tech": "Son spatial DTS Audio & prise 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 33W USB-C",
+        "dimensions": "166.0 x 76.1 x 8.5 mm",
+        "weight": "0.222 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-FOCUS-PRO-5G-MASTER",
+        "Name": "ZTE Nubia Focus Pro 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "155000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Focus Pro 5G, 108MP OIS, Écran FHD+ 120Hz, 8Go RAM, 256Go, 5G, 33W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Or",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.222 kg",
+        "Attribute 4 default": "0.222 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Focus Pro 5G : Optique 108 MP OIS à 5 Focales et Écran FHD+ 120Hz",
+        "brand_line": "Le smartphone expert en photographie avec stabilisation optique OIS, 5 focales et selfie 32 MP.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Focus Pro 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Focus Pro 5G propose un capteur 108 MP OIS à 5 focales (18-72mm), un écran FHD+ 120Hz de 6.72 pouces, la puce Unisoc T760 5G et 256 Go de stockage.",
+        "features": [
+            {
+                "feature": "Capteur 108 MP OIS à 5 Focales",
+                "benefice": "Stabilisation optique et polyvalence de cadrage de 18 à 72 mm."
+            },
+            {
+                "feature": "Écran 6.72\" Full HD+ 120Hz",
+                "benefice": "Définition fine et fluidité tactile continue avec Live Island."
+            },
+            {
+                "feature": "Bouton Déclencheur Physique Dédié",
+                "benefice": "Accès instantané à la prise de vue avec sensations reflex."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 33W",
+                "benefice": "Autonomie constante et recharge rapide en USB-C."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Focus Pro 5G — L'expérience photographique professionnelle dans votre poche.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Focus Pro 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Focus Pro 5G avec capteur 108 MP OIS, 5 focales, écran FHD+ 120Hz, 8 Go RAM et 256 Go. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Nubia Focus Pro 5G, smartphone photo 108MP OIS Abidjan, 5 focales, FHD+ 120Hz, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Focus Pro 5G",
+            "lsi_keywords": [
+                "ZTE Nubia Focus Pro 5G",
+                "smartphone ZTE Nubia Focus Pro 5G Abidjan",
+                "ZTE Nubia Focus Pro 5G prix",
+                "téléphone photo 108 mp ois 5 focales",
+                "smartphone 5g écran fhd+ 120hz",
+                "téléphone déclencheur physique photo",
+                "achat smartphone photo My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Focus Pro 5G 256 Go : 108 MP OIS & FHD+ 120Hz | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Focus Pro 5G. Capteur 108 MP OIS à 5 focales, dalle 6.72\" FHD+ 120Hz, puce 5G 6nm et charge 33W. Livraison sécurisée à Abidjan."
+        },
+        "h1": "ZTE Nubia Focus Pro 5G : Capteur 108 MP OIS, Puce 5G et Écran FHD+ 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA FOCUS PRO 5G",
+            "items": [
+                {
+                    "feature": "Optique 108 MP avec Stabilisation OIS",
+                    "benefice": "Clichés sans tremblement sur les cinq focales intégrées."
+                },
+                {
+                    "feature": "Boutons de Contrôle Photo Dédiés",
+                    "benefice": "Déclenchement tactile et physique très rapide."
+                },
+                {
+                    "feature": "Dalle FHD+ 120Hz Immersive",
+                    "benefice": "Grande précision d'affichage et fluidité exemplaire."
+                },
+                {
+                    "feature": "Caméra Frontale 32 Mégapixels",
+                    "benefice": "Autoportraits d'une excellente netteté."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Focus Pro 5G améliore la prise de vue avec une stabilisation optique OIS précise. Cet appareil s'adresse directement aux photographes exigeants et créateurs de contenu à Abidjan. En effet, son capteur de 108 Mégapixels offre cinq focales réparties entre 18 et 72 millimètres. De plus, sa dalle Full HD Plus de 6.72 pouces fonctionne à une fréquence fluide de 120 Hz. La puce Unisoc T760 compatible 5G accélère le traitement algorithmique des images. Par ailleurs, la batterie de 5000 mAh avec charge 33W sécurise vos tournages sur la journée. Enfin, la plateforme My-eStore assure une livraison rapide et fiable.",
+        "sections": [
+            {
+                "h2_title": "Système 108 MP OIS à 5 Focales et Déclencheur Dédié",
+                "paragraphs": [
+                    "Le ZTE Nubia Focus Pro 5G embarque un capteur principal de 108 Mégapixels stabilisé optiquement. Ce système gère cinq focales adaptées à toutes les scènes de 18 mm ultra large jusqu'au téléobjectif de 72 mm. Ainsi, chaque cliché conserve un haut niveau de netteté même sans trépied. De surcroît, un bouton coulissant et une touche de capture physique facilitent la prise de vue instinctive. La caméra frontale de 32 Mégapixels capture des autoportraits très détaillés.",
+                    "L'objectif ultra grand-angle de 5 Mégapixels et le capteur macro complètent l'équipement pour les vues panoramiques. D'ailleurs, les algorithmes Neovision garantissent des couleurs naturelles et des contrastes fidèles. En outre, la connectivité 5G permet de téléverser instantanément vos séquences vidéo haute résolution. Le boîtier aux finitions soignées assure une prise en main stable. Vous disposez d'un appareil photographique complet et moderne."
+                ]
+            },
+            {
+                "h2_title": "Écran Full HD+ 120Hz et Mémoire 8 Go RAM",
+                "paragraphs": [
+                    "La dalle IPS de 6.72 pouces offre une résolution Full HD Plus de 2400 par 1080 pixels. Cette finesse d'affichage restitue des contours très précis lors de la retouche de vos clichés. De plus, la fréquence de rafraîchissement à 120 Hz rend les transitions tactiles très confortables. La fonction Live Island centralise l'affichage de vos alertes au sommet de l'écran. La mémoire vive de 8 Go soutient une fluidité continue entre vos logiciels de création.",
+                    "Le volume de stockage interne de 256 Go accueille des milliers de photographies sans risque de saturation. En effet, vous conservez tous vos fichiers sources sans faire de compromis d'espace. Également, la puce NFC intégrée facilite vos paiements sans contact au quotidien. Le traitement sonore DTS garantit une écoute claire lors du visionnage de vos enregistrements vidéo. Vous profitez d'une expérience multimédia de haute volée."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh délivre une alimentation constante capable de soutenir vos longues séances photographiques. Cette capacité robuste évite les coupures intempestives lors de vos tournages en extérieur. Par ailleurs, la technologie de recharge rapide 33W rétablit rapidement la réserve d'énergie. En effet, une courte pause suffit pour retrouver une autonomie opérationnelle. Vos projets créatifs se déroulent en toute tranquillité.",
+                    "Le smartphone affiche un poids équilibré de 222 grammes avec des finitions en noir classique et doré sable. D'autre part, la texture arrière imitant le boîtier d'un appareil photo renforce l'élégance du modèle. En somme, le ZTE Nubia Focus Pro 5G réunit des performances optiques de premier plan et la vitesse 5G. Vous pouvez commander ce smartphone en toute confiance sur My-eStore. Le service de livraison rapide dessert la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Focus Pro 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Focus Pro 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "166.0 x 76.1 x 8.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.222 kg (222 g)"
+                        },
+                        {
+                            "label": "Commandes physiques",
+                            "valeur": "Touche de déclenchement dédiée + commutateur coulissant personnalisable"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Classic Black), Doré (Light Brown / Gold)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.72 pouces (~86.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD avec fonction Live Island"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2400 x 1080 pixels, 20:9, ~392 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T760 5G (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.2 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go (extensible jusqu'à 20 Go via RAM dynamique)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "108 MP Neovision (f/1.75, 1/1.67\", stabilisation optique OIS, PDAF)"
+                        },
+                        {
+                            "label": "Focales photo intégrées",
+                            "valeur": "18 mm (Ultra grand-angle), 24 mm, 35 mm (Street), 50 mm (Portrait), 72 mm"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "5 MP (f/2.2)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "32 MP (f/2.4, haute résolution)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps, 1080p à 30/60 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 33W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son immersif DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+Pro+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "8 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Classic Black"
+        },
+        {
+            "ram": "8 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Or",
+            "color_fr": "Or",
+            "color_en": "Light Gold"
+        }
+    ]
+}

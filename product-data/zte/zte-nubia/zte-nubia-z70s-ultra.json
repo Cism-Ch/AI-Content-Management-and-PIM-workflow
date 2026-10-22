@@ -1,0 +1,406 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Z70S Ultra",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z70S+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Z70S+Ultra+specifications"
+            }
+        ],
+        "pricing_reference": "745000",
+        "official_sku": "ZTE-NUBIA-Z70S-ULTRA"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "715000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "745000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "color_fr": "Marron",
+            "color_en": "Titanium Gold",
+            "color_code": "MARRON",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "745000",
+            "sku_suffix": "512GB-16GB-MARRON"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Leading Version (3 nm) Octa-Core",
+        "processor_ghz": "Fréquence 4.47 GHz",
+        "screen_size": "6.85 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Sans Bords 1.25mm et Sans Poinçon",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "6200 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X",
+        "os": "Android 15",
+        "os_skin": "Nebula AIOS",
+        "camera_main": "Triple capteur OIS (50 MP 35mm à ouverture variable f/1.59-f/4.0 + 50 MP 13mm + 64 MP 85mm Périscope)",
+        "camera_selfie": "16 MP sous l'écran (UDC 7e génération)",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra et Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & communication satellite",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS tri-band + GLONASS + BDS + Galileo + QZSS",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge rapide 80W USB-C",
+        "dimensions": "164.3 x 77.1 x 8.6 mm",
+        "weight": "0.226 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-Z70S-ULTRA-MASTER",
+        "Name": "ZTE Nubia Z70S Ultra",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "745000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Z70S Ultra, Snapdragon 8 Elite 4.47GHz, Satellite, IP69, 6250mAh, 144Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Marron",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.226 kg",
+        "Attribute 4 default": "0.226 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Z70S Ultra : Snapdragon 8 Elite 4.47GHz Communication Satellite et Écran 144Hz",
+        "brand_line": "Le smartphone prestige associant communication satellite, ouverture variable et résistance IP69.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Z70S Ultra sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Z70S Ultra réunit la puce Snapdragon 8 Elite cadencée à 4.47 GHz, la communication satellite, une optique 35mm variable, une batterie 6250 mAh et l'indice IP69.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Elite (4.47 GHz)",
+                "benefice": "Traitement de données ultra rapide pour les applications les plus lourdes."
+            },
+            {
+                "feature": "Communication Satellite Bidirectionnelle",
+                "benefice": "Appels et messages d'urgence garantis même sans réseau cellulaire."
+            },
+            {
+                "feature": "Optique 35 mm à Ouverture Variable",
+                "benefice": "Ajustement physique du flou d'arrière-plan de f/1.59 à f/4.0."
+            },
+            {
+                "feature": "Batterie 6250 mAh & Double Indice IP68/IP69",
+                "benefice": "Autonomie constante et étanchéité complète aux liquides sous pression."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Z70S Ultra — La convergence technologique entre puissance absolue et sécurité satellite.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Z70S Ultra (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Z70S Ultra avec Snapdragon 8 Elite 4.47GHz, satellite, optique 35mm variable, 6250 mAh et IP69. Commandez chez My-eStore.",
+            "keywords": "ZTE Nubia Z70S Ultra, smartphone satellite Abidjan, Snapdragon 8 Elite 4.47GHz, IP69 6250mAh, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Z70S Ultra",
+            "lsi_keywords": [
+                "ZTE Nubia Z70S Ultra",
+                "smartphone ZTE Nubia Z70S Ultra Abidjan",
+                "ZTE Nubia Z70S Ultra prix",
+                "téléphone satellite snapdragon 8 elite",
+                "smartphone ouverture variable ip69 6250 mah",
+                "téléphone écran sans bordure 144hz 1to",
+                "achat smartphone prestige My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Z70S Ultra 512 Go : Satellite & Snapdragon 8 Elite | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Z70S Ultra. Puce Snapdragon 8 Elite (4.47 GHz), communication satellite, optique 35mm variable et batterie 6250 mAh. Livraison à Abidjan."
+        },
+        "h1": "ZTE Nubia Z70S Ultra : Snapdragon 8 Elite Leading, Optique 35mm OIS et Batterie 6200 mAh",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA Z70S ULTRA",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite 4.47 GHz",
+                    "benefice": "Calcul informatique de pointe avec cœurs CPU Oryon."
+                },
+                {
+                    "feature": "Liaison Satellite Bidirectionnelle",
+                    "benefice": "Continuité des communications dans toutes les zones reculées."
+                },
+                {
+                    "feature": "Diaphragme Mécanique 35 mm",
+                    "benefice": "Contrôle optique du flou artistique sans artifice."
+                },
+                {
+                    "feature": "Batterie 6250 mAh & Indice IP69",
+                    "benefice": "Endurance durable et résistance aux projections chaudes."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Z70S Ultra représente le sommet de la technologie mobile avec l'intégration d'un modem satellite bidirectionnel. Cet équipement d'exception répond aux exigences des dirigeants d'entreprise et explorateurs à Abidjan. En effet, sa connectivité satellite permet d'émettre des appels hors couverture cellulaire. Sa dalle AMOLED 1.5K de 6.85 pouces fonctionne à 144 Hz avec une caméra sous l'écran. La puce Qualcomm Snapdragon 8 Elite cadencée à 4.47 GHz assure une vitesse d'exécution très élevée. Par ailleurs, la batterie de 6200 mAh au silicium procure une autonomie durable. Enfin, son châssis en alliage résistant assure une excellente durabilité au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Liaison Satellite et Optique 35 mm à Ouverture Variable",
+                "paragraphs": [
+                    "Le ZTE Nubia Z70S Ultra intègre une puce dédiée aux communications satellites directes pour échanger voix et données. Cette liaison bidirectionnelle garantit votre sécurité lors de voyages dans des zones dépourvues d'antennes relais. De plus, l'optique principale de 35 mm dispose d'un diaphragme physique modulable de f/1.59 à f/4.0. Ainsi, vos portraits bénéficient d'une transition de flou très progressive. La caméra frontale de 16 Mégapixels sous l'écran préserve un affichage plein cadre.",
+                    "La touche mécanique bi-étage assure une mise au point instinctive lors de vos prises de vue impromptues. D'ailleurs, les trois objectifs disposent d'un traitement antireflet pour supprimer les reflets parasites. En outre, la connectivité 5G assure des téléchargements ultrarapides en milieu urbain. Le châssis en titane brossé procure une prise en main très sécurisante. Vous disposez d'un équipement moderne et complet."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 8 Elite 4.47 GHz et Écran 144Hz",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite gravé en 3 nanomètres déploie une fréquence de 4.47 GHz sur ses cœurs principaux. Cette configuration assure une rapidité constante lors des calculs d'intelligence artificielle locale. L'écran AMOLED de 6.85 pouces affiche des bordures de 1.25 millimètre avec une fréquence de 144 Hz. La mémoire vive de 16 Go en LPDDR5X prend en charge le traitement multitâche sans aucun ralentissement. Ainsi, vos applications professionnelles s'exécutent avec une réactivité immédiate.",
+                    "L'espace de stockage interne atteignant 1 To accueille l'ensemble de vos vidéos 8K sans contrainte. En effet, la norme UFS 4.0 accélère les débits de transfert de données au quotidien. Également, la puce NFC multifonction permet de réaliser des paiements sans contact sécurisés. Les haut-parleurs stéréo avec son spatial DTS:X Ultra assurent une écoute sonore détaillée. Vous bénéficiez d'une expérience multimédia de haut niveau."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6250 mAh Silicium et Étanchéité IP69",
+                "paragraphs": [
+                    "La batterie haute densité de 6250 mAh fournit une alimentation solide capable de couvrir plus de deux jours d'activité. Cette réserve d'énergie libère l'esprit de toute contrainte lors de vos missions en extérieur. Par ailleurs, la technologie de charge rapide 80W rétablit rapidement la réserve d'énergie. En effet, une courte pause suffit pour retrouver une autonomie opérationnelle en USB-C. Vos communications restent toujours assurées.",
+                    "Le smartphone affiche un poids de 228 grammes avec des finitions soignées en noir titane et argent lunaire. D'autre part, la double certification IP68 et IP69 résiste aux immersions complètes et aux nettoyages à haute pression. En somme, le ZTE Nubia Z70S Ultra réunit communication satellite, étanchéité IP69 et puissance 3nm. Vous pouvez commander ce smartphone en toute confiance sur My-eStore. Le service de livraison dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Z70S Ultra",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Z70S Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.3 x 77.1 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.228 kg (228 g)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 et IP69 (résistant aux immersions prolongées et jets haute pression à 80°C)"
+                        },
+                        {
+                            "label": "Bouton photo physique",
+                            "valeur": "Touche mécanique bi-étage dédiée avec mise au point tactile"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir Titane (Titanium Black), Argent Lunaire (Lunar Silver)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.8% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED BOE Q9+ 10-bit, 144 Hz, bordures de 1.25 mm, UDC sans encoche"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, 20:9, ~430 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "2000 nits (pic), gradation PWM 2592 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Leading Version (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core Oryon (2x4.47 GHz Phoenix L + 6x3.53 GHz Phoenix M)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X (débit 9600 Mbps)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go / 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 15 avec interface Nebula AIOS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal 35mm",
+                            "valeur": "50 MP (Sony IMX906, 1/1.56\", ouverture mécanique variable f/1.59 à f/4.0, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle 13mm",
+                            "valeur": "50 MP (f/2.0, OmniVision OV50D, 1/2.88\", 122˚, autofocus macro 2.5 cm)"
+                        },
+                        {
+                            "label": "Téléobjectif périscope 85mm",
+                            "valeur": "64 MP (f/2.48, OmniVision OV64B, 1/2.0\", zoom optique 3.3x, stabilisation optique OIS)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran UDC 7e génération avec IA)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60/120 fps, 1080p à 30/60/120 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6250 mAh (Technologie Silicium-Carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 80W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 3.2 Gen 1 réversible avec sortie DisplayPort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Communication spéciale",
+                            "valeur": "Communication satellite bidirectionnelle (appels et messages d'urgence par satellite)"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be) tri-band 2x2 MIMO"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE et aptX Lossless"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra et Snapdragon Sound"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales optique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z70S+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Z70S+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Tab 3 Kids",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/tab-3-kids-price"
+            }
+        ],
+        "pricing_reference": "45000",
+        "official_sku": "BV-TAB-3-KIDS"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Rockchip Quad-Core",
+        "processor_ghz": "Fréquence 1.5 GHz",
+        "screen_size": "7.0 pouces",
+        "screen_technology": "HD IPS LCD avec Protection Oculaire",
+        "screen_resolution": "1024 x 600 pixels",
+        "battery_capacity": "3280 mAh",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 4 Go via RAM virtuelle",
+        "os": "Android 13 (Go Edition)",
+        "os_skin": "DokeOS_P 3.0 Kids avec Espace iKids & Contrôle Parental",
+        "camera_main": "2 MP HD",
+        "camera_selfie": "0.3 MP",
+        "audio_config": "Deux Haut-parleurs Stéréo avec limitation de volume",
+        "audio_tech": "Protection Auditive Enfant & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "N/A (Connexion Wi-Fi 5)",
+        "card_slot": "Port MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge USB-C 5V/1A",
+        "dimensions": "195.6 x 136 x 21.4 mm",
+        "weight": "0.320 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TAB-3-KIDS-MASTER",
+        "Name": "Blackview Tab 3 Kids",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "45000",
+        "Categories": "Tablettes > Blackview > Tab Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Tab 3 Kids, Tablette Enfant 7 pouces, Coque Antichoc, Controle Parental, 3280mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Rose",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.320 kg",
+        "Attribute 4 default": "0.320 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Tab 3 Kids : Tablette Enfant 7 Pouces Coque Antichoc Contrôle Parental",
+        "brand_line": "La première tablette enfant compacte et renforcée Blackview idéale pour les plus petits.",
+        "marketing_conclusion": "Commandez la Blackview Tab 3 Kids sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Tab 3 Kids propose un écran 7.0 pouces protégé, une coque en silicone résistant aux chocs, l'application iKids et une batterie de 3280 mAh.",
+        "features": [
+            {
+                "feature": "Format Compact 7.0\" Ergonomique",
+                "benefice": "Prise en main aisée et légère pour les petites mains."
+            },
+            {
+                "feature": "Coque Antichoc EVA avec Poignée",
+                "benefice": "Résistance éprouvée contre les chocs et les chutes."
+            },
+            {
+                "feature": "Espace iKids & Contrôle Parental",
+                "benefice": "Sécurisation complète des jeux et temps de visionnage."
+            },
+            {
+                "feature": "Batterie 3280 mAh & Wi-Fi 5",
+                "benefice": "Autonomie sereine pour les dessins animés et jeux."
+            }
+        ],
+        "slogan_final": "Blackview Tab 3 Kids — Le compagnon éducatif des tout-petits.",
+        "seo": {
+            "meta_title": "Acheter Blackview Tab 3 Kids (2Go/32Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette enfant Blackview Tab 3 Kids avec coque antichoc, écran 7.0\" et application iKids. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Tab 3 Kids, tablette enfant 7 pouces, prix Abidjan, coque antichoc ikids"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Tab 3 Kids",
+            "lsi_keywords": [
+                "Blackview Tab 3 Kids",
+                "tablette enfant 7 pouces Blackview Abidjan",
+                "Blackview Tab 3 Kids prix",
+                "mini tablette educative antichoc",
+                "tablette ikids controle parental",
+                "tablette premier age Côte d'Ivoire",
+                "achat tablette petit enfant Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Tab 3 Kids 32 Go : Écran Enfant 7\" & Coque Antichoc | My-eStore",
+            "meta_description": "Achetez la tablette enfant Blackview Tab 3 Kids. Écran 7.0\" HD, coque antichoc EVA, espace iKids et batterie 3280 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Tab 3 Kids : Spécifications de la Mini Tablette Enfant",
+        "experience_box": {
+            "box_title": "LES ATOUTS POUR LES TOUT-PETITS",
+            "items": [
+                {
+                    "feature": "Coque Absorbante en Silicone",
+                    "benefice": "Protection intégrale contre les chocs répétés."
+                },
+                {
+                    "feature": "Filtre Oculaire Anti-Fatigue",
+                    "benefice": "Protection de la vue lors du visionnage."
+                },
+                {
+                    "feature": "Application iKids Préinstallée",
+                    "benefice": "Jeux interactifs et coloriage sécurisés sans pubs."
+                },
+                {
+                    "feature": "Format Léger 320 Grammes",
+                    "benefice": "Transport très simple pour les petits déplacements."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Tab 3 Kids est une mini tablette éducative particulièrement robuste et adaptée. Cet équipement convient très bien aux jeunes enfants et parents en Côte d'Ivoire. Par ailleurs, son écran IPS de 7.0 pouces en définition HD offre une lisibilité visuelle très claire. De plus, son filtre de protection oculaire préserve la vue des tout-petits. La batterie intégrée de 3280 mAh permet de travailler en toute sérénité durant les sessions. Sa coque en silicone souple non toxique garantit une prise en main très sûre. L'environnement iKids sous Android 13 simplifie l'accès à tous les jeux d'éveil. Enfin, cette mini tablette enfant constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 7.0 Pouces HD et Protection Oculaire",
+                "paragraphs": [
+                    "La Blackview Tab 3 Kids intègre une dalle IPS de 7.0 pouces en définition HD. Sa résolution de 1024 x 600 pixels restitue des détails d'une clarté impressionnante. De plus, le mode confort des yeux s'active pour filtrer la lumière bleue nocive. De surcroît, le processeur Quad-Core cadencé à 1.5 GHz gère facilement vos jeux d'éveil. Les 2 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 32 Go conserve l'ensemble de vos dessins animés préférés. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, la connectivité Wi-Fi 5 intégrée autorise les téléchargements d'applications en toutes circonstances. Cette coque en silicone avec béquille protège la tablette des chocs. Vos jeux éducatifs restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Espace iKids, Contrôle Parental et Audio Sécurisé",
+                "paragraphs": [
+                    "La Blackview Tab 3 Kids embarque l'environnement sécurisé iKids pour les enfants. Cet équipement logiciel offre un espace d'apprentissage d'une sécurité remarquable sans contenus inadaptés. En outre, la caméra arrière de 2 Mégapixels s'avère très pratique pour capturer les premiers clichés. Les filtres d'image amusants optimisent la créativité visuelle avec simplicité. Ainsi, les haut-parleurs stéréo à volume limité immortalisent les histoires audio. La sécurité auditive reste constante.",
+                    "Par ailleurs, le contrôle parental permet de verrouiller l'accès aux paramètres système. De plus, les parents peuvent définir un temps de pause automatique très facilement. Également, la prise jack 3.5mm permet de brancher un casque enfant adapté. De surcroît, la béquille arrière intégrée permet de visionner des vidéos mains-libres. En somme, cette mini tablette réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 3280 mAh et Coque Absorbante",
+                "paragraphs": [
+                    "La batterie intégrée de 3280 mAh procure une autonomie énergétique bien adaptée. Cette réserve vous permet de l'utiliser sereinement durant les trajets quotidiens. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble inclus. En effet, la structure renforcée en mousse EVA résiste aux torsions légères. Vos moments de divertissement se poursuivent sans interruption.",
+                    "La silhouette épurée avec coins arrondis offre une tenue en main naturelle et très rassurante. Son poids ultra-léger de 320 grammes témoigne du soin apporté à la maniabilité. D'autre part, la Blackview Tab 3 Kids constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa coque de protection en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Tab 3 Kids",
+                "subtitle": "Spécifications matérielles certifiées de la mini tablette enfant Blackview Tab 3 Kids."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "195.6 x 136 x 21.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.320 kg"
+                        },
+                        {
+                            "label": "Protection extérieure",
+                            "valeur": "Coque antichoc intégrale en silicone EVA avec béquille arrière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Rose"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "7.0 pouces IPS LCD HD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1024 x 600 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Protection des Yeux & Filtre de lumière bleue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Rockchip Quad-Core 1.5 GHz"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go LPDDR3 (+2 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "32 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "2 MP HD"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "0.3 MP"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo avec limitation de volume"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "3280 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "5V / 1A USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Sécurité Enfant",
+                    "rows": [
+                        {
+                            "label": "Application Enfant",
+                            "valeur": "iKids App (Dessin, éveil, apprentissage)"
+                        },
+                        {
+                            "label": "Contrôle Parental",
+                            "valeur": "Gestion du temps d'utilisation et mot de passe parental"
+                        },
+                        {
+                            "label": "Connectivité",
+                            "valeur": "Wi-Fi 5 (802.11 b/g/n), Bluetooth 4.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (Go Edition)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/tab-3-kids-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

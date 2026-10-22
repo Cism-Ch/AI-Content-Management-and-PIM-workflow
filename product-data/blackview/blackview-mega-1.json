@@ -1,0 +1,312 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Mega 1",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://www.blackview.hk/products/item/mega1"
+            }
+        ],
+        "pricing_reference": "165000",
+        "official_sku": "BV-MEGA-1"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "11.5 pouces",
+        "screen_technology": "2.4K FHD+ IPS 120Hz Smart-Refresh",
+        "screen_resolution": "2000 x 1200 pixels",
+        "battery_capacity": "8800 mAh",
+        "ram_options": [
+            "8 Go",
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "50 MP (Samsung ISOCELL) avec Flash LED",
+        "camera_selfie": "13 MP HD",
+        "audio_config": "Quatre Haut-parleurs Stéréo Smart-PA",
+        "audio_tech": "Son Spatial Quad-Speaker",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "268.7 x 169 x 7.6 mm",
+        "weight": "0.528 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MEGA-1-MASTER",
+        "Name": "Blackview Mega 1",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "45",
+        "Regular price": "165000",
+        "Categories": "Tablettes > Blackview > Mega Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Mega 1, Tablette 11.5 pouces, 120Hz, 50MP, 8800mAh, 33W, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Gris | Violet",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.528 kg",
+        "Attribute 4 default": "0.528 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Mega 1 : Tablette 11.5 Pouces 2.4K 120Hz Helio G99 50 MP 8800 mAh",
+        "brand_line": "La tablette haut de gamme d'affichage et de création Blackview conçue pour les exigeants.",
+        "marketing_conclusion": "Commandez le Blackview Mega 1 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Mega 1 combine un écran 11.5 pouces 2.4K à 120 Hz, un capteur photo de 50 MP, la puce Helio G99 et une batterie 8800 mAh avec charge 33W.",
+        "features": [
+            {
+                "feature": "Écran 11.5\" 2.4K Smart 120Hz",
+                "benefice": "Fluidité d'affichage optimale pour les jeux et le streaming."
+            },
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Clichés haute résolution et numérisation ultra-nette."
+            },
+            {
+                "feature": "Processeur Helio G99 & Quad-Speakers",
+                "benefice": "Performances réactives et immersion sonore complète."
+            },
+            {
+                "feature": "Batterie 8800 mAh & Charge 33W",
+                "benefice": "Utilisation prolongée sans crainte de panne sèche."
+            }
+        ],
+        "slogan_final": "Blackview Mega 1 — La tablette fluide et puissante sans compromis.",
+        "seo": {
+            "meta_title": "Acheter Blackview Mega 1 (8Go/12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Mega 1 avec écran 11.5\" 120Hz, appareil photo 50 MP et processeur Helio G99. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Mega 1, tablette 120Hz, prix Abidjan, 50MP 8800mAh 33W"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Mega 1",
+            "lsi_keywords": [
+                "Blackview Mega 1",
+                "tablette 120Hz Blackview Abidjan",
+                "Blackview Mega 1 prix",
+                "tablette 50 MP 11.5 pouces",
+                "tablette helio g99 8800 mAh",
+                "tablette gaming Côte d'Ivoire",
+                "achat tablette 120Hz Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Mega 1 256 Go : Écran 11.5\" 120Hz & 8800 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Mega 1. Écran 11.5\" 2.4K 120Hz, caméra 50 MP, batterie 8800 mAh 33W et puce Helio G99. Livraison rapide assurée à Abidjan."
+        },
+        "h1": "Blackview Mega 1 : Spécifications de la Tablette 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU HAUT DE GAMME",
+            "items": [
+                {
+                    "feature": "Fluidité Ultra-Élevée 120 Hz",
+                    "benefice": "Défilement parfait et réactivité instantanée des jeux."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP ISOCELL",
+                    "benefice": "Qualité de captation inégalée sur une tablette."
+                },
+                {
+                    "feature": "Quadruple Haut-Parleur Stéréo",
+                    "benefice": "Immersion sonore spectaculaire en vidéo."
+                },
+                {
+                    "feature": "Style Stylet & Mode PC 2.0",
+                    "benefice": "Polyvalence complète pour le dessin et la bureautique."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Mega 1 est une tablette tactile 120Hz particulièrement puissante et raffinée. Cet équipement convient très bien aux professionnels et amateurs de divertissement en Côte d'Ivoire. Par ailleurs, son écran 11.5 pouces en résolution 2.4K offre une lisibilité visuelle très claire. De plus, le rafraîchissement dynamique de 120 Hz apporte une fluidité constante. La batterie généreuse de 8800 mAh permet de travailler en toute sérénité sans interruption. Son boîtier en aluminium de 7.6 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à vos applications. Enfin, cette tablette performante constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 11.5 Pouces 120Hz et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview Mega 1 intègre une dalle IPS de 11.5 pouces en définition 2.4K. Sa résolution de 2000 x 1200 pixels restitue des détails d'une clarté impressionnante. De plus, le taux de rafraîchissement de 120 Hz apporte une fluidité remarquable dans les jeux. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le châssis en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 50 MP, Quad Audio et Connectivité 4G",
+                "paragraphs": [
+                    "Le Blackview Mega 1 embarque un capteur photo principal de 50 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en extérieur. En outre, la caméra frontale de 13 Mégapixels s'avère très pratique pour les cours en ligne. Les algorithmes d'image ArcSoft 9.0 optimisent le rendu des couleurs même sous lumière ambiante. Ainsi, le système à quatre haut-parleurs stéréo immortalise vos bandes sonores avec clarté. La précision du son reste constante.",
+                    "Par ailleurs, la fonction Mode PC transforme la tablette en poste de travail multitâche. De plus, le stylet fourni permet d'effectuer des annotations et croquis précis. Également, la connectivité 4G LTE assure une navigation internet rapide en déplacement. De surcroît, le récepteur GPS intégré garantit un guidage très précis sur la route. En somme, cette tablette 120Hz réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8800 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 8800 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption durant de longues heures. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la recharge permet de retrouver 50% d'autonomie en seulement un court instant. Vos activités de création se poursuivent sans interruption.",
+                    "La silhouette épurée de 7.6 mm offre une tenue en main naturelle et très élégante. Son poids contenu de 528 grammes témoigne de l'ergonomie apportée au châssis. D'autre part, le Blackview Mega 1 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa fluidité 120Hz en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Mega 1",
+                "subtitle": "Spécifications matérielles certifiées de la tablette 120Hz Blackview Mega 1."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "268.7 x 169 x 7.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.528 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis en alu unibody affiné"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Gris, Violet"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "11.5 pouces IPS LCD 2.4K FHD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Refresh"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2000 x 1200 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Certification Widevine L1 & TÜV Rheinland Low Blue Light"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR4X (+12 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 2.1 (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP (Samsung ISOCELL JN1, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "13 MP HD"
+                        },
+                        {
+                            "label": "Système audio",
+                            "valeur": "4 haut-parleurs stéréo avec ampli Smart-PA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8800 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://www.blackview.hk/products/item/mega1"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

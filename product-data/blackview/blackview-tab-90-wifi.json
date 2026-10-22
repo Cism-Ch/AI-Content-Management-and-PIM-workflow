@@ -1,0 +1,302 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Tab 90 WiFi",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/blackview_tab90wifi-13456.php"
+            }
+        ],
+        "pricing_reference": "85000",
+        "official_sku": "BV-TAB-90-WIFI"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "10.92 pouces",
+        "screen_technology": "HD IPS LCD Widevine L1",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "8200 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo Smart-PA",
+        "audio_tech": "Son Spatial HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "N/A (Connexion Wi-Fi 5)",
+        "card_slot": "Port MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "256.9 x 168.5 x 9.5 mm",
+        "weight": "0.544 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TAB-90-WIFI-MASTER",
+        "Name": "Blackview Tab 90 WiFi",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "85000",
+        "Categories": "Tablettes > Blackview > Tab Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Tab 90 WiFi, Tablette 11 pouces, 8200mAh, 128GB, Wi-Fi 5, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Gris | Rose",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.544 kg",
+        "Attribute 4 default": "0.544 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Tab 90 WiFi : Tablette 10.92 Pouces 8 Go RAM 128 Go Wi-Fi 5 8200 mAh",
+        "brand_line": "La grande tablette multimédia Blackview offrant une autonomie record et un écran grand format.",
+        "marketing_conclusion": "Commandez la Blackview Tab 90 WiFi sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Tab 90 WiFi propose un écran grand format de 10.92 pouces HD, 8 Go de RAM, la puce Octa-Core et une batterie massive de 8200 mAh.",
+        "features": [
+            {
+                "feature": "Écran Grand Format 10.92\" HD",
+                "benefice": "Immersions vidéo confortables certifiées Widevine L1."
+            },
+            {
+                "feature": "Accumulateur Massif 8200 mAh",
+                "benefice": "Autonomie record pour tenir plus de deux jours."
+            },
+            {
+                "feature": "Mémoire 8 Go RAM & 128 Go SSD",
+                "benefice": "Multitâche rapide et espace généreux pour les dossiers."
+            },
+            {
+                "feature": "Double Haut-Parleur Stéréo",
+                "benefice": "Restitution sonore riche lors des visioconférences."
+            }
+        ],
+        "slogan_final": "Blackview Tab 90 WiFi — L'affichage grand format et l'endurance absolue.",
+        "seo": {
+            "meta_title": "Acheter Blackview Tab 90 WiFi (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Wi-Fi Blackview Tab 90 WiFi avec écran 10.92\", 8 Go RAM, 128 Go SSD et batterie 8200 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Tab 90 WiFi, tablette 11 pouces, prix Abidjan, 8200mAh 128GB Wi-Fi 5"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Tab 90 WiFi",
+            "lsi_keywords": [
+                "Blackview Tab 90 WiFi",
+                "tablette 11 pouces Blackview Abidjan",
+                "Blackview Tab 90 WiFi prix",
+                "tablette 8200 mAh 128 Go",
+                "tablette grande autonomie Côte d'Ivoire",
+                "achat tablette grand ecran Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Tab 90 WiFi 128 Go : Écran 10.92\" & 8200 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Tab 90 WiFi. Écran 10.92\" HD IPS, 8 Go RAM, batterie 8200 mAh et connectivité Wi-Fi 5. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Tab 90 WiFi : Spécifications de la Tablette 10.92 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU GRAND ÉCRAN",
+            "items": [
+                {
+                    "feature": "Dalle 10.92 Pouces HD Widevine L1",
+                    "benefice": "Lisibilité visuelle optimale pour les films et cours."
+                },
+                {
+                    "feature": "Batterie Géante de 8200 mAh",
+                    "benefice": "Endurance remarquable durant de longues heures."
+                },
+                {
+                    "feature": "Double Haut-Parleur Stéréo Smart-PA",
+                    "benefice": "Diffusion sonore enveloppante de grande clarté."
+                },
+                {
+                    "feature": "Interface Fluide DokeOS_P 4.0",
+                    "benefice": "Navigation simple et personnalisation moderne."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Tab 90 WiFi est une tablette tactile 10.92 pouces particulièrement confortable et endurante. Cet équipement convient très bien aux passionnés de séries et familles en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 10.92 pouces en définition HD offre une lisibilité visuelle très claire. De plus, sa certification Widevine L1 autorise le streaming haute définition. La batterie géante de 8200 mAh permet de travailler en toute sérénité sans interruption. Son boîtier épuré de 9.5 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à tous vos médias. Enfin, cette tablette grand format constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 10.92 Pouces HD et Puce Octa-Core",
+                "paragraphs": [
+                    "La Blackview Tab 90 WiFi intègre une grande dalle IPS de 10.92 pouces en définition HD. Sa résolution de 1280 x 800 pixels restitue des détails d'une clarté impressionnante. De plus, les modes de protection oculaire réduisent la fatigue visuelle lors des lectures du soir. De surcroît, le processeur Unisoc T606 à huit cœurs cadencés à 1.6 GHz gère facilement vos logiciels. Les 8 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, la connectivité Wi-Fi 5 assure un streaming vidéo sans aucune latence. Cette conception soignée protège le boîtier en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 13 MP, Dual Speakers et Wi-Fi 5",
+                "paragraphs": [
+                    "La Blackview Tab 90 WiFi embarque un capteur photo arrière de 13 Mégapixels avec Flash LED. Cet objectif capture des images nettes pour numériser vos documents administratifs. En outre, la caméra frontale de 8 Mégapixels s'avère très pratique pour les visioconférences HD. Les haut-parleurs stéréo Smart-PA optimisent la restitution sonore avec netteté. Ainsi, la prise jack 3.5mm immortalise vos sessions d'écoute au casque. La précision audio reste constante.",
+                    "Par ailleurs, le système Android 14 offre une protection renforcée de la vie privée. De plus, le mode contrôle parental permet d'encadrer l'accès des enfants. Également, l'association Bluetooth 5.0 autorise la connexion de claviers et écouteurs sans fil. De surcroît, la faible consommation d'énergie préserve la durée de batterie. En somme, cette tablette grand écran réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8200 mAh et Port USB-C",
+                "paragraphs": [
+                    "La batterie impressionnante de 8200 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant plus de 12 heures consécutives en vidéo. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble fourni. En effet, la gestion thermique intelligente préserve la durée de vie du composant. Vos activités de loisir se poursuivent sans interruption.",
+                    "La silhouette épurée de 9.5 mm offre une tenue en main naturelle et très équilibrée. Son poids maîtrisé de 544 grammes témoigne du soin apporté à la structure. D'autre part, la Blackview Tab 90 WiFi constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa batterie géante en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Tab 90 WiFi",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Blackview Tab 90 WiFi."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "256.9 x 168.5 x 9.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.544 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Coque métallisée élégante"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu (Blue), Gris (Gray), Rose (Pink)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "10.92 pouces IPS LCD HD Widevine L1"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Confort des Yeux & Mode Lecture Sombre"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc T606 Octa-Core 1.6 GHz (12nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go UFS 2.1 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo Smart-PA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8200 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Connectivité sans fil",
+                            "valeur": "Wi-Fi 5 (802.11 ac) Dual-Band 2.4G/5G, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack casque 3.5 mm"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/blackview_tab90wifi-13456.php"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

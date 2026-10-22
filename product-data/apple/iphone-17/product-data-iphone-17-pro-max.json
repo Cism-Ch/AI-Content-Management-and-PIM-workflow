@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-17-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 17 Pro Max",
+    "category": "Smartphones",
+    "sub_category": "Ultra-Premium",
+    "release_year": 2025,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3500",
+    "regional_variants": [
+      { "region": "International", "sku": "A3500" }
+    ],
+    "verification_sources": [
+      { "source": "Internal Database 2026", "url": "https://apple.com/iphone-17-pro-max" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 17 Pro Max 256GB",
+      "sku_suffix": "256",
+      "configurations": { "ram": "12GB", "storage": "256GB" },
+      "pricing": { "official_price_fcfa": 1075000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Titanium Black", "Titanium White", "Titanium Gold", "Titanium Blue"],
+    "default": "Titanium Gold"
+  },
+  "key_specifications": {
+    "processor": "Apple A19 Pro (2 nm)",
+    "ram_options": ["12GB"],
+    "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+    "screen_size": "6.9 pouces",
+    "screen_technology": "LTPO Super Retina XDR OLED (Tandem)",
+    "screen_resolution": "1320 x 2868 pixels",
+    "screen_refresh_rate": "1-120Hz",
+    "battery_capacity": "4800 mAh",
+    "charging_wired": "45W",
+    "charging_wireless": "25W (MagSafe)",
+    "os": "iOS",
+    "os_version": "26",
+    "camera_main": "48 MP, f/1.7, 24mm, multi-pixel AF, OIS",
+    "camera_ultrawide": "48 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "48 MP, f/2.8, 120mm, 5x zoom optique, tetraprism, OIS",
+    "camera_selfie": "18 MP, f/1.9, Center Stage",
+    "video_max": "8K@30fps, 4K@120fps, Spatial Video",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 7",
+    "connectivity_bluetooth": "5.4",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68 (8m)",
+    "dimensions": "163.0 x 77.6 x 8.2 mm",
+    "weight": "221 g",
+    "materials": "Titane Grade 5, Ceramic Shield 3",
+    "biometrics": "Face ID (Sous l'écran)",
+    "additional_features": ["Apple Intelligence V2", "Action Button 2.0", "Satellite Messaging", "Ultra-thin bezels"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena 2026",
+      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

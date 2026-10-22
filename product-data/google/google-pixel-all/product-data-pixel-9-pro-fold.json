@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel 9 Pro Fold."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel 9 Pro Fold",
+    "category": "smartphone",
+    "sub_category": "foldable",
+    "release_year": 2024,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel 9 Pro Fold",
+    "GGX8B",
+    "Smartphone Pliable",
+    "Android 15",
+    "Tensor G4",
+    "Écran Pliable 8.0",
+    "Triple Capteur",
+    "Gemini Advanced",
+    "Design Ultra Fin",
+    "Smartphone Luxe",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "GGX8B",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "GGX8B"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/pixel_9_pro_fold"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_9_pro_fold-13220.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base GGX8B pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel 9 Pro Fold 256Go",
+      "sku_suffix": "/256",
+      "configurations": {
+        "ram": "16Go",
+        "storage": "256Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 1100000,
+          "max": 1400000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 9 Pro Fold 512Go",
+      "sku_suffix": "/512",
+      "configurations": {
+        "ram": "16Go",
+        "storage": "512Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 1100000,
+          "max": 1400000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Obsidian",
+      "Porcelain"
+    ],
+    "exclusive": [],
+    "default": "Obsidian"
+  },
+  "key_specifications": {
+    "processor": "Google Tensor G4 (4 nm)",
+    "ram_options": [
+      "16Go"
+    ],
+    "storage_options": [
+      "256Go",
+      "512Go"
+    ],
+    "screen_size": "8.0 inches, 207.4 cm2 (~89.0% screen-to-body ratio)",
+    "screen_technology": "Foldable LTPO OLED, 120Hz, HDR10+, 1600 nits (HBM), 2700 nits (peak)",
+    "screen_resolution": "2076 x 2152 pixels, 1:1 ratio (~373 ppi density)",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "4650 mAh",
+    "charging_wired": "21W wired 7.5W",
+    "charging_wireless": "15W wireless",
+    "os": "Android",
+    "os_version": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+    "camera_main": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 10.8 MP, f/3.1, 112mm (telephoto), 1/3.2\", dual pixel PDAF, OIS, 5x optical zoom 10.5 MP, f/2.2, 127˚ (ultrawide), 1/3.4\", PDAF",
+    "camera_selfie": "10.5 MP",
+    "video_max": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, 10-bit HDR, gyro-EIS, OIS",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+    "connectivity_bluetooth": "5.3, A2DP, LE, aptX HD",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "Résistant à l'eau",
+    "dimensions": "Unfolded: 155.2 x 150.2 x 5.1 mmFolded: 155.2 x 77.1 x 10.5 mm",
+    "weight": "257 g (9.07 oz)",
+    "materials": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "biometrics": "Capteur d'empreinte sous l'écran",
+    "additional_features": [
+      "IA Google (Circle to Search, Gemini intégré, Magic Eraser)",
+      "7 ans de mises à jour de sécurité et système",
+      "Haut-parleurs stéréo"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/pixel_9_pro_fold",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_9_pro_fold-13220.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

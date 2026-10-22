@@ -1,0 +1,410 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO X6 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO X Series",
+        "commercial_name": "Xiaomi POCO X6 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-performance",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-X6-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-X6-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X6+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X6+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone performant Xiaomi POCO X6 Pro 5G avec processeur Dimensity 8300 Ultra, écran Flow AMOLED 1.5K 120Hz, capteur photo 64MP OIS et charge turbo 67W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8300 Ultra (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS, QZSS",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.186 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-X6-PRO-5G",
+        "Name": "Xiaomi POCO X6 Pro 5G - Dual SIM - Écran 6.67\" Flow AMOLED 1.5K 120Hz - (8 Go & 256 Go / 12 Go & 512 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "235000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO X6 Pro 5G, POCO X Series, Smartphone, 5G, Écran AMOLED 1.5K, Écran 120Hz, Capteur 64MP, OIS, 5000mAh, Charge 67W, Dimensity 8300 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Gris | Jaune",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.186 kg",
+        "Attribute 4 default": "0.186 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Grey",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-JAUNE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "275000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Grey",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "275000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "275000",
+            "sku_suffix": "12-GB-512-GB-JAUNE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme X Series Pro Performance",
+        "teaser": "Le smartphone 5G Xiaomi POCO X6 Pro 5G intègre le puissant processeur Dimensity 8300 Ultra et une dalle Flow AMOLED 1.5K à 120Hz. Doté d'un capteur photo de 64 MP avec stabilisation OIS et d'une charge turbo 67W, il assure une réactivité optimale pour le multitâche à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran Flow AMOLED CrystalRes 1.5K 120Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Bordures ultra-fines et définition 1.5K détaillée",
+                "technical_detail": "Dalle AMOLED 6.67 pouces (2712 x 1220) à 120Hz avec luminosité de crête 1800 nits et Dolby Vision.",
+                "daily_impact": "Affichage précis de vos présentations et confort de lecture optimal en extérieur."
+            },
+            {
+                "feature_title": "Processeur Dimensity 8300 Ultra (4 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Vitesse d'exécution de pointe pour le jeu et le multitâche",
+                "technical_detail": "Architecture octa-core jusqu'à 3.35 GHz avec GPU Mali-G615 et mémoire vive LPDDR5X.",
+                "daily_impact": "Transitions instantanées entre vos applications lourdes sans baisse de cadence."
+            },
+            {
+                "feature_title": "Capteur Photo 64 MP avec Double Stabilisation OIS/EIS",
+                "badge": "Photo",
+                "lead_benefit": "Photos nettes et enregistrement vidéo 4K stable",
+                "technical_detail": "Capteur principal 64 MP stabilisé optiquement avec objectif ultra grand-angle 8 MP.",
+                "daily_impact": "Immortalisez des scènes en mouvement et vos réunions professionnelles sans tremblement."
+            },
+            {
+                "feature_title": "Batterie 5000 mAh & Charge Turbo 67W",
+                "badge": "Autonomie",
+                "lead_benefit": "Recharge totale en 45 minutes pour une journée active",
+                "technical_detail": "Accumulateur 5000 mAh avec bloc d'alimentation 67W et dissipation thermique LiquidCool 2.0.",
+                "daily_impact": "Disponibilité continue sur toute la journée et ravitaillement express en pause."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO X6 Pro 5G combine affichage 1.5K, processeur Dimensity 8300 Ultra et stabilisation OIS.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO X6 Pro 5G (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO X6 Pro 5G chez My-eStore. Dimensity 8300 Ultra, écran 1.5K 120Hz et charge 67W au meilleur tarif garanti à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO X6 Pro 5G 512Go : 1.5K & Dimensity 8300 | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO X6 Pro 5G chez My-eStore. Dimensity 8300 Ultra, écran 1.5K 120Hz et charge 67W au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO X6 Pro 5G : Dimensity 8300 Ultra, Écran 1.5K et Capteur 64 MP OIS",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO X6 Pro 5G",
+            "items": [
+                {
+                    "feature": "Puce Dimensity 8300 Ultra",
+                    "benefice": "Capacité de calcul élevée pour le jeu compétitif et les flux multitâches exigeants"
+                },
+                {
+                    "feature": "Écran Flow AMOLED 1.5K 120Hz",
+                    "benefice": "Définition très détaillée et défilement tactile fluide reposant pour les yeux"
+                },
+                {
+                    "feature": "Capteur photo 64 MP OIS",
+                    "benefice": "Stabilisation optique matérielle pour des photos et vidéos nettes sans flou"
+                },
+                {
+                    "feature": "Charge turbo 67W",
+                    "benefice": "Restauration complète de la batterie en une quarantaine de minutes seulement"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO X6 Pro 5G propose un niveau de vélocité élevé. Sa dalle Flow AMOLED 1.5K à 120Hz affiche des images précises aux bordures très fines. De plus, le capteur photo de 64 mégapixels stabilisé capture les textures avec netteté. La puce MediaTek Dimensity 8300 Ultra exécute ainsi vos applications professionnelles sans ralentissement. Vous bénéficiez en outre d'une batterie de 5000 mAh rechargeable rapidement à 67W.",
+        "sections": [
+            {
+                "h2_title": "Dalle Flow AMOLED 1.5K Lumineuse et Bordures Affinées",
+                "paragraphs": [
+                    "L'écran Flow AMOLED de 6.67 pouces présente une résolution 1.5K particulièrement précise. La finesse d'affichage restitue les graphiques techniques sans aucune bavure visuelle. Cette résolution fine facilite par conséquent la consultation régulière de dossiers volumineux. La cadence de rafraîchissement à 120Hz fluidifie le balayage de vos documents professionnels. Cette réactivité constante évite ainsi toute gêne visuelle lors des navigations rapides. La luminosité de pointe atteignant 1800 nits maintient la clarté sous le soleil ivoirien.",
+                    "Le menton réduit de 2.27 millimètres augmente la surface d'affichage disponible. Cette immersion visuelle valorise donc le visionnage de vidéos d'entreprise en déplacement. La gradation oculaire certifiée TÜV limite la fatigue oculaire lors des consultations nocturnes. Le verre Gorilla Glass 5 préserve l'écran contre les frottements et rayures inattendus. Cette protection mécanique reste par ailleurs très appréciable dans les environnements urbains animés. Les deux haut-parleurs stéréo Dolby Atmos diffusent des dialogues audibles et équilibrés."
+                ]
+            },
+            {
+                "h2_title": "Puce Puissante Dimensity 8300 Ultra et Optique 64 MP OIS",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 8300 Ultra offre une cadence de calcul soutenue. La finesse de gravure en 4 nanomètres optimise la maîtrise énergétique des cœurs. Cette gestion thermique procure en effet une stabilité appréciable lors des sollicitations denses. La puce graphique Mali soutient le rendu fluide des jeux vidéo en 3D. La mémoire vive moderne accélère ainsi les transitions immédiates entre vos différentes fenêtres. Les fichiers lourds s'enregistrent instantanément grâce au stockage interne de nouvelle génération.",
+                    "Le capteur photo principal de 64 mégapixels intègre une stabilisation optique OIS. Ce stabilisateur physique compense en outre les tremblements de la main durant la prise. Les vidéos en 4K conservent une fluidité naturelle adaptée aux reportages de terrain. Le module ultra grand-angle cadre aisément les groupes sans nécessiter de recul supplémentaire. La caméra frontale de 16 mégapixels fournit également une excellente netteté en visioconférence. Vous disposez d'un module optique complet pour illustrer vos communications régulières."
+                ]
+            },
+            {
+                "h2_title": "Batterie Durable de 5000 mAh et Charge Rapide 67W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh soutient les journées professionnelles les plus denses. Les usagers mobiles accomplissent leurs activités quotidiennes sans craindre une coupure prématurée. Vous évitez ainsi de chercher continuellement une source d'alimentation lors de vos rendez-vous. Le chargeur filaire de 67W remplit la batterie en une quarantaine de minutes. Un branchement matinal de quinze minutes redonne en effet de longues heures d'utilisation. Le circuit de sécurité protège les cellules électriques contre les variations thermiques excessives.",
+                    "Le capteur biométrique sous l'écran déverrouille l'accès aux données en une fraction de seconde. Cette réactivité sécurisée simplifie d'ailleurs l'authentification sur vos applications bancaires personnelles. La connectivité 5G assure des téléchargements fluides sur l'ensemble des réseaux compatibles. La certification IP54 apporte une défense efficace contre les éclaboussures d'eau imprévues. Ce smartphone combine par conséquent un niveau technique élevé et un tarif compétitif. Le Xiaomi POCO X6 Pro 5G constitue une référence particulièrement solide à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO X6 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "160.5 x 74.3 x 8.3 mm (plastique) / 8.4 mm (cuir végan)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "186 g (0.186 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Gris (Grey), Jaune (Yellow)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED CrystalRes 1.5K, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+, 1800 nits"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~90.1% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (1220 x 2712 pixels, ratio 20:9, ~446 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Dimensity 8300 Ultra (4 nm, Octa-core jusqu'à 3.35 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G615 MC6"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "8 Go + 256 Go / 12 Go + 512 Go (LPDDR5X, UFS 4.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "64 MP (f/1.7, 25mm grand-angle, 0.7µm, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120°)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4, HDR)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K jusqu'à 30 fps, 1080p jusqu'à 60 fps, gyroscope-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge turbo 67W (100% en ~45 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale optique sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X6+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X6+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,455 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s10-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S10 Lite conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S10 Lite",
+        "category": "smartphone",
+        "sub_category": "flagship-lite",
+        "release_year": 2020,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S10-LITE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S10-LITE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s10-lite/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Lite"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Lite+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S10 Lite 6.7\" FHD+ Snapdragon 855 48MP Super Steady OIS 4500mAh 4G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S10-LITE",
+        "Name": "Samsung Galaxy S10 Lite - 6.7\" FHD+ - 6Go/128Go - 48MP Super Steady OIS - 4500mAh - 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "160000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S10 Lite, Galaxy S Series, Smartphone, Android, 4G, Super AMOLED, 48MP, 4500mAh, Snapdragon 855, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 512 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Écran et la Stabilisation Super Steady OIS.",
+        "teaser": "Découvrez le Samsung Galaxy S10 Lite avec son grand écran Super AMOLED Plus de 6.7 pouces, son capteur 48MP avec Super Steady OIS et sa batterie haute capacité de 4500 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.7\" Super AMOLED Plus",
+                "benefice": "Grand confort d'affichage et couleurs éclatantes pour vos vidéos et documents"
+            },
+            {
+                "feature": "Puce Snapdragon 855 Hautes Performances",
+                "benefice": "Exécution rapide et multitâche fluide pour vos logiciels quotidiens"
+            },
+            {
+                "feature": "Capteur 48MP & Super Steady OIS",
+                "benefice": "Vidéos parfaitement stables et photos nettes même en plein mouvement"
+            },
+            {
+                "feature": "Batterie 4500 mAh & Charge 45W",
+                "benefice": "Grande autonomie quotidienne et récupération prompte de l'énergie"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone grand écran équilibré pour profiter des performances de pointe à prix maîtrisé.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S10 Lite (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S10 Lite au meilleur prix à Abidjan sur My-eStore. Écran 6.7\", 48MP OIS, 4500mAh, Snapdragon 855 et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S10 Lite 128Go : 48MP OIS & 4500mAh | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S10 Lite sur My-eStore. Écran Super AMOLED 6.7 pouces, capteur 48MP avec Super Steady OIS, batterie 4500 mAh et Snapdragon 855.",
+            "focus_keyword": "Samsung Galaxy S10 Lite",
+            "lsi_keywords": [
+                "Samsung Galaxy S10 Lite Abidjan",
+                "prix Samsung S10 Lite",
+                "fiche technique Galaxy S10 Lite",
+                "smartphone Samsung grand écran 4G",
+                "Galaxy S10 Lite 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S10 Lite : Grand Écran 6.7\", 48MP Super Steady OIS et Batterie 4500mAh",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S10 Lite propose un grand affichage Super AMOLED Plus de 6.7 pouces très lumineux. Cette dalle procure une définition Full HD Plus détaillée pour tous vos contenus professionnels. De plus, sa puce Snapdragon 855 traite vos applications avec une promptitude continue. Le châssis en aluminium renforcé assure une robustesse éprouvée face aux aléas de vos déplacements. Enfin, l'accumulateur de 4500 mAh offre une disponibilité prolongée tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S10 Lite",
+            "items": [
+                {
+                    "feature": "Dalle 6.7\" Super AMOLED Plus",
+                    "benefice": "Grand confort de lecture et excellente lisibilité en extérieur"
+                },
+                {
+                    "feature": "Capteur 48MP avec Super Steady OIS",
+                    "benefice": "Stabilisation mécanique avancée pour des vidéos fluides en mouvement"
+                },
+                {
+                    "feature": "Charge Ultra Rapide 45W",
+                    "benefice": "Recharge prompte de la batterie lors de vos courtes pauses"
+                },
+                {
+                    "feature": "Processeur Qualcomm Snapdragon 855",
+                    "benefice": "Puissance de calcul optimisée et grande fluidité d'exécution"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Grand Affichage Immersif et Prise en Main Équilibrée",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 6.7 pouces offre un espace confortable pour la lecture de tableaux professionnels. La définition Full HD Plus permet de distinguer les détails les plus fins sur vos photographies. Le traitement du verre trempé protège efficacement la dalle contre les rayures accidentelles du quotidien. Par ailleurs, la luminosité maximale facilite grandement la consultation des courriels en extérieur. Le design soigné répartit le poids de manière homogène pour limiter la fatigue lors d'un usage prolongé. Vous bénéficiez ainsi d'une excellente ergonomie pour vos sessions multimédias quotidiennes.",
+                    "D'un autre côté, la technologie AMOLED procure des contrastes profonds et des couleurs vives équilibrées. Ce rendu visuel soigné met en valeur vos présentations ainsi que vos vidéos haute définition. Les bordures fines maximisent la surface d'affichage tout en conservant une préhension naturelle et agréable. En outre, la dalle tactile réagit instantanément aux commandes pour une navigation fluide sans saccade. Les lignes épurées s'harmonisent facilement avec vos accessoires professionnels de la même gamme. Ce smartphone associe grand gabarit et finesse pour une utilisation confortable en mobilité."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 855 accomplit les calculs exigeants avec une grande efficacité énergétique. La mémoire vive allant jusqu'à huit gigaoctets soutient le fonctionnement simultané de plusieurs applications lourdes. L'espace de stockage généreux accueille sans difficulté vos dossiers professionnels volumineux et vidéos haute fidélité. De surcroît, le circuit thermique canalise la chaleur pour maintenir des cadences d'horloge stables. Les algorithmes d'optimisation logicielle facilitent la mise en page et la gestion de vos flux bureautiques. Vous accomplissez vos démarches professionnelles avec une régularité exemplaire.",
+                    "Dans cette optique, le système de charge rapide 45W restaure l'autonomie en un temps très limité. La gestion intelligente de l'énergie préserve la longévité de l'accumulateur au fil des cycles quotidiens. L'architecture matérielle sécurisée Knox isole vos identifiants confidentiels des tentatives d'accès non autorisées. Également, la connectivité quatre G LTE assure des transferts de données volumineux sans ralentissement. Vos visioconférences conservent une stabilité audio et vidéo appréciable en réseau mobile. Ce terminal constitue une référence performante pour les travailleurs connectés."
+                ]
+            },
+            {
+                "h2_title": "Stabilisation Super Steady OIS et Autonomie Prolongée",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 48 mégapixels bénéficie de la technologie de stabilisation optique Super Steady OIS. Ce mécanisme gimbal matériel compense les vibrations pour assurer des enregistrements vidéo d'une netteté constante. Le capteur ultra grand-angle capture l'ensemble de vos paysages avec une grande fidélité géométrique. De même, l'objectif macro dédié permet d'immortaliser des détails rapprochés sur des objets minuscules. Le traitement logiciel restitue des teintes naturelles et équilibrées en toutes circonstances lumineuses. Vous créez des vidéos stables et des photographies précises pour vos communications.",
+                    "Enfin, l'accumulateur de 4500 mAh procure l'énergie indispensable pour couvrir vos journées les plus intenses. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes d'usage réelles. La recharge rapide permet de récupérer plusieurs heures d'autonomie en quelques minutes seulement. Par conséquent, vous travaillez en toute sérénité sans dépendre d'une prise murale permanente. La robustesse globale des composants assure une fiabilité durable sur plusieurs années d'utilisation. Le Galaxy S10 Lite représente une solution complète alliant autonomie et grand format."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S10 Lite",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S10 Lite."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.5 x 75.6 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.186 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre Gorilla Glass 3+, Dos Glasstic, Cadre Aluminium"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.7\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED Plus"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2400 x 1080 pixels (FHD+), 394 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "HDR10+"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 855 (7nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 512 Go UFS 2.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "48 MP, f/2.0, 26mm, Super Steady OIS, PDAF"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Capteur Macro",
+                            "valeur": "5 MP, f/2.4"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "32 MP, f/2.2, 25mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, Super Steady video"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleur avec son optimisé"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos (via écouteurs)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4500 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "45W rapide"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Recharge complète en environ 65 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 5 (ac), Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + Nano-SIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes optique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s10-lite/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Lite"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10+Lite+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "160000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "512 Go",
+            "price": "255000",
+            "sku_suffix": "6-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "210000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "305000",
+            "sku_suffix": "8-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "160000",
+            "sku_suffix": "6-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "512 Go",
+            "price": "255000",
+            "sku_suffix": "6-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "210000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "305000",
+            "sku_suffix": "8-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "160000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "512 Go",
+            "price": "255000",
+            "sku_suffix": "6-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "210000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "305000",
+            "sku_suffix": "8-GB-512-GB-BLEU"
+        }
+    ]
+}

@@ -1,0 +1,373 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi A7 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi A Series",
+        "commercial_name": "Xiaomi Redmi A7",
+        "category": "smartphone",
+        "sub_category": "entry-level-budget",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-A7",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-A7"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+A7"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+A7+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone Xiaomi Redmi A7 avec écran 6.88 pouces processeur UNISOC T7250 et batterie 5200 mAh."
+    },
+    "key_specifications": {
+        "processor": "UNISOC T7250 (Octa-core)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleur avec prise audio 3.5 mm",
+        "audio_tech": "Son clair optimisé pour les communications",
+        "battery_capacity": "5200 mAh",
+        "charging_wired": "Charge 15W",
+        "navigation_gps": "GPS, GLONASS, Galileo",
+        "card_slot": "microSDXC slot dédié jusqu'à 1 To",
+        "weight": "0.193 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-A7",
+        "Name": "Xiaomi Redmi A7 - Dual SIM - Écran 6.88\" - (3 Go & 64 Go) - 5200 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "68000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi A7, Redmi A Series, Smartphone, Android, 4G, Écran 6.88\", Capteur 50MP, 5200mAh, Charge 15W, UNISOC T7250, Double SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu Ciel | Lavende",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "3 Go",
+        "Attribute 3 default": "3 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.193 kg",
+        "Attribute 4 default": "0.193 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G LTE",
+        "Attribute 5 default": "4G LTE",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "3 Go",
+            "storage": "64 Go",
+            "price": "68000",
+            "sku_suffix": "3-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "3 Go",
+            "storage": "64 Go",
+            "price": "68000",
+            "sku_suffix": "3-GB-64-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Lavende",
+            "color_en": "Orchid Purple",
+            "color_code": "LAVENDE",
+            "ram": "3 Go",
+            "storage": "64 Go",
+            "price": "68000",
+            "sku_suffix": "3-GB-64-GB-LAVENDE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi A",
+        "teaser": "Le smartphone Xiaomi Redmi A7 associe un grand écran tactile de 6.88 pouces à la réactivité de la puce UNISOC T7250. Doté d'une batterie robuste de 5200 mAh avec charge 15W, il assure une disponibilité sereine au fil de vos journées.",
+        "top_features_detailed": [
+            {
+                "label": "Grand Écran 6.88 Pouces",
+                "detail": "Affichage généreux et lisible pour parcourir aisément vos messages et fichiers multimédias."
+            },
+            {
+                "label": "Puce Octocœur UNISOC T7250",
+                "detail": "Fonctionnement équilibré et réactif lors du traitement de vos applications usuelles."
+            },
+            {
+                "label": "Capteur Photo 50 MP Net",
+                "detail": "Prises de vue précises et lumineuses adaptées à vos partages familiaux sur les réseaux."
+            },
+            {
+                "label": "Batterie Durable 5200 mAh",
+                "detail": "Autonomie constante sur plus d'une journée complète sans recharge intermédiaire."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone économique et fiable associant affichage spacieux de 6.88 pouces et autonomie solide.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi A7 (3Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi A7 à Abidjan chez My-eStore. Écran 6.88 pouces, processeur UNISOC T7250 et batterie 5200 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi A7 64 Go : Écran 6.88\" & 5200 mAh | My-eStore",
+            "meta_description": "Découvrez le smartphone Xiaomi Redmi A7 chez My-eStore. Écran 6.88 pouces, processeur UNISOC T7250 et batterie 5200 mAh au meilleur prix à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi A7",
+            "lsi_keywords": [
+                "Xiaomi Redmi A7 Abidjan",
+                "Redmi A7 prix Abidjan",
+                "smartphone économique Xiaomi",
+                "UNISOC T7250 Xiaomi",
+                "Redmi A7 batterie 5200 mAh"
+            ]
+        },
+        "h1": "Xiaomi Redmi A7 : Écran 6.88\", Processeur UNISOC T7250 et Batterie 5200 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi A7",
+            "items": [
+                {
+                    "feature": "Écran 6.88 Pouces",
+                    "benefice": "Affichage généreux offrant un confort visuel optimal pour naviguer et échanger"
+                },
+                {
+                    "feature": "Batterie 5200 mAh",
+                    "benefice": "Endurance prolongée assurant une disponibilité constante sans recharge répétée"
+                },
+                {
+                    "feature": "Puce UNISOC T7250",
+                    "benefice": "Architecture à huit cœurs apportant une bonne régularité dans les tâches simples"
+                },
+                {
+                    "feature": "Charge Filaire 15W",
+                    "benefice": "Alimentation rationnelle pour reconstituer rapidement la réserve d'énergie"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi A7 s'adresse aux personnes recherchant un appareil simple et endurant. En effet, son grand écran tactile de 6.88 pouces procure une lisibilité immédiate appréciable. De plus, la puce octocœur UNISOC T7250 prend en charge vos applications essentielles sans ralentissement. La batterie robuste de 5200 mAh assure ainsi une disponibilité constante durant vos journées. Cet appareil économique et robuste accompagne fidèlement chaque membre du foyer à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Vaste Panneau de 6.88 Pouces et Prise en Main Rassurante",
+                "paragraphs": [
+                    "La grande surface d'affichage de 6.88 pouces valorise vos discussions et vos vidéos. Par ailleurs, l'espace étendu facilite la saisie précise sur le clavier tactile pour tous. Les contrastes équilibrés préservent le confort des yeux lors des lectures de longs textes. En outre, les bordures affinées conservent une compacité bienvenue pour le transport en poche. Le verre renforcé en façade résiste aux frottements fréquents subis durant les trajets quotidiens. Cette configuration visuelle procure une utilisation sereine lors de chaque consultation sur Internet.",
+                    "Le châssis moderne aux contours plats favorise une tenue en main très stable. De ce fait, la préhension demeure sûre lors des conversations en mouvement à l'extérieur. Le lecteur biométrique latéral autorise un déverrouillage fluide par une simple pression du pouce. De même, la prise jack classique de 3.5 millimètres évite le recours aux adaptateurs. La texture dorsale soignée limite l'adhérence des traces de doigts au fil des heures. L'ensemble forme un boîtier sobre et robuste adapté à un rythme de vie actif."
+                ]
+            },
+            {
+                "h2_title": "Photographie Pratique 50 MP et Outils Multimédias",
+                "paragraphs": [
+                    "Le module photographique principal de 50 mégapixels saisit vos scènes avec une grande clarté. En premier lieu, les algorithmes de capture optimisent la luminosité sur chaque cliché enregistré. Le capteur secondaire accentue le relief des visages lors de la prise de portraits. De surcroît, le mode nuit ajuste l'exposition lorsque l'éclairage ambiant commence à décliner. Les commandes simples de l'appareil facilitent le cadrage pour les photographes amateurs. Vos clichés se partagent sans attendre avec vos collègues sur les applications sociales courantes.",
+                    "La caméra frontale de 8 mégapixels garantit un affichage net pour vos visioconférences. Dès lors, les échanges vidéo avec vos proches conservent une belle fidélité visuelle. L'enregistrement vidéo en haute définition produit des clips fluides pour immortaliser les célébrations. D'ailleurs, le récepteur radio FM intégré fonctionne sans nécessiter de forfait de données mobiles. Le haut-parleur dédié diffuse les tonalités d'appel avec une intensité acoustique équilibrée. Ces fonctionnalités pratiques enrichissent vos temps de repos de manière agréable et continue."
+                ]
+            },
+            {
+                "h2_title": "Régularité UNISOC T7250 et Batterie Robuste de 5200 mAh",
+                "paragraphs": [
+                    "Le processeur UNISOC T7250 anime l'interface Android avec une cadence régulière très appréciable. Par conséquent, le lancement des réseaux sociaux s'opère sans temps d'attente prolongé. La gestion thermique modérée de la puce empêche les échauffements lors des longues sessions. Le système Xiaomi alloue également les ressources mémoire pour maintenir la stabilité des tâches. Le tiroir pour carte mémoire microSD permet d'étendre la capacité jusqu'à 1 To. Vous sauvegardez vos cours et documents volumineux sans redouter le moindre encombrement matériel.",
+                    "La batterie de 5200 mAh assure une autonomie rassurante lors de vos déplacements quotidiens. Grâce à cette capacité, votre téléphone reste pleinement opérationnel du matin au soir. Le dispositif de recharge 15W rétablit rapidement la réserve électrique indispensable. Enfin, le tiroir triple accueille deux cartes Nano-SIM et une carte mémoire simultanément. Cette configuration matérielle polyvalente simplifie la conciliation des communications professionnelles et personnelles. Le Xiaomi Redmi A7 s'affirme comme une option d'entrée de gamme fiable et durable."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi A7 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.79 x 77.8 x 8.26 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "193 g (0.193 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque arrière en polymère texturé, châssis ergonomique"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Bleu Ciel (Sky Blue), Lavende (Orchid Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.88 pouces (ratio écran-corps ~84.6%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (1640 x 720 pixels), ratio 20.5:9 (~260 ppp)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "450 nits typique"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "UNISOC T7250 (Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali GPU"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "3 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC slot dédié jusqu'à 1 To"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android avec interface optimisée"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal avec flash LED, vidéo 1080p@30fps"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "Capteur avant pour appels vidéo et selfies"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur intégré avec restitution sonore claire"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui, prise casque audio 3.5 mm présente"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5200 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge 15W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G, 2G (Double nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+A7"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+A7+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-11",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "hifuture-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du modèle HiFuture Ripple avec rédaction 3-Persona."
+    },
+    "product_identity": {
+        "brand": "HiFuture",
+        "product_line": "Enceinte Portable Compacte",
+        "commercial_name": "HiFuture Ripple",
+        "category": "audio",
+        "sub_category": "audio",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HIFUTURE-RIPPLE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HIFUTURE-RIPPLE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "HiFuture Official Store",
+                "url": "https://hifuturegroup.com/products/ripple"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=HiFuture+Ripple"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=HiFuture+Ripple+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié HiFuture Ripple Enceinte 30W 4000mAh IPX7"
+    },
+    "variants": [
+        {
+            "variant_name": "Standard",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "N/A",
+                "storage": "N/A"
+            },
+            "pricing": {
+                "official_price_fcfa": 30000,
+                "market_price_range_fcfa": {
+                    "min": 26000,
+                    "max": 34000
+                },
+                "price_source": "My-eStore",
+                "price_date": "2026-08-11",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [
+            "Noir",
+            "Bleu",
+            "Rouge"
+        ],
+        "exclusive": [],
+        "default": "Noir"
+    },
+    "key_specifications": {
+        "processor": "Puce DSP Audio 30W",
+        "processor_ghz": "N/A",
+        "ram_options": [
+            "N/A"
+        ],
+        "ram_extension": "",
+        "storage_options": [
+            "N/A"
+        ],
+        "card_slot": "",
+        "screen_size": "N/A",
+        "screen_technology": "Indicateur LED d'alimentation",
+        "screen_resolution": "N/A",
+        "screen_refresh_rate": "N/A",
+        "battery_capacity": "4000 mAh (12h autonomie)",
+        "charging_wired": "USB Type-C (5V / 2A)",
+        "charging_wireless": "Non",
+        "os": "Firmware HiFuture Audio DSP",
+        "os_version": "V1.0",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "Drivers Dynamiques 30W RMS",
+        "audio_tech": "Son Omnidirectionnel 360° & Bluetooth 5.3",
+        "connectivity_5g": false,
+        "connectivity_wifi": "Non",
+        "connectivity_bluetooth": "Bluetooth 5.3",
+        "connectivity_nfc": false,
+        "navigation_gps": "Non",
+        "sim_type": "Non",
+        "water_resistance": "IPX7 (Résistant pluie & piscine)",
+        "dimensions": "180 x 70 x 70 mm",
+        "weight": "0.615 kg",
+        "materials": "Tissu Tressé Premium & Embouts Silicone",
+        "biometrics": "Non",
+        "additional_features": [
+            "Diffusion Sonore 360 Degrés 30W",
+            "Certification IPX7 Flottante",
+            "Autonomie 12 Heures Continu",
+            "Format Compact 0.615 kg"
+        ]
+    },
+    "sources": [
+        {
+            "name": "HiFuture Official Store",
+            "url": "https://hifuturegroup.com/products/ripple"
+        },
+        {
+            "name": "Recherche Générique",
+            "url": "https://www.google.com/search?q=HiFuture+Ripple"
+        },
+        {
+            "name": "Recherche Spécialisée IA",
+            "url": "https://www.google.com/search?q=HiFuture+Ripple+specifications"
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "woocommerce_csv": {
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Bleu, Rouge",
+        "Attribute 1 default": "Noir",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.615 kg",
+        "Attribute 4 default": "0.615 kg",
+        "Name": "HiFuture Ripple - Écouteurs Sans Fil TWS - Bluetooth 5.3 - Boîtier 4000mAh - IPX7",
+        "Stock": "10",
+        "Categories": "Audio & Hi-fi > Ecouteurs Sans Fil & Ecouteurs Filaire, Audio & Hi-fi",
+        "Tags": "HiFuture, HiFuture Ripple, Écouteurs sans fil, Écouteurs TWS, Bluetooth 5.3, Audio HD, Abidjan, My-eStore"
+    },
+    "short_description": {
+        "seo": {
+            "meta_title": "Acheter HiFuture Ripple à Abidjan | My-eStore",
+            "meta_description": "Achetez l'enceinte compacte HiFuture Ripple au meilleur prix à Abidjan sur My-eStore. Diffusion 360° 30W, étanchéité IPX7 et livraison rapide en Côte d'Ivoire."
+        },
+        "text": "Découvrez la HiFuture Ripple. Enceinte portable 30W officielle avec diffusion 360°, étanchéité IPX7 et garantie officielle sur My-eStore."
+    },
+    "long_description": {
+        "h1": "HiFuture Ripple : Son 30W BassX, Diffusion 360° et Étanchéité Flottante IPX7",
+        "seo": {
+            "focus_keyword": "HiFuture Ripple Abidjan",
+            "lsi_keywords": [
+                "HiFuture Ripple",
+                "enceinte HiFuture Ripple",
+                "fiche technique HiFuture Ripple",
+                "prix HiFuture Ripple Abidjan",
+                "My-eStore"
+            ],
+            "meta_title": "HiFuture Ripple : Son 360° 30W & IPX7 | My-eStore",
+            "meta_description": "Découvrez la fiche technique officielle de la HiFuture Ripple à Abidjan sur My-eStore. Son 360° 30W RMS, batterie 4000mAh et garantie officielle."
+        },
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Diffusion Sonore 360 Degrés 30W",
+                    "benefice": "Son homogène couvrant toute la pièce sans distorsion."
+                },
+                {
+                    "feature": "Certification IPX7 Flottante",
+                    "benefice": "Utilisation sans risque au bord de la piscine ou sous la pluie."
+                },
+                {
+                    "feature": "Autonomie 12 Heures Continu",
+                    "benefice": "Musique garantie toute la journée avec la batterie 4000mAh."
+                },
+                {
+                    "feature": "Format Compact 0.615 kg",
+                    "benefice": "Transport facile dans un sac ou à la main grâce à la dragonne."
+                }
+            ]
+        },
+        "intro_paragraph": "La HiFuture Ripple est une enceinte portable compacte et moderne. Cet appareil convient parfaitement aux mélomanes en déplacement en Côte d'Ivoire. En effet, la connexion sans fil garantit une excellente stabilité de signal au quotidien. De plus, la diffusion omnidirectionnelle restitue vos morceaux avec une clarté remarquable. Par ailleurs, la certification IPX7 permet une utilisation sereine au bord de la piscine.",
+        "sections": [
+            {
+                "h2_title": "Diffusion Acoustique 360 Degrés et Rendu Clarté",
+                "paragraphs": [
+                    "La HiFuture Ripple intègre des haut-parleurs orientés pour une diffusion optimale. Cette configuration de 30W restitue un son équilibré avec des basses bien définies. Les voix restent très intelligibles lors de l'écoute de vos morceaux préférés. De surcroît, le processeur DSP limite efficacement les distorsions à haut volume. L'expérience d'écoute reste agréable lors de vos sorties entre amis. Ainsi, vous profitez pleinement de chaque détail de votre playlist.",
+                    "La conception acoustique cylindrique répartit le son de façon uniforme dans la pièce. Les membranes vibrantes garantissent des percussions intenses et très régulières. En effet, la structure renforcée absorbe les résonances parasites lors de l'écoute. Vous utilisez votre matériel sonore en toute confiance chaque jour. De plus, la clarté des aigus apporte une belle dimension spatiale. La qualité sonore répond parfaitement à vos attentes quotidiennes."
+                ]
+            },
+            {
+                "h2_title": "Étanchéité IPX7 et Robustesse Tout-Terrain",
+                "paragraphs": [
+                    "La certification IPX7 garantit une étanchéité totale contre l'eau et les immersions. L'enceinte peut flotter à la surface de l'eau sans aucun dommage. Le revêtement en tissu tressé résiste efficacement aux frottements et poussières. En outre, la dragonne intégrée permet d'accrocher l'appareil à votre sac à dos. Vous emportez votre enceinte partout avec une grande simplicité d'usage. Ainsi, l'appareil s'adapte à toutes vos sorties en plein air.",
+                    "La finition solide offre une excellente protection mécanique contre les chocs légers. L'enceinte convient parfaitement aux activités extérieures lors de vos week-ends. Par ailleurs, la surface antidérapante assure une prise en main très sûre. La structure résiste très bien aux contraintes climatiques d'Abidjan. De plus, cette robustesse garantit un fonctionnement durable sur plusieurs années. Votre équipement vous accompagne dans toutes vos aventures."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 12h et Connectivité Sans Fil",
+                "paragraphs": [
+                    "Le système d'alimentation intègre une batterie solide de 4000 mAh. Cette réserve d'énergie offre jusqu'à 12 heures d'autonomie en lecture continue. La recharge rapide s'effectue simplement grâce au port USB Type-C inclus. En effet, le voyant lumineux vous alerte lorsque la batterie devient faible. Vous rechargez votre équipement rapidement avant chaque utilisation. Ainsi, vous profitez d'une autonomie fiable tout au long de la journée.",
+                    "La puce Bluetooth 5.3 garantit un appairage instantané avec tous vos appareils mobiles. La liaison sans fil conserve une portée stable jusqu'à 10 mètres de distance. De surcroît, le rapport qualité-prix se montre particulièrement attractif sur le marché. La conception compacte facilite le rangement dans tous vos bagages. En résumé, cette enceinte nomade constitue un choix audio particulièrement équilibré. Cette autonomie de 12 heures garantit ainsi une ambiance musicale continue lors de vos déplacements."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : HiFuture Ripple",
+                "subtitle": "Spécifications matérielles du HiFuture Ripple."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Modèle",
+                            "valeur": "HiFuture Ripple"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Enceinte Portable Cylindrique"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.615 kg"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu, Rouge"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Acoustique",
+                    "rows": [
+                        {
+                            "label": "Puissance",
+                            "valeur": "30W RMS"
+                        },
+                        {
+                            "label": "Diffusion",
+                            "valeur": "Omnidirectionnelle 360°"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "DSP Audio",
+                            "valeur": "Puce DSP Audio 30W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Batterie",
+                            "valeur": "4000 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "12 heures d'écoute"
+                        },
+                        {
+                            "label": "Port de Charge",
+                            "valeur": "USB Type-C (5V / 2A)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IPX7 (Étanche pluie & piscine)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "HiFuture Official Store",
+                        "url": "https://hifuturegroup.com/products/ripple"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=HiFuture+Ripple"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=HiFuture+Ripple+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "template_version": "3.4"
+}

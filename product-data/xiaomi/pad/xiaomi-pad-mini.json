@@ -1,0 +1,423 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette compacte Xiaomi Pad Mini conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Pad Series",
+        "commercial_name": "Xiaomi Pad Mini",
+        "category": "tablet",
+        "sub_category": "tablet-compact-gaming",
+        "release_year": 2025,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-PAD-MINI",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-PAD-MINI"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+Mini"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+Mini+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette compacte haute performance Xiaomi Pad Mini 8.8 pouces 165Hz processeur Dimensity 9400+ batterie 7500 mAh charge 67W Wi-Fi 7."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 9400+ (Gravure 3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "2 haut-parleurs stéréo symétriques",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio sans fil",
+        "battery_capacity": "7500 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "Sans slot microSD",
+        "weight": "0.326 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-PAD-MINI",
+        "Name": "Xiaomi Pad Mini - Écran 8.8\" 165Hz - (8 Go|12 Go & 256 Go|512 Go) - Charge 67W",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "245000",
+        "Categories": "Tablettes > Xiaomi > Xiaomi Pad",
+        "Tags": "Xiaomi, Pad Mini, Xiaomi Pad Series, Tablette Android, Wi-Fi 7, Écran 8.8 Pouces 165Hz, 50MP, Batterie 7500mAh, Charge 67W, Dimensity 9400+, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Violet",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.326 kg",
+        "Attribute 4 default": "0.326 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi",
+        "Attribute 5 default": "Wi-Fi",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "305000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "305000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Xiaomi Pad",
+        "teaser": "La Xiaomi Pad Mini associe un format compact de 8.8 pouces à la puissance du processeur Dimensity 9400+ gravé en 3 nm. Son écran 2.5K offre un taux de rafraîchissement élevé de 165Hz, soutenu par une batterie de 7500 mAh avec charge turbo 67W.",
+        "top_features_detailed": [
+            {
+                "label": "Puce Dimensity 9400+ (3 nm)",
+                "detail": "Gravure moderne en 3 nanomètres offrant des cadences d'exécution élevées pour le jeu nomade et le multitâche."
+            },
+            {
+                "label": "Écran 8.8\" 2.5K 165Hz",
+                "detail": "Dalle compacte haute résolution avec rafraîchissement adaptatif de 165Hz pour une fluidité sans concession."
+            },
+            {
+                "label": "Batterie 7500 mAh & Charge 67W",
+                "detail": "Grande autonomie nomade avec recharge turbo filaire 67W restaurant rapidement l'énergie."
+            },
+            {
+                "label": "Poids Plume de 326 g",
+                "detail": "Châssis en aluminium ergonomique spécialement conçu pour la prise en main d'une seule main."
+            }
+        ],
+        "marketing_conclusion": "La tablette tactile compacte combinant ergonomie à une main, écran 165Hz et puce Dimensity 9400+.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Pad Mini à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Pad Mini à Abidjan chez My-eStore. Écran 8.8 pouces 165Hz, puce Dimensity 9400+ et charge turbo 67W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Pad Mini",
+            "lsi_keywords": [
+                "tablette compacte 8.8 pouces",
+                "Xiaomi Pad Mini 165Hz",
+                "tablette gaming Dimensity",
+                "batterie 7500 mAh 67W",
+                "tablette nomade HyperOS"
+            ],
+            "meta_title": "Xiaomi Pad Mini 256 Go : Écran 8.8\" 165Hz & Charge 67W | My-eStore",
+            "meta_description": "Découvrez la Xiaomi Pad Mini avec écran 8.8 pouces 165Hz, puce Dimensity 9400+ et charge 67W. Fiche technique complète chez My-eStore."
+        },
+        "h1": "Xiaomi Pad Mini : Écran 8.8 Pouces 165Hz, Dimensity 9400+ et Charge 67W",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI PAD MINI",
+            "items": [
+                {
+                    "feature": "Chipset Dimensity 9400+ 3nm",
+                    "benefice": "Traitement instantané des jeux 3D compétitifs avec une stabilité thermique constante."
+                },
+                {
+                    "feature": "Dalle Tactile 8.8\" 165Hz",
+                    "benefice": "Réactivité tactile immédiate et défilement rapide adapté aux actions réflexes."
+                },
+                {
+                    "feature": "Alimentation 67W et 7500 mAh",
+                    "benefice": "Autonomie équilibrée pour de longues heures d'utilisation nomade sans interruption."
+                },
+                {
+                    "feature": "Format Compact 326 Grammes",
+                    "benefice": "Prise en main naturelle et encombrement minimal pour glisser dans une veste."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Pad Mini réinvente l'usage nomade avec un format compact très ergonomique. Son processeur Dimensity 9400+ développe une puissance élevée au sein d'un châssis allégé. En effet, sa gravure moderne en 3 nanomètres garantit une excellente efficacité énergétique. De plus, l'écran de 8.8 pouces cadencé à 165Hz assure un affichage d'une grande fluidité. Ainsi, cet appareil agile accompagne avec aisance vos divertissements et vos déplacements journaliers.",
+        "sections": [
+            {
+                "h2_title": "Format Compact 8.8 Pouces et Écran 165Hz Réactif",
+                "paragraphs": [
+                    "Le boîtier en aluminium de la Xiaomi Pad Mini affiche des mensurations particulièrement compactes. Son poids de 326 grammes autorise de longues séances d'utilisation à une seule main. La coque métallique protège les circuits internes contre les petits chocs du quotidien. Par ailleurs, le dos mat repousse les traces de doigts lors de manipulations répétées. Les bordures équilibrées garantissent une prise en main stable sans masquer l'écran. En outre, la finesse de 6.5 mm facilite son insertion dans une pochette de voyage.",
+                    "La dalle de 8.8 pouces présente une résolution soignée adaptée aux détails graphiques précis. Cette densité de pixels garantit une grande lisibilité sur les cartes interactives et textes. D'ailleurs, la fréquence de 165 Hz procure un confort visuel instantané lors des défilements rapides. L'échantillonnage tactile réactif enregistre chaque geste du doigt avec une précision appréciable. La certification oculaire limite les rayonnements bleus lors des sessions de lecture nocturne. Enfin, la luminosité d'écran autorise une consultation confortable en extérieur abrité."
+                ]
+            },
+            {
+                "h2_title": "Processeur Dimensity 9400+ et Fluidité Graphique",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 9400+ repose sur une gravure fine en 3 nanomètres. Cette puce gère les jeux 3D compétitifs avec une cadence d'images très stable. En effet, le moteur graphique intégré assure un rendu visuel net sans saccade. La mémoire vive LPDDR5X soutient le passage immédiat d'une application de messagerie au jeu. Les opérations multitâches s'exécutent sans fermeture imprévue de vos applications en mémoire. De plus, la chambre à vapeur intégrée dissipe rapidement les calories accumulées par le système.",
+                    "Le stockage flash UFS permet d'installer de nombreuses applications sans saturer l'espace disponible. La rapidité de lecture réduit nettement l'attente lors de l'ouverture des gros fichiers. Par conséquent, la réactivité du système d'exploitation HyperOS reste constante en toutes circonstances. L'ordonnancement logiciel priorise les flux interactifs pour préserver une expérience fluide. La gestion thermique préserve une température modérée sur toute la surface de la coque. Ainsi, vous bénéficiez d'une endurance applicative régulière tout au long de vos sessions."
+                ]
+            },
+            {
+                "h2_title": "Audio Stéréo Dolby Atmos, Batterie 7500 mAh et Charge 67W",
+                "paragraphs": [
+                    "Deux haut-parleurs stéréo calibrés pour Dolby Atmos procurent une séparation acoustique équilibrée. Cette configuration acoustique restitue fidèlement les effets sonores des vidéos en déplacement. De surcroît, le capteur dorsal de 50 mégapixels numérise vos documents avec clarté. La caméra frontale grand-angle assure un cadrage net lors de vos conversations vidéo. Les microphones intégrés atténuent efficacement les bruits de fond de votre environnement proche. En conséquence, vos interlocuteurs perçoivent chaque mot avec une très bonne intelligibilité.",
+                    "La batterie de 7500 mAh procure une autonomie rassurante pour une longue journée active. Vous profitez d'une disponibilité continue lors de vos trajets sans dépendre d'une prise. Grâce au chargeur rapide filaire de 67W, la batterie regagne promptement sa pleine charge. Cette commodité d'alimentation écourte sensiblement le temps passé branché au mur. La puce Wi-Fi 7 garantit un débit rapide et stable sur les réseaux modernes. Enfin, le port USB Type-C supporte la recopie d'écran vers un moniteur bureautique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Pad Mini",
+                "subtitle": "Spécifications matérielles certifiées de la tablette compacte Xiaomi Pad Mini."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "205.0 x 132.0 x 6.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.326 kg (326 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre trempé, châssis et dos monocoque en aluminium anodisé"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Gray), Violet (Purple)"
+                        },
+                        {
+                            "label": "Ergonomie",
+                            "valeur": "Format compact spécialement optimisé pour la préhension à une seule main"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, Dolby Vision, HDR10"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "8.8 pouces (environ 85.5% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "2.5K (2560 x 1600 pixels), ratio 16:10, 343 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "165 Hz adaptatif ultrarapide"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "700 nits (typique)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 9400+ (Gravure 3 nm TSMC)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core All-Big-Core avec cœurs Cortex-X925 et Cortex-A725"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Immortalis-G925 avec support du ray tracing matériel"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "256 Go ou 512 Go (UFS 4.0 haute vitesse)"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Non (pas d'emplacement pour carte microSD)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "50 MP, f/1.8, autofocus PDAF, flash LED"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "4K à 30/60 fps, 1080p à 30/60 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "13 MP, f/2.2, grand-angle pour appels vidéo"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Multimédia",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "2 haut-parleurs stéréo symétriques sur les tranches"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Hi-Res Audio filaire et sans fil"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Non (audio via port USB-C ou écouteurs Bluetooth)"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Double microphone avec réduction de bruit ambiant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "7500 mAh non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge turbo 67W (Power Delivery)"
+                        },
+                        {
+                            "label": "Temps de Charge Estimé",
+                            "valeur": "100% en environ 45 minutes"
+                        },
+                        {
+                            "label": "Charge Inversée",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11be) tri-bande 2.4 GHz, 5 GHz et 6 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Version 5.4 avec codecs haute fidélité"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 1 avec fonction OTG et sortie vidéo DisplayPort"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Accéléromètre, gyroscope, capteur de luminosité ambiante, boussole électronique"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec interface Xiaomi HyperOS 2"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+Mini"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+Mini+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

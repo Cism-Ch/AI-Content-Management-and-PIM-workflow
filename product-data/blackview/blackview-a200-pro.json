@@ -1,0 +1,319 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "A200 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/blackview_a200_pro-12469.php"
+            }
+        ],
+        "pricing_reference": "139000",
+        "official_sku": "BV-A200-PRO"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.67 pouces",
+        "screen_technology": "FHD+ 120Hz Incurvé AMOLED Corning Gorilla Glass 5",
+        "screen_resolution": "2400 x 1080 pixels",
+        "battery_capacity": "5050 mAh",
+        "ram_options": [
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "108 MP (Samsung ISOCELL HM6) avec Flash LED",
+        "camera_selfie": "16 MP HD",
+        "audio_config": "Haut-parleur Smart-K Box & Prise USB-C Audio",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge Rapide 66W USB-C",
+        "dimensions": "162.2 x 73.6 x 8.6 mm",
+        "weight": "0.196 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-A200-PRO-MASTER",
+        "Name": "Blackview A200 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "139000",
+        "Categories": "Smartphones > Blackview > A Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview A200 Pro, Smartphone, AMOLED Incurve, 120Hz, Helio G99, 108MP, 66W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Violet | Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.196 kg",
+        "Attribute 4 default": "0.196 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview A200 Pro : Smartphone Écran Incurvé AMOLED 120Hz 12 Go RAM 256 Go 108 MP 66W",
+        "brand_line": "Le smartphone fin et raffiné Blackview doté d'un écran AMOLED incurvé et de la charge ultra-rapide 66W.",
+        "marketing_conclusion": "Commandez le Blackview A200 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview A200 Pro offre un superbe écran incurvé AMOLED de 6.67 pouces à 120 Hz, un capteur photo de 108 MP, la puce Helio G99 et une charge rapide de 66W.",
+        "features": [
+            {
+                "feature": "Écran AMOLED Incurvé 120Hz",
+                "benefice": "Immersions visuelles saisissantes et contrastes infinis."
+            },
+            {
+                "feature": "Capteur Photo 108 MP Samsung",
+                "benefice": "Prises de vue haute définition claires dans toutes les conditions."
+            },
+            {
+                "feature": "Charge Ultra-Rapide 66W & 5050 mAh",
+                "benefice": "Faites le plein à 50% en seulement 15 minutes."
+            },
+            {
+                "feature": "Puce Helio G99 & 12 Go RAM",
+                "benefice": "Performances de calcul rapides et gestion multitâche très fluide."
+            }
+        ],
+        "slogan_final": "Blackview A200 Pro — L'élégance de l'incurvé et la vitesse à l'état pur.",
+        "seo": {
+            "meta_title": "Acheter Blackview A200 Pro (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview A200 Pro avec écran AMOLED incurvé 120Hz, caméra 108 MP et charge 66W. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview A200 Pro, smartphone amoled incurve, prix Abidjan, 108MP 66W 120Hz"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview A200 Pro",
+            "lsi_keywords": [
+                "Blackview A200 Pro",
+                "smartphone amoled incurve Blackview Abidjan",
+                "Blackview A200 Pro prix",
+                "téléphone 108 MP 120Hz",
+                "téléphone helio g99 66W",
+                "smartphone elegant Côte d'Ivoire",
+                "achat téléphone A200 Pro Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview A200 Pro 256 Go : Écran AMOLED Incurvé & 108 MP | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview A200 Pro. Écran AMOLED incurvé 120Hz, caméra 108 MP, charge 66W et batterie 5050 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview A200 Pro : Spécifications du Smartphone AMOLED Incurvé",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU DESIGN INCURVÉ",
+            "items": [
+                {
+                    "feature": "Dalle AMOLED Incurvée 120 Hz",
+                    "benefice": "Design haut de gamme et fluidité de défilement."
+                },
+                {
+                    "feature": "Objectif Photo 108 MP Samsung HM6",
+                    "benefice": "Prises de vue haute définition riches en détails."
+                },
+                {
+                    "feature": "Technologie de Charge Rapide 66W",
+                    "benefice": "Récupération d'énergie très véloce en déplacement."
+                },
+                {
+                    "feature": "Silhouette Ultra-Mince 8.6 mm",
+                    "benefice": "Prise en main naturelle et très légère."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview A200 Pro est un smartphone haut de gamme particulièrement moderne et raffiné. Cet équipement convient très bien aux professionnels et amateurs de photographie en Côte d'Ivoire. Par ailleurs, sa dalle tactile AMOLED incurvée de 6.67 pouces en définition FHD+ offre une lisibilité visuelle très claire. De plus, sa protection Gorilla Glass 5 gère très bien les rayures du quotidien. La batterie généreuse de 5050 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.6 mm garantit une prise en main très agréable. L'interface DokeOS 4.0 sous Android 13 simplifie l'accès à toutes vos applications. Enfin, ce smartphone élégant constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran AMOLED Incurvé 120Hz et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview A200 Pro intègre une superbe dalle AMOLED incurvée de 6.67 pouces en définition FHD+. Sa résolution de 2400 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, le capteur d'empreintes sous l'écran améliore le confort d'utilisation au quotidien. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception élégante protège le téléphone en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 108 MP, Puce NFC et Son Smart-K Box",
+                "paragraphs": [
+                    "Le Blackview A200 Pro embarque un capteur photo principal de 108 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en extérieur. En outre, la caméra frontale de 16 Mégapixels s'avère très pratique pour les autoportraits clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, le système sonore Smart-K Box immortalise vos musiques préférées avec clarté. La précision d'écoute reste constante.",
+                    "Par ailleurs, la puce NFC multifonction permet des paiements rapides sans contact. De plus, le capteur de sécurité assure un déverrouillage sécurisé immédiat du système. Également, le module GPS quadruples réseaux assure un guidage très précis lors de vos déplacements. De surcroît, la connectique USB-C autorise le raccordement de votre casque audio. En somme, ce smartphone réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5050 mAh et Charge Rapide 66W",
+                "paragraphs": [
+                    "La batterie impressionnante de 5050 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant de longues heures d'activité. D'ailleurs, le port USB-C prend en charge la charge rapide 66W pour faire le plein rapidement. En effet, la gestion thermique intelligente préserve la batterie lors des cycles de charge. Vos activités quotidiennes se poursuivent sans interruption.",
+                    "La silhouette épurée de 8.6 mm offre une tenue en main naturelle et très confortable. Son poids maîtrisé de 196 grammes témoigne de la légèreté du châssis. D'autre part, le Blackview A200 Pro constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son écran incurvé en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview A200 Pro",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview A200 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.2 x 73.6 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.196 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Dos en verre dépoli antireflet avec cadre affiné"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu (Daybreak Blue), Violet (Meteor Purple), Noir (Polar Night Black)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.67 pouces AMOLED Incurvé"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2400 x 1080 pixels (395 ppi)"
+                        },
+                        {
+                            "label": "Verre de protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR4X (+12 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 2.2 (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "108 MP (Samsung ISOCELL HM6, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra arrière grand angle",
+                            "valeur": "8 MP (f/2.2)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5050 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "66W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/blackview_a200_pro-12469.php"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

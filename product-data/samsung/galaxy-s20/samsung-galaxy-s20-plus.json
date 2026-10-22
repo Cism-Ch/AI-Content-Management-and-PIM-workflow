@@ -1,0 +1,687 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s20-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S20+ conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S20+",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2020,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S20-PLUS",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S20-PLUS"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s20/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Plus"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Plus+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S20+ 6.7\" QHD+ 120Hz 8Go/12Go RAM 64MP 4500mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S20-PLUS",
+        "Name": "Samsung Galaxy S20+ - 6.7\" QHD+ 120Hz - 8Go/128Go - 64MP - 4500mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "230000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S20+, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 12MP, 4500mAh, Snapdragon 865, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Noir, Bleu, Blanc, Rouge, Rose",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Format de la Définition Quad HD+ et du Zoom 64MP.",
+        "teaser": "Découvrez le Samsung Galaxy S20+ avec son grand écran Dynamic AMOLED 2X de 6.7 pouces, son téléobjectif 64MP avec vidéo 8K et sa batterie de 4500 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.7\" Dynamic AMOLED 2X",
+                "benefice": "Dalle 120 Hz très lumineuse et définition Quad HD+ pour une immersion visuelle remarquable"
+            },
+            {
+                "feature": "Puce 7nm & Jusqu'à 12Go RAM",
+                "benefice": "Multitâche fluide et exécution sans temps mort de vos logiciels professionnels"
+            },
+            {
+                "feature": "Téléobjectif 64MP & Vidéo 8K",
+                "benefice": "Photographies nettes avec zoom optique hybride 3x pour des détails préservés"
+            },
+            {
+                "feature": "Batterie 4500 mAh & Charge Rapide",
+                "benefice": "Grande autonomie quotidienne et récupération prompte de l'énergie"
+            }
+        ],
+        "marketing_conclusion": "Un smartphone grand écran pensé pour allier puissance durable et confort visuel au quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S20+ (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S20+ au meilleur prix à Abidjan sur My-eStore. Écran 6.7\" 120Hz, 64MP, 4500mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S20+ 128Go : Écran 120Hz & 64MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S20+ sur My-eStore. Écran Dynamic AMOLED 6.7 pouces 120Hz, téléobjectif 64MP, batterie 4500 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S20+",
+            "lsi_keywords": [
+                "Samsung Galaxy S20+ Abidjan",
+                "prix Samsung S20 Plus",
+                "fiche technique Galaxy S20 Plus",
+                "smartphone Samsung grand écran 5G",
+                "Galaxy S20 Plus 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S20+ : Grand Écran 6.7\" QHD+, Puce 7nm et Batterie 4500mAh",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S20+ se distingue par sa dalle Dynamic AMOLED 2X de 6.7 pouces. Cet affichage procure une définition Quad HD Plus très détaillée pour tous vos contenus professionnels. De plus, sa puce moderne gravée en 7nm traite vos applications avec une promptitude continue. Le cadre en aluminium renforcé assure une robustesse éprouvée face aux aléas de vos déplacements. Enfin, l'accumulateur de 4500 mAh offre une disponibilité prolongée tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S20+",
+            "items": [
+                {
+                    "feature": "Dalle 6.7\" 120Hz Lumineuse",
+                    "benefice": "Grand confort de lecture et excellente lisibilité en extérieur"
+                },
+                {
+                    "feature": "Téléobjectif 64MP Haute Résolution",
+                    "benefice": "Zoom optique hybride 3x et vidéo 8K pour des détails nets"
+                },
+                {
+                    "feature": "Charge Rapide Filaire & Sans-fil",
+                    "benefice": "Recharge prompte de la batterie lors de vos courtes pauses"
+                },
+                {
+                    "feature": "Étanchéité IP68 Certifiée",
+                    "benefice": "Protection complète contre les projections d'eau et les poussières"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Grand Affichage Immersif et Prise en Main Équilibrée",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 6.7 pouces offre un espace confortable pour la lecture de tableaux professionnels. La définition Quad HD Plus permet de distinguer les détails les plus fins sur vos photographies. Le traitement du verre trempé protège efficacement la dalle contre les rayures accidentelles du quotidien. Par ailleurs, la luminosité maximale facilite grandement la consultation des courriels en extérieur. Le design soigné répartit le poids de manière homogène pour limiter la fatigue lors d'un usage prolongé. Vous bénéficiez ainsi d'une excellente ergonomie pour vos sessions multimédias quotidiennes.",
+                    "D'un autre côté, la fréquence d'affichage à 120 Hz élimine toute sensation de latence lors du défilement. Ce confort visuel dynamique réduit la fatigue oculaire lors des sessions de lecture soutenues. Les couleurs fidèles garantissent un visionnage naturel de l'ensemble de vos vidéos haute définition. En outre, la dalle tactile réagit instantanément aux commandes pour une navigation fluide sans saccade. Les lignes épurées s'harmonisent facilement avec vos accessoires professionnels de la même gamme. Ce smartphone associe grand gabarit et finesse pour une utilisation confortable en mobilité."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce gravée en 7nm accomplit les calculs exigeants avec une grande efficacité énergétique. La mémoire vive allant jusqu'à douze gigaoctets soutient le fonctionnement simultané de plusieurs applications lourdes. L'espace de stockage généreux accueille sans difficulté vos dossiers professionnels volumineux et vidéos haute fidélité. De surcroît, le dissipateur thermique canalise la chaleur pour maintenir des cadences d'horloge stables. Les algorithmes d'optimisation logicielle facilitent la mise en page et la gestion de vos flux bureautiques. Vous accomplissez vos démarches professionnelles avec une régularité exemplaire.",
+                    "Dans cette optique, le système de charge rapide restaure l'autonomie en un temps très limité. La compatibilité avec la charge à induction offre une grande praticité sur votre bureau personnel. L'architecture matérielle sécurisée Knox isole vos identifiants confidentiels des tentatives d'accès non autorisées. Également, la connectivité cinq G assure des transferts de données volumineux sans ralentissement. Vos visioconférences conservent une stabilité audio et vidéo appréciable en réseau mobile. Ce terminal constitue une référence performante pour les travailleurs connectés."
+                ]
+            },
+            {
+                "h2_title": "Système Photo Polyvalent et Autonomie Prolongée",
+                "paragraphs": [
+                    "D'abord, le capteur principal enregistre des clichés équilibrés en toutes circonstances lumineuses. Le système autofocus ultra-rapide verrouille la netteté sur les sujets mobiles sans hésitation. Le téléobjectif de 64 mégapixels préserve l'intégralité des détails lors des plans rapprochés. De même, le capteur grand-angle capture l'ensemble de vos paysages avec une grande fidélité géométrique. Le traitement logiciel compense les contrastes élevés pour restituer des couleurs naturelles et harmonieuses. Vous créez des albums photographiques précis directement exploitables pour vos projets.",
+                    "Enfin, l'accumulateur de 4500 mAh procure l'énergie indispensable pour couvrir vos journées les plus intenses. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes d'usage réelles. La fonction de recharge inversée dépanne facilement vos écouteurs sans fil compatibles. Par conséquent, vous travaillez en toute sérénité sans dépendre d'une prise murale permanente. La robustesse globale des composants assure une fiabilité durable sur plusieurs années d'utilisation. Le Galaxy S20+ représente une solution complète alliant autonomie et confort visuel."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S20+",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S20+."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.9 x 73.7 x 7.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.186 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 6, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.7\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "3200 x 1440 pixels (Quad HD+), 525 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz (en FHD+)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 990 (7nm+) / Snapdragon 865"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 3.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.8, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "64 MP, f/2.0, 29mm, Zoom optique hybride 3x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Capteur Profondeur",
+                            "valeur": "0.3 MP, TOF 3D, f/1.0"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 13mm, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "10 MP, f/2.2, 26mm, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 24 fps, 4K à 60 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4500 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Fonctionnalités intelligentes intégrées"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s20/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Plus"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+Plus+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "230000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "505000",
+            "sku_suffix": "8-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "300000",
+            "sku_suffix": "12-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gris",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "575000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "230000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "505000",
+            "sku_suffix": "8-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "300000",
+            "sku_suffix": "12-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "575000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "230000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "505000",
+            "sku_suffix": "8-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "300000",
+            "sku_suffix": "12-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "575000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "230000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "505000",
+            "sku_suffix": "8-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "300000",
+            "sku_suffix": "12-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "575000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "230000",
+            "sku_suffix": "8-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "505000",
+            "sku_suffix": "8-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "300000",
+            "sku_suffix": "12-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "575000",
+            "sku_suffix": "12-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "230000",
+            "sku_suffix": "8-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-256-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "505000",
+            "sku_suffix": "8-GB-512-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "300000",
+            "sku_suffix": "12-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "435000",
+            "sku_suffix": "12-GB-256-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "575000",
+            "sku_suffix": "12-GB-512-GB-ROSE"
+        }
+    ]
+}

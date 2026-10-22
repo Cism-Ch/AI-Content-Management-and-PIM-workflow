@@ -1,0 +1,283 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "FitBuds H1",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/fitbuds-h1-price"
+            }
+        ],
+        "pricing_reference": "25000",
+        "official_sku": "BV-FITBUDS-H1"
+    },
+    "key_specifications": {
+        "audio_driver": "Transducteurs 40 mm en titane",
+        "audio_tech": "Réduction de Bruit Active (ANC) jusqu'à -35dB",
+        "battery_capacity": "500 mAh",
+        "battery_life": "Jusqu'à 60 heures de lecture",
+        "bluetooth_version": "Bluetooth 5.3 à faible latence",
+        "charging_wired": "Charge Rapide USB-C (10 min = 5h d'écoute)",
+        "controls": "Boutons physiques & Prise Jack 3.5mm",
+        "dimensions": "190 x 160 x 80 mm",
+        "weight": "0.215 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-FITBUDS-H1-MASTER",
+        "Name": "Blackview FitBuds H1",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "25000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview FitBuds H1, Casque Bluetooth, ANC, 60h Autonomie, Bluetooth 5.3, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Blanc | Noir",
+        "Attribute 1 default": "Blanc",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.215 kg",
+        "Attribute 4 default": "0.215 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 2 name": "Connexion",
+        "Attribute 2 value(s)": "Bluetooth 5.3 / Filaire 3.5mm",
+        "Attribute 2 default": "Bluetooth 5.3 / Filaire 3.5mm",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "Poids",
+        "Attribute 3 value(s)": "0.215 kg",
+        "Attribute 3 default": "0.215 kg",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview FitBuds H1 : Casque Bluetooth ANC Autonomie 60 Hours Transducteurs 40 mm",
+        "brand_line": "Casque audio sans fil Blackview à réduction de bruit active d'une grande clarté.",
+        "marketing_conclusion": "Commandez le Blackview FitBuds H1 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview FitBuds H1 réunit des haut-parleurs de 40 mm, la réduction de bruit ANC -35dB, 60 heures d'autonomie et le Bluetooth 5.3.",
+        "features": [
+            {
+                "feature": "Transducteurs 40 mm en Titane",
+                "benefice": "Son riche avec des basses profondes et des aigus clairs."
+            },
+            {
+                "feature": "Réduction de Bruit Active ANC",
+                "benefice": "Isolation efficace des bruits extérieurs en ville ou au bureau."
+            },
+            {
+                "feature": "Autonomie Généreuse 60 Hours",
+                "benefice": "Écoute prolongée durant plusieurs semaines sans recharger."
+            },
+            {
+                "feature": "Coussinets Ergonomiques à Mémoire",
+                "benefice": "Confort d'écoute prolongé sans pression désagréable."
+            }
+        ],
+        "slogan_final": "Blackview FitBuds H1 — L'expérience sonore immersive au quotidien.",
+        "seo": {
+            "meta_title": "Acheter Blackview FitBuds H1 Casque ANC à Abidjan | My-eStore",
+            "meta_description": "Découvrez le casque sans fil Blackview FitBuds H1 avec réduction de bruit ANC -35dB et 60h d'autonomie. Profitez du meilleur prix d'achat chez My-eStore.",
+            "keywords": "Blackview FitBuds H1, casque Bluetooth Blackview, casque ANC, prix Abidjan, 60h autonomie"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview FitBuds H1",
+            "lsi_keywords": [
+                "Blackview FitBuds H1",
+                "casque Bluetooth Blackview Abidjan",
+                "Blackview FitBuds H1 prix",
+                "casque ANC réduction de bruit",
+                "casque sans fil 60 heures",
+                "casque audio Côte d'Ivoire",
+                "achat casque audio Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview FitBuds H1 : Casque ANC & 60h Autonomie | My-eStore",
+            "meta_description": "Achetez le casque audio sans fil Blackview FitBuds H1. Transducteurs 40 mm, réduction de bruit active ANC -35dB, Bluetooth 5.3 et 60 heures d'autonomie. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview FitBuds H1 : Spécifications et Rendu Acoustique",
+        "experience_box": {
+            "box_title": "LES ATOUTS ACOUSTIQUES DU CASQUE",
+            "items": [
+                {
+                    "feature": "Réduction de Bruit Active -35dB",
+                    "benefice": "Atténuation efficace des bruits de transport et de rue."
+                },
+                {
+                    "feature": "Transducteurs en Titane 40 mm",
+                    "benefice": "Restitution fidèle de la musique et des voix."
+                },
+                {
+                    "feature": "Connectivité Bluetooth 5.3 Rapide",
+                    "benefice": "Connexion stable sans décalage lors des vidéos et jeux."
+                },
+                {
+                    "feature": "Coussinets Moelleux en Cuir Mousse",
+                    "benefice": "Port très agréable même pendant plusieurs heures."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview FitBuds H1 est un casque audio sans fil puissant, élégant et très confortable. Cet équipement répond très bien aux besoins des mélomanes et travailleurs en Côte d'Ivoire. Par ailleurs, la réduction de bruit active ANC neutralise les bruits ambiants gênants. De plus, les transducteurs de 40 mm offrent une qualité sonore très équilibrée. La batterie généreuse de 500 mAh procure jusqu'à 60 heures de musique ininterrompue. Ses coussinets en mousse à mémoire de forme épousent les oreilles avec une douceur remarquable. L'arceau réglable garantit un maintien très stable lors des déplacements. Enfin, ce casque propose un rapport qualité-prix particulièrement séduisant.",
+        "sections": [
+            {
+                "h2_title": "Transducteurs 40 mm et Réduction de Bruit ANC",
+                "paragraphs": [
+                    "Le Blackview FitBuds H1 intègre des transducteurs dynamiques de 40 mm en titane. Ces haut-parleurs restituant des basses percutantes et des voix d'une belle clarté. De plus, la technologie de réduction de bruit active ANC atténue le bruit jusqu'à -35 dB. De surcroît, le mode transparence permet d'entendre les annonces de rue sans retirer le casque. En outre, les conversations restent fluides lors de vos trajets quotidiens.",
+                    "Cependant, la conception circum-aurale isole naturellement les oreilles des perturbations extérieures. Également, l'égaliseur acoustique interne maintient un équilibre sonore homogène quel que soit le volume. En effet, cette précision d'écoute convient très bien aux appels téléphoniques professionnels. Par conséquent, cette organisation acoustique évite la fatigue auditive lors des sessions prolongées. Vos morceaux de musique gardent toute leur richesse."
+                ]
+            },
+            {
+                "h2_title": "Bluetooth 5.3, Mode Filaire et Autonomie 60h",
+                "paragraphs": [
+                    "Le Blackview FitBuds H1 adopte la norme Bluetooth 5.3 à faible consommation d'énergie. Cette puce garantit une liaison sans fil stable jusqu'à 10 mètres de portée. En outre, la présence d'une prise Jack 3.5 mm autorise une écoute filaire sans batterie. Les commandes physiques sur l'écouteur facilitent le réglage du volume et la gestion des appels. La réactivité des boutons reste immédiate au quotidien. Vos réglages s'effectuent sans effort.",
+                    "Par ailleurs, le microphone HD intégré capte votre voix très clairement pendant vos réunions en ligne. La réduction de bruit environnementale ENC filtre les bruits de vent pour vos interlocuteurs. De plus, la connexion multipoint permet de connecter votre téléphone et votre ordinateur en même temps. L'arceau pliable facilite le rangement dans un sac. En somme, ce casque réunit toutes les fonctions modernes."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 60 Hours et Recharge Rapide USB-C",
+                "paragraphs": [
+                    "La batterie intégrée de 500 mAh offre une autonomie impressionnante atteignant 60 heures. Cette énorme réserve vous permet de voyager pendant une semaine sans emporter de chargeur. D'ailleurs, le port USB-C prend en charge la charge rapide pour récupérer 5 heures d'écoute en 10 minutes. En effet, la gestion d'énergie intelligente optimise la durée de veille globale. Vos sessions d'écoute se poursuivent sans contrainte.",
+                    "Le poids léger de 215 grammes élimine toute sensation de lourdeur sur la tête. Sa finition soignée confère une touche de modernité hautement séduisante à l'appareil. Le Blackview FitBuds H1 constitue une opportunité très intéressante pour s'équiper à Abidjan. En somme, sa polyvalence acoustique en fait une option de choix pour tous. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview FitBuds H1",
+                "subtitle": "Spécifications matérielles certifiées du casque audio Blackview FitBuds H1."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "190 x 160 x 80 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.215 kg"
+                        },
+                        {
+                            "label": "Type d'écouteurs",
+                            "valeur": "Casque circum-aural fermé avec arceau pliable"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Spécifications Audio",
+                    "rows": [
+                        {
+                            "label": "Transducteurs",
+                            "valeur": "40 mm dynamiques avec membrane en titane"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "ANC Active (jusqu'à -35 dB) & ENC pour appels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Portée",
+                    "rows": [
+                        {
+                            "label": "Version Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Portée sans fil",
+                            "valeur": "Jusqu'à 10 mètres"
+                        },
+                        {
+                            "label": "Entrée filaire",
+                            "valeur": "Prise Jack 3.5 mm"
+                        },
+                        {
+                            "label": "Multi-connexion",
+                            "valeur": "Appairage simultané sur 2 appareils"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "500 mAh"
+                        },
+                        {
+                            "label": "Autonomie de lecture",
+                            "valeur": "Jusqu'à 60 heures (ANC désactivé) / 45 heures (ANC activé)"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "USB-C (10 minutes de charge = 5 heures d'écoute)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Commandes & Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Commandes",
+                            "valeur": "Boutons physiques (Volume, ANC, Appels, Lecture)"
+                        },
+                        {
+                            "label": "Matériaux coussinets",
+                            "valeur": "Mousse à mémoire de forme et similicuir respirant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Garantie & Certification",
+                    "rows": [
+                        {
+                            "label": "Certifications",
+                            "valeur": "CE, RoHS, FCC"
+                        },
+                        {
+                            "label": "Contenu du coffret",
+                            "valeur": "Casque FitBuds H1, Câble USB-C, Câble Jack 3.5mm, Guide"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/fitbuds-h1-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,389 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Axon 20 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Axon+20+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Axon+20+5G+specifications"
+            }
+        ],
+        "pricing_reference": "165000",
+        "official_sku": "ZTE-AXON-20-5G"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 765G 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "6.92 pouces",
+        "screen_technology": "OLED FHD+ 90Hz Plein Écran",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "4220 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible via mémoire virtuelle",
+        "os": "Android 10",
+        "os_skin": "MiFavor 10.5",
+        "camera_main": "Quadruple capteur 64 MP + 8 MP Ultra Grand-Angle + 2 MP Macro + 2 MP Profondeur",
+        "camera_selfie": "32 MP sous l'écran",
+        "audio_config": "Haut-parleur avec traitement sonore",
+        "audio_tech": "Son spatial DTS:X Ultra",
+        "connectivity_nfc": "NFC compatible paiements mobiles",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual Nano SIM hybride (ou microSDXC)",
+        "charging_wired": "Charge rapide 30W Quick Charge 4+",
+        "dimensions": "172.1 x 77.9 x 8.0 mm",
+        "weight": "0.198 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-AXON-20-5G-MASTER",
+        "Name": "ZTE Axon 20 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "165000",
+        "Categories": "Smartphones > ZTE > Axon Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Axon 20 5G, Smartphone, Caméra sous écran, OLED 90Hz, 64MP, Snapdragon 765G, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.198 kg",
+        "Attribute 4 default": "0.198 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Axon 20 5G : Écran 6.92 Pouces OLED 90Hz et Caméra 64 MP",
+        "brand_line": "Le smartphone novateur avec caméra frontale invisible sous la dalle OLED.",
+        "marketing_conclusion": "Commandez votre ZTE Axon 20 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Axon 20 5G propose une dalle OLED intégrale de 6.92 pouces sans encoche, une caméra sous écran de 32 MP, un quadruple module photo 64 MP et la charge 30W.",
+        "features": [
+            {
+                "feature": "Écran Intégral 6.92\" OLED 90Hz",
+                "benefice": "Surface d'affichage continue sans aucune encoche gênante."
+            },
+            {
+                "feature": "Caméra Frontale 32 MP Sous l'Écran",
+                "benefice": "Prises de vue nettes tout en libérant l'affichage."
+            },
+            {
+                "feature": "Quadruple Capteur Photo 64 MP",
+                "benefice": "Photos détaillées et grand-angle adapté à chaque scène."
+            },
+            {
+                "feature": "Puce Snapdragon 765G & Charge 30W",
+                "benefice": "Connexion 5G fluide et récupération rapide de batterie."
+            }
+        ],
+        "slogan_final": "ZTE Axon 20 5G — L'affichage intégral au service de vos usages quotidiens.",
+        "seo": {
+            "meta_title": "Acheter ZTE Axon 20 5G (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone ZTE Axon 20 5G avec écran OLED 6.92\", caméra sous écran 32 MP et 8 Go de RAM. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Axon 20 5G, smartphone ZTE Abidjan, caméra sous écran, OLED 90Hz, prix Côte d'Ivoire"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Axon 20 5G",
+            "lsi_keywords": [
+                "ZTE Axon 20 5G",
+                "smartphone ZTE Axon Abidjan",
+                "ZTE Axon 20 prix",
+                "téléphone écran oled 90hz",
+                "smartphone caméra sous écran",
+                "téléphone 5g côte d'ivoire",
+                "achat smartphone My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Axon 20 5G 128 Go : Écran OLED 6.92\" & Quad 64 MP | My-eStore",
+            "meta_description": "Achetez le ZTE Axon 20 5G. Écran OLED 6.92 pouces 90Hz sans encoche, caméra sous écran 32 MP, 8 Go RAM et charge 30W. Livraison rapide chez My-eStore."
+        },
+        "h1": "ZTE Axon 20 5G : Snapdragon 765G, Écran 6.92\" 90Hz et Quad Capteur 64 MP",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE AXON 20 5G",
+            "items": [
+                {
+                    "feature": "Dalle OLED 6.92 Pouces 90Hz",
+                    "benefice": "Immersion totale sans poinçon pour regarder vos vidéos."
+                },
+                {
+                    "feature": "Capteur Principal 64 Mégapixels",
+                    "benefice": "Clarté remarquable sur les photos en extérieur."
+                },
+                {
+                    "feature": "Puce Qualcomm Snapdragon 765G",
+                    "benefice": "Navigation stable sur les réseaux mobiles 5G."
+                },
+                {
+                    "feature": "Recharge Rapide 30W USB-C",
+                    "benefice": "Alimentation efficace pour vos journées chargées."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Axon 20 5G apporte une réelle nouveauté grâce à son affichage intégral sans encoche. Cet appareil répond parfaitement aux besoins des utilisateurs recherchant un grand confort visuel à Abidjan. En effet, sa dalle OLED de 6.92 pouces affiche des couleurs équilibrées et des contrastes nets. Sa caméra selfie est logée discrètement sous la surface de l'écran. La puce Snapdragon 765G assure une exécution rapide de l'ensemble de vos applications courantes. Par ailleurs, la batterie de 4220 mAh assure une utilisation continue tout au long de la journée. Vous commandez votre téléphone sur My-eStore avec une assistance attentive.",
+        "sections": [
+            {
+                "h2_title": "Écran OLED 90Hz et Fluidité Snapdragon 765G",
+                "paragraphs": [
+                    "Le ZTE Axon 20 5G dispose d'un écran OLED mesurant 6.92 pouces en définition Full HD Plus. Sa fréquence de rafraîchissement à 90 Hz rend le défilement des pages très agréable. Ainsi, les vidéos et les jeux s'affichent avec une clarté continue sans aucune obstruction visuelle. Le processeur Qualcomm Snapdragon 765G intègre huit cœurs cadencés jusqu'à 2.4 GHz. La mémoire vive de 8 Go soutient un multitâche efficace sans ralentissement notable.",
+                    "Le stockage interne de 128 Go accueille facilement tous vos documents et photos personnelles. Un port pour carte mémoire permet d'étendre cet espace selon vos besoins. En outre, la compatibilité 5G accélère le chargement de vos contenus en ligne. La prise en main reste confortable malgré le format généreux de l'appareil. Cet ensemble technique offre une expérience multimédia plaisante au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Quadruple Module Photo 64 MP et Capteur Sous Écran",
+                "paragraphs": [
+                    "Le module photo arrière principal totalise 64 Mégapixels avec une ouverture lumineuse adaptée. Cet objectif capte des détails précis lors de vos prises de vue quotidiennes. De plus, le capteur ultra grand-angle de 8 Mégapixels élargit le champ pour les paysages. Deux capteurs de 2 Mégapixels complètent l'ensemble pour la macrophotographie et le mode portrait. Vos clichés bénéficient d'un bon niveau de netteté en toute situation.",
+                    "La caméra frontale de 32 Mégapixels reste dissimulée sous la surface de la dalle. En effet, des matériaux hautement transparents permettent de réaliser des autoportraits nets sans découpe d'écran. La puce NFC facilite vos échanges sans contact au quotidien. Le traitement audio DTS:X Ultra améliore l'écoute au casque comme sur haut-parleur. Vous profitez d'un équipement moderne pour vos communications."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Énergétique et Charge 30W Sécurisée",
+                "paragraphs": [
+                    "La batterie de 4220 mAh fournit une alimentation stable adaptée à vos déplacements réguliers. Cette capacité permet de gérer vos appels professionnels et vos loisirs sans inquiétude. Par ailleurs, la recharge rapide 30W réduit nettement le temps passé près d'une prise. Une trentaine de minutes suffit pour regagner plus de la moitié de l'énergie. Vos journées de travail se déroulent ainsi en toute tranquillité.",
+                    "Le châssis fin de 8 mm présente une finition soignée avec un poids contenu de 198 grammes. La marque ZTE démontre son savoir-faire technique sur cette gamme accessible. En somme, ce smartphone combine innovation visuelle et réactivité logicielle à un tarif mesuré. Vous pouvez faire votre achat en toute confiance sur la plateforme My-eStore. La livraison à Abidjan s'effectue dans des délais très rigoureux."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Axon 20 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Axon 20 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "172.1 x 77.9 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.198 kg (198 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, cadre ergonomique"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Midnight Black), Bleu (Crystal Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.92 pouces (~84.8% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "OLED, 1 milliard de couleurs"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2460 x 1080 pixels, 20.5:9)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Plein écran intégral sans encoche ni poinçon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 765G 5G (7 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x2.4 GHz + 1x2.2 GHz + 6x1.8 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 620"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 10 avec interface MiFavor 10.5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "64 MP (f/1.8, 25mm, 1/1.72\", PDAF)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120˚)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Capteur de profondeur",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "32 MP (f/2.0, intégrée sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30/60 fps, 1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "4220 mAh (Li-Ion non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 30W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, 60% en 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM hybride"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.1 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, compatible paiements sans contact"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.1 réversible"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Traitement DTS:X Ultra"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+20+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+20+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "8 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Midnight Black"
+        },
+        {
+            "ram": "8 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Bleu",
+            "color_fr": "Bleu",
+            "color_en": "Crystal Blue"
+        }
+    ]
+}

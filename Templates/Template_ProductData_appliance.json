@@ -1,0 +1,99 @@
+{
+    "schema_version": "1.0",
+    "product_type": "appliance",
+    "generation_metadata": {
+        "generated_date": "",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "",
+        "notes": ""
+    },
+    "product_identity": {
+        "brand": "",
+        "product_line": "",
+        "commercial_name": "",
+        "category": "",
+        "sub_category": "",
+        "release_year": null,
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": ""
+            }
+        ],
+        "verification_sources": [
+            {
+                "source": "",
+                "url": ""
+            }
+        ],
+        "disambiguation_notes": ""
+    },
+    "variants": [
+        {
+            "variant_name": "",
+            "sku_suffix": "",
+            "configurations": {
+                "capacity": "",
+                "power": "",
+                "voltage": ""
+            },
+            "pricing": {
+                "official_price_fcfa": null,
+                "market_price_range_fcfa": {
+                    "min": null,
+                    "max": null
+                },
+                "price_source": "",
+                "price_date": "",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [],
+        "exclusive": [],
+        "default": ""
+    },
+    "key_specifications": {
+        "appliance_type": "",
+        "capacity": "",
+        "power_watts": "",
+        "voltage": "",
+        "frequency": "",
+        "energy_class": "",
+        "annual_consumption": "",
+        "noise_level_db": "",
+        "dimensions_hxwxd": "",
+        "weight_kg": "",
+        "installation_type": "",
+        "material": "",
+        "cooling_system": "",
+        "programs_count": null,
+        "special_functions": [],
+        "safety_features": [],
+        "connectivity": "",
+        "warranty": "",
+        "certification": "",
+        "additional_features": []
+    },
+    "sources": [
+        {
+            "name": "",
+            "url": "",
+            "accessed_date": "",
+            "data_extracted": []
+        }
+    ],
+    "long_description": {
+        "full_specs": {
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        }
+    }
+}

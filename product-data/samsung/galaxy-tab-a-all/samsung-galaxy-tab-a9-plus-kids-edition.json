@@ -1,0 +1,400 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab A9+ Kids Edition conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab A Series",
+        "commercial_name": "Samsung Galaxy Tab A9+ Kids Edition",
+        "category": "tablet",
+        "sub_category": "tablet-kids",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-A9-PLUS-KIDS-EDITION",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-A9-PLUS-KIDS-EDITION"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/ph/tablets/galaxy-tab-a/galaxy-tab-a9-plus-wifi-graphite-128gb-kids-edition-f-x210nzae-kid/buy/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus+Kids+Edition"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus+Kids+Edition+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab A9+ Kids Edition 11.0 pouces 90Hz Snapdragon 695 7040mAh Coque Antichoc Stylus Puffy"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 695 5G (6nm) Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 4 Go",
+        "audio_config": "4 Haut-parleurs stéréo",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "7040 mAh",
+        "charging_wired": "Charge 15W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Slot MicroSD jusqu'à 1 To",
+        "weight": "0.480 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-A9-PLUS-KIDS-EDITION",
+        "Name": "Samsung Galaxy Tab A9+ Kids Edition - Écran 11.0\" 90Hz - (4 Go|8 Go & 64 Go|128 Go) - Coque & Crayon - 7040mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "215000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab A Series",
+        "Tags": "Samsung, Galaxy Tab A9+ Kids Edition, Galaxy Tab A Series, Tablette, Tablette Android, 5G, Écran 90Hz, 7040mAh, Snapdragon 695, Écran 11 Pouces, 90Hz, Coque Antichoc, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Bleu Marine",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go, 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go, 8 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.480 kg",
+        "Attribute 4 default": "0.480 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi, 4G/5G, Bluetooth 5.1, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Tablette Éducative 11.0 Pouces avec Coque Antichoc et Stylet Crayon Puffy Inclus.",
+        "teaser": "Découvrez la Samsung Galaxy Tab A9+ Kids Edition avec son grand écran immersif de 11 pouces 90Hz, sa coque de protection robuste antichoc avec poignée/support, son stylet ergonomique Puffy et l'univers sécurisé Samsung Kids préinstallé.",
+        "top_features_detailed": [
+            {
+                "feature": "Coque Antichoc Renforcée avec Poignée",
+                "benefice": "Protection éprouvée contre les chutes accidentelles et transport facile par les petites mains"
+            },
+            {
+                "feature": "Écran Spacieux 11.0\" 90Hz & Quad Haut-Parleurs",
+                "benefice": "Grand confort de visionnage pour les dessins animés et jeux éducatifs en famille"
+            },
+            {
+                "feature": "Stylet Crayon Puffy Ergonomique Inclus",
+                "benefice": "Prise en main adaptée pour dessiner, colorier et apprendre à écrire avec précision"
+            },
+            {
+                "feature": "Environnement Samsung Kids & Contrôle Parental",
+                "benefice": "Contenus sécurisés et gestion personnalisée du temps d'écran par les parents"
+            }
+        ],
+        "marketing_conclusion": "La tablette ludique et protectrice idéale pour stimuler la créativité et l'apprentissage des enfants en toute sécurité.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab A9+ Kids Edition à Abidjan | My-eStore",
+            "meta_description": "Commandez la Samsung Galaxy Tab A9+ Kids Edition à Abidjan sur My-eStore. Écran 11\" 90Hz, coque antichoc, stylet Puffy, Samsung Kids, garantie officielle.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab A9+ Kids Edition",
+                "Galaxy Tab A9+ Kids Abidjan",
+                "Galaxy Tab A9+ Kids Edition prix",
+                "Tablette enfant Samsung antichoc"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab A9+ Kids Edition : Écran 11\", Coque Antichoc et Batterie 7040 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab A9+ Kids Edition : Écran 11\" & Coque | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab A9+ Kids Edition sur My-eStore. Écran 11\" 90Hz, coque antichoc Puffy, stylet inclus, Samsung Kids et batterie 7040 mAh.",
+            "focus_keyword": "Samsung Galaxy Tab A9+ Kids Edition",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab A9+ Kids Edition Abidjan",
+                "prix Samsung Galaxy Tab A9+ Kids",
+                "fiche technique Tab A9+ Kids Edition",
+                "tablette enfant Samsung 11 pouces",
+                "Galaxy Tab A9+ Kids 64Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab A9+ Kids Edition",
+            "items": [
+                {
+                    "feature": "Coque Antichoc avec Support Intégré",
+                    "benefice": "Protection totale face aux chutes et maintien incliné pour regarder les vidéos"
+                },
+                {
+                    "feature": "Dalle 11.0\" 90Hz & 4 Haut-Parleurs",
+                    "benefice": "Immersion sonore et visuelle captivante pour les activités scolaires"
+                },
+                {
+                    "feature": "Stylet Crayon Puffy Inclus",
+                    "benefice": "Prise en main ergonomique adaptée aux petites mains pour le dessin"
+                },
+                {
+                    "feature": "Contrôle Parental Avancé",
+                    "benefice": "Navigation sécurisée et réglage des temps de jeu en toute sérénité"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab A9+ Kids Edition offre un univers numérique sécurisé pour les enfants. Sa grande dalle de 11 pouces propose un confort de lecture adapté aux apprentissages visuels. De plus, sa coque protectrice en mousse dense absorbe efficacement les chocs du quotidien. L'interface dédiée Samsung Kids propose des jeux éducatifs enrichissants et sans publicité indésirable. Enfin, son autonomie de 7040 mAh accompagne toute la journée d'activités ludo-éducatives sans interruption.",
+        "sections": [
+            {
+                "h2_title": "Coque Antichoc Renforcée et Grand Écran 90Hz",
+                "paragraphs": [
+                    "D'un côté, la coque protectrice en mousse dense enveloppe entièrement la tablette contre les chutes accidentelles. La poignée ergonomique intégrée facilite le transport par les jeunes enfants d'une pièce à l'autre. Cette poignée pivote astucieusement pour servir de support incliné lors du visionnage de cours animés. Par ailleurs, la dalle de onze pouces cadencée à 90 Hz assure des animations fluides et douces pour les yeux. La haute résolution permet de lire nettement les contes interactifs sans forcer sur la vue. Vous offrez ainsi un environnement d'apprentissage sécurisé et ergonomique à vos enfants.",
+                    "D'un autre côté, les quatre haut-parleurs stéréo diffusent un son spatial clair avec la technologie Dolby Atmos. Les chansons éducatives et dialogues de dessins animés sont audibles sans pousser le volume sonore à l'excès. Les bordures épaisses de la coque protègent l'écran tactile lorsque la tablette est posée face contre terre. En outre, le matériau hypoallergénique de la protection se nettoie facilement avec un chiffon humide. Les touches d'allumage restent facilement accessibles aux doigts des enfants. Ce pack complet garantit une durabilité remarquable face aux imprévus de la vie de famille."
+                ]
+            },
+            {
+                "h2_title": "Stylet Puffy Créatif et Espace Samsung Kids Sécurisé",
+                "paragraphs": [
+                    "Tout d'abord, le stylet en forme de gros crayon favorise une prise en main naturelle et sans crispation. Sa pointe souple permet de tracer des lettres et de colorier des dessins avec une belle précision. L'univers préinstallé Samsung Kids regroupe des activités créatives variées conçues par des spécialistes de l'enfance. De surcroît, le tableau de bord parental permet de restreindre l'accès à internet et de fixer des horaires d'usage stricts. Les enfants naviguent uniquement au sein d'applications validées et sécurisées par leurs parents. Vous supervisez les temps d'écran en toute tranquillité d'esprit.",
+                    "Dans cette optique, la caméra avant permet aux enfants de participer aisément aux appels vidéo avec leurs grands-parents. Le microphone filtre les bruits de fond pour que chaque mot prononcé soit parfaitement audible à distance. La compatibilité avec les applications d'apprentissage scolaire transforme la tablette en véritable outil d'éveil interactif. Également, l'espace de stockage peut accueillir de nombreux livres numériques sans ralentir le système. Toutes les créations artistiques des enfants se sauvegardent automatiquement dans leur galerie privée. Cet équipement pédagogique soutient l'épanouissement intellectuel de vos enfants avec douceur."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 695 et Batterie Longue Durée",
+                "paragraphs": [
+                    "D'abord, le processeur Snapdragon 695 assure une exécution très rapide de tous les jeux éducatifs en trois dimensions. La mémoire vive intégrée garantit un basculement instantané entre les différents logiciels d'apprentissage interactif. L'espace de stockage extensible par carte MicroSD permet d'emporter des dessins animés hors connexion lors des départs en vacances. De même, la connexion sans fil stable garantit un téléchargement rapide des nouveaux modules pédagogiques. Le verrouillage parental par code secret empêche la fermeture inopinée de l'espace enfant sécurisé. Vous confiez l'appareil à vos enfants en toute sérénité.",
+                    "Enfin, l'accumulateur haute capacité de 7040 mAh assure une longue durée d'utilisation lors des longs trajets en voiture. Le chargeur standard permet de redonner facilement de l'énergie à la tablette avant une séance de devoirs. La gestion logicielle optimise la consommation pour éviter les décharges soudaines au milieu d'un jeu éducatif. Par conséquent, vos enfants profitent de leurs contenus préférés sans dépendre immédiatement d'un branchement mural. Les matériaux de conception robuste ont été sélectionnés pour résister aux manipulations quotidiennes prolongées. La Galaxy Tab A9+ Kids Edition représente un cadeau éducatif complet et durable."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab A9+ Kids Edition",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab A9+ Kids Edition</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "257.1 x 168.7 x 6.9 mm (hors coque antichoc)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.480 kg (480 g tablette seule)"
+                        },
+                        {
+                            "label": "Accessoires Spéciaux",
+                            "valeur": "Coque de protection antichoc Puffy Cover avec poignée/support + Stylet Crayon Puffy inclus"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "Non certifié étanche, Coque haute résistance aux chocs"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Tablette tactile éducative 11 pouces pour enfants"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "11.0 pouces (27.94 cm), 1920 x 1200 pixels (WUXGA), 206 ppi, ratio 16:10"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé avec rebord surélevé de la coque"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm SM6375 Snapdragon 695 5G (6nm) Octa-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "64 Go / 128 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 1 To (slot dédié)"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14 évolutif vers Android 15 avec Samsung Kids & One UI"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "8 MP, Autofocus, Enregistrement Vidéo 1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "5 MP, Enregistrement Vidéo HD pour appels vidéo"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "4 Haut-parleurs stéréo, Dolby Atmos, Prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "7040 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge filaire 15W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 14 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "Version Wi-Fi / Version 4G/5G selon modèle"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac) bi-bande, Bluetooth 5.1, GPS"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB Type-C 2.0, Prise Jack 3.5mm, Contrôle Parental Samsung Kids"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/ph/tablets/galaxy-tab-a/galaxy-tab-a9-plus-wifi-graphite-128gb-kids-edition-f-x210nzae-kid/buy/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus+Kids+Edition"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus+Kids+Edition+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "215000",
+            "sku_suffix": "4-GB-64-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "280000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "215000",
+            "sku_suffix": "4-GB-64-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "280000",
+            "sku_suffix": "8-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "215000",
+            "sku_suffix": "4-GB-64-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "280000",
+            "sku_suffix": "8-GB-128-GB-BLEU-MARINE"
+        }
+    ]
+}

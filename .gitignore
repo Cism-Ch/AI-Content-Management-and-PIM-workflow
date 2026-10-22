@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+
+# Outputs & Generated HTML packs (compiled locally)
+products/
+products-appliance/
+products-gaming/
+Exports/
+*.tmp
+*.log
+
+# Environment & Local secrets
+.env
+.env.local
+.DS_Store
+Thumbs.db

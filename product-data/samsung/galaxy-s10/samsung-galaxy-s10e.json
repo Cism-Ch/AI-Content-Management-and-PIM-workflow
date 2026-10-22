@@ -1,0 +1,607 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s10-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S10e conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S10e",
+        "category": "smartphone",
+        "sub_category": "compact-flagship",
+        "release_year": 2019,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S10E",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S10E"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s10e/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10e"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S10e+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S10e 5.8\" FHD+ 6Go/8Go RAM Double Capteur 3100mAh 4G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S10E",
+        "Name": "Samsung Galaxy S10e - 5.8\" FHD+ - 6Go/128Go - 16MP - 3100mAh - 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "130000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S10e, Galaxy S Series, Smartphone, Android, 4G, 12MP, 3100mAh, Snapdragon 855, IP68, Compact, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Vert, Bleu, Jaune, Rose, Rouge",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Essentiel de la Série Galaxy S10 dans un format ultra-compact.",
+        "teaser": "Découvrez le Samsung Galaxy S10e avec son écran plat Dynamic AMOLED de 5.8 pouces, son double capteur photo haute précision et son lecteur d'empreintes latéral ergonomique.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Plat 5.8\" Dynamic AMOLED",
+                "benefice": "Dalle lumineuse ultra-maniable à une seule main avec des contrastes profonds"
+            },
+            {
+                "feature": "Puce 8nm Hautes Performances",
+                "benefice": "Multitâche rapide et exécution fluide de l'ensemble de vos logiciels"
+            },
+            {
+                "feature": "Double Capteur & Ouverture Variable",
+                "benefice": "Prises de vue équilibrées et ultra grand-angle à 123 degrés pour vos photos"
+            },
+            {
+                "feature": "Lecteur d'Empreinte Latéral & PowerShare",
+                "benefice": "Déverrouillage naturel sous le pouce et partage d'énergie sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone compact idéal pour ceux qui recherchent la puissance et une grande ergonomie en main.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S10e (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S10e au meilleur prix à Abidjan sur My-eStore. Écran plat 5.8\", 6Go RAM, double capteur, 3100mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S10e 128Go : Écran Plat 5.8\" & 4G | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S10e sur My-eStore. Écran Dynamic AMOLED 5.8 pouces plat, double capteur, batterie 3100 mAh et format ultra-compact.",
+            "focus_keyword": "Samsung Galaxy S10e",
+            "lsi_keywords": [
+                "Samsung Galaxy S10e Abidjan",
+                "prix Samsung S10e",
+                "fiche technique Galaxy S10e",
+                "smartphone Samsung compact 4G",
+                "Galaxy S10e 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S10e : Format Ultra-Compact, Écran Plat 5.8\" et Double Capteur",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S10e privilégie une ergonomie directe et compacte. Il intègre une dalle Dynamic AMOLED plate de 5.8 pouces très lumineuse. De plus, son processeur moderne assure un traitement fluide de toutes vos tâches numériques quotidiennes. La structure en aluminium offre une prise en main stable pour un usage prolongé régulier. Enfin, l'accumulateur de 3100 mAh procure une autonomie sécurisante sur l'ensemble de votre journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S10e",
+            "items": [
+                {
+                    "feature": "Dalle Plate 5.8\" AMOLED",
+                    "benefice": "Grand confort de manipulation à une seule main et format de poche optimal"
+                },
+                {
+                    "feature": "Double Capteur avec Ouverture Variable",
+                    "benefice": "Photos lumineuses en intérieur et très grand champ visuel à 123 degrés"
+                },
+                {
+                    "feature": "Lecteur d'Empreinte sur la Tranche",
+                    "benefice": "Accès instantané et ergonomique lors de la prise en main du terminal"
+                },
+                {
+                    "feature": "Protection Certifiée IP68",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions dans l'eau"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Lumineux et Format Ergonomique Plat",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 5.8 pouces offre un compromis appréciable entre lisibilité et compacité ergonomique. La technologie AMOLED procure des contrastes soutenus et des couleurs vives sans agressivité pour la vue. La protection en verre trempé renforce la dalle face aux frottements et micro-rayures de la journée. Par ailleurs, la luminosité maximale permet une lecture aisée sous un fort éclairage en extérieur. Les bordures soignées maximisent le confort visuel tout en conservant une préhension naturelle et agréable. Vous profitez ainsi d'un confort multimédia adapté pour toutes vos applications mobiles.",
+                    "D'un autre côté, le format plat de l'écran élimine les appuis accidentels sur les bordures latérales. Cet aspect pratique facilite la saisie de texte à une seule main lors de vos déplacements. Les contrastes profonds mettent en valeur vos films et vos photographies haute définition. En outre, la sensibilité de la couche tactile garantit une réactivité immédiate pour la rédaction de vos courriels. Le design contemporain s'adapte avec élégance à l'ensemble de vos environnements de travail. Ce modèle allie compacité et ergonomie étudiée au service de vos usages quotidiens."
+                ]
+            },
+            {
+                "h2_title": "Performances Polyvalentes et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce moderne traite rapidement les requêtes exigeantes et le traitement multimédia courant. La mémoire vive allant jusqu'à huit gigaoctets garantit un multitâche fluide entre vos applications ouvertes. Le stockage interne spacieux accueille l'ensemble de vos documents, musiques et galeries photos sans saturation. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des cadences stables et régulières. Les outils logiciels facilitent la navigation fluide et la personnalisation de votre espace de travail. Vous accomplissez vos tâches quotidiennes avec une régularité et une promptitude appréciables.",
+                    "Dans cette optique, la technologie de charge rapide filaire rétablit promptement l'autonomie lors d'une courte pause. La compatibilité avec la recharge par induction apporte un confort appréciable sur votre table de chevet. Le module de sécurité Knox isole vos codes d'accès et vos données confidentielles de manière étanche. Également, la compatibilité quatre G LTE offre des débits véloces lors de vos déplacements urbains quotidiens. Vos appels vidéo conservent une excellente clarté grâce à un traitement acoustique efficace. Ce smartphone constitue une solution équilibrée et durable pour votre productivité nomade."
+                ]
+            },
+            {
+                "h2_title": "Module Photo Polyvalent et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal enregistre des scènes nettes et détaillées en toutes circonstances. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. La double ouverture mécanique s'ajuste pour capturer un maximum de lumière dans les environnements sombres. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous obtenez des photos équilibrées prêtes à être partagées avec vos proches.",
+                    "Enfin, l'accumulateur de 3100 mAh vous accompagne sereinement pendant vos journées habituelles de travail. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes réelles d'utilisation. La recharge inversée permet d'alimenter vos écouteurs sans fil en cas de nécessité imprévue. Par conséquent, vous conservez une totale autonomie lors de vos déplacements professionnels ou personnels. Les composants durables sont sélectionnés pour préserver leur capacité au fil des cycles de charge. Le Galaxy S10e constitue un investissement pérenne associant compacité et fiabilité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S10e",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S10e."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "142.2 x 69.9 x 7.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.150 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 5, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "5.8\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED (Écran plat)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2280 x 1080 pixels (FHD+), 438 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 9820 (8nm) / Snapdragon 855"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go UFS 2.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé jusqu'à 512 Go)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.5-2.4, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "16 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "10 MP, f/1.9, 26mm, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "3100 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "15W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Wireless PowerShare 4.5W"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "Recharge complète en environ 85 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + Nano-SIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Capteur d'empreintes capacitif sur la tranche"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s10e/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10e"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S10e+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Noir",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Bleu",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-JAUNE"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Jaune",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-JAUNE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Rose",
+            "color_code": "ROSE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-ROSE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "130000",
+            "sku_suffix": "6-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "210000",
+            "sku_suffix": "6-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-ROUGE"
+        }
+    ]
+}

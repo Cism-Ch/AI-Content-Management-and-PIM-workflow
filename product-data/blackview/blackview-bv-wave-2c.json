@@ -1,0 +1,304 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Wave 2C",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/wave-2c-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "32000",
+        "official_sku": "BV-WAVE-2C"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Quad-Core",
+        "processor_ghz": "Fréquence 1.3 GHz",
+        "screen_size": "5.0 pouces",
+        "screen_technology": "FWVGA+ TN LCD",
+        "screen_resolution": "960 x 480 pixels",
+        "battery_capacity": "3000 mAh",
+        "ram_options": [
+            "3 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 6 Go via RAM virtuelle",
+        "os": "Android 13 Go Edition",
+        "os_skin": "DokeOS 4.0 Go",
+        "camera_main": "5 MP avec Flash LED",
+        "camera_selfie": "2 MP",
+        "audio_config": "Haut-parleur mono",
+        "audio_tech": "Son clair & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 256 Go)",
+        "charging_wired": "Charge 5W Micro-USB",
+        "dimensions": "135.6 x 70.2 x 11.1 mm",
+        "weight": "0.158 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-WAVE-2C-MASTER",
+        "Name": "Blackview Wave 2C",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "32000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Wave 2C, Smartphone 3G, 5.0 Pouces, 3000mAh, Compact, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "3 Go",
+        "Attribute 3 default": "3 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.158 kg",
+        "Attribute 4 default": "0.158 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Wave 2C : Smartphone Compact 5 Pouces Pratique",
+        "brand_line": "Smartphone 3G ultra-compact Blackview conçu pour une prise en main facile.",
+        "marketing_conclusion": "Commandez le Blackview Wave 2C sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Wave 2C propose un écran compact de 5 pouces, une batterie de 3000 mAh et 3 Go de RAM sous Android 13 Go Edition.",
+        "features": [
+            {
+                "feature": "Format Ultra-Compact 5.0\"",
+                "benefice": "Tenue à une main optimale et rangement aisé en poche."
+            },
+            {
+                "feature": "Puce Quad-Core Économe",
+                "benefice": "Fonctionnement fluide des appels, SMS et WhatsApp."
+            },
+            {
+                "feature": "Batterie 3000 mAh Amovible",
+                "benefice": "Autonomie pratique assurant vos communications de la journée."
+            },
+            {
+                "feature": "Poids Plume 158 Grammes",
+                "benefice": "Légèreté remarquable pour un confort d'usage prolongé."
+            }
+        ],
+        "slogan_final": "Blackview Wave 2C — La simplicité au creux de la main.",
+        "seo": {
+            "meta_title": "Acheter Blackview Wave 2C (3Go/32Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone compact Blackview Wave 2C avec écran 5 pouces, batterie 3000 mAh et 3Go RAM. Commandez au meilleur prix à Abidjan chez My-eStore.",
+            "keywords": "Blackview Wave 2C, smartphone compact, prix Abidjan, 5 pouces 3000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Wave 2C",
+            "lsi_keywords": [
+                "Blackview Wave 2C",
+                "smartphone compact Abidjan",
+                "Blackview Wave 2C prix",
+                "smartphone 5 pouces pas cher",
+                "batterie 3000 mAh",
+                "Android 13 Go Edition",
+                "petit smartphone Côte d'Ivoire",
+                "achat smartphone Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Wave 2C 3Go/32Go : Écran 5\" & 3000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone compact Blackview Wave 2C. Écran 5 pouces, processeur Quad-Core, 3Go RAM et batterie 3000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Wave 2C : Spécifications et Caractéristiques Détaillées",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS COMPACTS",
+            "items": [
+                {
+                    "feature": "Gabarit Ergo 5 Pouces",
+                    "benefice": "Manipulation extrêmement aisée à une seule main."
+                },
+                {
+                    "feature": "Système Android 13 Go",
+                    "benefice": "Utilisation fluide des applications de messagerie courantes."
+                },
+                {
+                    "feature": "Batterie 3000 mAh Pratique",
+                    "benefice": "Alimentation stable pour tenir l'ensemble de la journée."
+                },
+                {
+                    "feature": "Stockage 32 Go Extensible",
+                    "benefice": "Ajout facile d'une carte mémoire pour vos documents."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Wave 2C est un smartphone très compact et particulièrement simple d'utilisation. Cet appareil s'adresse parfaitement aux utilisateurs recherchant un téléphone maniable en Côte d'Ivoire. Par ailleurs, sa puce Quad-Core garantit un fonctionnement régulier au quotidien. De plus, son écran de 5.0 pouces assure une manipulation à une main d'une grande aisance. La batterie amovible de 3000 mAh vous accompagne sereinement pendant vos déplacements. Son format réduit de 135.6 mm se glisse dans n'importe quelle poche. L'interface DokeOS 4.0 Go sous Android 13 rend la navigation très intuitive. Enfin, ce modèle constitue une solution téléphonique d'une excellente praticité.",
+        "sections": [
+            {
+                "h2_title": "Écran Compact 5 Pouces et Ergonomie Minimale",
+                "paragraphs": [
+                    "Le Blackview Wave 2C intègre un écran de 5.0 pouces au format 18:9. Sa résolution FWVGA+ de 960 x 480 pixels offre une affichage suffisant pour vos SMS et appels. De plus, les contours arrondis du boîtier s'adaptent naturellement à la forme de la main. De surcroît, le processeur Quad-Core à 1.3 GHz prend en charge vos applications de messagerie avec efficacité. Les 3 Go de mémoire RAM garantissent une réactivité satisfaisante pour les usages de base.",
+                    "La mémoire interne de 32 Go conserve vos contacts et vos messages importants. La présence d'un port MicroSD permet d'ajouter une carte mémoire jusqu'à 256 Go supplémentaires. En effet, le châssis intègre deux emplacements pour cartes SIM afin de gérer deux numéros. Cette flexibilité matérielle simplifie votre organisation téléphonique au quotidien. Vos données personnelles restent bien protégées."
+                ]
+            },
+            {
+                "h2_title": "Capteurs Utiles et Connectivité Essentielle",
+                "paragraphs": [
+                    "Le Blackview Wave 2C comporte un capteur photo arrière de 5 Mégapixels avec Flash LED. Cet objectif prend des clichés clairs de vos documents et photos souvenirs. En outre, la caméra frontale de 2 Mégapixels s'avère pratique pour vos appels vidéo occasionnels. Les commandes de l'appareil photo restent très simples à prendre en main. La prise de vue se fait en un seul geste sans réglage complexe.",
+                    "Par ailleurs, le haut-parleur intégré restitue des appels vocaux d'une excellente intelligibilité. De plus, la prise casque 3.5 mm permet de brancher vos écouteurs pour écouter la radio FM. Le module Bluetooth assure l'appairage rapide de vos kits mains libres sans fil. De surcroît, la puce GPS intégrée aide à la géolocalisation lors de vos trajets urbains. En somme, ce téléphone rassemble tout le nécessaire."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 3000 mAh et Légèreté au Quotidien",
+                "paragraphs": [
+                    "La batterie de 3000 mAh procure une autonomie rassurante pour la journée. Cet accumulateur alimente efficacement le système sans consommer d'énergie inutile. Le port de charge Micro-USB assure un rechargement simple à domicile ou au bureau. En effet, l'édition optimisée Android 13 Go préserve la batterie au fil des heures. Vos communications se maintiennent sans coupure.",
+                    "La légèreté de 158 grammes offre un confort d'utilisation vraiment remarquable. Sa structure robuste résiste très bien aux petits chocs des déplacements quotidiens. Le Blackview Wave 2C représente un choix très abordable pour s'équiper à Abidjan. En somme, son tarif accessible en fait une option de choix pour tous. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Wave 2C",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Wave 2C."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "135.6 x 70.2 x 11.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.158 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Ultra-compact avec batterie amovible"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "5.0 pouces FWVGA+ TN LCD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "960 x 480 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Quad-Core 1.3 GHz"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "3 Go (+3 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "32 Go (extensible par MicroSD jusqu'à 256 Go)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "5 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "2 MP"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "3000 mAh (amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "5W (Micro-USB)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "3G WCDMA / 2G GSM Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 b/g/n, Bluetooth 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 Go Edition (DokeOS 4.0 Go)"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise Jack 3.5 mm & Radio FM"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/wave-2c-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

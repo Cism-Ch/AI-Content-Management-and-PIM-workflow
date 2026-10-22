@@ -1,0 +1,406 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-15-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi 15 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Series",
+        "commercial_name": "Xiaomi Redmi 15 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-entry-standard",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-15",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-15"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+15+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+15+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone accessible Xiaomi Redmi 15 4G avec grand écran 6.79 pouces FHD+ 90Hz capteur photo 50MP processeur Snapdragon 685 et batterie 5000 mAh."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 685 (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Haut-parleur puissant avec boost de volume",
+        "audio_tech": "Prise jack 3.5mm et radio FM intégrée",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement dédié)",
+        "weight": "0.195 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-15",
+        "Name": "Xiaomi Redmi 15 4G - Dual SIM - Écran 6.79\" FHD+ 90Hz - (4 Go & 128 Go / 8 Go & 256 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "105000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi 15 4G, Redmi Series, Smartphone, 4G, Écran FHD+, Écran 90Hz, Capteur 50MP, 5000mAh, Charge 33W, Snapdragon 685, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Vert",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.195 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "4-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "4-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "125000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "125000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "125000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi 15",
+        "teaser": "Le smartphone Xiaomi Redmi 15 4G associe un écran immersif de 6.79 pouces Full HD+ 90Hz à un capteur photo de 50 MP. Équipé du processeur Qualcomm Snapdragon 685 et d'une batterie de 5000 mAh avec charge 33W, il procure une expérience quotidienne fiable.",
+        "top_features_detailed": [
+            {
+                "label": "Grand Écran 6.79\" FHD+ 90Hz",
+                "detail": "Affichage généreux et net en Full HD+ pour naviguer confortablement sur vos applications."
+            },
+            {
+                "label": "Capteur Photo 50 MP Détaillé",
+                "detail": "Prises de vue lumineuses pour immortaliser vos moments de partage au quotidien."
+            },
+            {
+                "label": "Puce Snapdragon 685 (6 nm)",
+                "detail": "Processeur Qualcomm économe et stable assurant une navigation sans surchauffe."
+            },
+            {
+                "label": "Batterie 5000 mAh et Charge 33W",
+                "detail": "Alimentation constante pour tenir toute la journée avec recharge rapide 33W."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone essentiel équilibré réunissant grand écran FHD+ et recharge rapide 33W.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi 15 4G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi 15 4G à Abidjan chez My-eStore. Grand écran 6.79 pouces FHD+ 90Hz, capteur 50MP et charge 33W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi 15 4G : FHD+ 90Hz & Charge 33W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi 15 4G chez My-eStore. Grand écran 6.79 pouces FHD+ 90Hz, capteur 50MP et charge rapide 33W au meilleur prix à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi 15 4G",
+            "lsi_keywords": [
+                "Xiaomi Redmi 15 4G Abidjan",
+                "Redmi 15 prix Abidjan",
+                "smartphone grand écran FHD+",
+                "Snapdragon 685 Xiaomi pas cher",
+                "Redmi 15 batterie 5000 mAh"
+            ]
+        },
+        "h1": "Xiaomi Redmi 15 4G : Grand Écran 6.79\" FHD+, Capteur 50 MP et Charge 33W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi 15 4G",
+            "items": [
+                {
+                    "feature": "Grand Écran 6.79\" FHD+",
+                    "benefice": "Affichage généreux et net en 90Hz pour un confort de lecture optimal"
+                },
+                {
+                    "feature": "Capteur Photo 50 MP",
+                    "benefice": "Prises de vue précises et lumineuses adaptées à vos souvenirs du quotidien"
+                },
+                {
+                    "feature": "Puce Snapdragon 685",
+                    "benefice": "Processeur Qualcomm économe et stable pour une fluidité continue"
+                },
+                {
+                    "feature": "Batterie 5000 mAh & 33W",
+                    "benefice": "Autonomie sereine d'une journée complète avec recharge rapide 33W"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi 15 4G modernise l'entrée de gamme grâce à un grand écran Full HD+. En effet, sa diagonale généreuse de 6.79 pouces offre un affichage spacieux très reposant pour les yeux. Sa dalle rafraîchie à 90Hz permet ainsi une consultation quotidienne très fluide des applications courantes. De plus, le capteur photo principal de 50 mégapixels enregistre des clichés nets et lumineux. Cet appareil polyvalent répond avec constance aux exigences pratiques des usagers actifs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Affichage Confortable 6.79 Pouces FHD+ et Fluidité 90Hz",
+                "paragraphs": [
+                    "La grande dalle IPS de 6.79 pouces affiche une résolution Full HD+ particulièrement précise. Sa luminosité renforcée assure ainsi une lisibilité satisfaisante sous le soleil direct en extérieur. Le taux de rafraîchissement de 90Hz adoucit les défilements lors de vos recherches habituelles. De surcroît, les certifications de réduction de lumière bleue préservent le confort de votre vue. Le verre protecteur trempé prévient l'apparition des marques d'usure liées aux manipulations fréquentes. Cette surface étendue facilite grandement la lecture prolongée de documents et de longs articles.",
+                    "Le châssis soigné présente des finitions sobres avec des tranches plates agréables au toucher. Son profil mince permet par conséquent une préhension sûre lors de tous vos déplacements. Le lecteur d'empreintes digitales placé sur la bordure latérale déverrouille l'écran sans attente superflue. En outre, la prise audio jack 3.5 millimètres autorise le branchement direct d'écouteurs filaires. Un haut-parleur optimisé diffuse les sonneries et contenus multimédias avec une puissance appréciable. L'ensemble forme un smartphone équilibré adapté à une utilisation urbaine intensive et régulière."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50 MP Net et Polyvalence des Prises de Vue",
+                "paragraphs": [
+                    "Le capteur photo principal atteint 50 mégapixels pour immortaliser vos scènes avec clarté. Il restitue ainsi des détails nets et des teintes naturelles sur chaque cliché enregistré. Les algorithmes de traitement logiciel équilibrent automatiquement les zones sombres lors des prises diurnes. Par ailleurs, le capteur de profondeur secondaire génère un flou d'arrière-plan valorisant les portraits. Le mode nuit optimise la clarté globale lorsque l'éclairage ambiant commence à faiblir. Vos photographies de famille et paysages urbains restent immédiatement partageables sur vos réseaux.",
+                    "La caméra frontale de 13 mégapixels cadre précisément vos selfies pour vos profils professionnels. Elle assure en outre des appels vidéo nets lors de vos échanges avec vos proches. Plusieurs filtres créatifs intégrés permettent d'ajuster l'ambiance visuelle selon vos préférences personnelles. De même, l'enregistrement vidéo en définition Full HD garantit des séquences stables au quotidien. L'interface de capture réactive autorise un déclenchement instantané pour saisir chaque instant spontané. Cette panoplie photographique complète répond aux attentes visuelles de tous les créateurs débutants."
+                ]
+            },
+            {
+                "h2_title": "Processeur Snapdragon 685 et Autonomie 5000 mAh avec Charge 33W",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 685 bénéficie d'une gravure soignée en 6 nanomètres. Cette conception thermique modérée garantit ainsi une consommation d'énergie maîtrisée durant la journée. Les huit cœurs cadencés jusqu'à 2.8 GHz traitent vos applications avec une fluidité rassurante. En effet, le système Xiaomi HyperOS gère efficacement l'allocation de la mémoire vive disponible. Un tiroir pour carte microSD permet d'étendre facilement la capacité de stockage interne. Vous conservez vos documents volumineux et vos galeries photos sans craindre le moindre encombrement.",
+                    "La batterie intégrée de 5000 mAh procure une réserve d'énergie stable tout au long du jour. Elle autorise par conséquent de longues heures d'appels et de streaming vidéo sans interruption. Le chargeur rapide de 33W rétablit rapidement la batterie via le connecteur USB Type-C. De surcroît, des mécanismes de sécurité veillent scrupuleusement sur la température durant la charge. Cette fiabilité matérielle prolonge sensiblement la durée de vie globale de votre investissement. Le Redmi 15 4G s'impose comme un smartphone accessible et très endurant au quotidien."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi 15 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.0 x 76.5 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "195 g (0.195 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP53 résistant à la poussière et aux éclaboussures légères"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Bleu (Sky Blue), Vert (Mint Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 90Hz, 550 nits (HBM)"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.79 pouces (~85.1% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "Full HD+ (1080 x 2460 pixels, ~396 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 685 (6 nm, Octa-core jusqu'à 2.8 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 610"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "4 Go + 128 Go / 8 Go + 256 Go (eMMC 5.1)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP (f/1.8, 28mm grand-angle, PDAF)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "2 MP (f/2.4, profondeur)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "13 MP (f/2.0, grand-angle)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 images par seconde"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge rapide 33W"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande, Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale latérale, accéléromètre, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur puissant, prise casque 3.5mm, radio FM"
+                        }
+                    ]
+                }
+            ],
+            "verification_sources": [
+                {
+                    "name": "Xiaomi Official Store",
+                    "url": "https://www.mi.com/global/"
+                },
+                {
+                    "name": "Recherche Générique",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+15+4G"
+                },
+                {
+                    "name": "Recherche Spécialisée IA",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+15+4G+specifications"
+                }
+            ],
+            "official_disclaimer": "Les spécifications techniques et visuels sont fournis à titre indicatif selon les données constructeur certifiées. Les caractéristiques d'autonomie et de vitesse de charge peuvent varier selon les conditions d'utilisation réelles.",
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+15+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+15+4G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

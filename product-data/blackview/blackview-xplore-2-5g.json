@@ -1,0 +1,317 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Xplore 2 5G",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/blackview_xplore_2_5g-14229.php"
+            }
+        ],
+        "pricing_reference": "269000",
+        "official_sku": "BV-XPLORE-2-5G"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8020 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.6 GHz",
+        "screen_size": "6.73 pouces",
+        "screen_technology": "FHD+ IPS LCD 120Hz PANDA Glass",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "20000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible jusqu'à 32 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "108 MP (Samsung ISOCELL HM6) avec Flash LED",
+        "camera_selfie": "32 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo Box & Prise Jack 3.5mm",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 2 To)",
+        "charging_wired": "Charge Rapide 33W USB-C & Charge inversée",
+        "dimensions": "186 x 87.8 x 29 mm",
+        "weight": "0.670 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-XPLORE-2-5G-MASTER",
+        "Name": "Blackview Xplore 2 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "269000",
+        "Categories": "Smartphones > Blackview > Xplore Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Xplore 2 5G, Smartphone Incassable, Dimensity 8020, 108MP, 20000mAh, 1TB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 1 To",
+        "Attribute 2 default": "1 To",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.670 kg",
+        "Attribute 4 default": "0.670 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Xplore 2 5G : Smartphone Incassable 6.73\" 120Hz 108 MP 1 To 20000 mAh 33W",
+        "brand_line": "Le smartphone incassable 5G d'élite Blackview doté d'un stockage massif de 1 To et d'une autonomie géante.",
+        "marketing_conclusion": "Commandez le Blackview Xplore 2 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Xplore 2 5G propose un écran de 6.73 pouces FHD+ à 120 Hz, un capteur photo de 108 MP, 1 To de stockage et une batterie géante de 20000 mAh.",
+        "features": [
+            {
+                "feature": "Capacité Stockage Généreuse de 1 To",
+                "benefice": "Conservation illimitée de tous vos documents techniques et médias."
+            },
+            {
+                "feature": "Accumulateur Massive 20000 mAh",
+                "benefice": "Autonomie de secours d'une semaine sur le terrain."
+            },
+            {
+                "feature": "Écran 6.73\" FHD+ IPS 120Hz",
+                "benefice": "Fluidité de défilement et clarté d'affichage remarquable."
+            },
+            {
+                "feature": "Puce Dimensity 8020 5G & IP68",
+                "benefice": "Vitesse de calcul élevée et robustesse blindée intégrale."
+            }
+        ],
+        "slogan_final": "Blackview Xplore 2 5G — La robustesse extrême et le stockage infini.",
+        "seo": {
+            "meta_title": "Acheter Blackview Xplore 2 5G (16Go/1To) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone incassable 5G Blackview Xplore 2 avec stockage 1 To, caméra 108 MP et batterie 20000 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Xplore 2 5G, smartphone incassable 1To, prix Abidjan, 20000mAh 108MP"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Xplore 2 5G",
+            "lsi_keywords": [
+                "Blackview Xplore 2 5G",
+                "smartphone incassable 1 To Blackview Abidjan",
+                "Blackview Xplore 2 5G prix",
+                "téléphone chantier 1 To 20000 mAh",
+                "téléphone 108 MP dimensity 8020",
+                "smartphone ultra resistant Côte d'Ivoire",
+                "achat téléphone Xplore 2 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Xplore 2 5G 1 To : 20000 mAh & 108 MP | My-eStore",
+            "meta_description": "Achetez le smartphone incassable 5G Blackview Xplore 2. Écran 6.73\" 120Hz, caméra 108 MP, batterie 20000 mAh 33W et stockage 1 To. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Xplore 2 5G : Spécifications du Smartphone Incassable 1 To",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU SMARTPHONE DE L'EXTRÊME",
+            "items": [
+                {
+                    "feature": "Mémoire Stockage de 1 To",
+                    "benefice": "Sauvegarde sans limite de vos projets professionnels."
+                },
+                {
+                    "feature": "Batterie Géante de 20000 mAh",
+                    "benefice": "Autonomie remarquable atteignant une semaine entière."
+                },
+                {
+                    "feature": "Blindage Certifié IP68 & MIL-STD",
+                    "benefice": "Résistance éprouvée contre l'eau, les chocs et la poussière."
+                },
+                {
+                    "feature": "Processeur Dimensity 8020 5G",
+                    "benefice": "Performances ultra-fluides pour le jeu et le travail."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Xplore 2 5G est un smartphone incassable particulièrement robuste et performant. Cet équipement convient très bien aux professionnels du terrain et baroudeurs en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.73 pouces en définition FHD+ offre une lisibilité visuelle très claire. De plus, son taux de rafraîchissement de 120 Hz apporte une fluidité constante. La batterie gigantesque de 20000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier blindé de 29 mm gagne une prise en main très sûre. L'interface DokeOS 4.0 sous Android 14 simplifie l'accès à vos dossiers. Enfin, ce smartphone durci constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.73 Pouces 120Hz et Puce Dimensity 8020 5G",
+                "paragraphs": [
+                    "Le Blackview Xplore 2 5G intègre une grande dalle IPS de 6.73 pouces en définition FHD+. Sa résolution de 2460 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, la fréquence de rafraîchissement de 120 Hz améliore la fluidité tactile lors du défilement. De surcroît, le processeur Dimensity 8020 à huit cœurs cadencés à 2.6 GHz gère facilement vos logiciels. Les 16 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go ou 1 To conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 5G pour une connectivité réseau constante. Cette conception blindée protège le téléphone en toutes circonstances. Vos applications de chantier restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 108 MP, Puce NFC et Son Stéréo Box",
+                "paragraphs": [
+                    "Le Blackview Xplore 2 5G embarque un capteur photo principal de 108 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en extérieur. En outre, la caméra frontale de 32 Mégapixels s'avère très pratique pour les appels vidéo clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, la captation vidéo en haute résolution immortalise vos moments précieux. La précision d'image reste constante.",
+                    "Par ailleurs, la puce NFC multifonction permet des paiements rapides sans contact. De plus, le capteur d'empreintes digitales latéral garantit un accès sécurisé immédiat. Également, le module GPS quadruples réseaux assure un guidage très précis lors de vos déplacements. De surcroît, la prise jack 3.5mm autorise le raccordement de votre casque audio. En somme, ce smartphone durci réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 20000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 20000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption durant de longues journées. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, le système de charge inversée permet d'alimenter vos autres appareils électroniques. Vos activités de terrain se poursuivent sans interruption.",
+                    "La silhouette blindée offre une tenue en main robuste et très résistante aux chocs. Son poids de 670 grammes témoigne de l'épaisseur du blindage et de la batterie. D'autre part, le Blackview Xplore 2 5G constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa robustesse en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Xplore 2 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone incassable Blackview Xplore 2 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Robustesse",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "186 x 87.8 x 29 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.670 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68 & IP69K & MIL-STD-810H (Résistant aux chutes de 1.5m et immersion)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.73 pouces IPS LCD FHD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2460 x 1080 pixels (396 ppi)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 8020 Octa-Core 2.6 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G68 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR4X (+16 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 1 To UFS 3.1 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "108 MP (Samsung ISOCELL HM6, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "20000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Oui (Powerbank de secours pour d'autres téléphones)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.1"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/blackview_xplore_2_5g-14229.php"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

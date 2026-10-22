@@ -1,0 +1,303 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "MP20 (Ryzen 3 3300U)",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/mp20-price"
+            }
+        ],
+        "pricing_reference": "135000",
+        "official_sku": "BV-MP20-RYZEN3"
+    },
+    "key_specifications": {
+        "processor": "AMD Ryzen 3 3300U 3.6 GHz",
+        "processor_ghz": "Fréquence 3.6 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "Double Affichage 4K UHD via 2x HDMI 2.0",
+        "screen_resolution": "Support 4K 60Hz Dual-Display",
+        "battery_capacity": "Alimentation secteur DC 12V 3A (36W)",
+        "ram_options": [
+            "8 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "N/A",
+        "os": "Windows 11 Pro Officiel préinstallé",
+        "os_skin": "Refroidissement Ultra-Silencieux <30 dB",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Prise Jack Audio Combo 3.5mm & HDMI",
+        "audio_tech": "Son HD Realtek Audio",
+        "connectivity_nfc": "Wi-Fi 5 Dual-Band & Bluetooth 4.2",
+        "navigation_gps": "N/A",
+        "card_slot": "Emplacement SSD M.2 SATA/NVMe + Port MicroSD",
+        "charging_wired": "Adaptateur Secteur 36W inclus",
+        "dimensions": "100 x 100 x 35.2 mm",
+        "weight": "0.265 kg",
+        "graphics": "AMD Radeon Vega 6 Graphics",
+        "graphics_card": "AMD Radeon Vega 6 Graphics"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MP20-MASTER",
+        "Name": "Blackview MP20 Mini PC",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "135000",
+        "Categories": "Matériels Informatique & Bureautique > Ordinateurs Portable > Mini PC, Matériels Informatique & Bureautique > Ordinateurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview MP20, Mini PC Intel, 8GB RAM, 256GB SSD, Dual 4K, Windows 11 Pro, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.265 kg",
+        "Attribute 4 default": "0.265 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview MP20 : Mini PC Intel N95 4 Coeurs 16 Go RAM Dual Écran 4K UHD",
+        "brand_line": "Le Mini PC ultra-compact de poche Blackview pour la bureautique et le multimédia.",
+        "marketing_conclusion": "Commandez le Blackview MP20 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview MP20 intègre un processeur Intel N95 4 cœurs, jusqu'à 16 Go de RAM, le support double écran 4K et un format de 10x10 cm.",
+        "features": [
+            {
+                "feature": "Format Ultra-Poche 10 x 10 cm",
+                "benefice": "Encombrement quasi nul pour un bureau parfaitement épuré."
+            },
+            {
+                "feature": "Processeur Intel N95 4 Cœurs",
+                "benefice": "Saisie rapide de vos documents et traitement fluide."
+            },
+            {
+                "feature": "Double Sortie Écran 4K HDMI",
+                "benefice": "Multitâche confortable sur deux moniteurs."
+            },
+            {
+                "feature": "Windows 11 Pro Préinstallé",
+                "benefice": "Prise en main immédiate dès le premier branchement."
+            }
+        ],
+        "slogan_final": "Blackview MP20 — L'efficacité informatique dans la paume de la main.",
+        "seo": {
+            "meta_title": "Acheter Blackview MP20 Mini PC à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Mini PC compact Blackview MP20 avec puce Intel N95, 16 Go RAM et Windows 11 Pro. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview MP20, Mini PC compact, prix Abidjan, Intel N95 Windows 11 Pro"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview MP20",
+            "lsi_keywords": [
+                "Blackview MP20",
+                "Mini PC ultra compact Blackview Abidjan",
+                "Blackview MP20 prix",
+                "mini pc de poche intel n95",
+                "mini pc bureautique windows 11",
+                "ordinateur compact Côte d'Ivoire",
+                "achat mini pc bureau Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview MP20 Mini PC : Intel 4 Coeurs & Dual 4K | My-eStore",
+            "meta_description": "Achetez le Mini PC Blackview MP20. Processeur Intel 4 cœurs, jusqu'à 16 Go RAM, double écran 4K HDMI et Windows 11 Pro. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview MP20 : Spécifications du Mini PC Ultra-Compact",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA COMPACITÉ",
+            "items": [
+                {
+                    "feature": "Empreinte Minimale 10x10 cm",
+                    "benefice": "Discrétion absolue au dos de votre moniteur."
+                },
+                {
+                    "feature": "Processeur Intel Quad-Core",
+                    "benefice": "Gestion réactive de vos tâches informatiques."
+                },
+                {
+                    "feature": "Double Port HDMI 4K 60Hz",
+                    "benefice": "Affichage fluide sur deux écrans de travail."
+                },
+                {
+                    "feature": "Faible Consommation 36W",
+                    "benefice": "Économie d'énergie constante au bureau."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview MP20 est un Mini PC ultra-compact particulièrement silencieux et performant. Cet équipement convient très bien aux secrétariats et commerces en Côte d'Ivoire. Par ailleurs, son châssis miniature de 100 mm offre une lisibilité visuelle très moderne. De plus, son système de refroidissement silencieux garantit un confort de travail quotidien. Le processeur Intel Quad-Core permet de travailler en toute sérénité sans ralentissements. Son poids de 265 grammes garantit une prise en main très pratique. L'environnement Windows 11 Pro préinstallé simplifie l'accès à vos logiciels. Enfin, cet ordinateur miniature constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Processeur Intel 4 Cœurs et Mémoire Vive",
+                "paragraphs": [
+                    "Le Blackview MP20 intègre une puce Intel N95 à 4 cœurs. Sa fréquence Turbo monte à 3.4 GHz pour restituer des détails de traitement impressionnants. De plus, la puce graphique UHD intégrée apporte une fluidité constante sur la bureautique. De surcroît, la mémoire RAM de 8 Go ou 16 Go gère facilement vos fenêtres web. Les applications de gestion répondent immédiatement.",
+                    "Le stockage SSD de 256 Go ou 512 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale très simplement. En effet, l'ouverture du boîtier s'effectue sans effort pour accéder au stockage en toutes circonstances. Cette conception robuste protège les composants électroniques. Vos dossiers administratifs restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Double Sortie HDMI 4K, Wi-Fi Dual-Band et Connectique",
+                "paragraphs": [
+                    "Le Blackview MP20 embarque deux sorties vidéo HDMI 2.0 certifiées 4K UHD. Cet équipement vidéo diffuse une image haute définition d'une netteté remarquable sur deux moniteurs. En outre, la connectivité Wi-Fi Dual-Band s'avère très pratique pour des connexions internet stables. Les antennes intégrées optimisent la captation réseau même à distance du routeur. Ainsi, le port Ethernet RJ45 immortalise vos échanges de données professionnels. La vitesse de transmission reste constante.",
+                    "Par ailleurs, les ports USB 3.0 permettent de connecter votre clavier et souris. De plus, la prise jack 3.5mm autorise le branchement de haut-parleurs externes. Également, la fixation VESA incluse permet d'accrocher le PC derrière l'écran. De surcroît, la faible consommation électrique garantit un usage très économique. En somme, ce Mini PC de poche réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Refroidissement Discret et Windows 11 Pro",
+                "paragraphs": [
+                    "Le système de refroidissement interne procure une dissipation thermique supérieure. Cette importante technologie vous permet de travailler sans interruption dans le calme absolu. D'ailleurs, l'alimentation externe 36W prend en charge le fonctionnement continu au bureau. En effet, la ventilation silencieuse génère moins de 30 dB de bruit ambiant. Vos heures de travail se poursuivent sans interruption.",
+                    "La silhouette épurée de 35.2 mm de hauteur offre un rangement sur bureau naturel et très sobre. Son poids ultra-léger de 265 grammes témoigne du soin apporté à la miniaturisation. D'autre part, le Blackview MP20 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son format miniature en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview MP20",
+                "subtitle": "Spécifications matérielles certifiées du Mini PC Blackview MP20."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "100 x 100 x 35.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.265 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Boîtier ultra-poche (Support VESA inclus)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Intel N95 (4 Cœurs / 4 Threads, jusqu'à 3.4 GHz, 6 Mo Cache)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Intel UHD Graphics"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 16 Go LPDDR4"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go SSD M.2 (extensible via MicroSD)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Affichage multi-écrans",
+                            "valeur": "Jusqu'à 2 écrans 4K simultanés"
+                        },
+                        {
+                            "label": "Connecteurs vidéo",
+                            "valeur": "2x HDMI 2.0 (4K@60Hz)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 ac) Dual-Band 2.4G/5G"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 4.2"
+                        },
+                        {
+                            "label": "Réseau filaire (LAN)",
+                            "valeur": "1x Port Ethernet RJ45 Gigabit (1000 Mbps)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique E/S",
+                    "rows": [
+                        {
+                            "label": "Ports USB",
+                            "valeur": "2x USB 3.0, 2x USB 2.0"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack combo casque/micro 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Windows 11 Pro 64-bit Officiel préinstallé"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Adaptateur secteur externe DC 12V / 3A (36W)"
+                        },
+                        {
+                            "label": "Refroidissement",
+                            "valeur": "Ventilateur silencieux à haute efficacité (<30 dB)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/mp20-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

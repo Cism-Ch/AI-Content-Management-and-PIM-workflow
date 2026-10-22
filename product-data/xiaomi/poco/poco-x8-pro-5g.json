@@ -1,0 +1,475 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO X8 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO X Series",
+        "commercial_name": "Xiaomi POCO X8 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "flagship-speed",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-X8-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-X8-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X8+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+X8+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone performant Xiaomi POCO X8 Pro 5G avec écran 6.59 pouces processeur Dimensity 8500-Ultra batterie 6500 mAh et charge 100W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8500-Ultra (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "2 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "6500 mAh",
+        "charging_wired": "Charge turbo 100W",
+        "navigation_gps": "GPS, GLONASS, Beidou, Galileo, QZSS",
+        "card_slot": "Non (double nano-SIM)",
+        "weight": "0.201 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-X8-PRO-5G",
+        "Name": "Xiaomi POCO X8 Pro 5G - Dual SIM - Écran 6.59\" 144Hz - (8 Go|12 Go & 256 Go|512 Go) - 6500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "285000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO X8 Pro 5G, POCO X Series, Smartphone, Android, 5G, Écran 144Hz, Capteur 50MP, 6500mAh, Charge 100W, Dimensity 8500-Ultra, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Turquoise | Blanc | Jaune",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.201 kg",
+        "Attribute 4 default": "0.201 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Mint Green",
+            "color_code": "TURQUOISE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "285000",
+            "sku_suffix": "8-GB-256-GB-JAUNE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "315000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Mint Green",
+            "color_code": "TURQUOISE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "315000",
+            "sku_suffix": "12-GB-256-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "315000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "315000",
+            "sku_suffix": "12-GB-256-GB-JAUNE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "345000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Mint Green",
+            "color_code": "TURQUOISE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "345000",
+            "sku_suffix": "12-GB-512-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "345000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Jaune",
+            "color_en": "Yellow",
+            "color_code": "JAUNE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "345000",
+            "sku_suffix": "12-GB-512-GB-JAUNE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme X Series Pro Haute Vitesse",
+        "teaser": "Le smartphone 5G Xiaomi POCO X8 Pro 5G associe un écran compact 6.59 pouces à 144Hz et le processeur Dimensity 8500-Ultra. Doté d'une batterie généreuse de 6500 mAh avec charge ultra-rapide 100W, il délivre une réactivité optimale pour vos activités à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Écran AMOLED Compact 6.59\" 144Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Fluidité remarquable et excellente préhension",
+                "technical_detail": "Dalle AMOLED 6.59 pouces rafraîchie à 144Hz avec définition nette et bordures fines.",
+                "daily_impact": "Manipulation agréable à une seule main et transitions visuelles ultra-fluides."
+            },
+            {
+                "feature_title": "Processeur Dimensity 8500-Ultra (4 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Traitement de données rapide pour applications lourdes",
+                "technical_detail": "Architecture 4 nm dernière génération avec GPU véloce pour le jeu et le multitâche.",
+                "daily_impact": "Exécution instantanée des applications professionnelles sans baisse de cadence."
+            },
+            {
+                "feature_title": "Batterie 6500 mAh & Charge Turbo 100W",
+                "badge": "Autonomie",
+                "lead_benefit": "Endurance prolongée et charge complète express",
+                "technical_detail": "Cellule haute densité 6500 mAh associée au chargeur filaire 100W inclus.",
+                "daily_impact": "Journée entière d'activité intensive et ravitaillement rapide en vingt minutes."
+            },
+            {
+                "feature_title": "Appareil Photo 50 MP avec Stabilisation OIS",
+                "badge": "Photo",
+                "lead_benefit": "Prises de vue nettes en toutes circonstances",
+                "technical_detail": "Capteur principal 50 mégapixels stabilisé optiquement pour réduire les flous.",
+                "daily_impact": "Captures précises de documents et photos nettes lors de vos déplacements."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO X8 Pro 5G associe écran AMOLED 144Hz, puce Dimensity 8500-Ultra et charge 100W.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO X8 Pro 5G (12Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO X8 Pro 5G chez My-eStore. Écran 6.59 pouces 144Hz, Dimensity 8500-Ultra et charge 100W au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO X8 Pro 5G 512Go : Dimensity 8500-Ultra & 100W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO X8 Pro 5G chez My-eStore. Écran 6.59 pouces 144Hz, puce Dimensity 8500-Ultra et charge 100W au tarif garanti à Abidjan."
+        },
+        "h1": "Xiaomi POCO X8 Pro 5G : Écran 144Hz, Dimensity 8500-Ultra et Charge 100W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO X8 Pro 5G",
+            "items": [
+                {
+                    "feature": "Écran 6.59\" 144Hz",
+                    "benefice": "Dalle AMOLED lumineuse et très réactive au format ergonomique idéal en main"
+                },
+                {
+                    "feature": "Puce Dimensity 8500-Ultra",
+                    "benefice": "Architecture 4 nm de premier ordre capable d'exécuter les jeux 3D les plus lourds"
+                },
+                {
+                    "feature": "Batterie 6500 mAh",
+                    "benefice": "Grande réserve énergétique assurant une journée complète d'activité intensive"
+                },
+                {
+                    "feature": "Charge Turbo 100W",
+                    "benefice": "Technologie de recharge éclair réduisant drastiquement les temps d'attente filaire"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO X8 Pro 5G combine un format ergonomique et des composants véloces. En effet, sa dalle AMOLED 144Hz procure une lisibilité nette sur chaque détail. De plus, son processeur Dimensity 8500-Ultra gère les calculs graphiques avec souplesse. Cet appareil embarque aussi une batterie durable de 6500 mAh avec charge 100W. Ce modèle répond ainsi aux attentes des utilisateurs professionnels exigeants à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Écran AMOLED 144Hz Lumineux et Châssis Ergonomique",
+                "paragraphs": [
+                    "L'écran compact de 6.59 pouces présente une définition élevée sur toute sa surface. Cette dalle moderne affiche des contrastes profonds pour faciliter la lecture quotidienne. De plus, la fréquence de 144Hz offre des animations particulièrement souples lors des navigations. La luminosité équilibrée maintient une visibilité claire même sous un fort ensoleillement. Ce panneau protecteur préserve également l'affichage face aux frottements réguliers du transport. Vous bénéficiez ainsi d'un confort visuel constant durant vos heures de travail.",
+                    "Le format maîtrisé facilite grandement la préhension du téléphone à une seule main. Cette conception allégée se glisse aisément dans une poche sans peser lourd. Par ailleurs, les certifications d'étanchéité préservent les circuits internes contre les liquides. Deux haut-parleurs stéréo diffusent des timbres distincts lors de vos appels vidéos. Ce système acoustique enrichit également le rendu de vos présentations d'entreprise. Vous disposez ainsi d'un outil multimédia fonctionnel pour vos rendez-vous professionnels."
+                ]
+            },
+            {
+                "h2_title": "Puce Dimensity 8500-Ultra et Traitement Multitâche Instantané",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 8500-Ultra déploie des calculs réactifs sur chaque tâche. Cette puce gravée en 4 nanomètres allie cadence élevée et maîtrise thermique constante. De surcroît, la mémoire vive spacieuse fluidifie le passage entre plusieurs applications lourdes. Le modem 5G intégré assure des transferts de données rapides sur les réseaux locaux. Cet ensemble technique favorise ainsi un partage fluide de vos documents volumineux. Vous conservez une cadence de travail stable sans craindre le moindre ralentissement.",
+                    "L'environnement Xiaomi HyperOS alloue judicieusement la mémoire aux outils en cours d'exécution. Cette gestion logicielle réduit les temps d'attente lors du lancement de vos applications. En outre, la mémoire de stockage rapide charge vos bibliothèques de fichiers instantanément. Les fonctions de sécurité intégrées garantissent la protection stricte de vos informations. Le lecteur biométrique assure un déverrouillage discret et fiable de votre session. Vous protégez ainsi efficacement vos dossiers confidentiels lors de tous vos déplacements."
+                ]
+            },
+            {
+                "h2_title": "Batterie Haute Capacité 6500 mAh et Charge Express 100W",
+                "paragraphs": [
+                    "La batterie de 6500 mAh procure une autonomie prolongée pour vos activités soutenues. Cet accumulateur robuste absorbe les longues journées de travail sans baisse d'énergie. Par conséquent, les professionnels nomades travaillent sans angoisse de panne électrique imprévue. La gestion énergétique logicielle adapte la consommation selon vos besoins réels du moment. Ce procédé maintient ainsi un niveau de charge confortable jusqu'en fin de soirée. Vous accomplissez vos tâches quotidiennes en profitant d'une disponibilité téléphonique totale.",
+                    "Le chargeur filaire de 100W redonne rapidement toute son autonomie au téléphone. Cette puissance de charge restaure la quasi-totalité de l'accumulateur en vingt minutes. De plus, des sondes thermiques contrôlent la dissipation thermique durant la phase d'alimentation. Le connecteur USB Type-C autorise aussi la transmission rapide de vos fichiers professionnels. Cette connectique solide résiste aux branchements répétés sans perte de contact mécanique. Cet appareil constitue ainsi une solution mobile durable pour les usagers à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO X8 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "157.5 x 75.2 x 8.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "201 g (0.201 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en alliage d'aluminium, dos en verre texturé, face avant en verre trempé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Turquoise (Mint Green), Blanc (White), Jaune (Yellow)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.59 pouces (ratio écran-corps ~90.2%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2670 x 1200 pixels), ratio 20:9 (~440 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1400 nits (HBM), 2000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 8500-Ultra (4 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali GPU haute cadence"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 50 MP (f/1.6, OIS) + ultra grand-angle 8 MP + téléobjectif 2x 50 MP"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "20 MP, f/2.2, enregistrement 1080p@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6500 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 100W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 / Wi-Fi 6E (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X8+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+X8+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

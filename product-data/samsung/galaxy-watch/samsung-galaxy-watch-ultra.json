@@ -1,0 +1,402 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch Ultra",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-ULTRA",
+        "price": "445000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch Ultra conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch Ultra",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-ultra",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-ULTRA",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch-ultra/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch Ultra Titane 47mm Sapphire 3000nits 590mAh 32Go 10ATM IP68"
+    },
+    "key_specifications": {
+        "screen_size": "1.5\"",
+        "screen_type": "Super AMOLED Sapphire 3000 nits",
+        "battery_capacity": "590 mAh",
+        "charging_wired": "Charge Rapide sans fil WPC",
+        "processor": "Samsung Exynos W1000 (3nm)",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "navigation_gps": "GPS double fréquence (L1+L5)",
+        "audio_config": "Haut-parleur puissant avec sirène d'urgence 86dB et micro",
+        "audio_tech": "Sirène d'urgence, Appels 4G & Bluetooth",
+        "card_slot": "eSIM 4G intégrée",
+        "color_options": [
+            "Gris",
+            "Argent",
+            "Blanc",
+            "Bleu"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-ULTRA",
+        "Name": "Samsung Galaxy Watch Ultra - Boîtier Titane 47mm - (2 Go & 32 Go) - 590mAh - IP68 10ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "445000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch Ultra, Galaxy Watch Series, Montre connectée, Smartwatch, 4G, Super AMOLED, 590mAh, Exynos W1000, Titane, BioActive, 10ATM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Blanc, Bleu",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.061 kg",
+        "Attribute 4 default": "0.061 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G LTE, Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Aventure Outdoor Sans Limite avec Boîtier Titane Grade 4 et Écran 3000 nits.",
+        "teaser": "Découvrez la Samsung Galaxy Watch Ultra avec son boîtier en titane aérospatial de 47 mm, son écran saphir de 3000 nits, sa batterie de 590 mAh, son étanchéité 10ATM et son bouton d'action rapide.",
+        "top_features_detailed": [
+            {
+                "feature": "Boîtier Titane Grade 4 & Cristal de Saphir",
+                "benefice": "Solidité exemplaire face aux impacts violents et aux environnements hostiles"
+            },
+            {
+                "feature": "Écran Super AMOLED 3000 nits",
+                "benefice": "Visibilité irréprochable sous la lumière directe du soleil en haute montagne"
+            },
+            {
+                "feature": "Batterie 590 mAh & Mode Économie",
+                "benefice": "Jusqu'à 100 heures d'autonomie pour vos expéditions et parcours d'ultra-trail"
+            },
+            {
+                "feature": "Étanchéité 10ATM & Sirène d'Urgence",
+                "benefice": "Résistance à l'eau jusqu'à 100 mètres et signal sonore de sécurité de 86 décibels"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée pour sportifs extrêmes associant conception robuste, géolocalisation de précision et endurance taillée pour l'aventure.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch Ultra à Abidjan | My-eStore",
+            "meta_description": "Achetez la montre connectée Samsung Galaxy Watch Ultra à Abidjan chez My-eStore. Boîtier Titane 47mm, batterie 590 mAh, 10ATM, 32 Go, livraison rapide.",
+            "focus_keyword": "Samsung Galaxy Watch Ultra",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch Ultra",
+                "Galaxy Watch Ultra Abidjan",
+                "prix Galaxy Watch Ultra",
+                "montre titane outdoor Samsung"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Galaxy Watch Ultra : Boîtier Titane & 3000 nits | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch Ultra sur My-eStore. Boîtier en titane grade 4, écran saphir 3000 nits, batterie 590 mAh, 10ATM et sirène de sécurité.",
+            "focus_keyword": "Samsung Galaxy Watch Ultra",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch Ultra",
+                "Galaxy Watch Ultra titane",
+                "Galaxy Watch Ultra Abidjan",
+                "montre Samsung outdoor 10ATM"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch Ultra : Boîtier Titane, Dalle 3000 nits et Bouton d'Action",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch Ultra s'adresse aux sportifs d'endurance avec son boîtier en titane aérospatial. Cette structure robuste accueille un écran Super AMOLED montant à trois mille nits. De plus, sa puce gravée en 3nm traite vos cartes interactives avec une promptitude exemplaire. Le bouton d'action latéral déclenche immédiatement vos chronomètres et modes d'entraînement. Enfin, sa batterie de 590 mAh garantit une disponibilité durable lors de vos expéditions outdoor.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch Ultra",
+            "items": [
+                {
+                    "feature": "Boîtier en Titane Grade 4 Aérospatial",
+                    "benefice": "Haute résistance mécanique face aux chocs et aux variations climatiques rudes"
+                },
+                {
+                    "feature": "Écran Super AMOLED Sapphire 3000 nits",
+                    "benefice": "Affichage ultra-lumineux permettant une lecture immédiate en plein soleil"
+                },
+                {
+                    "feature": "Batterie Longue Durée 590 mAh",
+                    "benefice": "Autonomie allant jusqu'à 100 heures en mode économie d'exercice"
+                },
+                {
+                    "feature": "Étanchéité 10ATM et Sirène d'Urgence",
+                    "benefice": "Résistance aux sports nautiques jusqu'à 100 mètres et alerte sonore de sécurité"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Châssis Titane Renforcé et Écran Ultra-Lumineux",
+                "paragraphs": [
+                    "D'un côté, le boîtier coussin en titane de quarante-sept millimètres encadre la dalle pour parer les chocs frontaux. Le verre saphir haute dureté repousse les rayures causées par les graviers et frottements métalliques. La luminosité de pointe de 3000 nits assure un confort visuel optimal même sous le soleil zénithale. Par ailleurs, la certification dix ATM autorise les activités aquatiques intenses et les baignades en mer. Les bracelets marins et de trail garantissent une fixation solide et aérée sur le poignet. Vous disposez ainsi d'un instrument d'exploration conçu pour franchir les environnements les plus exigeants.",
+                    "D'un autre côté, le boîtier intègre une puissante sirène de secours capable d'émettre un son à quatre-vingt-six décibels. La conformité aux exigences militaires garantit un fonctionnement continu de moins vingt à cinquante-cinq degrés. Le bouton d'action physique permet de basculer instantanément d'une discipline sportive à une autre. En outre, la sensibilité de la dalle s'adapte automatiquement aux doigts humides pour éviter les erreurs de saisie. Les finitions brossées confèrent une allure affirmée qui valorise votre goût pour l'aventure. Cette montre allie robustesse mécanique et élégance moderne pour toutes vos sorties."
+                ]
+            },
+            {
+                "h2_title": "Géolocalisation Double Fréquence et Outils Santé",
+                "paragraphs": [
+                    "Tout d'abord, la puce GPS double fréquence L1 et L5 traverse sans difficulté les canyons urbains et forêts denses. Ce système de positionnement enregistre vos traces d'entraînement avec une fidélité métrique particulièrement rassurante. Le capteur BioActive surveille votre rythme cardiaque, vos alertes d'effort et votre taux d'oxygène sanguin en continu. De surcroît, le mode Multisport enchaîne automatiquement la natation, le cyclisme et la course à pied. Les guides d'allure personnalisés vous aident à gérer votre endurance sur de longues distances. Vous analysez vos performances physiques grâce à des indicateurs clairs et précis.",
+                    "Dans cette optique, la boussole électronique intégrée permet de revenir rapidement sur vos pas en cas de doute. La montre mesure précisément vos variations d'altitude, vos dénivelés cumulés et votre consommation de calories. La surveillance continue de la récupération nocturne évalue votre capacité à soutenir un nouvel effort dans la journée. Également, l'analyse de composition corporelle vous renseigne sur votre masse musculaire et votre état d'hydratation. Toutes vos données se synchronisent automatiquement avec votre smartphone pour un bilan global. Cet équipement constitue une aide précieuse pour vos projets sportifs les plus ambitieux."
+                ]
+            },
+            {
+                "h2_title": "Puce 3nm Véloce et Autonomie Tout-Terrain",
+                "paragraphs": [
+                    "D'abord, le processeur moderne gravé en 3nm gère avec une grande fluidité vos flux d'applications sportives. Les deux gigaoctets de mémoire vive soutiennent l'affichage réactif de vos cartes et données d'altitude. L'espace de stockage de trente-deux gigaoctets accueille vos tracés d'itinéraires GPX ainsi que vos musiques hors ligne. De même, la connectivité réseau autonome vous permet de recevoir vos alertes prioritaires sans transporter votre téléphone. Le haut-parleur intégré délivre des consignes vocales audibles même en milieu venteux. Vous conservez une totale maîtrise de vos communications directement depuis votre poignet.",
+                    "Enfin, l'accumulateur haute capacité de 590 mAh délivre une réserve d'énergie taillée pour les longues épreuves d'endurance. Le mode d'économie d'entraînement maintient le suivi de géolocalisation actif pendant près de quarante-huit heures. La charge rapide sans fil redonne l'énergie indispensable pour repartir rapidement sur vos chemins de randonnée. Par conséquent, vous explorez de nouveaux territoires sans redouter une coupure soudaine de votre équipement. La fiabilité structurelle garantit une tenue exemplaire au fil des années d'utilisation intensive. La Galaxy Watch Ultra représente le choix par excellence pour repousser vos limites sportives."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch Ultra",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Watch Ultra."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "47.4 x 47.1 x 12.1 mm (47mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.061 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Titane Grade 4 Aérospatial, Verre Cristal de Saphir"
+                        },
+                        {
+                            "label": "Boutons & Commandes",
+                            "valeur": "Bouton d'Action rapide personnalisable, 2 boutons physiques"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 10ATM (100 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display, Mode Nuit auto"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "1.5\" (37.3 mm), 480 x 480 pixels, 327 ppi"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "3000 nits (Peak) lisible en plein soleil"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir haute dureté"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W1000 (3nm) Penta-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "32 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS 5 powered by Samsung avec One UI Watch 6"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Fonctions Outdoor",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive 13 LED (ECG, FC, BIA)"
+                        },
+                        {
+                            "label": "Sécurité & Survie",
+                            "valeur": "Sirène d'urgence intégrée (86 dB audible à 180 mètres)"
+                        },
+                        {
+                            "label": "Capteurs Environnement",
+                            "valeur": "GPS double fréquence (L1+L5), Altimètre barométrique, Boussole"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "590 mAh Li-Ion haute capacité"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 100 heures en mode économie"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge rapide sans fil magnétique WPC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "4G LTE intégrée avec eSIM autonome, 3G"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.3, Wi-Fi 2.4/5GHz dual-band, NFC, GPS L1+L5"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 11.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch-ultra/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Titanium Gray",
+            "color_code": "GRIS",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "445000",
+            "sku_suffix": "2-GB-32-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Titanium Silver",
+            "color_code": "ARGENT",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "445000",
+            "sku_suffix": "2-GB-32-GB-ARGENT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Titanium White",
+            "color_code": "BLANC",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "445000",
+            "sku_suffix": "2-GB-32-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Titanium Blue",
+            "color_code": "BLEU",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "445000",
+            "sku_suffix": "2-GB-32-GB-BLEU"
+        }
+    ]
+}

@@ -1,0 +1,451 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-13-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 13 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 13 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-5g",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-13-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-13-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G Xiaomi Redmi Note 13 Pro 5G doté d'un capteur 200MP OIS processeur Snapdragon 7s Gen 2 écran AMOLED 1.5K 120Hz et charge 67W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7s Gen 2 5G (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "5100 mAh",
+        "charging_wired": "Charge turbo filaire 67W",
+        "navigation_gps": "GPS, GLONASS, BDS, Galileo, QZSS",
+        "card_slot": "Non (stockage interne haute vitesse)",
+        "weight": "0.187 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-13-PRO-5G",
+        "Name": "Xiaomi Redmi Note 13 Pro 5G - Dual SIM - Écran 6.67\" AMOLED 1.5K 120Hz - (8 Go & 128 Go / 256 Go / 512 Go) - 5100 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "195000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 13 Pro 5G, Redmi Note 13, Smartphone, 5G, Écran AMOLED, Écran 120Hz, Capteur 200MP, 5100mAh, Charge 67W, Snapdragon 7s Gen 2, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go | 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.187 kg",
+        "Attribute 4 default": "0.187 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Arctic White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Teal",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Arctic White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Teal",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "250000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Arctic White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "250000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Teal",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "250000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "L'Allié 5G Performant avec Écran CrystalRes 1.5K 120Hz et Capteur 200 MP OIS.",
+        "teaser": "Le smartphone Xiaomi Redmi Note 13 Pro 5G associe la vitesse des réseaux 5G et un écran AMOLED 1.5K à 120Hz. Doté du processeur Snapdragon 7s Gen 2, d'un capteur photo 200 MP avec stabilisation OIS et d'une charge 67W, il assure un confort numérique optimal.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran AMOLED 1.5K 120Hz",
+                "benefice": "Précision d'image supérieure avec une clarté remarquable pour vos vidéos et jeux"
+            },
+            {
+                "feature": "Puce Snapdragon 7s Gen 2 5G",
+                "benefice": "Téléchargements cellulaires véloces et multitâche réactif avec une consommation mesurée"
+            },
+            {
+                "feature": "Capteur 200 MP Stabilisé",
+                "benefice": "Photographies précises de jour comme de nuit sans flou involontaire de mouvement"
+            },
+            {
+                "feature": "Charge Turbo 67W 5100 mAh",
+                "benefice": "Autonomie sereine sur plus d'une journée et regain d'énergie prompt sur secteur"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G équilibré pensé pour sublimer vos prises de vue et vos échanges en ligne.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 13 Pro 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi Redmi Note 13 Pro 5G à Abidjan chez My-eStore. Écran AMOLED 1.5K 120Hz, capteur 200MP OIS et Snapdragon 7s Gen 2 au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 13 Pro 5G 256 Go : 200MP & 1.5K | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 13 Pro 5G chez My-eStore. Écran AMOLED 1.5K 120Hz, capteur 200 MP OIS et Snapdragon 7s Gen 2 au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 13 Pro 5G",
+            "lsi_keywords": [
+                "Xiaomi Redmi Note 13 Pro 5G Abidjan",
+                "smartphone 5G Xiaomi Abidjan",
+                "Redmi Note 13 Pro 5G prix Côte d'Ivoire",
+                "Redmi Note 13 Pro 5G écran 1.5K",
+                "Xiaomi Redmi Note 13 Pro 5G fiche technique"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 13 Pro 5G : Écran AMOLED 1.5K 120Hz, Capteur 200 MP et Snapdragon 7s Gen 2",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 13 Pro 5G",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 1.5K 120Hz",
+                    "benefice": "Précision d'image supérieure avec une clarté remarquable pour vos vidéos et jeux"
+                },
+                {
+                    "feature": "Puce Snapdragon 7s Gen 2 5G",
+                    "benefice": "Téléchargements cellulaires véloces et multitâche réactif avec une consommation mesurée"
+                },
+                {
+                    "feature": "Capteur 200 MP Stabilisé",
+                    "benefice": "Photographies précises de jour comme de nuit sans flou involontaire de mouvement"
+                },
+                {
+                    "feature": "Charge Turbo 67W 5100 mAh",
+                    "benefice": "Autonomie sereine sur plus d'une journée et regain d'énergie prompt sur secteur"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi Redmi Note 13 Pro 5G allie connectivité moderne et affichage soigné. Sa dalle CrystalRes 1.5K restitue chaque détail textuel avec une netteté remarquable. De plus, la puce Snapdragon 7s Gen 2 assure des débits 5G rapides et constants. Le capteur photo dorsal de 200 mégapixels stabilise efficacement vos vidéos en déplacement. Enfin, son accumulateur de 5100 mAh rechargeable à 67W sécurise vos usages intensifs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran AMOLED 1.5K CrystalRes Éclatant et Protecteur",
+                "paragraphs": [
+                    "La dalle CrystalRes de 6.67 pouces affiche plus de 446 pixels par pouce. Par conséquent, la lecture de documents denses bénéficie d'une précision visuelle appréciable. La fréquence adaptative à 120Hz fluidifie le défilement de vos fils d'actualité quotidiens. La luminosité maximale de 1800 nits surmonte l'intensité du soleil direct sans difficulté. De surcroît, les certifications TÜV Rheinland limitent les émissions de lumière bleue nocive. Cette conception préserve le repos de vos yeux lors des sessions nocturnes prolongées.",
+                    "Le verre Corning Gorilla Glass Victus renforce la solidité face aux chutes inopinées. En outre, la structure interne amortit les impacts mécaniques du quotidien urbain. Le capteur d'empreintes digitales sous l'écran réagit avec une promptitude rassurante. Deux haut-parleurs stéréo Dolby Atmos créent un champ sonore spacieux et équilibré. D'autre part, la prise audio jack 3.5 mm accueille vos casques traditionnels favoris. L'ensemble offre un confort ergonomique immédiat lors de la tenue en main."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 200 MP et Traitement Numérique Réactif",
+                "paragraphs": [
+                    "Le grand capteur photographique de 200 mégapixels capte des scènes très détaillées. Effectivement, la stabilisation optique mécanique élimine les flous de bougé indésirables. La technologie de fusion 16-en-1 maximise la luminosité captée en basse lumière. Le zoom intégré 4x conserve la clarté du sujet sans perte notable de définition. Ainsi, vous réussissez facilement vos portraits lors des cérémonies familiales à Abidjan. Le traitement d'image dynamique respecte fidèlement les teintes de peaux naturelles.",
+                    "L'objectif ultra grand-angle de 8 mégapixels élargit le cadrage pour vos paysages. Dès lors, les panoramas d'architecture s'expriment pleinement sans recul nécessaire. La lentille macro dédiée saisit la texture minutieuse des plus petits motifs. Le moteur logiciel accélère la vitesse d'enregistrement entre deux clichés consécutifs. Par ailleurs, de multiples filtres créatifs personnalisent l'atmosphère générale de vos prises. Ce bloc photographique complet encourage l'expression artistique de chaque utilisateur."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon 7s Gen 2 et Recharge Turbo 67W",
+                "paragraphs": [
+                    "Le processeur Snapdragon 7s Gen 2 gravé en 4 nanomètres développe une cadence fluide. Par conséquent, les applications gourmandes et jeux modernes tournent sans ralentissement fâcheux. L'architecture à huit cœurs répartit efficacement les charges de calcul complexes. La connectivité 5G accélère le partage instantané de vos fichiers professionnels volumineux. De plus, le système de dissipation thermique préserve une température interne modérée. Cette stabilité globale assure une longévité matérielle bienvenue pour vos usages réguliers.",
+                    "L'accumulateur d'une capacité de 5100 mAh offre une autonomie supérieure à la journée. En effet, vous menez vos activités professionnelles sans stress lié à la batterie. Le chargeur rapide filaire 67W rétablit la moitié de l'énergie en dix-sept minutes. La recharge complète s'effectue en seulement quarante-quatre minutes sur une prise secteur. Enfin, les contrôles de charge intelligents prolongent la durée de vie de l'accumulateur. Ce modèle représente une valeur sûre pour l'écosystème mobile ivoirien d'aujourd'hui."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 13 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.2 x 74.2 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "187 g (0.187 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Blanc (Arctic White), Bleu (Ocean Teal)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED CrystalRes, 68 milliards de couleurs, 120Hz, Dolby Vision"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~89.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), format 20:9 (~446 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits typique, 1200 nits HBM, 1800 nits en pic"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7s Gen 2 (4 nm, 8 cœurs jusqu'à 2.40 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno 710"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go, 256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "MIUI 14 basé sur Android 13, évolutif vers Xiaomi HyperOS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "200 MP, f/1.7, 23mm (grand-angle), 1/1.4\", 0.56µm, multi-directionnel PDAF, OIS"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP, f/2.2, 118˚, 1/4.0\", 1.12µm"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.4 (grand-angle), vidéo 1080p@30/60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos, certification Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5100 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge turbo filaire 67W (100% en 44 min annoncé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM ou eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 (A2DP, LE)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (selon région)"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+13+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

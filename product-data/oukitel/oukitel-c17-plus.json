@@ -1,0 +1,431 @@
+{
+    "schema_version": "3.4",
+    "template_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-29",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "oukitel-c-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Oukitel C17 Plus conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Oukitel",
+        "product_line": "C Series",
+        "commercial_name": "Oukitel C17 Plus",
+        "category": "smartphone",
+        "sub_category": "entry-level-plus",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "OUKITEL-C17-PLUS",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "OUKITEL-C17-PLUS"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Oukitel Official Store",
+                "url": "https://oukitel.com/pages/oukitel-c17-plus"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Oukitel+C17+Plus"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Oukitel+C17+Plus+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone grand écran Oukitel C17 Plus avec dalle 6.9 pouces HD+, processeur Unisoc T615 et batterie 5000 mAh."
+    },
+    "key_specifications": {
+        "processor": "Unisoc T615 (12 nm, Octa-core)",
+        "ram_extension": "Extension dynamique de RAM virtuelle",
+        "audio_config": "Haut-parleur multimédia avec prise audio Jack 3.5 mm",
+        "audio_tech": "Son clair adapté aux appels et contenus vidéo",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge filaire standard 10W Type-C",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Tiroir pour cartes SIM et carte mémoire microSD",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "OUKITEL-C17-PLUS",
+        "Name": "Oukitel C17 Plus - Dual SIM - Écran 6.9\" - (4 Go|6 Go & 128 Go|256 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "60000",
+        "Categories": "Smartphones > Oukitel > C Series",
+        "Tags": "Oukitel, Oukitel C17 Plus, C Series, Smartphone, Android, 4G, Écran 6.9\", Double Capteur, 5000mAh, Unisoc T615, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Orange | Noir | Argent | Bleu Nuit",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 default": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-ORANGE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Midnight Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "75000",
+            "sku_suffix": "6GB-256GB-ORANGE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "75000",
+            "sku_suffix": "6GB-256GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "75000",
+            "sku_suffix": "6GB-256GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Midnight Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "75000",
+            "sku_suffix": "6GB-256GB-BLEU-NUIT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Le Confort Grand Format avec Écran 6.9 Pouces et Processeur Octocœur.",
+        "teaser": "Le smartphone Oukitel C17 Plus propose une grande surface de visionnage de 6.9 pouces associée au processeur octocœur Unisoc T615. Sa batterie de 5000 mAh procure une autonomie équilibrée pour naviguer et communiquer en toute liberté.",
+        "top_features_detailed": [
+            {
+                "feature": "Grand Écran 6.9\" HD+",
+                "benefice": "Surface d'affichage étendue facilitant grandement la consultation des textes et des vidéos"
+            },
+            {
+                "feature": "Batterie Durable 5000 mAh",
+                "benefice": "Capacité équilibrée pour téléphoner et rester connecté durant toute votre journée de travail"
+            },
+            {
+                "feature": "Puce Unisoc T615 Octa-Core",
+                "benefice": "Vitesse de traitement stable assurant la fluidité lors de l'usage régulier de vos applications"
+            },
+            {
+                "feature": "Double SIM & Prise Jack 3.5mm",
+                "benefice": "Connectique pratique pour gérer deux lignes et brancher directement vos écouteurs usuels"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone grand écran abordable pensé pour enrichir vos usages multimédias quotidiens avec confort et fluidité.",
+        "trust_badges": [
+            "Garantie Officielle Oukitel",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Oukitel C17 Plus (4 Go/128 Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le smartphone Oukitel C17 Plus à Abidjan chez My-eStore. Grand écran 6.9 pouces, puce Unisoc T615 et batterie 5000 mAh au meilleur tarif garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Oukitel C17 Plus 128 Go : Écran 6.9\" & Batterie 5000 mAh | My-eStore",
+            "meta_description": "Commandez le smartphone Oukitel C17 Plus chez My-eStore. Grand écran 6.9 pouces HD+, puce Unisoc T615 octocœur et batterie 5000 mAh au meilleur prix à Abidjan.",
+            "focus_keyword": "Oukitel C17 Plus",
+            "lsi_keywords": [
+                "Oukitel C17 Plus Abidjan",
+                "smartphone grand écran pas cher",
+                "prix Oukitel C17 Plus",
+                "téléphone Oukitel 6.9 pouces",
+                "Oukitel C17 Plus fiche technique"
+            ]
+        },
+        "h1": "Oukitel C17 Plus : Grand Écran 6.9\", Unisoc T615 et Batterie 5000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Oukitel C17 Plus",
+            "items": [
+                {
+                    "feature": "Écran 6.9 Pouces",
+                    "benefice": "Grande diagonale offrant une lisibilité confortable pour les messages et vidéos"
+                },
+                {
+                    "feature": "Batterie 5000 mAh",
+                    "benefice": "Autonomie régulière pour communiquer sans interruption tout au long de la journée"
+                },
+                {
+                    "feature": "Processeur Unisoc T615",
+                    "benefice": "Architecture octocœur réactive adaptée aux applications sociales et bureautiques"
+                },
+                {
+                    "feature": "Tiroir Double SIM",
+                    "benefice": "Gestion simultanée de deux numéros pour séparer vie professionnelle et personnelle"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Oukitel C17 Plus offre une expérience d'affichage particulièrement spacieuse et agréable. Sa grande diagonale de 6.9 pouces valorise chaque contenu avec une excellente clarté visuelle. De plus, le processeur octocœur Unisoc T615 assure une belle réactivité lors des tâches courantes. Le profil affiné de l'appareil garantit une préhension rassurante malgré son format généreux. Enfin, son accumulateur de 5000 mAh apporte une autonomie solide pour communiquer toute la journée.",
+        "sections": [
+            {
+                "h2_title": "Un Vaste Écran de 6.9 Pouces Idéal pour le Quotidien",
+                "paragraphs": [
+                    "La surface d'affichage étendue de 6.9 pouces transforme le confort de vos lectures quotidiennes. En outre, ce format panoramique facilite grandement la frappe sur le clavier virtuel tactile. Les contrastes bien calibrés réduisent la fatigue oculaire lors des consultations de documents volumineux. La dalle tactile répond promptement à chaque glissement pour faire défiler vos fils d'actualité. Par ailleurs, les bordures affinées optimisent le champ visuel pour apprécier pleinement vos séries favorites. La dalle bénéficie d'une protection efficace contre les traces de doigts et les rayures.",
+                    "D'autre part, la justesse colorimétrique restitue fidèlement les nuances de vos albums de photographies. Les angles de vision larges permettent de montrer facilement vos vidéos à votre entourage. Le mode sombre intégré soulage la vue lors des usages prolongés en fin de soirée. Ainsi, vous parcourez vos pages web favorites dans des conditions visuelles particulièrement reposantes. La luminosité s'ajuste convenablement pour préserver la netteté du texte en extérieur. Cette immersion grand format constitue un atout appréciable pour vos loisirs numériques nomades."
+                ]
+            },
+            {
+                "h2_title": "Architecture Octocœur Unisoc T615 et Stockage Étendu",
+                "paragraphs": [
+                    "Tout d'abord, le processeur octocœur Unisoc T615 délivre une cadence de traitement fluide et stable. Ses cœurs rapides prennent en charge la navigation internet et les applications professionnelles courantes. La mémoire vive modulable assure une alternance véloce entre vos logiciels de travail ouverts. De surcroît, le système d'exploitation Android optimise l'allocation des ressources pour limiter les ralentissements. Le lancement de vos utilitaires favoris s'opère rapidement sans temps de chargement fastidieux. Vous travaillez sereinement en conservant une réactivité constante tout au long de vos sessions.",
+                    "De ce fait, le volume de stockage interne conserve sans encombre l'ensemble de vos fichiers importants. Vous sauvegardez vos photos de famille et vos documents administratifs sans craindre la saturation. Le lecteur de carte mémoire autorise une extension massive pour héberger vos médiathèques personnelles. Également, la gestion thermique interne dissipe convenablement la chaleur lors des sollicitations soutenues. Le haut-parleur intégré diffuse une acoustique claire pour suivre vos visioconférences professionnelles. Cette polyvalence matérielle procure une tranquillité d'esprit bienvenue pour vos activités mobiles."
+                ]
+            },
+            {
+                "h2_title": "Batterie Haute Capacité 5000 mAh et Double Connectivité",
+                "paragraphs": [
+                    "D'abord, l'accumulateur généreux de 5000 mAh fournit une autonomie durable pour vos journées chargées. Vous passez vos appels téléphoniques et écoutez vos podcasts sans craindre une coupure subite. Les protocoles de gestion énergétique diminuent la consommation en veille lors des périodes calmes. De même, la prise de charge réversible Type-C permet un branchement simple dans l'obscurité. Le chargeur rétablit régulièrement le niveau de batterie nécessaire à vos prochains déplacements urbains. Les composants de protection internes garantissent la pérennité de l'accumulateur face aux cycles répétés.",
+                    "Enfin, le double tiroir pour cartes SIM autorise l'usage simultané de deux lignes distinctes. Vous combinez aisément votre numéro d'entreprise et votre ligne personnelle sur un unique smartphone. La connectique audio jack 3.5 millimètres facilite le branchement direct d'un kit mains libres. Par conséquent, vous dialoguez confortablement lors de vos trajets sans recourir à un accessoire Bluetooth. Le modem 4G performant assure une réception réseau nette dans tous les quartiers d'Abidjan. L'Oukitel C17 Plus réunit confort visuel et endurance pour un usage quotidien pleinement maîtrisé."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Oukitel C17 Plus - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.8 x 78.3 x 8.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.205 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Finition soignée en polycarbonate robuste"
+                        },
+                        {
+                            "label": "Coloris Disponibles",
+                            "valeur": "Orange, Noir, Argent, Bleu Nuit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'Écran",
+                            "valeur": "6.9 pouces"
+                        },
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (720 x 1640 pixels)"
+                        },
+                        {
+                            "label": "Format d'Image",
+                            "valeur": "20.5:9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T615 (12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (2x Cortex-A75 à 1.8 GHz + 6x Cortex-A55 à 1.6 GHz)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension de Mémoire",
+                            "valeur": "MicroSD jusqu'à 512 Go"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Principale Arrière",
+                            "valeur": "13 MP avec autofocus et flash LED"
+                        },
+                        {
+                            "label": "Capteur Auxiliaire",
+                            "valeur": "Capteur de profondeur portrait"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "5 MP"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "1080p à 30 ips"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la Batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Puissance de Charge",
+                            "valeur": "Charge standard 10W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (Dual Standby)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 b/g/n (2.4 GHz)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Prise Casque",
+                            "valeur": "Jack 3.5 mm"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Oukitel Official Store",
+                        "url": "https://oukitel.com/pages/oukitel-c17-plus"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Oukitel+C17+Plus"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Oukitel+C17+Plus+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

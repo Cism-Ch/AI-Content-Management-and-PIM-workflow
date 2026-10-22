@@ -1,0 +1,128 @@
+{
+  "version": "3.4.0",
+  "description": "Registre SSOT des domaines officiels certifiés par marque pour le sourcing et la vérification des spécifications My-eStore.",
+  "brands": {
+    "Blackview": {
+      "official_name": "Blackview",
+      "verified_domains": [
+        "blackview.hk",
+        "blackview.fr",
+        "blackview.com",
+        "store.blackview.hk"
+      ],
+      "primary_store_url": "https://www.blackview.hk/"
+    },
+    "Samsung": {
+      "official_name": "Samsung Electronics",
+      "verified_domains": [
+        "samsung.com",
+        "samsung.com/fr",
+        "samsung.com/n_africa",
+        "samsung.com/us"
+      ],
+      "primary_store_url": "https://www.samsung.com/"
+    },
+    "Apple": {
+      "official_name": "Apple",
+      "verified_domains": [
+        "apple.com",
+        "apple.com/fr"
+      ],
+      "primary_store_url": "https://www.apple.com/"
+    },
+    "Xiaomi": {
+      "official_name": "Xiaomi",
+      "verified_domains": [
+        "mi.com",
+        "mi.com/fr",
+        "po.co"
+      ],
+      "primary_store_url": "https://www.mi.com/"
+    },
+    "Hisense": {
+      "official_name": "Hisense",
+      "verified_domains": [
+        "hisense.fr",
+        "hisense.com",
+        "global.hisense.com"
+      ],
+      "primary_store_url": "https://www.hisense.fr/"
+    },
+    "Oraimo": {
+      "official_name": "Oraimo Technology",
+      "verified_domains": [
+        "oraimo.com",
+        "ng.oraimo.com",
+        "ke.oraimo.com"
+      ],
+      "primary_store_url": "https://www.oraimo.com/"
+    },
+    "ZTE": {
+      "official_name": "ZTE Corporation / Nubia",
+      "verified_domains": [
+        "ztedevices.com",
+        "intl.nubia.com"
+      ],
+      "primary_store_url": "https://www.ztedevices.com/"
+    },
+    "Huawei": {
+      "official_name": "Huawei Consumer BG",
+      "verified_domains": [
+        "huawei.com",
+        "consumer.huawei.com"
+      ],
+      "primary_store_url": "https://consumer.huawei.com/"
+    },
+    "HiFuture": {
+      "official_name": "HiFuture Group",
+      "verified_domains": [
+        "hifuturegroup.com"
+      ],
+      "primary_store_url": "https://www.hifuturegroup.com/"
+    },
+    "Tecno": {
+      "official_name": "Tecno Mobile",
+      "verified_domains": [
+        "tecno-mobile.com"
+      ],
+      "primary_store_url": "https://www.tecno-mobile.com/"
+    },
+    "Infinix": {
+      "official_name": "Infinix Mobility",
+      "verified_domains": [
+        "infinixmobility.com"
+      ],
+      "primary_store_url": "https://www.infinixmobility.com/"
+    },
+    "Realme": {
+      "official_name": "Realme",
+      "verified_domains": [
+        "realme.com"
+      ],
+      "primary_store_url": "https://www.realme.com/"
+    },
+    "Honor": {
+      "official_name": "Honor Device Co.",
+      "verified_domains": [
+        "hihonor.com"
+      ],
+      "primary_store_url": "https://www.hihonor.com/"
+    },
+    "Beko": {
+      "official_name": "Beko",
+      "verified_domains": [
+        "beko.com",
+        "beko.fr"
+      ],
+      "primary_store_url": "https://www.beko.fr/"
+    },
+    "Nasco": {
+      "official_name": "Nasco Electronics",
+      "verified_domains": [
+        "nasco.ci",
+        "nascoelectronics.com"
+      ],
+      "primary_store_url": "http://www.nasco.ci/"
+    }
+  }
+}

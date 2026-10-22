@@ -1,0 +1,313 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Wave 10C",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena Specs",
+                "url": "https://www.gsmarena.com/blackview_wave_10c-14791.php"
+            },
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/"
+            }
+        ],
+        "pricing_reference": "45000",
+        "official_sku": "BV-WAVE-10C"
+    },
+    "key_specifications": {
+        "processor": "Unisoc SC9863A Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.88 pouces",
+        "screen_technology": "HD+ IPS LCD",
+        "screen_resolution": "1640 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "32 Go",
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM virtuelle",
+        "os": "Android 13 Go Edition",
+        "os_skin": "DokeOS 4.0 Go",
+        "camera_main": "8 MP avec Flash LED",
+        "camera_selfie": "5 MP",
+        "audio_config": "Haut-parleur stéréo",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS + GLONASS",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 512 Go)",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "171.9 x 78 x 9.0 mm",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-WAVE-10C-MASTER",
+        "Name": "Blackview Wave 10C",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "45000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Wave 10C, Smartphone 4G, 6.88 Pouces, 5000mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Vert | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go | 128 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 default": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Wave 10C : Smartphone Grand Écran 6.88 Pouces Accessible",
+        "brand_line": "Smartphone 4G économique Blackview offrant une excellente lisibilité.",
+        "marketing_conclusion": "Commandez le Blackview Wave 10C sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Wave 10C dispose d'un écran de 6.88 pouces, d'une batterie de 5000 mAh, d'une puce Octa-Core et du système Android 13 Go Edition.",
+        "features": [
+            {
+                "feature": "Très Grand Écran 6.88\" HD+",
+                "benefice": "Confort visuel appréciable pour la lecture et les vidéos."
+            },
+            {
+                "feature": "Puce Unisoc Octa-Core",
+                "benefice": "Exécution fluide des tâches essentielles et de la messagerie."
+            },
+            {
+                "feature": "Batterie 5000 mAh Durable",
+                "benefice": "Autonomie sereine couvrant toute la journée de travail."
+            },
+            {
+                "feature": "Interface Android 13 Go Edition",
+                "benefice": "Système léger et très réactif sur les applications."
+            }
+        ],
+        "slogan_final": "Blackview Wave 10C — L'expérience grand écran en toute simplicité.",
+        "seo": {
+            "meta_title": "Acheter Blackview Wave 10C (4Go/32Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Wave 10C avec écran 6.88 pouces, batterie 5000 mAh et processeur Octa-Core. Commandez au meilleur prix chez My-eStore à Abidjan.",
+            "keywords": "Blackview Wave 10C, smartphone pas cher, prix Abidjan, 6.88 pouces 5000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Wave 10C",
+            "lsi_keywords": [
+                "Blackview Wave 10C",
+                "smartphone pas cher Abidjan",
+                "Blackview Wave 10C prix",
+                "smartphone 6.88 pouces",
+                "batterie 5000 mAh pas cher",
+                "Unisoc SC9863A Octa-Core",
+                "Android 13 Go Edition",
+                "achat smartphone Côte d'Ivoire",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "Blackview Wave 10C 32/128Go : Écran 6.88\" & 5000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Wave 10C. Grand écran 6.88 pouces, processeur Octa-Core, 4Go RAM et batterie 5000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Wave 10C : Spécifications et Performances Détaillées",
+        "experience_box": {
+            "box_title": "LES ATOUTS MAJEURS EN BREF",
+            "items": [
+                {
+                    "feature": "Écran HD+ de 6.88 Pouces",
+                    "benefice": "Lisibilité très confortable pour naviguer sur le Web."
+                },
+                {
+                    "feature": "Processeur Huit Cœurs Économe",
+                    "benefice": "Utilisation quotidienne fluide sans ralentissement gênant."
+                },
+                {
+                    "feature": "Batterie 5000 mAh Généreuse",
+                    "benefice": "Tranquillité d'esprit garantie sans rechargement fréquent."
+                },
+                {
+                    "feature": "Système Android 13 Go Optimisé",
+                    "benefice": "Démarrage rapide de vos applications favorites."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Wave 10C est un smartphone grand écran pratique et très économique. Cet appareil répond parfaitement aux besoins d'équipement des familles en Côte d'Ivoire. Par ailleurs, la puce Unisoc SC9863A assure un fonctionnement régulier. De plus, son très grand écran de 6.88 pouces offre une visibilité très agréable. En effet, sa batterie de 5000 mAh permet de rester joignable tout au long de la journée. Son châssis de 9.0 mm garantit une prise en main très aisée. L'interface DokeOS 4.0 Go sous Android 13 simplifie l'accès à vos dossiers. Enfin, ce modèle convient très bien pour un premier smartphone Android.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 6.88 Pouces et Puce Octa-Core SC9863A",
+                "paragraphs": [
+                    "Le Blackview Wave 10C intègre une grande dalle IPS de 6.88 pouces. Sa résolution HD+ de 1640 x 720 pixels affiche vos contenus avec une clarté appréciable. De plus, le traitement de la dalle préserve le confort visuel lors des sessions prolongées. De surcroît, le processeur Unisoc SC9863A à huit cœurs cadencés à 1.6 GHz prend en charge votre messagerie. Les 4 Go de mémoire RAM assurent la gestion régulière de vos programmes principaux.",
+                    "Cependant, la mémoire de stockage de 32 Go ou 128 Go conserve vos photos et morceaux musicaux. La présence d'un port MicroSD permet d'étendre la mémoire jusqu'à 512 Go supplémentaires. En effet, le tiroir d'extension accueille deux cartes SIM et la carte mémoire sans compromis. Par conséquent, cette conception pratique facilite l'utilisation de deux puces téléphoniques en même temps. Vos fichiers importants demeurent constamment à portée de main."
+                ]
+            },
+            {
+                "h2_title": "Capteurs Photo et Équipement Pratique",
+                "paragraphs": [
+                    "Le Blackview Wave 10C possède un capteur photo arrière de 8 Mégapixels avec Flash LED. Cet appareil réalise des clichés nets de vos documents et moments en famille. En outre, la caméra frontale de 5 Mégapixels s'avère idéale pour les appels vidéo quotidiens. Les filtres intégrés permettent d'ajuster rapidement la qualité visuelle de vos portraits. Ainsi, la capture d'images reste simple et très accessible pour tous.",
+                    "Par ailleurs, le haut-parleur intégré restitue des conversations téléphoniques d'une grande clarté. De plus, la prise casque Jack 3.5 mm permet d'écouter votre musique avec votre casque filaire. Le récepteur radio FM permet d'écouter vos stations préférées partout. De surcroît, la connectivité Wi-Fi et le Bluetooth assurent une liaison stable avec vos périphériques. En somme, ce smartphone regroupe les fonctions fondamentales au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Ergonomie au Quotidien",
+                "paragraphs": [
+                    "La batterie intégrée de 5000 mAh assure une autonomie énergétique remarquable. Cette capacité importante permet de tenir facilement une journée complète en communication. D'ailleurs, le port USB-C moderne simplifie le branchement de l'appareil lors du rechargement. En effet, le système Android 13 Go Edition limite la consommation d'énergie inutile. Vos activités se poursuivent sans interruption inutile.",
+                    "La finesse du boîtier de 9.0 mm offre une manipulation naturelle et aisée. Son poids équilibré de 205 grammes se transporte très facilement dans votre sac. Le Blackview Wave 10C représente un choix extrêmement économique pour s'équiper à Abidjan. En somme, son tarif abordable en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Wave 10C",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Wave 10C."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.9 x 78 x 9.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.205 kg"
+                        },
+                        {
+                            "label": "Prise en main",
+                            "valeur": "Boîtier fin avec bords arrondis ergonomiques"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir, Vert, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.88 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1640 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc SC9863A Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "IMG8322"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "32 Go / 128 Go (extensible par MicroSD jusqu'à 512 Go)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "8 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "5 MP"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 b/g/n, Bluetooth 4.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 Go Edition (DokeOS 4.0 Go)"
+                        },
+                        {
+                            "label": "Radio FM & Audio",
+                            "valeur": "Prise Jack 3.5 mm & Radio FM intégrée"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena Specs",
+                        "url": "https://www.gsmarena.com/blackview_wave_10c-14791.php"
+                    },
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

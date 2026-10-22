@@ -1,0 +1,378 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch 8",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-8",
+        "price": "225000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch 8 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch 8",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-premium",
+        "release_year": 2025,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-8",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-8"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch8/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch 8 Super AMOLED Sapphire 2000nits 32Go BioActive IP68 5ATM"
+    },
+    "key_specifications": {
+        "screen_size": "1.5\" / 1.3\"",
+        "screen_type": "Super AMOLED Sapphire",
+        "battery_capacity": "325 mAh / 435 mAh",
+        "charging_wired": "Charge Rapide sans fil WPC",
+        "processor": "Samsung Exynos W1000 (3nm)",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "audio_config": "Haut-parleur et microphone intégrés",
+        "audio_tech": "Appels Bluetooth & Audio HD",
+        "card_slot": "Non (eSIM / Bluetooth)",
+        "color_options": [
+            "Gris",
+            "Argent"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-8",
+        "Name": "Samsung Galaxy Watch 8 - Super AMOLED Sapphire - (2 Go & 32 Go) - BioActive - IP68 5ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "225000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch 8, Galaxy Watch Series, Montre connectée, Smartwatch, Super AMOLED, Exynos W1000, BioActive, Sapphire 2000nits, IP68 5ATM, Wear OS, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.034 kg",
+        "Attribute 4 default": "0.034 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Polyvalence Quotidienne avec Écran Saphir Lumineux et Analyse Santé BioActive.",
+        "teaser": "Découvrez la Samsung Galaxy Watch 8 avec son écran Super AMOLED protégé par un verre saphir de 2000 nits, son capteur de santé BioActive, sa puce réactive 3nm et son étanchéité 5ATM.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Super AMOLED & Cristal de Saphir",
+                "benefice": "Excellente lisibilité en plein jour et résistance éprouvée contre les rayures quotidiennes"
+            },
+            {
+                "feature": "Capteur BioActive de Précision",
+                "benefice": "Suivi complet de la fréquence cardiaque, de l'ECG, du sommeil et de la pression corporelle"
+            },
+            {
+                "feature": "Processeur 3nm & 32 Go de Stockage",
+                "benefice": "Fluidité remarquable entre vos applications et stockage de vos playlists de musique"
+            },
+            {
+                "feature": "Étanchéité IP68 & 5ATM (50m)",
+                "benefice": "Utilisation sereine pour vos entraînements de natation et vos courses sous la pluie"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée moderne combinant confort au poignet, suivi physiologique précis et fluidité sous Wear OS.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch 8 à Abidjan | My-eStore",
+            "meta_description": "Achetez la Samsung Galaxy Watch 8 à Abidjan chez My-eStore. Écran Super AMOLED Sapphire, capteur BioActive, 32 Go, puce 3nm et livraison sécurisée.",
+            "focus_keyword": "Samsung Galaxy Watch 8",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 8",
+                "Galaxy Watch 8 Abidjan",
+                "prix Galaxy Watch 8",
+                "montre connectée Samsung 32Go"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Watch 8 : Écran Saphir & Puce 3nm | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch 8 sur My-eStore. Dalle Super AMOLED en verre saphir, capteur de santé BioActive, processeur 3nm et étanchéité 5ATM.",
+            "focus_keyword": "Samsung Galaxy Watch 8",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 8",
+                "Galaxy Watch 8 32Go",
+                "Galaxy Watch 8 Abidjan",
+                "montre connectée Samsung BioActive"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch 8 : Écran Saphir, Capteur BioActive et Puce 3nm",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch 8 propose un affichage Super AMOLED d'une grande clarté. Sa dalle protégée par un verre saphir inrayable procure une lisibilité idéale pour vos alertes. De plus, son processeur gravé en 3nm traite vos commandes avec une régularité exemplaire. Le boîtier en aluminium léger repose confortablement sur le poignet tout au long de la journée. Enfin, sa batterie bien dimensionnée garantit une disponibilité durable lors de vos entraînements.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch 8",
+            "items": [
+                {
+                    "feature": "Dalle Super AMOLED en Verre Saphir",
+                    "benefice": "Affichage net et lumineux permettant une lecture aisée en extérieur"
+                },
+                {
+                    "feature": "Capteur BioActive Avancé",
+                    "benefice": "Mesures fiables de la fréquence cardiaque, de l'ECG et du sommeil"
+                },
+                {
+                    "feature": "Processeur Gravé en 3nm & 32 Go",
+                    "benefice": "Exécution fluide de vos logiciels et espace spacieux pour vos morceaux musicaux"
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68 et 5ATM",
+                    "benefice": "Conception étanche adaptée à la natation et aux activités sportives régulières"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Design Épuré et Robustesse Métallique",
+                "paragraphs": [
+                    "D'un côté, le cadran profilé s'ajuste naturellement au poignet sans gêner vos gestes pendant vos séances sportives. Le verre saphir haute résistance protège efficacement la surface contre les micro-rayures involontaires. La luminosité maximale de 2000 nits autorise une consultation instantanée de vos données en plein soleil. Par ailleurs, la panoplie de cadrans interchangeables s'harmonise avec vos tenues décontractées ou professionnelles. Le bracelet en matériau anallergique assure un contact agréable sur la peau pendant de longues heures. Vous profitez ainsi d'un accessoire pratique et robuste adapté à un rythme de vie actif.",
+                    "D'un autre côté, le boîtier étanche cinq ATM autorise la pratique de la natation sans la moindre appréhension. La certification aux normes militaires renforce la structure face aux secousses et variations d'ambiance. Les bordures fines augmentent la visibilité des textes et des icônes tactiles de l'interface. En outre, la sensibilité de l'écran réagit instantanément aux tapotements pour naviguer dans vos menus. Les finitions soignées mettent en valeur votre poignet avec une élégance sobre et contemporaine. Ce modèle rassemble légèreté mécanique et longévité matérielle pour vos journées chargées."
+                ]
+            },
+            {
+                "h2_title": "Suivi Physiologique Précis et Outils Sportifs",
+                "paragraphs": [
+                    "Tout d'abord, le capteur BioActive regroupe la fréquence cardiaque optique, l'électrocardiogramme et l'analyse d'impédance corporelle. Ces composants mesurent vos constantes de santé avec une grande fiabilité lors de vos exercices quotidiens. Le module de suivi du sommeil analyse vos phases nocturnes pour vous proposer des conseils personnalisés. De surcroît, la reconnaissance automatique d'exercice enregistre vos sessions de running ou de vélo sans délai. Les bilans d'entraînement détaillés vous aident à ajuster vos efforts physiques selon votre condition. Vous bénéficiez ainsi d'indicateurs de forme clairs pour entretenir votre santé.",
+                    "Dans cette optique, la puce de géolocalisation intégrée trace vos itinéraires extérieurs avec une excellente précision de relevé. La montre calcule automatiquement votre allure moyenne, vos distances parcourues et vos dépenses énergétiques. La surveillance continue de la tension nerveuse suggère des exercices de respiration apaisants en cas de stress. Également, l'analyse de composition corporelle vous renseigne sur votre masse musculaire et votre taux hydrique. Toutes vos données s'exportent automatiquement vers votre téléphone pour un suivi centralisé. Cet appareil constitue un compagnon fiable pour progresser dans vos routines sportives."
+                ]
+            },
+            {
+                "h2_title": "Puce 3nm Réactive et Gestion Énergétique",
+                "paragraphs": [
+                    "D'abord, la puce gravée en 3nm assure une exécution très fluide tout en préservant l'autonomie restante. Les deux gigaoctets de mémoire vive facilitent des transitions instantanées entre vos applications de suivi. L'espace de stockage de trente-deux gigaoctets conserve vos musiques favorites pour des séances d'entraînement sans téléphone. De même, la liaison Bluetooth établit une connexion stable avec vos écouteurs sans fil pour écouter vos chansons. Le vibreur discret signale l'arrivée de vos courriels et appels urgents sans bruit perturbateur. Vous gardez le contrôle de vos communications directement depuis votre poignet.",
+                    "Enfin, l'accumulateur intégré fournit l'énergie nécessaire pour franchir sereinement l'ensemble de votre journée active. Le mode d'économie d'énergie préserve la fonction horaire lors des journées prolongées sans prise secteur. Le chargeur sans fil magnétique redonne rapidement de l'énergie à votre montre en cours de journée. Par conséquent, vous pratiquez vos activités favorites avec une totale confiance dans votre équipement. Les composants de qualité assurent une durabilité thermique exemplaire au fil des cycles d'usage. La Galaxy Watch 8 représente une solution équilibrée associant performance, élégance et suivi santé."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch 8",
+                "subtitle": "Spécifications matérielles de la Samsung Galaxy Watch 8."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "40.4 x 42.7 x 8.6 mm (40mm) / 43.7 x 46.0 x 8.6 mm (44mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.034 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Saphir, Boîtier en Aluminium Armor"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 5ATM (50 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir haute dureté"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2000 nits (Peak)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "480 x 480 pixels (44mm) / 432 x 432 pixels (40mm)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W1000 (3nm) Penta-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "32 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS powered by Samsung avec One UI Watch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Santé",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive (Fréquence cardiaque, ECG, Bioimpédance)"
+                        },
+                        {
+                            "label": "Capteurs Mouvement",
+                            "valeur": "Accéléromètre, Gyroscope, Baromètre, Capteur géomagnétique"
+                        },
+                        {
+                            "label": "Suivi Corporel",
+                            "valeur": "Composition corporelle, Suivi du sommeil avancé, Mesure du stress"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "325 mAh (40mm) / 435 mAh (44mm) Li-Ion"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge rapide sans fil magnétique WPC"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 40 heures en utilisation normale"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.3, Wi-Fi 2.4/5GHz, NFC, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "Audio & Micro",
+                            "valeur": "Haut-parleur intégré et microphone pour appels mains libres"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 11.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch8/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "225000",
+            "sku_suffix": "2-GB-32-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "225000",
+            "sku_suffix": "2-GB-32-GB-ARGENT"
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade V50 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V50+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V50+5G+specifications"
+            }
+        ],
+        "pricing_reference": "115000",
+        "official_sku": "ZTE-BLADE-V50-5G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "115000",
+            "sku_suffix": "256GB-6GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Diamond Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "115000",
+            "sku_suffix": "256GB-6GB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "115000",
+            "sku_suffix": "256GB-6GB-BLEU"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc T760 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.60 pouces",
+        "screen_technology": "IPS LCD FHD+ 90Hz",
+        "screen_resolution": "2408 x 1080 pixels",
+        "battery_capacity": "4500 mAh",
+        "ram_options": [
+            "6 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "Triple capteur 50 MP Haute Résolution + 2 MP Macro + 2 MP Profondeur",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur optimisé DTS Audio",
+        "audio_tech": "Son spatial DTS & prise 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 22.5W USB-C",
+        "dimensions": "163.7 x 75.0 x 8.0 mm",
+        "weight": "0.182 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-V50-5G-MASTER",
+        "Name": "ZTE Blade V50 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "115000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade V50 5G, Écran FHD+ 90Hz, 50MP, 5G, NFC, Charge 22.5W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Vert, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.182 kg",
+        "Attribute 4 default": "0.182 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade V50 5G : Écran FHD+ 90Hz Triple Photo 50 MP et 5G",
+        "brand_line": "Le smartphone 5G élégant doté d'une définition Full HD+ et d'une recharge rapide 22.5W.",
+        "marketing_conclusion": "Commandez votre ZTE Blade V50 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade V50 5G propose un écran FHD+ 90Hz de 6.6 pouces, la puce Unisoc T760 5G, un triple capteur photo 50 MP et une charge rapide 22.5W.",
+        "features": [
+            {
+                "feature": "Écran 6.6\" Full HD+ 90Hz",
+                "benefice": "Définition d'image très fine et défilement fluide."
+            },
+            {
+                "feature": "Puce 5G Unisoc T760 (6nm)",
+                "benefice": "Rapidité de téléchargement et fonctionnement économe."
+            },
+            {
+                "feature": "Triple Capteur Photo 50 MP",
+                "benefice": "Clichés détaillés avec mode macro et portrait."
+            },
+            {
+                "feature": "Charge Rapide 22.5W & NFC",
+                "benefice": "Recharge véloce et paiements sans contact aisés."
+            }
+        ],
+        "slogan_final": "ZTE Blade V50 5G — Finesse de conception et performance 5G au quotidien.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade V50 5G (6Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Blade V50 5G avec écran FHD+ 90Hz, triple caméra 50 MP, 5G et charge rapide 22.5W. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Blade V50 5G, smartphone 5G FHD+ Abidjan, 50MP photo, charge 22.5W, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade V50 5G",
+            "lsi_keywords": [
+                "ZTE Blade V50 5G",
+                "smartphone ZTE Blade V50 5G Abidjan",
+                "ZTE Blade V50 5G prix",
+                "téléphone écran fhd+ 90hz 5g",
+                "smartphone 5g triple capteur 50 mp",
+                "téléphone nfc charge 22.5w",
+                "achat smartphone 5g My-eStore",
+                "livraison smartphone Abidjan"
+            ],
+            "meta_title": "ZTE Blade V50 5G 256 Go : Écran FHD+ 90Hz & Triple 50 MP | My-eStore",
+            "meta_description": "Achetez le ZTE Blade V50 5G. Dalle 6.6 pouces FHD+ 90Hz, puce 5G 6nm, triple capteur 50 MP, NFC et charge rapide 22.5W. Livraison rapide sur Abidjan."
+        },
+        "h1": "ZTE Blade V50 5G : Processeur 5G 6nm, Écran FHD+ 90Hz et Capteur 50 MP",
+        "experience_box": {
+            "box_title": "LES ATOUTS MAJEURS DU ZTE BLADE V50 5G",
+            "items": [
+                {
+                    "feature": "Dalle Full HD+ 90Hz",
+                    "benefice": "Netteté d'affichage supérieure avec 400 ppi."
+                },
+                {
+                    "feature": "Triple Capteur 50 MP",
+                    "benefice": "Polyvalence complète pour le paysage et la macro."
+                },
+                {
+                    "feature": "Puce 5G Basse Consommation",
+                    "benefice": "Débits rapides sans surchauffe de l'appareil."
+                },
+                {
+                    "feature": "Recharge Rapide 22.5W",
+                    "benefice": "Remise à niveau rapide de l'autonomie en USB-C."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade V50 5G allie une esthétique raffinée à des caractéristiques multimédias complètes. Cet appareil répond directement aux attentes des utilisateurs recherchant un écran précis à Abidjan. En effet, sa dalle Full HD Plus de 6.6 pouces restitue des détails d'une grande finesse. De plus, sa fréquence de 90 Hz fluidifie agréablement chaque interaction tactile. La puce Unisoc T760 compatible 5G assure une transmission rapide de toutes vos données. Par ailleurs, la recharge rapide de 22.5W réduit significativement le temps passé sur secteur. Cet ensemble garantit une expérience équilibrée et durable pour toutes vos activités.",
+        "sections": [
+            {
+                "h2_title": "Écran Full HD+ 90Hz et Puce Unisoc T760 5G",
+                "paragraphs": [
+                    "Le ZTE Blade V50 5G dispose d'un écran IPS de 6.6 pouces en définition Full HD Plus. Cette résolution procure une grande netteté pour visionner des vidéos haute définition. Ainsi, les textes des courriers électroniques et des pages web apparaissent sans aucun flou. De surcroît, le processeur Unisoc T760 gravé en 6 nanomètres combine réactivité et économie d'énergie. La mémoire vive de 6 Go prend en charge vos applications lourdes en toute aisance.",
+                    "Le stockage interne de 128 Go permet de conserver vos documents sans risque de saturation rapide. D'ailleurs, un port microSDXC permet d'étendre la mémoire selon l'évolution de vos besoins. En outre, la connectivité 5G assure une grande vitesse de chargement sur les réseaux compatibles. L'épaisseur fine de 8 mm rend la préhension particulièrement agréable en main. Vous profitez d'un confort d'usage constant pour toutes vos tâches."
+                ]
+            },
+            {
+                "h2_title": "Triple Capteur 50 MP et Puce NFC Intégrée",
+                "paragraphs": [
+                    "Le système photographique arrière se compose d'un capteur principal de 50 Mégapixels et de deux capteurs auxiliaires. L'optique principale capture des clichés nets avec une restitution équilibrée des teintes naturelles. De plus, les objectifs macro et de profondeur enrichissent vos prises de vue créatives au quotidien. La caméra frontale de 8 Mégapixels assure des autoportraits nets pour vos réseaux sociaux. Ainsi, vous conservez des souvenirs de bonne qualité en toute situation.",
+                    "La puce NFC intégrée permet de réaliser facilement vos échanges sans contact de proximité. En effet, cette fonctionnalité simplifie vos interactions numériques régulières en ville. Également, les haut-parleurs certifiés DTS procurent une clarté sonore appréciable lors de vos appels. Le capteur d'empreintes digitales sur le bouton d'alimentation déverrouille l'écran sans délai. Vous disposez d'un ensemble complet et sécurisé."
+                ]
+            },
+            {
+                "h2_title": "Batterie 4500 mAh et Charge Rapide 22.5W",
+                "paragraphs": [
+                    "La batterie de 4500 mAh fournit une alimentation équilibrée pour couvrir vos besoins professionnels sur la journée. Cette autonomie s'adapte sans encombre aux consultations régulières de courriels et aux vidéos en ligne. Par ailleurs, la technologie de charge rapide 22.5W permet de regagner rapidement de l'énergie. En effet, vous récupérez un niveau d'utilisation confortable en un temps de pause très court. Vos déplacements s'organisent avec sérénité.",
+                    "Le châssis moderne affiche un poids léger de 182 grammes avec des finitions en gris et bleu. D'autre part, la conception soignée confère une touche contemporaine à ce smartphone. En somme, le ZTE Blade V50 5G représente une synthèse réussie entre affichage Full HD+ et vitesse 5G. Vous pouvez commander ce produit en toute tranquillité sur My-eStore. Le service de livraison dessert rapidement les différents quartiers d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade V50 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade V50 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.7 x 75.0 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.182 kg (182 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, dos soigné à finition satinée"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Gris (Grey), Bleu (Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.60 pouces (~85.1% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2408 x 1080 pixels, 20:9, ~400 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "90 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T760 5G (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.2 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Capteur de profondeur",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "8 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "4500 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 22.5W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son optimisé DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V50+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V50+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

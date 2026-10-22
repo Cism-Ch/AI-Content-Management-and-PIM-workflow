@@ -1,0 +1,387 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Flip 2 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+2+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+2+5G+specifications"
+            }
+        ],
+        "pricing_reference": "385000",
+        "official_sku": "ZTE-NUBIA-FLIP-2-5G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Night Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "256GB-8GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Sunrise Lilac",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "256GB-8GB-VIOLET"
+        }
+    ],
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7300X 5G (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.5 GHz",
+        "screen_size": "6.85 pouces (interne) / 3.00 pouces (externe)",
+        "screen_technology": "AMOLED Pliable 120Hz + Grand Écran Externe 3\"",
+        "screen_resolution": "2790 x 1188 pixels (interne)",
+        "battery_capacity": "4310 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique LPDDR5",
+        "os": "Android 14",
+        "os_skin": "MyOS 14",
+        "camera_main": "Double capteur 50 MP avec stabilisation OIS + 2 MP Profondeur",
+        "camera_selfie": "32 MP interne",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra",
+        "audio_tech": "Son spatial DTS:X Ultra & Snapdragon Sound",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + BDS + GALILEO",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge rapide 33W USB-C",
+        "dimensions": "Déplié : 169.4 x 76.0 x 7.2 mm / Plié : 87.6 x 76.0 x 15.4 mm",
+        "weight": "0.199 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-FLIP-2-5G-MASTER",
+        "Name": "ZTE Nubia Flip 2 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "18",
+        "Regular price": "385000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Flip 2 5G, Pliable, Écran externe 3 pouces, Dimensity 7300X, 50MP OIS, 33W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.199 kg",
+        "Attribute 4 default": "0.199 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Flip 2 5G : Grand Écran Externe 3\" et Puce Dimensity 7300X",
+        "brand_line": "Le smartphone pliable nouvelle génération avec écran externe élargi de 3 pouces et capteur 50 MP OIS.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Flip 2 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Flip 2 5G propose un écran externe complet de 3 pouces, une dalle AMOLED 120Hz interne, la puce Dimensity 7300X 4nm et un capteur 50 MP stabilisé OIS.",
+        "features": [
+            {
+                "feature": "Grand Écran Externe Rectangulaire 3\"",
+                "benefice": "Utilisation complète des applications et saisie de messages téléphone fermé."
+            },
+            {
+                "feature": "Écran AMOLED Pliable 120Hz Interne",
+                "benefice": "Confort visuel supérieur et contraste éclatant."
+            },
+            {
+                "feature": "Capteur Photo 50 MP avec OIS",
+                "benefice": "Prises de vue très nettes sans flou de bougé."
+            },
+            {
+                "feature": "Puce Dimensity 7300X 5G (4nm)",
+                "benefice": "Excellente réactivité et gestion thermique optimisée."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Flip 2 5G — L'expérience pliable sublimée par un grand écran externe.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Flip 2 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Flip 2 5G pliable avec écran externe 3\", dalle 120Hz, 50 MP OIS et Dimensity 7300X. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Nubia Flip 2 5G, smartphone pliable Abidjan, écran externe 3 pouces, 50MP OIS, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Flip 2 5G",
+            "lsi_keywords": [
+                "ZTE Nubia Flip 2 5G",
+                "smartphone ZTE Nubia Flip 2 5G Abidjan",
+                "ZTE Nubia Flip 2 5G prix",
+                "téléphone pliable grand écran externe",
+                "smartphone dimensity 7300x 5g",
+                "téléphone clapet photo 50 mp ois",
+                "achat smartphone pliable My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Flip 2 5G 256 Go : Écran Externe 3\" & 50 MP OIS | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Flip 2 5G. Écran externe rectangulaire 3\", dalle AMOLED 120Hz, puce Dimensity 7300X et capteur 50 MP OIS. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Nubia Flip 2 5G : Format Pliant, Écran 120Hz et Puce Dimensity 7300X",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE NUBIA FLIP 2 5G",
+            "items": [
+                {
+                    "feature": "Écran Externe Plein Format 3\"",
+                    "benefice": "Interaction complète sans avoir besoin d'ouvrir l'appareil."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP OIS",
+                    "benefice": "Stabilisation optique sur les photos et vidéos."
+                },
+                {
+                    "feature": "Puce Dimensity 7300X 4nm",
+                    "benefice": "Consommation maîtrisée et vitesse de calcul élevée."
+                },
+                {
+                    "feature": "Poids Plume de 199 Grammes",
+                    "benefice": "Légèreté remarquable pour un smartphone pliant."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Flip 2 5G modernise l'expérience du téléphone clapet avec un large écran extérieur rectangulaire. Cet appareil s'adresse directement aux utilisateurs recherchant polyvalence et compacité à Abidjan. En effet, son affichage externe de 3.0 pouces permet de répondre aux messages sans ouvrir le téléphone. De plus, sa dalle AMOLED pliable interne de 6.85 pouces fonctionne à 120 Hz. La puce MediaTek Dimensity 7300X gravée en 4 nanomètres assure une réactivité constante. Par ailleurs, le capteur photo principal de 50 Mégapixels bénéficie d'une stabilisation optique. L'appareil combine ainsi une ergonomie pliante moderne avec une grande efficacité pratique.",
+        "sections": [
+            {
+                "h2_title": "Écran Externe 3 Pouces et Dalle Pliable 120Hz",
+                "paragraphs": [
+                    "Le ZTE Nubia Flip 2 5G se distingue par son écran extérieur de 3.0 pouces en haute résolution. Cet affichage permet d'utiliser vos applications préférées et de prévisualiser vos selfies avec un confort total. De plus, la dalle interne AMOLED de 6.85 pouces offre une fluidité exemplaire cadencée à 120 Hz. Ainsi, la charnière nouvelle génération réduit significativement le pli central pour une surface uniforme. Le processeur Dimensity 7300X assure une exécution rapide des tâches informatiques.",
+                    "La mémoire vive allant jusqu'à 12 Go garantit une réactivité immédiate entre vos applications. D'ailleurs, le stockage de 256 Go accueille tous vos documents multimédias sans contrainte. En outre, la connectivité 5G accélère le chargement de vos flux vidéos en streaming. La conception soignée ne pèse que 199 grammes pour une prise en main très aisée. Vous profitez d'une ergonomie moderne adaptée à vos besoins professionnels."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP OIS et Caméra Frontale 32 MP",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 Mégapixels intègre une stabilisation optique de l'image OIS. Cette technologie compense les mouvements involontaires pour des photos nettes de jour comme de nuit. De plus, la possibilité d'utiliser le capteur principal pour les selfies via l'écran externe garantit des autoportraits très détaillés. La caméra interne de 32 Mégapixels assure des visioconférences professionnelles d'une clarté remarquable. Ainsi, vos clichés bénéficient d'un excellent piqué optique.",
+                    "Les haut-parleurs stéréo avec certification DTS:X Ultra délivrent une acoustique spatiale immersive. En effet, le son enveloppant enrichit le visionnage de films lorsque le téléphone est posé semi-ouvert. Également, la puce NFC facilite les paiements sans contact de manière sécurisée. Le capteur d'empreintes digitales latéral garantit un déverrouillage fluide au quotidien. Vous disposez d'un équipement multimédia très abouti."
+                ]
+            },
+            {
+                "h2_title": "Batterie 4310 mAh et Recharge Rapide 33W",
+                "paragraphs": [
+                    "La batterie de 4310 mAh fournit une autonomie équilibrée pour couvrir vos activités quotidiennes. Cette endurance s'adapte sans difficulté aux consultations régulières sur l'écran externe économe en énergie. Par ailleurs, la recharge rapide 33W permet de faire le plein d'énergie en un temps limité. En effet, quelques dizaines de minutes suffisent pour retrouver une autonomie opérationnelle. Vos communications se poursuivent sans contrainte.",
+                    "Le smartphone affiche des finitions élégantes en noir, argent et lilas avec une épaisseur pliée de 15.4 mm. D'autre part, la structure en aluminium renforcé assure une résistance rassurante face aux chocs légers. En somme, le ZTE Nubia Flip 2 5G perfectionne l'usage pliant avec un écran externe très fonctionnel. Vous pouvez commander ce smartphone en toute sérénité sur My-eStore. Le service de livraison rapide dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Flip 2 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone pliable ZTE Nubia Flip 2 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions déplié",
+                            "valeur": "169.4 x 76.0 x 7.2 mm"
+                        },
+                        {
+                            "label": "Dimensions plié",
+                            "valeur": "87.6 x 76.0 x 15.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.199 kg (199 g)"
+                        },
+                        {
+                            "label": "Charnière",
+                            "valeur": "Charnière en acier goutte d'eau avec pli quasi invisible"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Black), Argent (Silver), Lilas (Lilac)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Écran principal (interne)",
+                            "valeur": "6.85 pouces AMOLED Pliable, 1 milliard de couleurs, 120 Hz"
+                        },
+                        {
+                            "label": "Définition écran principal",
+                            "valeur": "FHD+ (2790 x 1188 pixels, 21:9, ~442 ppi)"
+                        },
+                        {
+                            "label": "Écran secondaire (externe)",
+                            "valeur": "3.00 pouces AMOLED rectangulaire plein format"
+                        },
+                        {
+                            "label": "Fonctions écran externe",
+                            "valeur": "Clavier complet, exécution d'applications, aperçu photo 50 MP, widgets"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 7300X 5G (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G615 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, stabilisation optique OIS, PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur de profondeur",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale interne",
+                            "valeur": "32 MP (f/2.4, grand-angle)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps, 1080p à 30/60 fps, stabilisation gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "4310 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 33W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, USB Power Delivery 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6 dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C réversible"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+2+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+2+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

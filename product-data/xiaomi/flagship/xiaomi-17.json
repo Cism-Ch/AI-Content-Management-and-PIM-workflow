@@ -1,0 +1,426 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 17 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 17",
+        "category": "smartphone",
+        "sub_category": "compact-flagship-nextgen",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-17",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-17"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-17/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+17"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+17+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone compact d'élite Xiaomi 17 avec écran LTPO 6.3 pouces, puce Snapdragon 8 Elite Gen 5, batterie 6330 mAh et charge turbo 100W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "6330 mAh",
+        "charging_wired": "Charge turbo 100W HyperCharge",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM ou SIM + eSIM)",
+        "weight": "0.191 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-17",
+        "Name": "Xiaomi 17 - Dual SIM - Écran 6.3\" 120Hz - (12 Go & 256 Go|512 Go) - 6330 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "495000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 17, Xiaomi Series, Smartphone, Android, 5G, Écran 120Hz, Optiques Leica, 6330mAh, Charge 100W, Snapdragon 8 Elite Gen 5, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Rose Pale | Bleu Clair | Noir | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.191 kg",
+        "Attribute 4 default": "0.191 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Rose Pale",
+            "color_en": "Alpine Pink",
+            "color_code": "ROSE-PALE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "12-GB-256-GB-ROSE-PALE"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Ice Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "12-GB-256-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Venture Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Rose Pale",
+            "color_en": "Alpine Pink",
+            "color_code": "ROSE-PALE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-512-GB-ROSE-PALE"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Ice Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-512-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Venture Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Référence Compacte avec Snapdragon 8 Elite Gen 5 et Batterie 6330 mAh.",
+        "teaser": "Le smartphone compact haut de gamme Xiaomi 17 réunit un écran LTPO 120Hz de 6.3 pouces et le processeur Snapdragon 8 Elite Gen 5. Équipé d'optiques professionnelles Leica Summilux et d'une batterie haute densité de 6330 mAh avec charge 100W, il réconcilie compacité et endurance record.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran LTPO Compact 6.3\" 120Hz",
+                "benefice": "Bordures ultra-fines de 1.3 mm et luminosité de 3500 nits pour une maniabilité sans compromis"
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite Gen 5",
+                "benefice": "Architecture 3nm de pointe exécutant instantanément les calculs applicatifs les plus lourds"
+            },
+            {
+                "feature": "Optiques Leica Summilux 50MP",
+                "benefice": "Triple capteur professionnel garantissant des clichés détaillés et fidèles même en très faible lumière"
+            },
+            {
+                "feature": "Batterie Massive 6330 mAh & 100W",
+                "benefice": "Densité énergétique record assurant une disponibilité prolongée avec recharge complète en vingt-cinq minutes"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone compact de nouvelle génération associant format de poche ultra-ergonomique, puissance d'élite et endurance majeure.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 17 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi 17 chez My-eStore. Écran compact 6.3 pouces 120Hz, puce Snapdragon 8 Elite Gen 5 et batterie 6330 mAh au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 17 256 Go : Snapdragon 8 Elite Gen 5 & Leica | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 17 chez My-eStore. Écran compact 6.3 pouces 120Hz, puce Snapdragon 8 Elite Gen 5, optiques Leica et batterie 6330 mAh à Abidjan.",
+            "focus_keyword": "Xiaomi 17",
+            "lsi_keywords": [
+                "Xiaomi 17 Abidjan",
+                "Snapdragon 8 Elite Gen 5",
+                "smartphone compact haut de gamme",
+                "optiques Leica Summilux",
+                "batterie 6330 mAh charge 100W"
+            ]
+        },
+        "h1": "Xiaomi 17 : Snapdragon 8 Elite Gen 5, Optiques Leica Summilux et Batterie 6330 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 17",
+            "items": [
+                {
+                    "feature": "Écran compact 6.3 pouces",
+                    "benefice": "Format ergonomique 120Hz LTPO garantissant une prise en main irréprochable"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite Gen 5",
+                    "benefice": "Processeur de nouvelle génération délivrant une vitesse de calcul maximale"
+                },
+                {
+                    "feature": "Optiques Leica Summilux",
+                    "benefice": "Trois modules 50MP captant une lumière abondante avec une grande fidélité"
+                },
+                {
+                    "feature": "Batterie 6330 mAh & 100W",
+                    "benefice": "Autonomie hors norme dans un gabarit de poche couplée à la charge rapide 100W"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le Xiaomi 17 renouvelle le segment des smartphones compacts haut de gamme. Sa dalle AMOLED LTPO de 6.3 pouces offre une lisibilité nette en toute condition. De plus, le taux adaptatif 120Hz garantit une aisance tactile remarquable au quotidien. Le processeur Snapdragon 8 Elite Gen 5 déploie une réactivité immédiate sans chauffer. Enfin, la batterie de 6330 mAh assure une autonomie prolongée très appréciable.",
+        "sections": [
+            {
+                "h2_title": "Un Écran LTPO Compact à la Luminosité de 3500 Nits",
+                "paragraphs": [
+                    "La dalle AMOLED restitue des contrastes infinis avec des teintes éclatantes. En outre, les bordures affinées de 1.3 millimètre maximisent la surface utile. La manipulation à une main demeure confortable lors de vos déplacements quotidiens. Le verre protecteur robuste préserve le panneau frontal contre les frottements. Par ailleurs, la résolution 1.5K procure une netteté visuelle constante sur chaque image. L'affichage conserve une clarté remarquable même sous un soleil direct.",
+                    "D'autre part, la luminance maximale atteint 3500 nits pour un confort absolu. Le taux dynamique s'ajuste instantanément de 1 à 120Hz selon le contenu affiché. Cette gestion fine réduit significativement la dépense d'énergie de la batterie. Ainsi, la lecture prolongée de documents reste douce pour vos yeux. Les capteurs de lumière ambiante corrigent la colorimétrie avec une grande précision. Vous profitez d'une expérience visuelle premium en intérieur comme en extérieur."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 8 Elite Gen 5 et Optiques Leica Summilux",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8 Elite Gen 5 offre une vélocité impressionnante. La gravure en 3 nanomètres garantit une efficience énergétique supérieure à chaque instant. La mémoire vive de 12 Go soutient un multitâche intensif sans aucun ralentissement. De surcroît, le circuit graphique exécute les jeux vidéo récents avec fluidité. La chambre à vapeur intégrée dissipe la chaleur avec une efficacité continue. Les applications professionnelles s'ouvrent de manière instantanée lors de vos journées actives.",
+                    "De ce fait, le triple module 50MP développé avec Leica capture des clichés remarquables. Le capteur principal stabilisé capte une lumière abondante dans les environnements sombres. Le téléobjectif flottant immortalise des portraits nets avec un flou d'arrière-plan soigné. Également, l'ultra grand-angle élargit votre champ de vision lors des photos panoramiques. L'enregistrement vidéo 8K conserve des détails précis pour toutes vos séquences. Les algorithmes Leica optimisent le rendu des couleurs avec un réalisme saisissant."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Remarquable de 6330 mAh et Charge Express 100W",
+                "paragraphs": [
+                    "D'abord, la batterie de 6330 mAh assure une disponibilité sans interruption. Cette capacité massive permet d'enchaîner vos activités sans craindre la panne sèche. Le chargeur filaire 100W restaure l'intégralité de l'accumulateur en vingt-cinq minutes. De même, la charge sans fil 50W simplifie grandement l'alimentation sur votre bureau. Le protocole de sécurité protège la longévité des cellules chimiques au fil du temps. La gestion thermique préserve les composants électroniques pendant les charges rapides.",
+                    "Enfin, le châssis en aluminium arbore des finitions soignées d'une grande élégance. La certification IP68 garantit une étanchéité complète contre l'eau et les poussières. Le poids contenu de 191 grammes favorise une utilisation prolongée sans fatigue. Par conséquent, ce modèle compact convient idéalement aux utilisateurs exigeants d'Abidjan. La connectivité 5G et le Wi-Fi 7 garantissent des débits de données ultra rapides. L'interface Xiaomi HyperOS apporte une personnalisation intuitive adaptée à vos besoins quotidiens."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 17 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "151.1 x 71.8 x 8.06 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "191 g (0.191 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre en alliage d'aluminium monobloc, dos en verre trempé satiné"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Rose Pale (Alpine Pink), Bleu Clair (Ice Blue), Noir (Black), Vert (Venture Green)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "LTPO AMOLED 120Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.3 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2670 x 1200 pixels), 465 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "1 à 120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1400 nits (HBM), 3500 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno GPU"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Triple optique Leica : principal 50 MP (f/1.6, OIS) + téléobjectif 50 MP (60mm, f/2.0, OIS) + ultra grand-angle 50 MP (14mm, f/2.2)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, enregistrement 4K@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6330 mAh non amovible technologie silicium-carbone"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 100W HyperCharge + charge sans fil 50W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 1 (DisplayPort, OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-17/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+17"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+17+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

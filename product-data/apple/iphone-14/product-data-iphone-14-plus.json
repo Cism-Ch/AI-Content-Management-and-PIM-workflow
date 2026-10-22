@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-14-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 14 Plus",
+    "category": "Smartphones",
+    "sub_category": "Standard",
+    "release_year": 2022,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A2886",
+    "regional_variants": [
+      { "region": "International", "sku": "A2886" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://support.apple.com/kb/SP882" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 14 Plus 128GB",
+      "sku_suffix": "128",
+      "configurations": { "ram": "6GB", "storage": "128GB" },
+      "pricing": { "official_price_fcfa": 525000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Blue", "Purple", "Yellow", "Midnight", "Starlight", "Red"],
+    "default": "Midnight"
+  },
+  "key_specifications": {
+    "processor": "Apple A15 Bionic (5-core GPU)",
+    "ram_options": ["6GB"],
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "screen_size": "6.7 pouces",
+    "screen_technology": "Super Retina XDR OLED",
+    "screen_resolution": "1284 x 2778 pixels",
+    "screen_refresh_rate": "60Hz",
+    "battery_capacity": "4323 mAh",
+    "charging_wired": "20W",
+    "charging_wireless": "15W (MagSafe)",
+    "os": "iOS",
+    "os_version": "16",
+    "camera_main": "12 MP, f/1.5, 26mm, sensor-shift OIS",
+    "camera_ultrawide": "12 MP, f/2.4, 13mm, 120˚",
+    "camera_telephoto": "Non",
+    "camera_selfie": "12 MP, f/1.9",
+    "video_max": "4K@60fps, Cinematic mode, Action mode",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 6",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "160.8 x 78.1 x 7.8 mm",
+    "weight": "203 g",
+    "materials": "Aluminium, Ceramic Shield",
+    "biometrics": "Face ID",
+    "additional_features": ["Crash Detection", "Satellite SOS"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

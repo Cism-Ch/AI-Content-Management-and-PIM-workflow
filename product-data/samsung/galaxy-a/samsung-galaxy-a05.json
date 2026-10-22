@@ -1,0 +1,424 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-a-v3.4-batch-3",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy A05 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy A Series",
+        "commercial_name": "Samsung Galaxy A05",
+        "category": "smartphone",
+        "sub_category": "entry-level",
+        "release_year": 2023,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-A05",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-A05"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-a05/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+A05"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+A05+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy A05 6.7\" Helio G85 50MP 5000mAh 25W 4G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-A05",
+        "Name": "Samsung Galaxy A05 - 6.7\" HD+ - 4Go/64Go - 50MP - 5000mAh - 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "75000",
+        "Categories": "Smartphones > Samsung > Galaxy A Series",
+        "Tags": "Samsung, Galaxy A05, Galaxy A Series, Smartphone, Android, 4G, 50MP, 5000mAh, Helio G85, 6.7 Pouces, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Argent, Vert Clair",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go, 128 Go",
+        "Attribute 2 default": "64Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go, 6 Go",
+        "Attribute 3 default": "4Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Écran 6.7\" accessible avec Capteur 50MP et Charge 25W.",
+        "teaser": "Découvrez le Samsung Galaxy A05 avec son grand écran de 6.7 pouces, son capteur photo 50MP, sa puce Helio G85 et sa batterie 5000 mAh avec charge rapide 25W.",
+        "top_features_detailed": [
+            {
+                "feature": "Grand Écran 6.7\" HD+ Spacieux",
+                "benefice": "Confort visuel appréciable pour vos vidéos, cours en ligne et navigation"
+            },
+            {
+                "feature": "Puce MediaTek Helio G85 Octa-Core",
+                "benefice": "Traitement réactif de vos applications habituelles et navigation fluide"
+            },
+            {
+                "feature": "Capteur Photo Principal 50MP",
+                "benefice": "Prises de vue nettes et équilibrées pour immortaliser vos journées"
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 25W",
+                "benefice": "Autonomie sereine sur deux jours et récupération rapide de l'énergie"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone fiable et très accessible associant grand écran, bel appareil photo et autonomie éprouvée.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy A05 (4Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy A05 au meilleur prix à Abidjan sur My-eStore. Écran 6.7\", Helio G85, 50MP, 5000mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy A05 64Go : Écran 6.7\" & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy A05 sur My-eStore. Écran 6.7 pouces HD+, puce Helio G85, capteur 50MP, batterie 5000 mAh et charge rapide 25W.",
+            "focus_keyword": "Samsung Galaxy A05",
+            "lsi_keywords": [
+                "Samsung Galaxy A05 Abidjan",
+                "prix Samsung Galaxy A05",
+                "fiche technique Galaxy A05",
+                "smartphone Samsung pas cher",
+                "Galaxy A05 64Go"
+            ]
+        },
+        "h1": "Samsung Galaxy A05 : Grand Écran 6.7\", Capteur 50MP et Batterie 5000mAh",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy A05 propose un grand format d'affichage accessible à tous. Sa grande dalle de 6.7 pouces procure une lisibilité claire pour tous vos messages et vidéos. De plus, son processeur Helio G85 gère sans ralentissement vos flux d'applications habituels. Le châssis au design épuré assure une prise en main très agréable au creux de la paume. Enfin, son accumulateur de 5000 mAh procure une autonomie rassurante sur plusieurs journées de travail.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy A05",
+            "items": [
+                {
+                    "feature": "Dalle 6.7\" HD+ Spacieuse",
+                    "benefice": "Grand confort de lecture et visionnage agréable de vos vidéos"
+                },
+                {
+                    "feature": "Puce MediaTek Helio G85",
+                    "benefice": "Exécution fluide de vos logiciels et fluidité de navigation"
+                },
+                {
+                    "feature": "Capteur Photo Principal 50MP",
+                    "benefice": "Prises de vue équilibrées et fidélité des teintes naturelles"
+                },
+                {
+                    "feature": "Batterie 5000 mAh Longue Durée",
+                    "benefice": "Autonomie sécurisante pour couvrir l'ensemble de vos activités quotidiennes"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Grand Affichage 6.7 Pouces et Prise en Main Naturelle",
+                "paragraphs": [
+                    "D'un côté, la dalle de 6.7 pouces propose une surface généreuse pour consulter tous vos contenus multimédias. L'affichage haute définition restitue des teintes vives pour vos séances de streaming vidéo et vos réseaux sociaux. La protection en verre trempé renforce la face avant contre les rayures et frottements du quotidien. Par ailleurs, la luminosité maximale permet une lecture aisée sous un fort éclairage en extérieur. Les bordures soignées maximisent le confort visuel tout en conservant une préhension naturelle et agréable. Vous profitez ainsi d'un confort multimédia adapté pour toutes vos applications mobiles.",
+                    "D'un autre côté, le châssis au profil fin de 8.8 millimètres assure une tenue équilibrée et stable. Cette conception ergonomique facilite l'usage quotidien à une ou deux mains selon les situations. Les contrastes profonds mettent en valeur vos photographies ainsi que vos vidéos partagées. En outre, la sensibilité de la couche tactile assure une réactivité immédiate pour la saisie de vos textes. Les finitions contemporaines s'adaptent facilement à l'ensemble de vos environnements professionnels. Ce modèle allie compacité et durabilité mécanique au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Performances Quotidiennes et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce Helio G85 traite rapidement les requêtes courantes et le traitement multimédia habituel. La mémoire vive spacieuse assure un passage sans attente entre vos différents logiciels de messagerie. Le stockage interne spacieux accueille l'ensemble de vos documents, musiques et galeries photos sans saturation. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des cadences stables et régulières. Les outils logiciels facilitent la navigation fluide et la personnalisation de votre espace de travail. Vous accomplissez vos tâches quotidiennes avec une régularité et une promptitude appréciables.",
+                    "Dans cette optique, la technologie de charge rapide 25W rétablit promptement l'autonomie lors d'une courte pause. La connectivité réseau assure des transmissions stables lors de vos déplacements urbains quotidiens. Le module de sécurité Knox isole vos codes d'accès et vos données confidentielles de manière étanche. Également, les haut-parleurs intégrés délivrent une restitution acoustique claire pour tous vos appels téléphoniques. La prise audio jack permet de brancher facilement vos écouteurs filaires habituels. Ce smartphone constitue une solution équilibrée et durable pour votre productivité nomade."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 50 mégapixels enregistre des scènes nettes et détaillées en toutes circonstances. L'autofocus rapide compense les mouvements involontaires pour réussir vos clichés sur le vif. L'objectif dédié à la profondeur affine le détourage des portraits pour un arrière-plan flouté harmonieux. De même, les modes de prise de vue facilitent l'enregistrement de scènes variées de jour comme de nuit. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous obtenez des photos équilibrées prêtes à être partagées avec vos proches.",
+                    "Enfin, l'accumulateur de 5000 mAh vous accompagne sereinement pendant deux journées habituelles de travail. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes réelles de travail. La gestion de l'alimentation préserve la durée de vie des composants au fil des recharges successives. Par conséquent, vous conservez une totale autonomie lors de vos déplacements professionnels ou personnels. Les composants durables sont sélectionnés pour préserver leur capacité au fil des cycles de charge. Le Galaxy A05 constitue un investissement accessible associant innovation et autonomie."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy A05",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy A05."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.8 x 78.2 x 8.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.195 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre avant, Châssis ergonomique, Dos satiné"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Non certifié étanche"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.7\" PLS LCD, 60Hz"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "HD+ (720 x 1600 pixels), 262 ppi"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits (typique)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre trempé haute résistance"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Mediatek Helio G85 (12nm) Octa-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go LPDDR4X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 4 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "64 Go / 128 Go eMMC 5.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "MicroSD jusqu'à 1 To (slot dédié)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, AF"
+                        },
+                        {
+                            "label": "Capteur Profondeur",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Capteur Selfie",
+                            "valeur": "8 MP, f/2.0"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "1080p à 30/60 fps"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleur avec prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "5000 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 35 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 5 (802.11ac), Bluetooth 5.3, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Dual SIM (Nano-SIM, double veille) + Slot MicroSD dédié"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Reconnaissance faciale, Samsung Knox"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI Core"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Non"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-a05/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+A05"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+A05+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "75000",
+            "sku_suffix": "4-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "100000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "75000",
+            "sku_suffix": "4-GB-64-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "100000",
+            "sku_suffix": "4-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Light Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "75000",
+            "sku_suffix": "4-GB-64-GB-VERT-CLAIR"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Light Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "100000",
+            "sku_suffix": "4-GB-128-GB-VERT-CLAIR"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Light Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-VERT-CLAIR"
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Focus 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+5G+specifications"
+            }
+        ],
+        "pricing_reference": "129000",
+        "official_sku": "ZTE-NUBIA-FOCUS-5G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Dark Black Leather",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "129000",
+            "sku_suffix": "256GB-6GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Light Gold",
+            "color_code": "OR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "129000",
+            "sku_suffix": "256GB-6GB-OR"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Unisoc T760 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.56 pouces",
+        "screen_technology": "IPS LCD 120Hz avec Live Island",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "6 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "108 MP Neovision Photography (4 focales 24/35/50/72mm, capteur 1/1.67\")",
+        "camera_selfie": "5 MP",
+        "audio_config": "Haut-parleur avec traitement sonore DTS",
+        "audio_tech": "Son spatial DTS Audio & prise 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 33W USB-C",
+        "dimensions": "163.6 x 74.9 x 8.6 mm",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-FOCUS-5G-MASTER",
+        "Name": "ZTE Nubia Focus 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "129000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Focus 5G, 108MP Neovision, 5G, Écran 120Hz, 256Go, Charge 33W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Or",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 default": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Focus 5G : Photographie 108 MP Neovision et Réseau 5G",
+        "brand_line": "Le smartphone inspiré des appareils photo classiques doté d'un capteur 108 MP et de 4 focales.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Focus 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Focus 5G propose un système photo Neovision 108 MP à 4 focales, un écran 120Hz avec Live Island, la puce Unisoc T760 5G et une charge 33W.",
+        "features": [
+            {
+                "feature": "Système Neovision 108 MP (1/1.67\")",
+                "benefice": "Prises de vue précises avec 4 focales intégrées (24, 35, 50, 72 mm)."
+            },
+            {
+                "feature": "Écran 6.56\" 120Hz & Live Island",
+                "benefice": "Grande fluidité tactile et notifications interactives."
+            },
+            {
+                "feature": "Puce Unisoc T760 5G (6nm)",
+                "benefice": "Téléchargements rapides et traitement photo assisté par IA."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 33W",
+                "benefice": "Autonomie constante et recharge rapide en USB-C."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Focus 5G — L'esprit de la photographie créative dans un smartphone 5G.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Focus 5G (6Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Focus 5G avec capteur 108 MP Neovision, écran 120Hz, 256 Go et charge rapide 33W. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Nubia Focus 5G, smartphone photo 108MP Abidjan, Neovision 5G, 256Go, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Focus 5G",
+            "lsi_keywords": [
+                "ZTE Nubia Focus 5G",
+                "smartphone ZTE Nubia Focus 5G Abidjan",
+                "ZTE Nubia Focus 5G prix",
+                "téléphone photo 108 mp neovision",
+                "smartphone 5g écran 120hz 256 go",
+                "téléphone design appareil photo vintage",
+                "achat smartphone photo My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Focus 5G 256 Go : 108 MP Neovision & Écran 120Hz | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Focus 5G. Système photo 108 MP Neovision à 4 focales, écran 120Hz, puce 5G 6nm et charge 33W. Livraison sécurisée à Abidjan."
+        },
+        "h1": "ZTE Nubia Focus 5G : Capteur 108 MP Neovision, Puce 5G et Écran 120Hz",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA FOCUS 5G",
+            "items": [
+                {
+                    "feature": "Optique Neovision 108 MP",
+                    "benefice": "Quatre focales de référence pour le portrait et le paysage."
+                },
+                {
+                    "feature": "Design Boîtier Photo Vintage",
+                    "benefice": "Prise en main ergonomique inspirée des appareils photo reflex."
+                },
+                {
+                    "feature": "Connectivité 5G Véloce",
+                    "benefice": "Partage rapide de vos clichés haute définition."
+                },
+                {
+                    "feature": "Charge Rapide 33W USB-C",
+                    "benefice": "Recharge dynamique pour ne jamais manquer un instant."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Focus 5G célèbre l'art de la photographie à travers une conception inspirée des boîtiers classiques. Cet équipement répond parfaitement aux attentes des créateurs visuels et passionnés d'image à Abidjan. En effet, son capteur haute définition de 108 Mégapixels intègre quatre longueurs focales polyvalentes. De plus, sa dalle de 6.56 pouces à 120 Hz garantit un grand confort de visualisation. La puce Unisoc T760 compatible 5G accélère le traitement numérique des clichés. Par ailleurs, la batterie de 5000 mAh avec charge 33W soutient de longues sessions de prise de vue. L'ensemble propose ainsi un outil d'expression visuelle idéal pour votre quotidien.",
+        "sections": [
+            {
+                "h2_title": "Système Photo Neovision 108 MP et 4 Focales Dédiées",
+                "paragraphs": [
+                    "Le ZTE Nubia Focus 5G embarque un capteur principal de 108 Mégapixels doté d'une ouverture lumineuse de f/1.75. Ce module permet de basculer instantanément entre quatre focales traditionnelles de 24, 35, 50 et 72 mm. Ainsi, vous réalisez des portraits nets et des gros plans sans perte de définition. De surcroît, le traitement logiciel Neovision optimise la balance des blancs et les détails d'ombre. La caméra avant de 5 Mégapixels assure des visioconférences claires.",
+                    "Le bouton dédié sur la tranche permet de déclencher l'appareil photo en un instant sans déverrouillage préalable. D'ailleurs, le design texturé circulaire rappelle la bague d'un objectif de précision. En outre, la connectivité 5G permet de partager vos créations visuelles en haute résolution. Le format compact assure une manipulation très stable d'une seule main. Vous disposez d'un véritable outil photographique au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Écran 120Hz avec Live Island et Processeur 5G",
+                "paragraphs": [
+                    "La dalle IPS de 6.56 pouces rafraîchie à 120 Hz procure une lisibilité continue lors de la navigation tactile. Cette fréquence élevée rend les animations fluides et agréables lors du parcours de vos galeries de photos. De plus, la fonction interactive Live Island affiche le minuteur et vos notifications sans masquer l'écran. Le processeur Unisoc T760 gravé en 6 nanomètres soutient une exécution stable de vos applications. La mémoire vive de 6 Go prend en charge vos traitements sans ralentissement.",
+                    "Le stockage interne de 256 Go accueille des milliers de photographies en très haute définition. En effet, vous conservez l'ensemble de vos archives de voyage sans contrainte d'espace. Également, la puce NFC intégrée simplifie vos échanges sans contact en toute sécurité. La compatibilité audio DTS procure une clarté sonore agréable lors de vos visionnages. Vous bénéficiez d'une expérience multimédia équilibrée."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh offre une réserve énergétique confortable pour couvrir une journée complète de prises de vue. Cette grande capacité vous évite de devoir transporter une batterie externe lors de vos sorties en ville. Par ailleurs, la technologie de charge rapide 33W permet de faire le plein d'énergie en un temps restreint. En effet, quelques dizaines de minutes de branchement suffisent pour sécuriser plusieurs heures d'activité. Vos déplacements s'organisent avec une grande sérénité.",
+                    "Le smartphone affiche un poids de 205 grammes avec des coloris en noir classique et doré lumineux. D'autre part, la finition travaillée confère une réelle allure d'objet de collection à l'appareil. En somme, le ZTE Nubia Focus 5G démocratise la photographie 108 MP dans un format 5G accessible. Vous pouvez commander ce smartphone en toute sécurité sur My-eStore. Le service de livraison rapide dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Focus 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Focus 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 74.9 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.205 kg (205 g)"
+                        },
+                        {
+                            "label": "Design particulier",
+                            "valeur": "Design inspiré des appareils photo reflex avec anneau central"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Classic Black), Doré (Light Gold)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.56 pouces (~85.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD avec fonction Live Island"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1612 x 720 pixels, 20:9, ~269 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T760 5G (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.2 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "108 MP Neovision (f/1.75, 1/1.67\", PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Focales photo intégrées",
+                            "valeur": "24 mm (Grand-angle), 35 mm (Street), 50 mm (Portrait), 72 mm (Télé)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "5 MP (f/2.2)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps, 1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 33W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son optimisé DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

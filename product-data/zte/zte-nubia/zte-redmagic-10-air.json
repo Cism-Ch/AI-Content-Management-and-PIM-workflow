@@ -1,0 +1,429 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Redmagic 10 Air",
+        "generation_date": "2026-09-08"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "REDMAGIC Official Store",
+                "url": "https://redmagic.gg/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Redmagic+10+Air"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Redmagic+10+Air+specifications"
+            }
+        ],
+        "pricing_reference": "520000",
+        "official_sku": "ZTE-REDMAGIC-10-AIR"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 3.30 GHz (Cortex-X4)",
+        "screen_size": "6.80 pouces",
+        "screen_technology": "AMOLED 120Hz Sans Encoche",
+        "screen_resolution": "2480 x 1116 pixels",
+        "battery_capacity": "6000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "LPDDR5X (8533 Mbps)",
+        "os": "Android 15",
+        "os_skin": "RedMagic OS 10",
+        "camera_main": "Double capteur 50 MP (50 MP Grand-Angle OIS + 50 MP Ultra Grand-Angle)",
+        "camera_selfie": "16 MP sous l'écran",
+        "audio_config": "Haut-parleurs Stéréo DTS:X Ultra & Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band, GLONASS, BDS, Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge rapide 80W USB-C avec Bypass Charging",
+        "dimensions": "164.3 x 76.6 x 7.9 mm",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-REDMAGIC-10-AIR-MASTER",
+        "Name": "ZTE Redmagic 10 Air",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "520000",
+        "Categories": "Smartphones > ZTE > RedMagic Gaming, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Redmagic 10 Air, Snapdragon 8 Gen 3, 6000mAh, Profil Fin 7.9mm, 120Hz Sans Encoche, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 default": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "color_fr": "Noir",
+            "color_en": "Black Twilight",
+            "color_code": "NOIR",
+            "price": "520000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Noir",
+            "color_en": "Black Twilight",
+            "color_code": "NOIR",
+            "price": "590000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "color_fr": "Blanc",
+            "color_en": "White Hailstone",
+            "color_code": "BLANC",
+            "price": "520000",
+            "sku_suffix": "256GB-12GB-BLANC"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Blanc",
+            "color_en": "White Hailstone",
+            "color_code": "BLANC",
+            "price": "590000",
+            "sku_suffix": "512GB-16GB-BLANC"
+        },
+        {
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "color_fr": "Orange",
+            "color_en": "Orange Flare",
+            "color_code": "ORANGE",
+            "price": "520000",
+            "sku_suffix": "256GB-12GB-ORANGE"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Orange",
+            "color_en": "Orange Flare",
+            "color_code": "ORANGE",
+            "price": "590000",
+            "sku_suffix": "512GB-16GB-ORANGE"
+        }
+    ],
+    "short_description": {
+        "title_format": "ZTE Redmagic 10 Air : Snapdragon 8 Gen 3 Batterie 6000 mAh et Finesse 7.9 mm",
+        "brand_line": "Le smartphone gaming ultra-fin alliant batterie 6000 mAh, puce Snapdragon 8 Gen 3 et châssis léger.",
+        "marketing_conclusion": "Commandez votre ZTE Redmagic 10 Air sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Redmagic 10 Air allie la puissance du Snapdragon 8 Gen 3, une batterie 6000 mAh, un profil fin de 7.9 mm, un poids plume de 205 g et un écran 120Hz sans encoche.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Gen 3 (3.30 GHz)",
+                "benefice": "Exécution rapide de vos applications et jeux avec une efficacité énergétique élevée."
+            },
+            {
+                "feature": "Châssis Fin 7.9 mm & Poids 205 g",
+                "benefice": "Prise en main légère et confortable pour un transport discret au quotidien."
+            },
+            {
+                "feature": "Batterie 6000 mAh & Charge 80W",
+                "benefice": "Endurance durable sur toute la journée et recharge rapide sans interruption."
+            },
+            {
+                "feature": "Écran AMOLED 120Hz Sans Poinçon",
+                "benefice": "Affichage fluide et sans encoche grâce au capteur frontal invisible sous l'écran."
+            }
+        ],
+        "slogan_final": "ZTE Redmagic 10 Air — La finesse d'ingénierie associée à la performance brute pour les passionnés de mobilité.",
+        "seo": {
+            "meta_title": "Acheter ZTE Redmagic 10 Air (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Redmagic 10 Air à Abidjan sur My-eStore. Snapdragon 8 Gen 3, batterie 6000 mAh, profil fin 7.9 mm, poids 205g et écran 120Hz sans encoche.",
+            "keywords": "ZTE Redmagic 10 Air, smartphone gaming fin Snapdragon 8 Gen 3 Abidjan, 6000mAh, 120Hz, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Redmagic 10 Air",
+            "lsi_keywords": [
+                "ZTE Redmagic 10 Air",
+                "smartphone ZTE Redmagic 10 Air Abidjan",
+                "ZTE Redmagic 10 Air prix",
+                "téléphone gaming snapdragon 8 gen 3",
+                "smartphone fin 7.9mm 6000 mah",
+                "téléphone écran sans encoche 120hz",
+                "achat smartphone gaming premium My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Redmagic 10 Air : Snapdragon 8 Gen 3 & 7.9mm | My-eStore",
+            "meta_description": "Fiche technique du ZTE Redmagic 10 Air. Snapdragon 8 Gen 3, batterie 6000 mAh, profil fin de 7.9 mm, poids 205g et écran AMOLED 120Hz à Abidjan."
+        },
+        "h1": "ZTE Redmagic 10 Air : Snapdragon 8 Gen 3, Écran AMOLED 120Hz et Batterie 6000 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE REDMAGIC 10 AIR",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Gen 3 (3.30 GHz)",
+                    "benefice": "Exécution rapide de vos applications et jeux avec une efficacité énergétique élevée."
+                },
+                {
+                    "feature": "Châssis Fin 7.9 mm & Poids 205 g",
+                    "benefice": "Prise en main légère et confortable pour un transport discret au quotidien."
+                },
+                {
+                    "feature": "Batterie 6000 mAh & Charge 80W",
+                    "benefice": "Endurance durable sur toute la journée et recharge rapide sans interruption."
+                },
+                {
+                    "feature": "Écran AMOLED 120Hz Sans Poinçon",
+                    "benefice": "Affichage fluide et sans encoche grâce au capteur frontal invisible sous l'écran."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Redmagic 10 Air combine un profil fin de 7.9 mm et une haute efficacité énergétique. Sa batterie intégrée de 6000 mAh assure ainsi une autonomie complète sur l'ensemble de votre journée de travail. La dalle AMOLED de 6.80 pouces affiche des images précises sans aucun poinçon disgracieux. Le processeur Snapdragon 8 Gen 3 maintient en outre une réactivité instantanée sur vos tâches multimédias courantes. Le châssis allégé de 205 grammes facilite enfin une prise en main très confortable lors de vos déplacements.",
+        "sections": [
+            {
+                "h2_title": "Puce Snapdragon 8 Gen 3 et Finesse Ergonomique",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Gen 3 gravé en 4 nanomètres offre un compromis idéal entre puissance et consommation. La puce graphique Adreno 750 assure une fluidité constante sur vos applications de navigation et jeux. Le système de refroidissement multicouche ICE-X disperse également la chaleur sans générer de nuisance sonore. Cette dissipation passive stabilise la température interne même lors d'une utilisation prolongée. L'appareil préserve donc une vélocité rassurante à chaque étape de votre journée active.",
+                    "La mémoire vive de 12 Go ou 16 Go soutient une excellente polyvalence au quotidien. Le stockage flash de 256 Go ou 512 Go permet d'ailleurs d'enregistrer tous vos documents sans contrainte. Le format profilé de 7.9 mm se glisse avec aisance dans toutes vos poches de veste. La finition en verre et aluminium apporte une prise en main soignée et moderne. L'utilisateur conserve par conséquent une sensation de légèreté appréciable au cours de ses activités."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 120Hz et Capteur Sous Écran",
+                "paragraphs": [
+                    "L'écran AMOLED de 6.80 pouces bénéficie d'une fréquence de rafraîchissement réactive de 120 Hz. Sa définition de 2480 par 1116 pixels restitue des détails soignés pour la lecture de vos contenus. La luminosité maximale de 1600 nits autorise aussi une consultation claire en plein extérieur. La caméra frontale de 16 Mégapixels se dissimule complètement sous la surface de la dalle. L'affichage intégral offre une visibilité totale sans aucune gêne visuelle en bord d'écran.",
+                    "Deux gâchettes tactiles à 520 Hz procurent un contrôle réactif lors de vos parties compétitives. Les haut-parleurs stéréo diffusent notamment un son équilibré pour vos vidéos et appels en ligne. La connectivité 5G et le Wi-Fi 7 garantissent un accès rapide aux services web. L'indice de protection IP54 protège par ailleurs le téléphone contre les projections d'eau courantes. Le terminal répond parfaitement aux besoins des utilisateurs recherchant un smartphone moderne et élégant."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6000 mAh et Charge Rapide 80W",
+                "paragraphs": [
+                    "L'accumulateur haute densité de 6000 mAh procure une longévité suffisante pour un usage intensif continu. Le chargeur rapide de 80W restitue de plus la totalité de la charge en un temps très court. La technologie d'alimentation directe contourne la batterie lors des utilisations prolongées sur secteur. Ce système évite de fait l'usure prématurée des cellules chimiques durant les charges régulières. La gestion énergétique avancée régule la distribution du courant pour assurer la sécurité de l'équipement.",
+                    "Le bloc optique principal de 50 Mégapixels avec stabilisation OIS livre des images nettes et lumineuses. L'objectif ultra grand-angle de 50 Mégapixels permet de capturer de larges scènes en extérieur. Le ZTE Redmagic 10 Air réussit ainsi l'équilibre entre finesse mécanique et endurance prolongée. Vous pouvez valider votre commande directement sur la boutique en ligne My-eStore. Le service de livraison dessert Abidjan avec réactivité et un suivi client méthodique."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Redmagic 10 Air",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE Redmagic 10 Air."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.3 x 76.6 x 7.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.205 kg (205 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium aéronautique, dos en verre, gâchettes tactiles 520Hz"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 (résistant à la poussière et aux éclaboussures)"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Black Twilight), Blanc (White Hailstone), Orange (Orange Flare)"
+                        },
+                        {
+                            "label": "Épaisseur",
+                            "valeur": "7.9 mm (châssis ultra-fin)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.80 pouces (~89.5% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED, 1 milliard de couleurs, 10-bit"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2480 x 1116 pixels, ~400 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1600 nits (pic)"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Affichage intégral sans poinçon avec caméra sous écran UDC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 3 (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.30 GHz Cortex-X4 + 5x3.20 GHz + 2x2.30 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 750"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 15 avec interface RedMagic OS 10"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.9, 1/1.55\", 1.0µm, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.2, 120˚)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, 1080p à 120/240 fps, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh (Li-Po)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 80W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "USB Power Delivery 3.0, Quick Charge 4+, Bypass Charging"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be/ax/ac/a/b/g/n), tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 réversible"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "REDMAGIC Official Store",
+                        "url": "https://redmagic.gg/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Redmagic+10+Air"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Redmagic+10+Air+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

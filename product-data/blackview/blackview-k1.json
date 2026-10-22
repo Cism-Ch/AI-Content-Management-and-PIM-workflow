@@ -1,0 +1,277 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "K1",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/fitbuds-k1-price"
+            }
+        ],
+        "pricing_reference": "25000",
+        "official_sku": "BV-K1"
+    },
+    "key_specifications": {
+        "processor": "Contrôleur Bluetooth 5.0 à faible latence",
+        "processor_ghz": "Connexion sans fil instantanée",
+        "screen_size": "N/A",
+        "screen_technology": "Touches Ciseaux Silencieuses ergonomiques",
+        "screen_resolution": "Disposition AZERTY / QWERTY compacte",
+        "battery_capacity": "Batterie Rechargeable Lithium 280 mAh",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Windows, Android, iOS et iPadOS",
+        "os_skin": "Plug and Play Bluetooth",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Frappe Silencieuse Soft-Touch",
+        "audio_tech": "Structure ciseau à rebond doux",
+        "connectivity_nfc": "Appairage Bluetooth rapide 3 appareils",
+        "navigation_gps": "N/A",
+        "card_slot": "N/A",
+        "charging_wired": "Charge via câble USB-C",
+        "dimensions": "242.3 x 168.7 x 6.5 mm",
+        "weight": "0.230 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-K1-MASTER",
+        "Name": "Blackview K1",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "25000",
+        "Categories": "Matériels Informatique & Bureautique > Clavier & Souris, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview K1, Clavier Bluetooth, Clavier Sans Fil, Ultra-Fin, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Blanc | Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.230 kg",
+        "Attribute 4 default": "0.230 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview K1 : Clavier Bluetooth Sans Fil Ultra-Fin Rechargeable USB-C",
+        "brand_line": "Le clavier sans fil ultra-fin Blackview conçu pour maximiser votre productivité sur tablette et PC.",
+        "marketing_conclusion": "Commandez le Blackview K1 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview K1 offre une connectivité Bluetooth 5.0 multi-appareils, une frappe silencieuse et une épaisseur minimale de 6.5 mm.",
+        "features": [
+            {
+                "feature": "Connexion Bluetooth 5.0 Multidispositif",
+                "benefice": "Commutation fluide entre votre tablette, smartphone et PC."
+            },
+            {
+                "feature": "Touches Ciseaux Ergonomiques",
+                "benefice": "Saisie confortable et silencieuse pour le bureau."
+            },
+            {
+                "feature": "Design Épuré et Épaisseur 6.5 mm",
+                "benefice": "Transport très facile dans votre sac ou housse."
+            },
+            {
+                "feature": "Batterie Rechargeable par USB-C",
+                "benefice": "Autonomie prolongée de plusieurs semaines par charge."
+            }
+        ],
+        "slogan_final": "Blackview K1 — La liberté de saisie où que vous soyez.",
+        "seo": {
+            "meta_title": "Acheter Blackview K1 Clavier Bluetooth à Abidjan | My-eStore",
+            "meta_description": "Découvrez le clavier sans fil Blackview K1 avec connexion Bluetooth 5.0, frappe silencieuse et recharge USB-C. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview K1, clavier bluetooth, clavier sans fil, prix Abidjan, ultra fin USB-C"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview K1",
+            "lsi_keywords": [
+                "Blackview K1",
+                "clavier bluetooth Blackview Abidjan",
+                "Blackview K1 prix",
+                "clavier sans fil tablette",
+                "clavier ultra fin rechargeable",
+                "accessoire tablette Côte d'Ivoire",
+                "achat clavier bluetooth Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview K1 : Clavier Bluetooth Ultra-Fin & USB-C | My-eStore",
+            "meta_description": "Achetez le clavier sans fil Blackview K1. Connectivité Bluetooth 5.0, frappe ciseau silencieuse, batterie rechargeable USB-C. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview K1 : Spécifications du Clavier Bluetooth",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA SAISIE SANS FIL",
+            "items": [
+                {
+                    "feature": "Finesse d'Exception 6.5 mm",
+                    "benefice": "Encombrement minimal pour vos déplacements."
+                },
+                {
+                    "feature": "Mécanisme Ciseau Silencieux",
+                    "benefice": "Frappe précise sans déranger votre entourage."
+                },
+                {
+                    "feature": "Recharge USB-C Rapide",
+                    "benefice": "Batterie rapidement opérationnelle au bureau."
+                },
+                {
+                    "feature": "Compatibilité Multi-OS",
+                    "benefice": "Utilisation immédiate sur Android, iOS et Windows."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview K1 est un clavier sans fil Bluetooth particulièrement élégant et ergonomique. Cet équipement convient très bien aux professionnels et étudiants en Côte d'Ivoire. Par ailleurs, son profil ultra-fin de 6.5 mm offre une lisibilité visuelle très épurée. De plus, sa structure rigide garantit une grande stabilité sur votre table. La batterie rechargeable lithium permet de travailler en toute sérénité pendant plusieurs semaines. Son poids ultra-léger de 230 grammes garantit une prise en main très pratique. L'appairage Bluetooth rapide sous tous les systèmes simplifie l'accès à vos documents. Enfin, ce clavier moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Design Ultra-Fin et Finesse de 6.5 mm",
+                "paragraphs": [
+                    "Le Blackview K1 intègre un châssis affiné aux dimensions de 242.3 x 168.7 mm. Sa finesse remarquable de 6.5 mm restitue une esthétique d'une élégance impressionnante. De plus, sa finition soignée apporte un toucher doux agréable lors de la saisie. De surcroît, la disposition optimisée des touches gère facilement la frappe rapide. Les patins antidérapants inférieurs garantissent une adhérence très stable.",
+                    "Sa structure compacte conserve une réactivité maximale sur chaque pression de touche. Son rangement dans une pochette de tablette s'effectue sans aucun effort. En effet, l'alliage léger protège les composants électroniques internes en toutes circonstances. Cette conception moderne convient parfaitement aux déplacements quotidiens. Vos séances de rédaction restent toujours confortables à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Touches Silencieuses et Connectivité Bluetooth",
+                "paragraphs": [
+                    "Le Blackview K1 embarque des touches à mécanisme ciseau de haute précision. Cet équipement capture chaque frappe avec une discrétion sonore remarquable au bureau. En outre, la rangée de raccourcis multimédias s'avère très pratique pour régler le volume rapidement. Les algorithmes d'économie d'énergie optimisent la consommation globale lors de l'inactivité. Ainsi, la saisie prolongée immortalise votre confort d'écriture quotidien. La précision de frappe reste constante.",
+                    "Par ailleurs, le module Bluetooth 5.0 assure une liaison stable sans fil jusqu'à 10 mètres. De plus, le bouton d'interrupteur marche-arrêt préserve la batterie lors du transport. Également, l'association sans fil permet des connexions rapides avec trois appareils. De surcroît, le voyant LED indicateur de charge garantit un suivi visuel très clair. En somme, ce clavier sans fil réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Batterie Rechargeable et Port USB-C",
+                "paragraphs": [
+                    "La batterie lithium rechargeable procure une autonomie énergétique longue durée. Cette importante réserve vous permet de travailler sans interruption pendant plusieurs semaines. D'ailleurs, le port USB-C prend en charge la recharge rapide pour faire le plein facilement. En effet, le passage automatique en mode veille permet d'économiser l'énergie en pause. Vos activités de bureau se poursuivent sans interruption.",
+                    "La silhouette épurée de 6.5 mm offre une tenue sur bureau naturelle et très esthétique. Son poids contenu de 230 grammes témoigne du soin apporté à la légèreté. D'autre part, le Blackview K1 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa frappe silencieuse en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview K1",
+                "subtitle": "Spécifications matérielles certifiées du clavier Bluetooth sans fil Blackview K1."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "242.3 x 168.7 x 6.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.230 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis polymère renforcé ultra-léger avec finition soft-touch"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Blanc, Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Clavier & Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Type de touches",
+                            "valeur": "Mécanisme à ciseaux (Scissor Switch)"
+                        },
+                        {
+                            "label": "Niveau sonore",
+                            "valeur": "Frappe ultra-silencieuse (<20 dB)"
+                        },
+                        {
+                            "label": "Raccourcis",
+                            "valeur": "Touches de fonction multimédias dédiées (Luminosité, Volume, Lecture)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Portée",
+                    "rows": [
+                        {
+                            "label": "Technologie sans fil",
+                            "valeur": "Bluetooth 5.0 à faible latence"
+                        },
+                        {
+                            "label": "Portée maximale",
+                            "valeur": "Jusqu'à 10 mètres sans obstacle"
+                        },
+                        {
+                            "label": "Multi-appairage",
+                            "valeur": "Mémoire d'appairage rapide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes d'exploitation",
+                            "valeur": "Android, iOS, iPadOS, Windows, macOS, ChromeOS"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug and Play sans pilote requis"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Type de batterie",
+                            "valeur": "Batterie Lithium-ion rechargeable intégrée (280 mAh)"
+                        },
+                        {
+                            "label": "Port de recharge",
+                            "valeur": "USB Type-C"
+                        },
+                        {
+                            "label": "Gestion d'énergie",
+                            "valeur": "Mise en veille automatique intelligente & Bouton On/Off"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu du Pack",
+                    "rows": [
+                        {
+                            "label": "Accessoires inclus",
+                            "valeur": "Clavier Blackview K1, Câble de recharge USB-C, Manuel d'utilisation"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/fitbuds-k1-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

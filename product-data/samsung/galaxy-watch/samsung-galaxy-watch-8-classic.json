@@ -1,0 +1,382 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch 8 Classic",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-8-CLASSIC",
+        "price": "285000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch 8 Classic conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch 8 Classic",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-classic",
+        "release_year": 2025,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-8-CLASSIC",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-8-CLASSIC"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch8-classic/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8+Classic"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8+Classic+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch 8 Classic Cadran Rotatif Acier Inox Sapphire 445mAh 32Go IP68 5ATM"
+    },
+    "key_specifications": {
+        "screen_size": "1.5\"",
+        "screen_type": "Super AMOLED Sapphire",
+        "battery_capacity": "445 mAh",
+        "charging_wired": "Charge Rapide sans fil WPC",
+        "processor": "Samsung Exynos W1000 (3nm)",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "audio_config": "Haut-parleur et microphone intégrés",
+        "audio_tech": "Appels Bluetooth & Audio HD",
+        "card_slot": "Non (eSIM / Bluetooth)",
+        "color_options": [
+            "Noir",
+            "Blanc"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-8-CLASSIC",
+        "Name": "Samsung Galaxy Watch 8 Classic - Cadran Rotatif Acier 46mm - (2 Go & 32 Go) - 445mAh - IP68 5ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "285000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch 8 Classic, Galaxy Watch Series, Montre connectée, Smartwatch, Super AMOLED, 445mAh, Exynos W1000, BioActive, Cadran Rotatif, Acier Inoxydable, Sapphire, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.064 kg",
+        "Attribute 4 default": "0.064 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Horlogerie Traditionnelle Réinventée avec Cadran Rotatif Physique et Acier Inoxydable.",
+        "teaser": "Découvrez la Samsung Galaxy Watch 8 Classic avec son cadran rotatif physique emblématique, son boîtier en acier inoxydable poli, son écran saphir de 2000 nits et sa batterie de 445 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Cadran Rotatif Physique & Acier Inox",
+                "benefice": "Navigation mécanique fluide et sensation horlogère haut de gamme au poignet"
+            },
+            {
+                "feature": "Écran Super AMOLED & Cristal de Saphir",
+                "benefice": "Lisibilité lumineuse en extérieur et protection renforcée face aux rayures"
+            },
+            {
+                "feature": "Puce 3nm & Capteur BioActive",
+                "benefice": "Traitement rapide et suivi physiologique complet du cœur et du sommeil"
+            },
+            {
+                "feature": "Batterie 445 mAh & Charge Sans-fil",
+                "benefice": "Autonomie sécurisante pour plusieurs jours et recharge magnétique rapide"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée raffinée qui marie harmonieusement l'esthétique horlogère classique et les technologies Wear OS les plus récentes.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch 8 Classic à Abidjan | My-eStore",
+            "meta_description": "Achetez la Samsung Galaxy Watch 8 Classic à Abidjan chez My-eStore. Cadran rotatif physique, acier inoxydable, 445 mAh, 32 Go, livraison rapide.",
+            "focus_keyword": "Samsung Galaxy Watch 8 Classic",
+            "lsi_keywords": [
+                "Galaxy Watch 8 Classic Abidjan",
+                "prix Galaxy Watch 8 Classic",
+                "montre cadran rotatif Samsung",
+                "Galaxy Watch 8 Classic 32Go"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Galaxy Watch 8 Classic : Cadran Rotatif & 445mAh | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch 8 Classic sur My-eStore. Cadran rotatif physique, boîtier acier poli, batterie 445 mAh, puce 3nm et suivi BioActive.",
+            "focus_keyword": "Samsung Galaxy Watch 8 Classic",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 8 Classic",
+                "Galaxy Watch 8 Classic acier",
+                "montre rotative Samsung 32Go",
+                "Galaxy Watch 8 Classic 445mAh"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch 8 Classic : Cadran Rotatif, Acier Inox et Puce 3nm",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch 8 Classic célèbre l'horlogerie avec son cadran rotatif physique. Sa lunette mécanique offre un confort de navigation particulièrement précis à travers vos applications. De plus, son boîtier en acier inoxydable poli confère une prestance unique à votre poignet. Sa dalle protégée par un verre saphir assure une lisibilité nette en toutes circonstances lumineuses. Enfin, sa batterie de 445 mAh procure une autonomie rassurante pour votre semaine active.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch 8 Classic",
+            "items": [
+                {
+                    "feature": "Cadran Rotatif Physique Emblématique",
+                    "benefice": "Précision tactile mécanique pour faire défiler vos menus et messages"
+                },
+                {
+                    "feature": "Boîtier en Acier Inoxydable Poli",
+                    "benefice": "Finition digne de la haute horlogerie et excellente solidité structurelle"
+                },
+                {
+                    "feature": "Batterie Longue Durée 445 mAh",
+                    "benefice": "Disponibilité continue sur plusieurs jours pour vos activités courantes"
+                },
+                {
+                    "feature": "Capteur BioActive & Étanchéité 5ATM",
+                    "benefice": "Suivi complet de santé et résistance totale à l'eau lors de vos séances"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Finitions Horlogères et Navigation Mécanique",
+                "paragraphs": [
+                    "D'un côté, le cadran rotatif physique autorise un défilement millimétré de vos notifications sans masquer l'écran avec le doigt. Le boîtier en acier inoxydable chirurgical résiste avec succès aux chocs légers de la vie quotidienne. La dalle Super AMOLED protégée par un cristal de saphir offre une clarté visuelle remarquable en plein soleil. Par ailleurs, la compatibilité avec les bracelets traditionnels vous permet de personnaliser l'aspect selon vos rendez-vous. Le fermoir magnétique ajustable garantit un maintien précis et confortable autour de votre poignet. Vous bénéficiez ainsi d'une élégance horlogère intemporelle associée aux avantages d'une montre moderne.",
+                    "D'un autre côté, l'étanchéité certifiée cinq ATM autorise une utilisation sous la pluie ou lors de vos séances de natation. La construction rigoureuse protège les composants internes contre la poussière et les microparticules ambiantes. Les bordures sculptées affirment un caractère affirmé tout en conservant des proportions harmonieuses sur le bras. En outre, la sensibilité tactile demeure exemplaire pour taper vos réponses textuelles rapides sans hésitation. Les finitions polies reflètent la lumière avec une distinction immédiatement perceptible par votre entourage. Ce modèle combine le charme des pièces classiques et la puissance des outils connectés."
+                ]
+            },
+            {
+                "h2_title": "Suivi de Santé Complet et Outils d'Entraînement",
+                "paragraphs": [
+                    "Tout d'abord, le capteur BioActive regroupe la surveillance cardiaque optique, l'électrocardiogramme et l'analyse de composition corporelle. Ces technologies relèvent vos paramètres physiologiques avec une précision constante au fil de vos journées. Le module d'évaluation du sommeil détecte les phases de récupération pour vous prodiguer des conseils ciblés. De surcroît, la détection automatique de marche ou de course enregistre vos séances sans configuration préalable. Les bilans d'activité complets vous motivent à maintenir une hygiène de vie saine et dynamique. Vous gardez un regard attentif sur votre santé grâce à des indicateurs clairs.",
+                    "Dans cette optique, la puce GPS autonome enregistre vos trajectoires de course avec une grande rigueur géographique. La montre calcule précisément vos allures, distances franchies et calories brûlées au fil de vos parcours. La surveillance en temps réel du stress propose des exercices de respiration guidée pour retrouver votre sérénité. Également, l'analyse de composition corporelle mesure l'évolution de votre masse musculaire au cours des semaines. Toutes vos données s'exportent automatiquement vers votre téléphone pour un archivage fiable. Cet appareil constitue un outil d'accompagnement précieux pour optimiser votre forme."
+                ]
+            },
+            {
+                "h2_title": "Puce 3nm Véloce et Disponibilité Longue Durée",
+                "paragraphs": [
+                    "D'abord, le processeur moderne gravé en 3nm assure une navigation fluide entre vos différents logiciels ouverts. Les deux gigaoctets de mémoire vive soutiennent le fonctionnement réactif de vos widgets et cadrans animés. L'espace de stockage de trente-deux gigaoctets accueille vos applications favorites ainsi que vos musiques sans contrainte. De même, la liaison Bluetooth établit un pont stable avec vos écouteurs pour écouter vos podcasts en déplacement. Le système de haut-parleur et microphone autorise des conversations téléphoniques claires sans sortir votre mobile. Vous traitez vos appels professionnels avec une simplicité remarquable directement au poignet.",
+                    "Enfin, l'accumulateur haute capacité de 445 mAh fournit l'énergie nécessaire pour franchir sereinement plusieurs journées. Le système de veille intelligent coupe les fonctions inactives pour préserver l'autonomie restante lors des voyages. La charge sans fil magnétique redonne rapidement de l'énergie à l'appareil lors d'une courte pause. Par conséquent, vous vaquez à vos occupations habituelles avec une totale confiance dans votre montre connectée. Les composants nobles ont été choisis pour conserver leur qualité au fil des années. La Galaxy Watch 8 Classic représente un investissement d'exception associant tradition et technologie."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch 8 Classic",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Watch 8 Classic."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "46.4 x 46.0 x 10.6 mm (46mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.064 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Acier Inoxydable chirurgical, Verre Cristal de Saphir"
+                        },
+                        {
+                            "label": "Commande Physique",
+                            "valeur": "Cadran rotatif mécanique rotatif cranté"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 5ATM (50 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "1.5\" (37.3 mm), 480 x 480 pixels, 327 ppi"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2000 nits (Peak) lisible en plein soleil"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir inrayable"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W1000 (3nm) Penta-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "32 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS powered by Samsung avec One UI Watch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Santé",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive (Fréquence cardiaque, ECG, BIA)"
+                        },
+                        {
+                            "label": "Capteurs Mouvement",
+                            "valeur": "Accéléromètre, Gyroscope, Baromètre, Capteur géomagnétique"
+                        },
+                        {
+                            "label": "Suivi Corporel",
+                            "valeur": "Composition corporelle, Suivi du sommeil avancé, Mesure du stress"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "445 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge rapide sans fil magnétique WPC"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 45 heures en utilisation normale"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.3, Wi-Fi 2.4/5GHz, NFC, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "Audio & Micro",
+                            "valeur": "Haut-parleur intégré et microphone pour appels mains libres"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 11.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch8-classic/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8+Classic"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+8+Classic+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "285000",
+            "sku_suffix": "2-GB-32-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "285000",
+            "sku_suffix": "2-GB-32-GB-BLANC"
+        }
+    ]
+}

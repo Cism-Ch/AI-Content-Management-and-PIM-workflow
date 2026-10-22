@@ -1,0 +1,439 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-pad-v3.4-align-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Pad 8 Pro alignée sur xiaomi_models_parent.csv et constructeur mi.com."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Pad Series",
+        "commercial_name": "Xiaomi Pad 8 Pro",
+        "category": "tablet",
+        "sub_category": "tablet-flagship",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-PAD-8-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-PAD-8-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/fr/product/xiaomi-pad-8-pro/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+8+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Pad+8+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette haut de gamme Xiaomi Pad 8 Pro avec écran 11.2 pouces 144Hz Snapdragon 8 Elite batterie 9200 mAh et charge 67W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio sans fil",
+        "battery_capacity": "9200 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "Sans slot microSD",
+        "weight": "0.485 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-PAD-8-PRO",
+        "Name": "Xiaomi Pad 8 Pro - Écran 11.2\" 3.2K 144Hz - (8 Go|12 Go & 128 Go|256 Go|512 Go) - 9200 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "345000",
+        "Categories": "Tablettes > Xiaomi > Xiaomi Pad",
+        "Tags": "Xiaomi, Pad 8 Pro, Xiaomi Pad Series, Tablette Android, Wi-Fi 7, Écran 144Hz 3.2K, 50MP, Batterie 9200mAh, Charge 67W, Snapdragon 8 Elite, Stylet Magnétique, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Bleu, Vert",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.485 kg",
+        "Attribute 4 default": "0.485 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi",
+        "Attribute 5 default": "Wi-Fi",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "345000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "410000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "545000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "345000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "410000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "545000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "345000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "410000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "545000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Xiaomi Pad",
+        "teaser": "La Xiaomi Pad 8 Pro combine la puce haut de gamme Snapdragon 8 Elite gravée en 3 nm avec un écran IPS de 11.2 pouces 3.2K à 144Hz. Sa batterie de 9200 mAh et sa recharge turbo 67W garantissent une endurance sans faille aux professionnels et créateurs.",
+        "top_features_detailed": [
+            {
+                "label": "Puce Snapdragon 8 Elite (3 nm)",
+                "detail": "Gravure de pointe en 3 nanomètres offrant des vitesses d'exécution fulgurantes pour les logiciels créatifs."
+            },
+            {
+                "label": "Écran 11.2\" 3.2K 144Hz",
+                "detail": "Définition de 3200 x 2136 pixels au ratio 3:2 avec prise en charge Dolby Vision et large gamme DCI-P3."
+            },
+            {
+                "label": "Batterie 9200 mAh & Charge 67W",
+                "detail": "Autonomie soutenue sur plusieurs journées avec recharge turbo 67W complétant la charge en 45 minutes."
+            },
+            {
+                "label": "Double Caméra Arrière 50 MP",
+                "detail": "Numérisation détaillée de documents et enregistrement vidéo 4K nette à 60 images par seconde."
+            }
+        ],
+        "marketing_conclusion": "La tablette tactile de référence mariant processeur Snapdragon 8 Elite, écran 3.2K et charge turbo 67W.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Pad 8 Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Pad 8 Pro à Abidjan chez My-eStore. Écran 11.2 pouces 3.2K 144Hz, Snapdragon 8 Elite et batterie 9200 mAh 67W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Pad 8 Pro",
+            "lsi_keywords": [
+                "Snapdragon 8 Elite",
+                "tablette Xiaomi 11.2 pouces",
+                "écran 144Hz 3.2K",
+                "batterie 9200 mAh 67W",
+                "HyperOS tablette pro"
+            ],
+            "meta_title": "Xiaomi Pad 8 Pro 256 Go : Snapdragon 8 Elite & Écran 144Hz | My-eStore",
+            "meta_description": "Découvrez la Xiaomi Pad 8 Pro avec Snapdragon 8 Elite, dalle 11.2 pouces 144Hz 3.2K et batterie 9200 mAh 67W. Fiche technique complète chez My-eStore."
+        },
+        "h1": "Xiaomi Pad 8 Pro : Snapdragon 8 Elite, Écran 144Hz 3.2K et Charge 67W",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI PAD 8 PRO",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite",
+                    "benefice": "Puissance de calcul de pointe pour exécuter les outils professionnels sans latence."
+                },
+                {
+                    "feature": "Dalle 11.2 Pouces 3.2K 144Hz",
+                    "benefice": "Immersion visuelle totale et grande finesse pour le dessin et la retouche graphique."
+                },
+                {
+                    "feature": "Batterie 9200 mAh Charge 67W",
+                    "benefice": "Autonomie soutenue sur plusieurs jours et retour rapide à pleine charge."
+                },
+                {
+                    "feature": "Boîtier Aluminium de 5.75 mm",
+                    "benefice": "Épaisseur fine et prise en main confortable pesant seulement 485 grammes."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Pad 8 Pro répond aux besoins des créateurs et des entreprises exigeantes. Son architecture repose sur le processeur Snapdragon 8 Elite pour accélérer le traitement des projets complexes. En effet, sa puce gravée en 3 nanomètres garantit une vitesse d'exécution très élevée. De plus, l'écran 3.2K de 11.2 pouces assure un affichage net sur l'ensemble de vos documents. Ainsi, cet instrument informatique favorise une productivité continue lors de vos déplacements quotidiens.",
+        "sections": [
+            {
+                "h2_title": "Châssis Monocoque Ultra-Fin et Écran 3.2K 144Hz",
+                "paragraphs": [
+                    "Le boîtier en alliage d'aluminium présente une épaisseur contenue de seulement 5.75 mm. Le poids équilibré de 485 grammes facilite la manipulation lors de vos présentations en clientèle. L'assemblage monobloc offre une résistance rassurante face aux torsions accidentelles. Par ailleurs, le dos satiné repousse naturellement les traces de doigts au quotidien. Les bords affinés optimisent la prise en main lors des lectures prolongées. En outre, la finition soignée valorise l'aspect visuel de l'appareil dans chaque cadre professionnel.",
+                    "La dalle IPS de 11.2 pouces affiche une résolution détaillée de 3200 x 2136 pixels. Le format 3:2 élargit l'espace vertical pour visualiser de volumineux tableaux financiers. D'ailleurs, le taux de rafraîchissement adaptatif atteint 144 Hz pour une excellente fluidité visuelle. La prise en charge DCI-P3 restitue fidèlement chaque nuance de couleur lors de vos retouches. La protection oculaire intégrée atténue les reflets gênants sous un éclairage de bureau direct. Enfin, le contraste dynamique Dolby Vision enrichit la lecture de contenus vidéo d'entreprise."
+                ]
+            },
+            {
+                "h2_title": "Puissance du Snapdragon 8 Elite et Productivité Multitâche",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite dispose de cœurs haute fréquence particulièrement véloces. Cette configuration traite les modélisations graphiques et les simulations techniques sans aucun temps d'arrêt. En effet, le processeur graphique Adreno dédié stabilise l'affichage lors de calculs lourds. La mémoire vive LPDDR5X permet de basculer instantanément entre vos logiciels de gestion. Les opérations multitâches s'effectuent sans aucune fermeture intempestive en arrière-plan. De plus, le refroidissement interne évacue la chaleur pour stabiliser les cadences de calcul.",
+                    "Le stockage flash UFS assure des vitesses d'écriture constantes pour vos banques de données. Les transferts de présentations multimédias s'exécutent en quelques secondes seulement. Par conséquent, le temps d'attente s'efface lors de la gestion de volumineux dossiers partagés. La plateforme Xiaomi HyperOS gère efficacement l'allocation de la mémoire selon l'activité en cours. La disposition d'écrans partagés simplifie la confrontation de plusieurs sources documentaires. Ainsi, vous maintenez un flux de production régulier tout au long de votre journée."
+                ]
+            },
+            {
+                "h2_title": "Immersion Sonore Quad, Batterie 9200 mAh et Charge 67W",
+                "paragraphs": [
+                    "Quatre haut-parleurs stéréo certifiés Dolby Atmos procurent une restitution acoustique précise et équilibrée. Cette configuration audio garantit une excellente intelligibilité vocale lors des visioconférences collectives. De surcroît, la caméra dorsale de 50 mégapixels numérise vos schémas avec une netteté appréciable. La caméra frontale grand-angle maintient un cadrage centré sur votre visage durant les appels vidéo. Les microphones réducteurs de bruit suppriment les perturbations sonores des bureaux partagés. En conséquence, vos interlocuteurs perçoivent chaque détail sans interférence extérieure désagréable.",
+                    "L'accumulateur haute capacité de 9200 mAh assure une réserve électrique durable sur vos journées actives. Vous conservez une liberté totale de travail sans dépendre continuellement d'un branchement mural. Grâce à la charge filaire 67W, la batterie regagne la totalité en 45 minutes. Cette recharge rapide limite les pauses techniques lors de vos déplacements professionnels. La compatibilité Wi-Fi 7 garantit des téléchargements très rapides sur vos réseaux d'entreprise. Enfin, le connecteur USB Type-C supporte la recopie vidéo vers un écran moniteur externe."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Pad 8 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Pad 8 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "251.2 x 173.4 x 5.75 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.485 kg (485 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Alliage d'aluminium monocoque ultra-fin"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Gray), Bleu (Blue), Vert (Green)"
+                        },
+                        {
+                            "label": "Accessoires compatibles",
+                            "valeur": "Clavier magnétique détachable et stylet actif Xiaomi"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'écran",
+                            "valeur": "IPS LCD, Dolby Vision, HDR10"
+                        },
+                        {
+                            "label": "Diagonale",
+                            "valeur": "11.2 pouces (ratio 3:2)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "3.2K (3200 x 2136 pixels), 345 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144 Hz adaptatif dynamique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "800 nits typique"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm, Octa-Core)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP, f/1.8, PDAF, flash LED"
+                        },
+                        {
+                            "label": "Capteur secondaire dorsal",
+                            "valeur": "2 MP, capteur de profondeur"
+                        },
+                        {
+                            "label": "Enregistrement vidéo dorsal",
+                            "valeur": "4K à 30/60 fps, 1080p à 30/60 fps"
+                        },
+                        {
+                            "label": "Caméra avant",
+                            "valeur": "32 MP, f/2.2, centrage automatique"
+                        },
+                        {
+                            "label": "Enregistrement vidéo frontal",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité nominale",
+                            "valeur": "9200 mAh (Lithium-Polymère)"
+                        },
+                        {
+                            "label": "Puissance de charge filaire",
+                            "valeur": "67 W turbo (USB Power Delivery)"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "100% en environ 45 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Réseaux sans fil",
+                            "valeur": "Wi-Fi 7 (802.11 be/ax/ac/a/b/g/n) tri-bande"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Version 5.4 avec support audio haute résolution"
+                        },
+                        {
+                            "label": "Connecteur filaire",
+                            "valeur": "USB Type-C 3.2 Gen 1 (sortie vidéo DisplayPort)"
+                        },
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo avec certification Dolby Atmos et Hi-Res"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/fr/product/xiaomi-pad-8-pro/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+8+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Pad+8+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

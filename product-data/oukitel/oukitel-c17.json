@@ -1,0 +1,413 @@
+{
+    "schema_version": "3.4",
+    "template_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-29",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "oukitel-c-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Oukitel C17 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Oukitel",
+        "product_line": "C Series",
+        "commercial_name": "Oukitel C17",
+        "category": "smartphone",
+        "sub_category": "entry-level-budget",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "OUKITEL-C17",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "OUKITEL-C17"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Oukitel Official Store",
+                "url": "https://oukitel.com/products/oukitel-c17-smartphone"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Oukitel+C17"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Oukitel+C17+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone accessible Oukitel C17 avec écran 6.52 pouces HD+, processeur Unisoc T310 et batterie 5000 mAh."
+    },
+    "key_specifications": {
+        "processor": "Unisoc T310 (12 nm, Quad-core)",
+        "ram_extension": "Extension dynamique de mémoire virtuelle",
+        "audio_config": "Haut-parleur standard avec prise Jack 3.5 mm",
+        "audio_tech": "Son clair adapté aux communications quotidiennes",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge filaire standard 10W Type-C",
+        "navigation_gps": "GPS, GLONASS, Galileo",
+        "card_slot": "Tiroir pour cartes SIM et carte mémoire microSD",
+        "weight": "0.198 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "OUKITEL-C17",
+        "Name": "Oukitel C17 - Dual SIM - Écran 6.52\" - (4 Go & 64 Go|128 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "50000",
+        "Categories": "Smartphones > Oukitel > C Series",
+        "Tags": "Oukitel, Oukitel C17, C Series, Smartphone, Android, 4G, Écran 6.52\", Double Capteur, 5000mAh, Unisoc T310, Dual SIM, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Orange | Argent | Bleu",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.198 kg",
+        "Attribute 4 default": "0.198 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "50000",
+            "sku_suffix": "4GB-64GB-ORANGE"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "50000",
+            "sku_suffix": "4GB-64GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "50000",
+            "sku_suffix": "4GB-64GB-BLEU"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-ORANGE"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "60000",
+            "sku_suffix": "4GB-128GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Simplicité Essentielle avec Écran 6.52 Pouces et Batterie 5000 mAh.",
+        "teaser": "Le smartphone Oukitel C17 offre un écran pratique de 6.52 pouces associé au processeur quadricœur Unisoc T310. Sa batterie de 5000 mAh procure une autonomie généreuse pour vos appels et messageries au quotidien.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Confortable 6.52\" HD+",
+                "benefice": "Affichage clair et lisible facilitant la lecture des messages et le visionnage de vidéos"
+            },
+            {
+                "feature": "Batterie Solide 5000 mAh",
+                "benefice": "Autonomie sereine permettant de communiquer toute la journée sans recharger fréquemment"
+            },
+            {
+                "feature": "Puce Unisoc T310 2.0 GHz",
+                "benefice": "Traitement économique équilibré pour exécuter vos applications usuelles de communication"
+            },
+            {
+                "feature": "Double SIM & Prise Jack 3.5mm",
+                "benefice": "Gestion simultanée de deux lignes téléphoniques et branchement direct d'un casque audio"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone accessible et endurant pensé pour sécuriser vos échanges quotidiens avec un excellent rapport qualité-prix.",
+        "trust_badges": [
+            "Garantie Officielle Oukitel",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Oukitel C17 (4 Go/64 Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le smartphone Oukitel C17 à Abidjan chez My-eStore. Écran 6.52 pouces HD+, puce Unisoc T310, double SIM et batterie 5000 mAh au meilleur tarif garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Oukitel C17 64 Go : Écran 6.52\" & Batterie 5000 mAh | My-eStore",
+            "meta_description": "Commandez le smartphone Oukitel C17 chez My-eStore. Écran 6.52 pouces, processeur Unisoc T310, double capteur photo et batterie 5000 mAh à Abidjan.",
+            "focus_keyword": "Oukitel C17",
+            "lsi_keywords": [
+                "Oukitel C17 Abidjan",
+                "smartphone Oukitel C17 pas cher",
+                "prix Oukitel C17 Côte d'Ivoire",
+                "téléphone 5000 mAh Abidjan",
+                "Oukitel C17 fiche technique"
+            ]
+        },
+        "h1": "Oukitel C17 : Écran 6.52\" HD+, Processeur Unisoc T310 et Batterie 5000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Oukitel C17",
+            "items": [
+                {
+                    "feature": "Écran 6.52 Pouces",
+                    "benefice": "Format pratique assurant une prise en main agréable et une consultation lisible"
+                },
+                {
+                    "feature": "Batterie 5000 mAh",
+                    "benefice": "Alimentation régulière pour téléphoner et naviguer sans interruption toute la journée"
+                },
+                {
+                    "feature": "Puce Unisoc T310",
+                    "benefice": "Processeur quadricœur sobre répondant promptement aux besoins de communication"
+                },
+                {
+                    "feature": "Double SIM Polyvalente",
+                    "benefice": "Emplacement pratique permettant d'alterner aisément entre deux forfaits téléphoniques"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Oukitel C17 propose une solution mobile simple et particulièrement accessible. Son écran agréable de 6.52 pouces affiche vos messages avec une netteté très convenable. De plus, le processeur quadricœur Unisoc T310 assure un fonctionnement équilibré pour les tâches essentielles. Le châssis au format compact garantit une tenue en main naturelle et sécurisante au quotidien. Enfin, son accumulateur généreux de 5000 mAh procure une autonomie rassurante sur l'ensemble de la journée.",
+        "sections": [
+            {
+                "h2_title": "Un Écran Lisible de 6.52 Pouces Agréable en Main",
+                "paragraphs": [
+                    "La dalle tactile de 6.52 pouces restitue vos textes et images avec une clarté appréciable. En outre, le ratio panoramique facilite grandement la manipulation du téléphone à une seule main. Les contrastes équilibrés procurent un confort visuel reposant lors des sessions de lecture prolongées. La luminosité s'adapte convenablement pour préserver la lisibilité de vos notifications en plein jour. Par ailleurs, la vitre de protection prévient efficacement les micro-rayures liées aux frottements usuels. Les bordures contenues maximisent l'espace utile pour regarder confortablement vos vidéos favorites.",
+                    "D'autre part, le traitement des couleurs privilégie un rendu naturel sur l'ensemble des contenus. L'angle de vision ouvert autorise un partage aisé de photos avec vos collègues de bureau. Le verre frontal offre une glisse tactile très douce pour rédiger rapidement vos messages. Ainsi, la navigation dans les galeries de photographies s'effectue sans aucune gêne visuelle. Le filtre de lumière bleue intégré aide à soulager vos yeux en soirée. Cette conception soignée transforme chaque consultation en un moment de détente fort agréable."
+                ]
+            },
+            {
+                "h2_title": "Processeur Économe Unisoc T310 et Mémoire Modulable",
+                "paragraphs": [
+                    "Tout d'abord, le processeur quadricœur Unisoc T310 exécute vos applications usuelles avec régularité. La puce gravée en 12 nanomètres optimise l'énergie consommée lors de vos communications téléphoniques. La mémoire vive de 4 Go soutient efficacement le passage entre deux tâches courantes. De surcroît, le système Android 14 allège les processus en fond pour maintenir la fluidité. Le lancement des réseaux sociaux et des utilitaires de messagerie intervient sans délai pénalisant. Vous gérez vos activités numériques journalières en profitant d'une stabilité opérationnelle constante.",
+                    "De ce fait, l'espace de stockage interne accueille vos nombreux documents sans risque de saturation. Le tiroir dédié accepte une carte mémoire microSD pour étendre votre volume de sauvegarde. Vous archivez vos morceaux musicaux et vos pièces jointes professionnelles en toute simplicité. Également, la gestion thermique interne dissipe la chaleur afin de préserver l'intégrité des composants. Le haut-parleur intégré restitue les appels vocaux avec une clarté sonore tout à fait satisfaisante. Cette plateforme technique sobre apporte une fiabilité bienvenue pour toutes vos démarches personnelles."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Longue Durée de 5000 mAh et Double SIM",
+                "paragraphs": [
+                    "D'abord, la batterie de 5000 mAh procure une réserve énergétique solide pour la journée entière. Vous passez vos appels téléphoniques et écoutez votre musique sans surveiller anxieusement le niveau. Le mode d'économie d'énergie intelligent prolonge l'autonomie lors des déplacements prolongés hors domicile. De même, le port réversible USB Type-C simplifie le branchement quotidien du câble d'alimentation. Le bloc de charge fourni rétablit régulièrement l'énergie de l'accumulateur durant vos pauses. Les circuits de protection intégrés sécurisent chaque cycle contre les variations inhabituelles de tension.",
+                    "Enfin, la présence d'un double emplacement SIM autorise la gestion distincte de deux forfaits. Vous séparez aisément vos correspondances de travail et vos conversations privées sur un même appareil. La prise audio jack 3.5 millimètres permet de brancher directement votre casque filaire standard. Par conséquent, vous écoutez vos programmes radiophoniques préférés sans nécessiter d'adaptateur externe supplémentaire. Le modem 4G garantit une accroche réseau stable lors de vos trajets quotidiens à Abidjan. L'Oukitel C17 constitue un choix pratique et économique pour communiquer sereinement au meilleur prix."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Oukitel C17 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 75.9 x 9.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.198 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque ergonomique résistante aux traces"
+                        },
+                        {
+                            "label": "Coloris Disponibles",
+                            "valeur": "Orange, Argent, Bleu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'Écran",
+                            "valeur": "6.52 pouces"
+                        },
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (720 x 1600 pixels)"
+                        },
+                        {
+                            "label": "Format d'Image",
+                            "valeur": "20:9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T310 (12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Quad-core (1x Cortex-A75 à 2.0 GHz + 3x Cortex-A55 à 1.8 GHz)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "PowerVR GE8300"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "64 Go / 128 Go"
+                        },
+                        {
+                            "label": "Extension de Mémoire",
+                            "valeur": "MicroSD jusqu'à 256 Go"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Principale Arrière",
+                            "valeur": "13 MP avec autofocus et flash LED"
+                        },
+                        {
+                            "label": "Capteur Secondaire",
+                            "valeur": "Capteur auxiliaire"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "5 MP"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "1080p à 30 ips"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la Batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Puissance de Charge",
+                            "valeur": "Charge standard 10W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double Nano-SIM (Dual Standby)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 b/g/n"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Prise Casque",
+                            "valeur": "Jack 3.5 mm"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Oukitel Official Store",
+                        "url": "https://oukitel.com/products/oukitel-c17-smartphone"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Oukitel+C17"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Oukitel+C17+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,324 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Zeno 5",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/zeno-5-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "89000",
+        "official_sku": "BV-ZENO-5"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "11.0 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "8300 mAh",
+        "ram_options": [
+            "3 Go",
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS_P 3.0",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "5 MP HD",
+        "audio_config": "Haut-parleurs stéréo double box",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS + GLONASS",
+        "card_slot": "Dual SIM 4G / MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "257 x 168.6 x 8.4 mm",
+        "weight": "0.573 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ZENO-5-MASTER",
+        "Name": "Blackview Zeno 5",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "89000",
+        "Categories": "Tablettes > Blackview > Zeno Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Zeno 5, Tablette 4G, 11 Pouces, 8300mAh, 90Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "3 Go | 8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.573 kg",
+        "Attribute 4 default": "0.573 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Zeno 5 : Tablette Grand Écran 11 Pouces 90Hz Batterie 8300 mAh",
+        "brand_line": "Tablette tactile grand format Blackview offrant autonomie et confort d'affichage.",
+        "marketing_conclusion": "Commandez la Blackview Zeno 5 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Zeno 5 propose un grand écran 11 pouces 90Hz, une batterie de 8300 mAh, un processeur Octa-Core et des haut-parleurs stéréo.",
+        "features": [
+            {
+                "feature": "Grand Écran 11\" HD+ 90Hz",
+                "benefice": "Excellente visibilité pour la lecture de documents et les cours."
+            },
+            {
+                "feature": "Puce Unisoc Octa-Core",
+                "benefice": "Navigation Web et multitâche fluide au quotidien."
+            },
+            {
+                "feature": "Batterie 8300 mAh Solide",
+                "benefice": "Autonomie longue durée assurant vos activités multimédias."
+            },
+            {
+                "feature": "Haut-Parleurs Stéréo Intégrés",
+                "benefice": "Rendu sonore clair pour le streaming vidéo et les appels."
+            }
+        ],
+        "slogan_final": "Blackview Zeno 5 — La grande tablette familiale et professionnelle.",
+        "seo": {
+            "meta_title": "Acheter Blackview Zeno 5 (3Go/8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Zeno 5 avec écran 11 pouces 90Hz, batterie 8300 mAh et 128Go stockage. Commandez au meilleur prix à Abidjan chez My-eStore.",
+            "keywords": "Blackview Zeno 5, tablette Blackview, prix Abidjan, 11 pouces 8300mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Zeno 5",
+            "lsi_keywords": [
+                "Blackview Zeno 5",
+                "tablette Blackview Abidjan",
+                "Blackview Zeno 5 prix",
+                "tablette 11 pouces pas cher",
+                "batterie 8300 mAh",
+                "tablette tactile Côte d'Ivoire",
+                "achat tablette Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Zeno 5 128Go : Écran 11\" & 8300 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Zeno 5. Grand écran 11 pouces, processeur Octa-Core, 8Go RAM et batterie 8300 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Zeno 5 : Spécifications et Performances Tactiles",
+        "experience_box": {
+            "box_title": "LES ATOUTS PRINCIPAUX DE LA TABLETTE",
+            "items": [
+                {
+                    "feature": "Superbe Écran 11 Pouces 90Hz",
+                    "benefice": "Lisibilité visuelle optimale pour travailler et étudier."
+                },
+                {
+                    "feature": "Processeur Huit Cœurs Économe",
+                    "benefice": "Exécution réactive des applications et de la messagerie."
+                },
+                {
+                    "feature": "Réservoir d'Énergie 8300 mAh",
+                    "benefice": "Fonctionnement prolongé sans contrainte de rechargement."
+                },
+                {
+                    "feature": "Châssis Fin de 8.4 mm",
+                    "benefice": "Prise en main très agréable pour toute la famille."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Zeno 5 est une tablette tactile 11 pouces très polyvalente et accessible. Cet équipement répond parfaitement aux besoins d'apprentissage et de divertissement en Côte d'Ivoire. Par ailleurs, sa puce Unisoc Octa-Core garantit un fonctionnement régulier. De plus, son grand écran de 11.0 pouces à 90 Hz offre une visibilité très confortable. La batterie généreuse de 8300 mAh permet d'utiliser l'appareil pendant toute la journée. Son boîtier affiné de 8.4 mm assure une prise en main très aisée pour les étudiants. L'interface DokeOS_P 3.0 sous Android 13 simplifie le contrôle des applications. Enfin, ce modèle propose un rapport qualité-prix particulièrement séduisant.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 11 Pouces 90Hz et Puce Octa-Core",
+                "paragraphs": [
+                    "La Blackview Zeno 5 intègre un écran IPS de 11.0 pouces en définition HD+. Sa résolution de 1280 x 800 pixels restitue vos textes et cours avec une netteté appréciable. De plus, le taux de rafraîchissement de 90 Hz apporte une fluidité constante lors de la navigation. De surcroît, le processeur Octa-Core cadencé à 1.6 GHz gère efficacement vos applications quotidiennes. Les 8 Go de mémoire RAM garantissent une stabilité satisfaisante lors des sessions de travail.",
+                    "Cependant, la mémoire interne de 128 Go conserve facilement l'ensemble de vos documents et photos. La présence d'un port MicroSD permet d'étendre la mémoire jusqu'à 1 To supplémentaire. En effet, le tiroir SIM intègre la connectivité 4G pour naviguer sur le Web en déplacement. Par conséquent, cette disposition matérielle s'avère très pratique pour rester connecté partout. Vos fichiers importants demeurent constamment à portée de main."
+                ]
+            },
+            {
+                "h2_title": "Capteurs Photo, Haut-Parleurs Stéréo et Connectivité",
+                "paragraphs": [
+                    "La Blackview Zeno 5 comporte un capteur photo arrière de 13 Mégapixels avec Flash LED. Cet objectif photographie clairement vos documents de cours et schémas d'études. En outre, la caméra frontale de 5 Mégapixels s'avère très adaptée pour les appels vidéo en famille. De même, les haut-parleurs stéréo intégrés restituent un son d'une belle netteté lors des visioconférences. Ainsi, la qualité d'écoute reste constante au fil de vos lectures. Vos réunions se déroulent très simplement.",
+                    "Par ailleurs, le module Wi-Fi rapide assure des téléchargements fluides à la maison. De plus, la prise casque Jack 3.5 mm permet de raccorder vos écouteurs pour étudier en toute tranquillité. Également, le Bluetooth 5.0 simplifie l'association de vos enceintes sans fil. De surcroît, le module GPS intégré aide à vous orienter lors de vos déplacements. En somme, cette tablette regroupe les fonctions indispensables."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8300 mAh et Légèreté au Quotidien",
+                "paragraphs": [
+                    "La batterie intégrée de 8300 mAh offre une autonomie énergétique particulièrement rassurante. Cet accumulateur vous permet de visionner vos tutoriels vidéo sans crainte de coupure. D'ailleurs, le port USB-C pratique permet de recharger la tablette très facilement au bureau. En effet, la gestion d'énergie d'Android 13 optimise la durée de fonctionnement globale. Vos activités se poursuivent sans interruption superflue.",
+                    "La finesse de 8.4 mm et le poids de 573 grammes facilitent le transport dans votre sac. Sa conception robuste résiste très bien aux manipulations quotidiennes des enfants. D'autre part, la Blackview Zeno 5 constitue une opportunité très intéressante pour s'équiper à Abidjan. En somme, son tarif abordable en fait une option de choix pour tous. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Zeno 5",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Blackview Zeno 5."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "257 x 168.6 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.573 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Boîtier fin avec bords arrondis"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Gris, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "11.0 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "3 Go / 8 Go (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "5 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8300 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS_P 3.0)"
+                        },
+                        {
+                            "label": "Haut-parleurs & Audio",
+                            "valeur": "Haut-parleurs stéréo double box & Prise Jack 3.5 mm"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/zeno-5-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    },
+    "colors": {
+        "default": "Noir",
+        "standard": [
+            "Bleu",
+            "Noir",
+            "Orange"
+        ]
+    }
+}

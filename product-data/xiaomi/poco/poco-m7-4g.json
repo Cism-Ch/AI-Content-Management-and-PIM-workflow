@@ -1,0 +1,409 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO M7 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO M Series",
+        "commercial_name": "Xiaomi POCO M7 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-entry-midrange",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-M7-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-M7-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi POCO M7 4G avec capteur 108MP écran 6.79 pouces FHD+ 90Hz processeur Helio G91 Ultra et batterie 5160 mAh."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G91 Ultra (12 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Haut-parleur puissant avec boost sonore",
+        "audio_tech": "Prise jack 3.5mm et certification Hi-Res",
+        "battery_capacity": "5160 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement dédié)",
+        "weight": "0.200 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-M7-4G",
+        "Name": "Xiaomi POCO M7 4G - Dual SIM - Écran 6.79\" FHD+ 90Hz - (6 Go & 128 Go / 8 Go & 256 Go) - 5160 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "120000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO M7 4G, POCO M Series, Smartphone, 4G, Écran FHD+, Écran 90Hz, Capteur 108MP, 5160mAh, Charge 33W, Helio G91 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.200 kg",
+        "Attribute 4 default": "0.200 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "120000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "140000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "140000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "140000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme M Series Équilibre & Endurance",
+        "teaser": "Le smartphone 4G Xiaomi POCO M7 4G associe un capteur photo de 108 MP à une grande dalle Full HD+ de 6.79 pouces rafraîchie à 90Hz. Doté du processeur MediaTek Helio G91 Ultra et d'une batterie de 5160 mAh avec charge 33W, il simplifie votre confort numérique quotidien à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Grand Écran 6.79\" FHD+ 90Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Surface généreuse et lisibilité claire",
+                "technical_detail": "Dalle IPS de 6.79 pouces Full HD+ cadencée à 90Hz avec filtres anti-lumière bleue.",
+                "daily_impact": "Affichage confortable de vos longs documents et fluidité agréable de lecture."
+            },
+            {
+                "feature_title": "Capteur Photo Détaillé 108 MP",
+                "badge": "Photo",
+                "lead_benefit": "Prises de vue précises et recadrages nets",
+                "technical_detail": "Module photo principal 108 mégapixels avec zoom numérique 3x sans perte visible.",
+                "daily_impact": "Photographies précises de vos activités quotidiennes et archivage net de reçus."
+            },
+            {
+                "feature_title": "Puce MediaTek Helio G91 Ultra",
+                "badge": "Performances",
+                "lead_benefit": "Gestion multitâche stable au quotidien",
+                "technical_detail": "Architecture 8 cœurs 12 nm optimisée pour la navigation web et les réseaux sociaux.",
+                "daily_impact": "Fonctionnement fluide de vos messageries sans surchauffe de l'appareil."
+            },
+            {
+                "feature_title": "Batterie 5160 mAh & Charge Rapide 33W",
+                "badge": "Autonomie",
+                "lead_benefit": "Autonomie étendue et charge pratique",
+                "technical_detail": "Accumulateur longue durée 5160 mAh compatible avec le chargeur filaire 33W.",
+                "daily_impact": "Utilisation sereine sur plus d'une journée complète sans interruption inopinée."
+            }
+        ],
+        "marketing_conclusion": "Le Xiaomi POCO M7 4G combine capteur 108 MP, écran 6.79 pouces FHD+ et batterie 5160 mAh.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Rapide à Abidjan"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO M7 4G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO M7 4G chez My-eStore. Capteur 108MP, écran FHD+ 90Hz et charge 33W au meilleur prix garanti à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO M7 4G 256Go : Capteur 108 MP & 5160 mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO M7 4G chez My-eStore. Capteur 108MP, écran FHD+ 90Hz et batterie 5160 mAh au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO M7 4G : Capteur 108 MP, Écran 6.79\" FHD+ et Batterie 5160 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO M7 4G",
+            "items": [
+                {
+                    "feature": "Capteur Photo 108 MP",
+                    "benefice": "Prises de vue très précises restituant la finesse de vos instants partagés."
+                },
+                {
+                    "feature": "Écran Élargi 6.79\" FHD+ 90Hz",
+                    "benefice": "Affichage généreux et fluidité appréciable pour vos lectures et vidéos."
+                },
+                {
+                    "feature": "Batterie Durable 5160 mAh",
+                    "benefice": "Autonomie constante pour franchir toute la journée sans baisse de tension."
+                },
+                {
+                    "feature": "Charge Rapide 33W",
+                    "benefice": "Ravitaillement dynamique de l'énergie en une demi-heure de branchement."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO M7 4G propose une solution mobile accessible et endurante. En effet, sa dalle Full HD+ de 6.79 pouces procure un confort visuel reposant. De plus, son capteur photographique de 108 mégapixels enregistre des scènes nettes. Cet appareil s'équipe aussi d'une batterie généreuse de 5160 mAh avec charge 33W. Ce modèle répond ainsi aux attentes pratiques des usagers actifs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Affichage Élargi 6.79 Pouces FHD+ et Confort Visuel 90Hz",
+                "paragraphs": [
+                    "L'écran panoramique de 6.79 pouces met en valeur vos fichiers professionnels et courriels. Cette surface étendue restitue des polices d'écriture nettes grâce à sa définition Full HD+. De plus, la fréquence de 90Hz assure une navigation tactile très naturelle. La luminosité bien équilibrée permet une consultation sans fatigue sous un éclairage ambiant. Ce panneau protecteur limite également les micro-rayures liées aux manipulations régulières. Vous consultez ainsi vos tableaux numériques avec une grande clarté en extérieur.",
+                    "Le châssis soigné offre une prise en main stable pour vos appels quotidiens. Cette structure fine se range facilement dans une sacoche ou une poche de vêtement. Par ailleurs, le lecteur d'empreintes latéral permet un déverrouillage discret et rapide. La prise jack audio autorise le branchement direct de vos écouteurs filaires habituels. Ce connecteur pratique permet d'écouter les stations radiophoniques locales. Vous disposez ainsi d'un appareil complet adapté à toutes vos activités pratiques."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 108 MP Précis et Polyvalence Optique",
+                "paragraphs": [
+                    "Le capteur photographique principal de 108 mégapixels saisit des clichés précis et lumineux. Cette haute définition permet d'agrandir certains détails sans perte notable de netteté. De surcroît, le traitement logiciel optimise les contrastes sans altérer les couleurs réelles. Le zoom numérique intégré autorise des cadrages rapprochés d'une grande simplicité. Cet équipement photographique facilite ainsi l'inventaire rapide de marchandises professionnelles. Vous enregistrez vos événements familiaux avec un rendu visuel équilibré et naturel.",
+                    "La caméra frontale de 13 mégapixels garantit des portraits nets pour vos profils. Cette optique avant s'adapte utilement aux échanges vidéo avec vos collaborateurs distants. En outre, plusieurs filtres artistiques s'appliquent en un geste avant tout partage. L'application photo intégrée réagit rapidement pour capter chaque action spontanée. Le bouton de déclenchement enregistre les instants clés sans temps de latence fâcheux. Vous réussissez ainsi toutes vos prises de vue quotidiennes sans effort technique."
+                ]
+            },
+            {
+                "h2_title": "Processeur Helio G91 Ultra et Batterie 5160 mAh",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G91 Ultra assure une vitesse de calcul régulière. Cette puce huit cœurs maîtrise sa dépense énergétique durant le multitâche usuel. Par conséquent, vos applications bureautiques et de messagerie fonctionnent sans interruption. Le logement pour carte microSD permet d'augmenter le stockage pour vos vidéos. Ce support mémoire sécurise ainsi la conservation de vos documents volumineux. Vous organisez vos communications quotidiennes avec une cadence de travail constante.",
+                    "La batterie de 5160 mAh dispense une autonomie rassurante sur plus d'une journée. Cette endurance généreuse soutient activement vos trajets urbains et journées chargées. De plus, la charge rapide 33W redonne de l'énergie en une trentaine de minutes. Le port USB Type-C simplifie les branchements réguliers au chargeur mural d'origine. Ce connecteur solide assure des transferts de données fiables vers votre ordinateur. Cet appareil s'affirme ainsi comme un choix très économique pour les usagers à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO M7 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.6 x 76.5 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "200 g (0.200 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP53 résistant à la poussière et aux éclaboussures"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Bleu (Blue), Vert (Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 90Hz, 550 nits (HBM)"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.79 pouces (~85.1% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "Full HD+ (1080 x 2460 pixels, ratio 20:9, ~396 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G91 Ultra (12 nm, Octa-core jusqu'à 2.0 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "6 Go + 128 Go / 8 Go + 256 Go (eMMC 5.1)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "108 MP (f/1.75, PDAF)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "13 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 images par seconde"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5160 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge rapide 33W"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "4G LTE / 3G / 2G (Double SIM Nano hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande, Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale latérale, accéléromètre, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur puissant, prise jack 3.5mm, radio FM"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+M7+4G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

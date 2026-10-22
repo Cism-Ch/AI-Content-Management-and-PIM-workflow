@@ -1,0 +1,409 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-z-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy Z Fold 3 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Z Series",
+        "commercial_name": "Samsung Galaxy Z Fold 3",
+        "category": "smartphone",
+        "sub_category": "foldable",
+        "release_year": 2021,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-Z-FOLD-3",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-Z-FOLD-3"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold3-5g/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+3"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+3+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Z Fold 3 7.6\" Pliable 120Hz 12Go RAM Snapdragon 888 4400mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-Z-FOLD-3",
+        "Name": "Samsung Galaxy Z Fold 3 - 7.6\" Pliable 120Hz - 12Go/256Go - 12MP - 4400mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "420000",
+        "Categories": "Smartphones > Samsung > Galaxy Z Series",
+        "Tags": "Samsung, Galaxy Z Fold 3, Galaxy Z Series, Smartphone Pliable, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 12MP, 4400mAh, Snapdragon 888, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Vert, Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Premier Pliable Étanche avec Support Stylet S-Pen.",
+        "teaser": "Découvrez le Samsung Galaxy Z Fold 3 avec son écran pliable 120Hz de 7.6 pouces, son étanchéité IPX8 certifiée, sa compatibilité S-Pen et sa puce Snapdragon 888.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Pliable 7.6\" 120Hz & Caméra Sous Écran",
+                "benefice": "Affichage continu sans encoche et grand espace de travail immersif"
+            },
+            {
+                "feature": "Étanchéité IPX8 & Armor Aluminium",
+                "benefice": "Résistance à l'eau éprouvée et châssis robuste pour une grande longévité"
+            },
+            {
+                "feature": "Puce Snapdragon 888 & 12Go RAM",
+                "benefice": "Multitâche fluide et exécution sans temps mort de vos applications bureautiques"
+            },
+            {
+                "feature": "Triple Capteur Photo 12MP Polyvalent",
+                "benefice": "Photographies équilibrées et zoom optique 2x avec stabilisation optique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone pliable pionnier alliant étanchéité à l'eau, productivité avec stylet et grand affichage.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Z Fold 3 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy Z Fold 3 au meilleur prix à Abidjan sur My-eStore. Écran pliable 7.6\" 120Hz, 12Go RAM, IPX8, 4400mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Z Fold 3 256Go : Écran 7.6\" & IPX8 | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy Z Fold 3 sur My-eStore. Écran pliable 7.6 pouces 120Hz, puce Snapdragon 888, support S-Pen, 4400 mAh et étanchéité IPX8.",
+            "focus_keyword": "Samsung Galaxy Z Fold 3",
+            "lsi_keywords": [
+                "Samsung Galaxy Z Fold 3 Abidjan",
+                "prix Samsung Z Fold 3",
+                "fiche technique Galaxy Z Fold 3",
+                "smartphone pliable étanche 5G",
+                "Galaxy Z Fold 3 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy Z Fold 3 : Écran Pliable 7.6\", Étanchéité IPX8 et Snapdragon 888",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy Z Fold 3 inaugure l'étanchéité IPX8 sur les smartphones pliables. Son grand écran interne de 7.6 pouces offre un affichage spacieux très lumineux pour vos documents complexes. De plus, sa puce Snapdragon 888 exécute les calculs graphiques avec une grande promptitude. Le châssis en aluminium renforcé assure une robustesse éprouvée face aux aléas de vos déplacements quotidiens. Enfin, son accumulateur de 4400 mAh garantit une disponibilité durable tout au long de votre journée de travail.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy Z Fold 3",
+            "items": [
+                {
+                    "feature": "Dalle Pliable 7.6\" 120Hz Fluide",
+                    "benefice": "Grand confort visuel et affichage simultané de plusieurs applications actives"
+                },
+                {
+                    "feature": "Puce Snapdragon 888 5nm",
+                    "benefice": "Exécution fluide de vos logiciels professionnels et connectivité 5G véloce"
+                },
+                {
+                    "feature": "Support Stylet S-Pen Fold Edition",
+                    "benefice": "Prise de notes manuscrites et retouche photographique fine et intuitive"
+                },
+                {
+                    "feature": "Étanchéité IPX8 Certifiée",
+                    "benefice": "Protection complète contre les projections d'eau et les immersions"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Pliable Immersif et Prise en Main Robuste",
+                "paragraphs": [
+                    "D'un côté, l'écran pliable de 7.6 pouces transforme vos consultations de données en véritable expérience sur grand format. La technologie Dynamic AMOLED offre une luminosité de pointe élevée pour une lisibilité claire en extérieur. La protection en verre ultra-mince renforce efficacement la dalle pliable contre les flexions répétées. Par ailleurs, l'écran externe de 6.2 pouces s'utilise aisément à une seule main pour vos réponses rapides. Le poids de 271 grammes assure une tenue stable et rassurante au creux des deux mains. Vous profitez ainsi d'un outil polyvalent adapté aux exigences des professionnels mobiles.",
+                    "D'un autre côté, la charnière mécanique garantit un pliage fluide et un maintien solide sous différents angles ouverts. Ce mécanisme solide préserve les composants internes pour un positionnement stable en mode Flex. Les contrastes profonds mettent en valeur vos tableaux graphiques ainsi que vos flux vidéo haute définition. En outre, la sensibilité tactile accrue permet une prise de notes rapide avec le stylet dédié optionnel. Les lignes soignées confèrent une allure moderne et professionnelle à l'ensemble du boîtier. Ce smartphone associe grand espace d'affichage et élégance pour un usage quotidien serein."
+                ]
+            },
+            {
+                "h2_title": "Puissance Matérielle et Productivité Avancée",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 888 traite les calculs complexes avec une grande réactivité. Les douze gigaoctets de mémoire vive soutiennent le fonctionnement simultané de plusieurs logiciels bureautiques exigeants. L'espace de stockage interne accueille vos dossiers d'entreprise volumineux et vos galeries de photos sans saturation. De surcroît, le circuit interne canalise la chaleur afin de conserver des performances stables et régulières. Les outils logiciels facilitent l'organisation personnalisée et la gestion de vos flux bureautiques. Vous réalisez vos démarches numériques avec une efficacité opérationnelle renforcée.",
+                    "Dans cette optique, la batterie haute capacité répartit intelligemment l'énergie entre les deux panneaux du téléphone. La compatibilité avec la recharge sans fil apporte un confort appréciable sur votre espace de travail personnel. L'architecture matérielle sécurisée Knox protège vos données confidentielles contre les tentatives d'accès malveillantes. Également, la connectivité cinq G ultrarapide accélère l'envoi de présentations lourdes lors de vos réunions nomades. Vos visioconférences conservent une stabilité audio et vidéo exemplaire sur les réseaux mobiles. Ce modèle constitue une plateforme professionnelle pérenne et polyvalente."
+                ]
+            },
+            {
+                "h2_title": "Polyvalence Photo 12MP et Autonomie Professionnelle",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 12 mégapixels enregistre des scènes nettes et détaillées en toutes circonstances lumineuses. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le téléobjectif optique 2x rapproche les sujets distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle capture l'intégralité de vos paysages avec une fidélité géométrique soignée. Le mode Flex permet de poser le téléphone sur une table pour des prises de vue mains libres stables. Vous capturez des clichés de haute qualité prêts pour vos publications professionnelles.",
+                    "Enfin, l'accumulateur de 4400 mAh procure l'énergie indispensable pour couvrir vos journées de réunions les plus chargées. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La recharge rapide filaire rétablit promptement la disponibilité de votre téléphone lors d'une courte pause. Par conséquent, vous travaillez en toute sérénité sans craindre de manquer d'énergie durant vos déplacements. Les matériaux sélectionnés garantissent une excellente tenue face aux contraintes du quotidien professionnel. Le Galaxy Z Fold 3 représente un investissement sûr alliant étanchéité et puissance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Z Fold 3",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Z Fold 3."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Déplié",
+                            "valeur": "158.2 x 128.1 x 6.4 mm"
+                        },
+                        {
+                            "label": "Dimensions Plié",
+                            "valeur": "158.2 x 67.1 x 14.4-16.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.271 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus, Cadre Armor Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IPX8 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Principal (Interne)",
+                            "valeur": "7.6\" Foldable Dynamic AMOLED 2X, 120Hz, 2208 x 1768 pixels"
+                        },
+                        {
+                            "label": "Écran Secondaire (Externe)",
+                            "valeur": "6.2\" Dynamic AMOLED 2X, 120Hz, 2268 x 832 pixels"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        },
+                        {
+                            "label": "Support Stylet",
+                            "valeur": "Compatible S-Pen Fold Edition (sur écran principal)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 888 5G (5nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.8, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "12 MP, f/2.4, 52mm, Zoom optique 2x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Caméra Sous Écran (Interne)",
+                            "valeur": "4 MP, f/1.8 (UDC)"
+                        },
+                        {
+                            "label": "Caméra Écran Externe",
+                            "valeur": "10 MP, f/2.2, 26mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4400 mAh Li-Po double cellule"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "11W sans fil, Fast Wireless Charging"
+                        },
+                        {
+                            "label": "Partage d'Énergie",
+                            "valeur": "4.5W Wireless PowerShare inversé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6E, Bluetooth 5.2, GPS, GLONASS, Galileo, UWB"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Dual SIM (Nano-SIM + eSIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI (Optimisé grand écran pliable)"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold3-5g/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+3"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+3+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "420000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "545000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Phantom Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "420000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Phantom Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "545000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Phantom Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "420000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Phantom Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "545000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        }
+    ]
+}

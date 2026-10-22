@@ -1,0 +1,437 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "RedMagic 10S Pro+",
+        "generation_date": "2026-09-08"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "REDMAGIC Official Store",
+                "url": "https://redmagic.gg/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+RedMagic+10S+Pro+"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+RedMagic+10S+Pro++specifications"
+            }
+        ],
+        "pricing_reference": "790000",
+        "official_sku": "ZTE-REDMAGIC-10S-PRO+"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm) Leading Version",
+        "processor_ghz": "Fréquence 4.47 GHz (Oryon V2)",
+        "screen_size": "6.85 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Sans Encoche",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "7500 mAh",
+        "ram_options": [
+            "16 Go",
+            "24 Go"
+        ],
+        "storage_options": [
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "LPDDR5X Ultra (9600 Mbps)",
+        "os": "Android 15",
+        "os_skin": "RedMagic OS 10.5",
+        "camera_main": "Double capteur 50 MP (50 MP Grand-Angle OIS + 50 MP Ultra Grand-Angle)",
+        "camera_selfie": "16 MP sous l'écran",
+        "audio_config": "Haut-parleurs Stéréo DTS:X Ultra & Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & prise jack 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band, GLONASS, BDS, Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 120W USB-C avec Bypass Charging",
+        "dimensions": "163.4 x 76.1 x 8.9 mm",
+        "weight": "0.229 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-REDMAGIC-10S-PRO+-MASTER",
+        "Name": "ZTE RedMagic 10S Pro+",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "790000",
+        "Categories": "Smartphones > ZTE > RedMagic Gaming, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, RedMagic 10S Pro+, Snapdragon 8 Elite, 7500mAh, Charge 120W, 144Hz Sans Encoche, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Transparent Argent, Transparent Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go, 1 To",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go, 24 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.229 kg",
+        "Attribute 4 default": "0.229 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Noir",
+            "color_en": "Dark Knight",
+            "color_code": "NOIR",
+            "price": "790000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Blanc",
+            "color_en": "White Knight",
+            "color_code": "BLANC",
+            "price": "790000",
+            "sku_suffix": "512GB-16GB-BLANC"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Transparent Noir",
+            "color_en": "Transparent Dark Knight",
+            "color_code": "TRANS-NOIR",
+            "price": "820000",
+            "sku_suffix": "512GB-16GB-TRANS-NOIR"
+        },
+        {
+            "ram": "24 Go",
+            "storage": "1 To",
+            "color_fr": "Transparent Noir",
+            "color_en": "Transparent Dark Knight",
+            "color_code": "TRANS-NOIR",
+            "price": "920000",
+            "sku_suffix": "1TB-24GB-TRANS-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Transparent Argent",
+            "color_en": "Transparent Silver Deuterium",
+            "color_code": "TRANS-ARGENT",
+            "price": "820000",
+            "sku_suffix": "512GB-16GB-TRANS-ARGENT"
+        },
+        {
+            "ram": "24 Go",
+            "storage": "1 To",
+            "color_fr": "Transparent Argent",
+            "color_en": "Transparent Silver Deuterium",
+            "color_code": "TRANS-ARGENT",
+            "price": "920000",
+            "sku_suffix": "1TB-24GB-TRANS-ARGENT"
+        }
+    ],
+    "short_description": {
+        "title_format": "ZTE RedMagic 10S Pro+ : Snapdragon 8 Elite Batterie 7500 mAh et Charge 120W",
+        "brand_line": "Le smartphone d'élite équipé d'une batterie 7500 mAh, de la charge 120W et du Snapdragon 8 Elite.",
+        "marketing_conclusion": "Commandez votre ZTE RedMagic 10S Pro+ sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE RedMagic 10S Pro+ combine le Snapdragon 8 Elite, une batterie 7500 mAh à charge 120W, un écran 1.5K 144Hz sans encoche et jusqu'à 24 Go de RAM.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Elite (4.47 GHz)",
+                "benefice": "Puissance maximale sans compromis pour les applications les plus lourdes."
+            },
+            {
+                "feature": "Batterie 7500 mAh & Charge 120W",
+                "benefice": "Autonomie hors norme et recharge intégrale en seulement 35 minutes."
+            },
+            {
+                "feature": "Refroidissement Actif Turbo 23 000 RPM",
+                "benefice": "Stabilité thermique constante même sous charge informatique continue."
+            },
+            {
+                "feature": "Écran AMOLED 1.5K 144Hz Intégral",
+                "benefice": "Affichage fluide sans encoche grâce au capteur frontal invisible sous la dalle."
+            }
+        ],
+        "slogan_final": "ZTE RedMagic 10S Pro+ — Le smartphone gaming Snapdragon 8 Elite avec batterie 7500 mAh et charge ultra-rapide 120W.",
+        "seo": {
+            "meta_title": "Acheter ZTE RedMagic 10S Pro+ (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE RedMagic 10S Pro+ à Abidjan sur My-eStore. Puce Snapdragon 8 Elite, batterie 7500 mAh, charge 120W, écran 144Hz et jusqu'à 24Go de RAM.",
+            "keywords": "ZTE RedMagic 10S Pro+, Snapdragon 8 Elite, smartphone gaming ZTE, batterie 7500 mAh, charge 120W, 144Hz sans encoche, Abidjan"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE RedMagic 10S Pro+",
+            "lsi_keywords": [
+                "smartphone gaming ZTE RedMagic",
+                "Snapdragon 8 Elite Leading Version",
+                "batterie 7500 mAh charge 120W",
+                "écran AMOLED 144Hz sans encoche",
+                "turboventilateur 23000 RPM",
+                "gâchettes tactiles 520Hz",
+                "24 Go RAM LPDDR5X",
+                "ZTE RedMagic 10S Pro+ Abidjan"
+            ],
+            "meta_title": "ZTE RedMagic 10S Pro+ : Snapdragon 8 Elite & 120W | My-eStore",
+            "meta_description": "Fiche technique du ZTE RedMagic 10S Pro+. Snapdragon 8 Elite, batterie 7500 mAh, charge 120W, écran 1.5K 144Hz sans encoche et jusqu'à 24Go de RAM."
+        },
+        "h1": "ZTE RedMagic 10S Pro+ : Snapdragon 8 Elite, Charge 120W et Batterie 7500 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE REDMAGIC 10S PRO+",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite (4.47 GHz)",
+                    "benefice": "Puissance maximale sans compromis pour les applications les plus lourdes."
+                },
+                {
+                    "feature": "Batterie 7500 mAh & Charge 120W",
+                    "benefice": "Autonomie hors norme et recharge intégrale en seulement 35 minutes."
+                },
+                {
+                    "feature": "Refroidissement Actif Turbo 23 000 RPM",
+                    "benefice": "Stabilité thermique constante même sous charge informatique continue."
+                },
+                {
+                    "feature": "Écran AMOLED 1.5K 144Hz Intégral",
+                    "benefice": "Affichage fluide sans encoche grâce au capteur frontal invisible sous la dalle."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE RedMagic 10S Pro+ pousse les limites techniques de la mobilité électronique haute performance. Sa batterie au silicium-carbone de 7500 mAh délivre ainsi une réserve énergétique accrue sur plusieurs journées. La technologie de charge rapide 120W permet de remplir l'accumulateur en seulement trente-cinq minutes. La puce Snapdragon 8 Elite surcadencée assure en outre un traitement logiciel instantané sans aucun ralentissement. L'écran AMOLED 1.5K sans poinçon offre enfin une surface d'affichage totalement dégagée au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Architecture Snapdragon 8 Elite et Refroidissement 120W",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite Leading Edition atteint une fréquence record de 4.47 GHz. La puce graphique Adreno 830 prend en charge les moteurs 3D les plus complexes avec aisance. Le turboventilateur interne actif à 23 000 tours par minute canalise également l'air frais avec précision. Cette dissipation par métal liquide absorbe rapidement les pics thermiques sous charge soutenue. Le système préserve donc une cadence de calcul maximale sans aucun bridage de fréquence.",
+                    "La mémoire vive de 16 Go ou 24 Go en LPDDR5X soutient un usage multitâche professionnel exigeant. Le stockage interne en UFS 4.1 Pro accélère d'ailleurs le transfert des bases de données volumineuses. Cette capacité atteint jusqu'à 1 To pour héberger l'ensemble de vos projets numériques. La finition arrière plane supprime tout rebord inconfortable lors des longues sessions en main. L'utilisateur bénéficie par conséquent d'un confort de préhension remarquable pendant ses activités."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 1.5K 144Hz et Contrôles Précis",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.85 pouces présente un taux de rafraîchissement très fluide de 144 Hz. Sa définition de 2688 par 1216 pixels restitue un niveau de piqué d'une grande finesse. La luminance de pointe culminant à 2000 nits autorise aussi une lisibilité irréprochable sous forte clarté. Le capteur selfie sous l'écran libère la totalité de la surface pour vos contenus visuels. L'immersion s'avère totale grâce à l'absence complète d'encoche ou de découpe physique.",
+                    "Les deux touches latérales tactiles à 520 Hz répondent avec une sensibilité instantanée au toucher. Les haut-parleurs stéréo diffusent notamment un environnement sonore DTS:X Ultra riche en détails acoustiques. La prise auxiliaire jack 3.5 mm garantit une écoute sans filiation ni décalage temporel perceptible. Le module Wi-Fi 7 assure par ailleurs un débit réseau ultra-rapide sur les liaisons sans fil. L'équipement répond aux impératifs des utilisateurs nomades recherchant une fiabilité technique absolue."
+                ]
+            },
+            {
+                "h2_title": "Batterie Silicium 7500 mAh et Charge 120W",
+                "paragraphs": [
+                    "L'accumulateur haute capacité de 7500 mAh répond aux exigences de journées d'activité particulièrement chargées. Le système de charge rapide 120W restaure de plus l'intégralité de l'énergie en un temps minime. La technologie d'alimentation directe contourne la batterie lors des sessions de travail prolongées sur secteur. Ce dispositif réduit de fait l'accumulation de chaleur à l'intérieur du châssis en aluminium. La gestion énergétique optimise chaque cycle pour préserver la durée de vie de l'appareil.",
+                    "Le bloc optique principal de 50 Mégapixels avec stabilisation OIS livre des images nettes et fidèles. L'objectif ultra grand-angle de 50 Mégapixels élargit le champ de vision sur tous vos clichés. Le ZTE RedMagic 10S Pro+ associe ainsi endurance durable et rapidité d'exécution au quotidien. Vous pouvez commander ce smartphone directement sur la plateforme en ligne My-eStore. Le service de livraison dessert rapidement Abidjan avec un suivi rigoureux et sécurisé."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE RedMagic 10S Pro+",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE RedMagic 10S Pro+."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.4 x 76.1 x 8.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.229 kg (229 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium aéronautique, dos en verre plat, gâchettes tactiles 520Hz"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 (résistant à la poussière et aux éclaboussures)"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Dark Knight), Blanc (White Knight), Transparent Argent (Transparent Silver Deuterium), Transparent Noir (Transparent Dark Knight)"
+                        },
+                        {
+                            "label": "Ventilateur interne",
+                            "valeur": "Turbo ventilateur centrifuge à 23 000 RPM avec éclairage RVB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.4% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED 1.5K, 1 milliard de couleurs, 10-bit"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, ~431 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz (taux d'échantillonnage tactile 960 Hz)"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "2000 nits (pic)"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Affichage intégral sans poinçon avec caméra sous écran"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Leading Version (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830 (1200 MHz)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go / 24 Go LPDDR5X Ultra"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go / 1 To UFS 4.1 Pro"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 15 avec interface RedMagic OS 10.5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.9, 1/1.55\", 1.0µm, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.0, 120˚, 1/2.88\")"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "2 MP (f/2.4 macro)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, 1080p à 240 fps, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "7500 mAh (Li-Po silicium-carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge ultra-rapide 120W filaire (100% en 35 min)"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "USB Power Delivery 3.0, Quick Charge 5, Bypass Charging"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be/ax/ac/a/b/g/n), tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE, aptX HD, aptX Adaptive"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Prise casque",
+                            "valeur": "Jack 3.5 mm stéréo"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 réversible (DisplayPort supporté)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "REDMAGIC Official Store",
+                        "url": "https://redmagic.gg/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+RedMagic+10S+Pro+"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+RedMagic+10S+Pro++specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

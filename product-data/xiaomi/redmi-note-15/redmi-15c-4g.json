@@ -1,0 +1,406 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-15-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi 15C 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi C Series",
+        "commercial_name": "Xiaomi Redmi 15C 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-budget-entry",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-15C-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-15C-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+15C+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+15C+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone économique Xiaomi Redmi 15C 4G avec écran 6.74 pouces 90Hz capteur photo 50MP processeur Helio G85 et batterie 5000 mAh."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G85 (12 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 4 Go",
+        "audio_config": "Haut-parleur monophonique clair",
+        "audio_tech": "Prise jack 3.5mm et radio FM sans fil",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge 18W (chargeur USB-C)",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement dédié)",
+        "weight": "0.190 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-15C-4G",
+        "Name": "Xiaomi Redmi 15C 4G - Dual SIM - Écran 6.74\" 90Hz - (4 Go & 64 Go / 4 Go & 128 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "65000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi 15C 4G, Redmi C Series, Smartphone, 4G, Écran 90Hz, Capteur 50MP, 5000mAh, Charge 18W, Helio G85, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Vert | Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.190 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "65000",
+            "sku_suffix": "4-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Clover Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "65000",
+            "sku_suffix": "4-GB-64-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Navy Blue",
+            "color_code": "BLEU",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "65000",
+            "sku_suffix": "4-GB-64-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Clover Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "4-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Navy Blue",
+            "color_code": "BLEU",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "75000",
+            "sku_suffix": "4-GB-128-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi 15C",
+        "teaser": "Le smartphone abordable Xiaomi Redmi 15C 4G propose un écran fluide de 6.74 pouces à 90Hz et un capteur photo de 50 MP. Avec son processeur MediaTek Helio G85 et sa batterie de 5000 mAh, il assure une autonomie solide pour un budget très contenu.",
+        "top_features_detailed": [
+            {
+                "label": "Écran Confortable 6.74\" 90Hz",
+                "detail": "Défilement souple et bonne visibilité pour vos consultations quotidiennes."
+            },
+            {
+                "label": "Capteur Photo 50 MP",
+                "detail": "Prises de vue nettes et lumineuses pour garder trace de vos moments clés."
+            },
+            {
+                "label": "Batterie Généreuse 5000 mAh",
+                "detail": "Autonomie constante pour rester joignable toute la journée sans contrainte."
+            },
+            {
+                "label": "Port Carte MicroSD Dédié",
+                "detail": "Extension de stockage pratique sans sacrifier l'usage de votre deuxième carte SIM."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone accessible et endurant adapté à tous les budgets.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi 15C 4G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi 15C 4G à Abidjan chez My-eStore. Écran 6.74 pouces 90Hz, capteur photo 50MP et batterie 5000 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi 15C 4G : 90Hz & Batterie 5000mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi 15C 4G chez My-eStore. Écran 6.74 pouces 90Hz, capteur photo 50MP et batterie 5000 mAh au meilleur prix à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi 15C 4G",
+            "lsi_keywords": [
+                "Xiaomi Redmi 15C 4G Abidjan",
+                "Redmi 15C prix Abidjan",
+                "smartphone budget 90Hz",
+                "Helio G85 Xiaomi pas cher",
+                "Redmi 15C batterie 5000 mAh"
+            ]
+        },
+        "h1": "Xiaomi Redmi 15C 4G : Écran 6.74\" 90Hz, Capteur 50 MP et Batterie 5000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi 15C 4G",
+            "items": [
+                {
+                    "feature": "Écran Confort 6.74\" 90Hz",
+                    "benefice": "Dalle large et fluide certifiée TÜV Rheinland pour réduire la fatigue oculaire"
+                },
+                {
+                    "feature": "Capteur Photo 50 MP",
+                    "benefice": "Prises de vue lumineuses et nettes avec réglage automatique par IA"
+                },
+                {
+                    "feature": "Puce MediaTek Helio G85",
+                    "benefice": "Processeur huit cœurs stable pour exécuter vos utilitaires avec fluidité"
+                },
+                {
+                    "feature": "Batterie 5000 mAh",
+                    "benefice": "Grande autonomie d'une journée complète sans contrainte de chargeur"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi 15C 4G rend les fonctionnalités modernes très accessibles au quotidien. En effet, son grand écran fluide de 6.74 pouces rafraîchi à 90Hz apporte un confort visuel appréciable. Sa puce MediaTek Helio G85 assure ainsi une exécution stable de vos applications de messagerie habituelles. De plus, le capteur photo dorsal de 50 mégapixels enregistre des prises de vue nettes en extérieur. Cet appareil abordable répond fidèlement aux besoins concrets des familles et des travailleurs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Écran Élargi 6.74 Pouces et Confort Visuel 90Hz",
+                "paragraphs": [
+                    "La dalle IPS de 6.74 pouces offre un affichage étendu facilitant la lecture de vos textes. Sa luminosité de 600 nits garantit ainsi une consultation aisée lors de vos sorties en extérieur. La fréquence d'actualisation de 90Hz adoucit les transitions visuelles lors du défilement des réseaux sociaux. De surcroît, les certifications de réduction de lumière bleue préservent le repos de vos yeux. Le verre protecteur Corning Gorilla Glass protège la surface avant contre les petits chocs involontaires. Cette surface généreuse convient parfaitement à l'apprentissage en ligne et aux divertissements vidéo simples.",
+                    "Le châssis adopte une silhouette soignée aux tranches fines agréables à prendre en main. Son poids mesuré de 190 grammes facilite par conséquent les longues conversations téléphoniques sans fatigue. Le capteur d'empreintes digitales disposé sur la tranche latérale déverrouille l'appareil de manière réactive. En outre, la prise audio jack 3.5 millimètres permet de brancher directement votre casque filaire. Un haut-parleur dédié restitue les appels mains libres et la radio FM avec clarté. L'ensemble présente une prise en main immédiate idéale pour un usage individuel ou partagé."
+                ]
+            },
+            {
+                "h2_title": "Capteur Photo 50 MP Détaillé et Utilisation Simple",
+                "paragraphs": [
+                    "Le module photo principal intègre un capteur de 50 mégapixels très lumineux pour vos clichés. Il enregistre ainsi des images détaillées aux teintes équilibrées lors de vos réunions de famille. Les algorithmes automatiques ajustent l'exposition pour valoriser l'éclairage ambiant sans réglage technique complexe. Par ailleurs, le capteur macro secondaire permet de capturer les détails rapprochés des petits objets. Le mode nuit logiciel renforce la visibilité générale lorsque la clarté du jour vient à manquer. Vos photographies restent immédiatement prêtes pour un envoi direct sur vos discussions de groupe.",
+                    "La caméra frontale de 8 mégapixels réalise des autoportraits nets pour vos profils en ligne. Elle assure en outre des appels vidéo stables lors de vos échanges avec vos contacts distants. Plusieurs options d'optimisation numérique adoucissent les traits sans dénaturer la physionomie des visages. De même, l'enregistrement vidéo en définition 1080p capture vos moments festifs avec régularité. L'interface photographique intuitive propose des commandes claires adaptées à tous les utilisateurs débutants. Cette solution optique complète répond fidèlement aux besoins d'illustration de la vie courante."
+                ]
+            },
+            {
+                "h2_title": "Puce Éprouvée Helio G85 et Autonomie Rassurante",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G85 réunit huit cœurs véloces gravés pour une utilisation courante. Cette puce éprouvée garantit ainsi une stabilité constante lors de l'exécution des tâches quotidiennes. Les utilitaires bancaires et les navigateurs internet s'ouvrent sans ralentissement pénalisant pour l'usager. En effet, le système Xiaomi HyperOS optimise l'espace mémoire pour préserver la fluidité générale. Un tiroir pour carte microSD indépendant permet d'étendre le stockage sans perdre la double SIM. Vous archivez vos morceaux musicaux et documents personnels en toute sérénité sans saturation.",
+                    "La batterie de 5000 mAh délivre une réserve d'énergie constante pour tenir toute la journée. Elle autorise par conséquent de nombreuses heures de navigation sans devoir chercher une prise murale. Le protocole de charge 18W permet de ravitailler la batterie via le connecteur USB Type-C. De surcroît, des circuits de sécurité contrôlent les tensions électriques durant toute la phase d'alimentation. Cette fiabilité technique protège votre smartphone face aux variations éventuelles du réseau électrique local. Le Xiaomi Redmi 15C 4G offre un compromis remarquable entre prix attractif et grande autonomie."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi 15C 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.0 x 78.0 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "190 g (0.190 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "Protection contre les éclaboussures légères"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Vert (Clover Green), Bleu (Navy Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 90Hz, 600 nits (HBM)"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.74 pouces (~83.7% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (720 x 1600 pixels, ratio 20:9, ~260 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre trempé Corning Gorilla Glass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G85 (12 nm, Octa-core jusqu'à 2.0 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "4 Go + 64 Go / 4 Go + 128 Go (eMMC 5.1)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP (f/1.8, 28mm grand-angle, PDAF)"
+                        },
+                        {
+                            "label": "Objectif macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "8 MP (f/2.0, HDR)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 images par seconde"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge 18W compatible Power Delivery"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "4G LTE / 3G / 2G (Double SIM Nano dédiée)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande, Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale latérale, accéléromètre, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur puissant, prise casque 3.5mm, radio FM"
+                        }
+                    ]
+                }
+            ],
+            "verification_sources": [
+                {
+                    "name": "Xiaomi Official Store",
+                    "url": "https://www.mi.com/global/"
+                },
+                {
+                    "name": "Recherche Générique",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+15C+4G"
+                },
+                {
+                    "name": "Recherche Spécialisée IA",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+15C+4G+specifications"
+                }
+            ],
+            "official_disclaimer": "Les spécifications techniques et visuels sont fournis à titre indicatif selon les données constructeur certifiées. Les caractéristiques d'autonomie et de vitesse de charge peuvent varier selon les conditions d'utilisation réelles.",
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+15C+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+15C+4G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

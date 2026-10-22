@@ -1,0 +1,407 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Axon 40 Pro",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Axon+40+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Axon+40+Pro+specifications"
+            }
+        ],
+        "pricing_reference": "245000",
+        "official_sku": "ZTE-AXON-40-PRO"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 870 5G Octa-Core",
+        "processor_ghz": "Fréquence 3.2 GHz",
+        "screen_size": "6.67 pouces",
+        "screen_technology": "AMOLED Incurvé 144Hz 10-bit",
+        "screen_resolution": "2400 x 1080 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go",
+            "12 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via RAM dynamique",
+        "os": "Android 12",
+        "os_skin": "MyOS 12",
+        "camera_main": "Quadruple capteur 100 MP + 8 MP Ultra Grand-Angle + 2 MP Macro + 2 MP Profondeur",
+        "camera_selfie": "16 MP",
+        "audio_config": "Haut-parleurs Stéréo",
+        "audio_tech": "Son spatial DTS:X Ultra",
+        "connectivity_nfc": "NFC Multifonction",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 66W",
+        "dimensions": "162.9 x 72.9 x 8.5 mm",
+        "weight": "0.199 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-AXON-40-PRO-MASTER",
+        "Name": "ZTE Axon 40 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "245000",
+        "Categories": "Smartphones > ZTE > Axon Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Axon 40 Pro, AMOLED 144Hz, Snapdragon 870, 100MP, Charge 66W, 5G, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.199 kg",
+        "Attribute 4 default": "0.199 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Axon 40 Pro : Écran AMOLED 144Hz 100 MP et Charge 66W",
+        "brand_line": "Le smartphone équilibré offrant un affichage 144 Hz et un capteur photo haute définition.",
+        "marketing_conclusion": "Commandez votre ZTE Axon 40 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Axon 40 Pro intègre un écran AMOLED incurvé 144Hz de 6.67 pouces, un capteur principal de 100 MP, la puce Snapdragon 870 et une batterie 5000 mAh avec charge 66W.",
+        "features": [
+            {
+                "feature": "Écran AMOLED Incurvé 144Hz",
+                "benefice": "Fluidité remarquable et couleurs éclatantes 10-bit."
+            },
+            {
+                "feature": "Appareil Photo Principal 100 MP",
+                "benefice": "Prises de vue très détaillées et lumineuses."
+            },
+            {
+                "feature": "Puce Snapdragon 870 Cadencée à 3.2 GHz",
+                "benefice": "Puissance constante pour vos jeux et applications lourdes."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 66W",
+                "benefice": "Autonomie prolongée et recharge très rapide."
+            }
+        ],
+        "slogan_final": "ZTE Axon 40 Pro — Performance durable et confort visuel de premier ordre.",
+        "seo": {
+            "meta_title": "Acheter ZTE Axon 40 Pro (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Axon 40 Pro avec écran 6.67\" AMOLED 144Hz, appareil photo 100 MP et charge 66W. Achetez en ligne au meilleur prix chez My-eStore.",
+            "keywords": "ZTE Axon 40 Pro, smartphone 144Hz Abidjan, Snapdragon 870, 100MP photo, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Axon 40 Pro",
+            "lsi_keywords": [
+                "ZTE Axon 40 Pro",
+                "smartphone ZTE Axon 40 Pro Abidjan",
+                "ZTE Axon 40 Pro prix",
+                "téléphone écran 144hz amoled",
+                "smartphone snapdragon 870",
+                "téléphone photo 100 mégapixels",
+                "achat téléphone 5g My-eStore",
+                "livraison smartphone Abidjan"
+            ],
+            "meta_title": "ZTE Axon 40 Pro 256 Go : Dalle 144Hz & Quadruple 100 MP | My-eStore",
+            "meta_description": "Achetez le ZTE Axon 40 Pro. Dalle AMOLED 144Hz, capteur 100 MP, puce Snapdragon 870 et charge 66W. Profitez d'une livraison rapide et fiable à Abidjan."
+        },
+        "h1": "ZTE Axon 40 Pro : Snapdragon 870 5G, Écran AMOLED 144Hz et Capteur 100 MP",
+        "experience_box": {
+            "box_title": "LES ATOUTS MAJEURS DU ZTE AXON 40 PRO",
+            "items": [
+                {
+                    "feature": "Écran AMOLED Incurvé 144Hz",
+                    "benefice": "Affichage ultra fluide pour un confort visuel optimal."
+                },
+                {
+                    "feature": "Capteur 100 Mégapixels",
+                    "benefice": "Grande précision sur chaque prise de vue."
+                },
+                {
+                    "feature": "Recharge Rapide 66 Watts",
+                    "benefice": "Plein d'énergie complet en un temps très court."
+                },
+                {
+                    "feature": "Haut-Parleurs Stéréo DTS:X",
+                    "benefice": "Son immersif pour vos films et musiques."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Axon 40 Pro propose une expérience complète associant puissance matérielle et élégance esthétique. Ce smartphone répond avec précision aux attentes des professionnels et créateurs de contenu à Abidjan. En effet, sa dalle AMOLED incurvée de 6.67 pouces affiche une fréquence impressionnante de 144 Hz. De plus, sa puce Snapdragon 870 offre une réserve de vitesse très confortable. Le module photo principal de 100 Mégapixels saisit chaque instant avec fidélité. Par ailleurs, sa batterie de 5000 mAh supporte une charge rapide de 66W. Enfin, la plateforme My-eStore vous garantit un achat serein et sécurisé.",
+        "sections": [
+            {
+                "h2_title": "Dalle AMOLED Incurvée 144Hz et Processeur Snapdragon 870",
+                "paragraphs": [
+                    "Le ZTE Axon 40 Pro embarque un écran AMOLED de 6.67 pouces aux bordures incurvées. Sa fréquence de rafraîchissement atteignant 144 Hz assure une réactivité exemplaire sous vos doigts. Ainsi, la palette de couleurs 10-bit restitue des teintes vibrantes pour vos contenus vidéos. De surcroît, le processeur Qualcomm Snapdragon 870 fonctionne à une fréquence maximale de 3.2 GHz. La mémoire vive allant jusqu'à 12 Go garantit une réactivité continue.",
+                    "Le stockage interne UFS 3.1 de 256 Go permet des transferts de fichiers très rapides. D'ailleurs, les applications s'ouvrent instantanément sans temps d'attente contraignant. En outre, le système de dissipation thermique maintient une température stable lors des sessions prolongées. Le design incurvé favorise une prise en main ergonomique et naturelle. Vous profitez d'une fluidité constante pour toutes vos activités numériques."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 100 MP et Fonctionnalités Multimédia",
+                "paragraphs": [
+                    "Le capteur photographique principal atteint une résolution remarquable de 100 Mégapixels. Cet équipement capture des images lumineuses même dans des conditions de lumière changeantes. De plus, le capteur ultra grand-angle de 8 Mégapixels embrasse un champ de vision de 120 degrés. Deux modules supplémentaires de 2 Mégapixels enrichissent les prises de vue macro et les portraits. Ainsi, vos souvenirs familiaux conservent des couleurs éclatantes et fidèles.",
+                    "La caméra frontale de 16 Mégapixels assure des appels vidéo d'une grande netteté. En effet, les haut-parleurs stéréo certifiés DTS:X Ultra délivrent une acoustique équilibrée. Également, la puce NFC intégrée facilite vos paiements sans contact au quotidien. La connectivité 5G assure une transmission rapide de tous vos documents lourds. Vous disposez d'un outil multimédia polyvalent et agréable à employer."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 66W Efficace",
+                "paragraphs": [
+                    "La batterie généreuse de 5000 mAh accompagne sereinement vos journées d'utilisation intensive. Cette autonomie solide vous évite de chercher constamment un point de recharge. Par ailleurs, la technologie de charge rapide 66W remplit rapidement la cellule énergétique. En effet, une trentaine de minutes suffit pour retrouver une autonomie confortable. Vos déplacements professionnels s'effectuent sans aucune appréhension.",
+                    "Le smartphone affiche un poids équilibré de 199 grammes pour une épaisseur de 8.5 mm. D'autre part, les finitions soignées en font un appareil très valorisant en main. En somme, le ZTE Axon 40 Pro réunit des atouts majeurs à un tarif compétitif. Vous pouvez passer commande facilement sur la boutique en ligne My-eStore. Le service de livraison rapide dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Axon 40 Pro",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Axon 40 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.9 x 72.9 x 8.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.199 kg (199 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre incurvé avant et arrière, cadre soigné"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Magic Black), Bleu (Crystal Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (~90.2% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED incurvé, 1 milliard de couleurs (10-bit)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2400 x 1080 pixels, 20:9, ~395 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 870 5G (7 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.2 GHz Kryo 585 + 3x2.42 GHz + 4x1.80 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 650"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 12 avec interface MyOS 12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "100 MP (f/1.9, 1/1.52\", PDAF)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120˚, 1/4.0\")"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Capteur de profondeur",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.5, grand-angle)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30/60 fps, 1080p à 30 fps, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 66W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, USB Power Delivery"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM (double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6 dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.1, compatible OTG"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+40+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Axon+40+Pro+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "8 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Magic Black"
+        },
+        {
+            "ram": "8 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Bleu",
+            "color_fr": "Bleu",
+            "color_en": "Crystal Blue"
+        },
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Magic Black"
+        },
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "storage": "256 Go",
+            "color": "Bleu",
+            "color_fr": "Bleu",
+            "color_en": "Crystal Blue"
+        }
+    ]
+}

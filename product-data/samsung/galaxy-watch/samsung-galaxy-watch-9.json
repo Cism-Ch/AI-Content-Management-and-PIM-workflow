@@ -1,0 +1,388 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "metadata": {
+        "target_brand": "Samsung",
+        "target_model": "Galaxy Watch 9",
+        "generation_date": "2026-09-17",
+        "sku_primary": "SAMSUNG-GALAXY-WATCH-9",
+        "price": "245000"
+    },
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-watch-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Watch 9 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Watch Series",
+        "commercial_name": "Samsung Galaxy Watch 9",
+        "category": "smartwatch",
+        "sub_category": "smartwatch-premium",
+        "release_year": 2026,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-WATCH-9",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-WATCH-9"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/watches/galaxy-watch9/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+9"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+9+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Watch 9 Super AMOLED Sapphire 32Go BioActive IP68 5ATM"
+    },
+    "key_specifications": {
+        "screen_size": "1.5\" / 1.3\"",
+        "screen_type": "Super AMOLED Sapphire",
+        "battery_capacity": "390 mAh / 445 mAh",
+        "charging_wired": "Charge Rapide sans fil WPC",
+        "processor": "Samsung Exynos W1000 (3nm)",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "32 Go"
+        ],
+        "navigation_gps": "GPS double fréquence (L1+L5)",
+        "audio_config": "Haut-parleur et microphone intégrés",
+        "audio_tech": "Appels Bluetooth & Audio HD",
+        "card_slot": "Non (eSIM / Bluetooth)",
+        "color_options": [
+            "Blanc",
+            "Gris",
+            "Argent"
+        ]
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-WATCH-9",
+        "Name": "Samsung Galaxy Watch 9 - Super AMOLED Sapphire - (2 Go & 32 Go) - BioActive - IP68 5ATM",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "245000",
+        "Categories": "Montres Connectées > Samsung > Galaxy Watch Series",
+        "Tags": "Samsung, Galaxy Watch 9, Galaxy Watch Series, Montre connectée, Smartwatch, Super AMOLED, Exynos W1000, BioActive, Sapphire 2000nits, IP68 5ATM, Wear OS, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Blanc, Gris, Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "32 Go",
+        "Attribute 2 default": "32 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.034 kg",
+        "Attribute 4 default": "0.034 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Élégance Connectée avec Écran Sapphire et Analyse de Santé Avancée.",
+        "teaser": "Découvrez la Samsung Galaxy Watch 9 avec son cadran en verre saphir inrayable, son capteur BioActive de nouvelle génération, son processeur 3nm ultra-réactif et son autonomie optimisée.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Super AMOLED & Verre Saphir",
+                "benefice": "Dalle lumineuse lisible en plein soleil et protection renforcée contre les rayures"
+            },
+            {
+                "feature": "Capteur BioActive & Analyse Corporelle",
+                "benefice": "Suivi précis de la fréquence cardiaque, du sommeil, de l'ECG et de la composition corporelle"
+            },
+            {
+                "feature": "Puce 3nm & 32 Go de Stockage",
+                "benefice": "Navigation fluide dans vos applications et téléchargement de vos musiques hors ligne"
+            },
+            {
+                "feature": "Étanchéité IP68 & 5ATM",
+                "benefice": "Résistance éprouvée pour vos séances de natation et vos entraînements quotidiens"
+            }
+        ],
+        "marketing_conclusion": "La montre connectée complète associant élégance au poignet, suivi sportif rigoureux et écosystème Wear OS fluide.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Watch 9 à Abidjan | My-eStore",
+            "meta_description": "Achetez la montre connectée Samsung Galaxy Watch 9 à Abidjan chez My-eStore. Écran Super AMOLED Sapphire, capteur BioActive, 32 Go, livraison rapide.",
+            "focus_keyword": "Samsung Galaxy Watch 9",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 9",
+                "Galaxy Watch 9 Abidjan",
+                "prix Galaxy Watch 9",
+                "montre connectée Samsung 32Go"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Watch 9 : Écran Saphir & Puce 3nm | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Watch 9 sur My-eStore. Dalle Super AMOLED en verre saphir, capteur de santé BioActive, processeur 3nm et étanchéité 5ATM.",
+            "focus_keyword": "Samsung Galaxy Watch 9",
+            "lsi_keywords": [
+                "Samsung Galaxy Watch 9",
+                "Galaxy Watch 9 32Go",
+                "Galaxy Watch 9 Abidjan",
+                "montre connectée Samsung BioActive"
+            ]
+        },
+        "h1": "Samsung Galaxy Watch 9 : Écran Saphir, Capteur BioActive et Puce 3nm",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Watch 9 propose un affichage Super AMOLED protégé par un verre saphir robuste. Cette dalle lumineuse procure une lisibilité idéale pour consulter vos alertes et mesures corporelles. De plus, son processeur 3nm assure un traitement réactif de toutes vos requêtes sportives. Le boîtier en aluminium allégé repose confortablement sur le poignet tout au long de la journée. Enfin, sa batterie optimisée garantit une disponibilité durable lors de vos entraînements.",
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Watch 9",
+            "items": [
+                {
+                    "feature": "Dalle Super AMOLED en Verre Saphir",
+                    "benefice": "Affichage lumineux très net et résistance accrue aux rayures du quotidien"
+                },
+                {
+                    "feature": "Capteur BioActive Nouvelle Génération",
+                    "benefice": "Mesures fiables de la fréquence cardiaque, de la pression et du sommeil"
+                },
+                {
+                    "feature": "Puce Gravée en 3nm & 32 Go",
+                    "benefice": "Exécution réactive de vos logiciels et espace généreux pour vos morceaux audio"
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68 et 5ATM",
+                    "benefice": "Conception étanche adaptée à la natation et aux activités sportives intenses"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Design Raffiné et Résistance au Quotidien",
+                "paragraphs": [
+                    "D'un côté, le cadran compact épouse naturellement la courbure du poignet sans créer de gêne pendant vos mouvements. Le traitement anti-rayures du verre saphir préserve la transparence de l'écran face aux chocs involontaires. La luminosité de pointe autorise une lecture immédiate de vos données sportives en plein soleil. Par ailleurs, la variété des cadrans personnalisables s'adapte aussi bien à une tenue habillée qu'à un contexte sportif. Le bracelet doux en fluoroélastomère limite l'accumulation de transpiration lors des séances de fitness intenses. Vous profitez ainsi d'un accessoire à la fois sobre et résistant pour votre usage habituel.",
+                    "D'un autre côté, le boîtier certifié cinq ATM supporte sans risque les immersions en piscine et sous la douche. La conformité à la norme militaire assure une robustesse éprouvée face aux variations thermiques courantes. Les bordures affinées maximisent la zone d'affichage tactile pour une sélection plus aisée des options. En outre, la sensibilité de la couche tactile réagit avec précision même avec des doigts légèrement humides. Les matériaux nobles confèrent une allure haut de gamme qui met en valeur votre style personnel. Cette montre réunit légèreté structurelle et durabilité matérielle pour vous accompagner partout."
+                ]
+            },
+            {
+                "h2_title": "Suivi de Santé Avancé et Fonctions Sportives",
+                "paragraphs": [
+                    "Tout d'abord, le capteur BioActive regroupe l'analyse optique du rythme cardiaque, l'électrocardiogramme et la bioimpédance. Ces composants relèvent vos paramètres physiologiques avec une précision accrue lors de vos efforts sportifs. Le programme d'analyse du sommeil évalue la régularité de vos cycles nocturnes pour vous aider à mieux récupérer. De surcroît, la détection automatique d'activité enregistre vos séances de marche ou de course sans intervention manuelle. Les bilans d'entraînement détaillés vous encouragent à maintenir une activité physique régulière et mesurée. Vous suivez l'évolution de votre forme générale avec des indicateurs clairs et compréhensibles.",
+                    "Dans cette optique, le système GPS embarqué trace vos parcours extérieurs avec une grande fidélité cartographique. La montre calcule précisément vos allures, distances franchies et calories brûlées au fil de chaque séance. La surveillance continue du stress propose des exercices de respiration guidée pour apaiser les tensions. Également, l'évaluation de la composition corporelle mesure la masse musculaire et le taux de graisse corporelle. Vos données de bien-être restent synchronisées avec votre téléphone pour une consultation simple. Cet équipement constitue un véritable partenaire quotidien pour prendre soin de votre corps."
+                ]
+            },
+            {
+                "h2_title": "Performances 3nm et Autonomie Maîtrisée",
+                "paragraphs": [
+                    "D'abord, la puce gravée en 3nm exécute les calculs logiciels avec une excellente sobriété énergétique. Les deux gigaoctets de mémoire vive assurent des passages instantanés entre vos différents widgets ouverts. L'espace de stockage de trente-deux gigaoctets accueille vos applications favorites et vos morceaux de musique hors ligne. De même, la connectivité sans fil maintient un lien stable avec vos écouteurs pour écouter vos playlists en courant. Les alertes vibratoires discrètes vous informent immédiatement de la réception de vos messages prioritaires. Vous gérez vos notifications courantes directement au poignet sans sortir votre smartphone.",
+                    "Enfin, l'accumulateur intégré délivre l'énergie indispensable pour couvrir vos journées actives sans interruption gênante. Le mode d'économie d'énergie prolonge l'autonomie restante lors des déplacements prolongés sans chargeur. Le support de la charge rapide sans fil restaure promptement la batterie sur son galet magnétique. Par conséquent, vous conservez une totale sérénité pour mesurer vos activités sportives ou professionnelles. La conception interne optimise le rendement énergétique pour préserver la durée de vie des cellules. La Galaxy Watch 9 constitue un choix équilibré associant performance, élégance et autonomie."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Watch 9",
+                "subtitle": "Spécifications matérielles de la Samsung Galaxy Watch 9."
+            },
+            "columns": {
+                "spec": "Spécifications",
+                "feature": "Caractéristique",
+                "detail": "Détails"
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Boîtier",
+                            "valeur": "40.4 x 42.7 x 8.6 mm (40mm) / 43.7 x 46.0 x 8.6 mm (44mm)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.034 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Saphir, Boîtier en Aluminium Armor"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68, 5ATM (50 mètres), Norme MIL-STD-810H"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED, Always-on Display"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre Cristal de Saphir haute dureté"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "Jusqu'à 2000 nits (Peak)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "480 x 480 pixels (44mm) / 432 x 432 pixels (40mm)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos W1000 (3nm) Penta-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "32 Go eMMC"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Wear OS powered by Samsung avec One UI Watch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Santé",
+                    "rows": [
+                        {
+                            "label": "Capteur Santé",
+                            "valeur": "Capteur Samsung BioActive (Fréquence cardiaque, ECG, Bioimpédance)"
+                        },
+                        {
+                            "label": "Capteurs Mouvement",
+                            "valeur": "Accéléromètre, Gyroscope, Baromètre, Capteur géomagnétique"
+                        },
+                        {
+                            "label": "Suivi Corporel",
+                            "valeur": "Composition corporelle, Suivi du sommeil avancé, Mesure du stress"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "390 mAh (40mm) / 445 mAh (44mm) Li-Ion"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "Charge rapide sans fil magnétique WPC"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 40 heures en utilisation normale"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Audio",
+                    "rows": [
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Bluetooth 5.3, Wi-Fi 2.4/5GHz, NFC, GPS double fréquence (L1+L5)"
+                        },
+                        {
+                            "label": "Audio & Micro",
+                            "valeur": "Haut-parleur intégré et microphone pour appels mains libres"
+                        },
+                        {
+                            "label": "Compatibilité",
+                            "valeur": "Smartphones Android 11.0 et supérieur"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/watches/galaxy-watch9/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+9"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Watch+9+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Blanc",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "245000",
+            "sku_suffix": "2-GB-32-GB-BLANC"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "245000",
+            "sku_suffix": "2-GB-32-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "2 Go",
+            "storage": "32 Go",
+            "price": "245000",
+            "sku_suffix": "2-GB-32-GB-ARGENT"
+        }
+    ]
+}

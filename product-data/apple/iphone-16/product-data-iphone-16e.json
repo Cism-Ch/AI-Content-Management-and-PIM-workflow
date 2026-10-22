@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-16-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 16e",
+    "category": "Smartphones",
+    "sub_category": "Budget-Premium",
+    "release_year": 2026,
+    "release_quarter": "Q1",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3520",
+    "regional_variants": [
+      { "region": "International", "sku": "A3520" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Press Release 2026", "url": "https://apple.com/iphone-16e" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 16e 128GB",
+      "sku_suffix": "128",
+      "configurations": { "ram": "8GB", "storage": "128GB" },
+      "pricing": { "official_price_fcfa": 530000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Black", "White", "Blue", "Green", "Pink"],
+    "default": "Black"
+  },
+  "key_specifications": {
+    "processor": "Apple A18 (3 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "screen_size": "6.1 pouces",
+    "screen_technology": "Super Retina XDR OLED",
+    "screen_resolution": "1170 x 2532 pixels",
+    "screen_refresh_rate": "60Hz",
+    "battery_capacity": "3300 mAh",
+    "charging_wired": "25W",
+    "charging_wireless": "15W (MagSafe)",
+    "os": "iOS",
+    "os_version": "26",
+    "camera_main": "48 MP, f/1.6, 26mm, dual pixel AF, sensor-shift OIS",
+    "camera_ultrawide": "12 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "Non",
+    "camera_selfie": "12 MP, f/1.9",
+    "video_max": "4K@60fps, Cinematic mode",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 6E",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "146.7 x 71.5 x 7.8 mm",
+    "weight": "170 g",
+    "materials": "Aluminium, Ceramic Shield 2",
+    "biometrics": "Face ID",
+    "additional_features": ["Action Button", "Apple Intelligence V1", "Camera Control (Touch)"]
+  },
+  "sources": [
+    {
+      "name": "Apple 2026 Catalog",
+      "url": "https://apple.com/iphone-16e/specs",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

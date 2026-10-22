@@ -1,0 +1,413 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "RedMagic 9 Pro",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "RedMagic Official Store",
+                "url": "https://redmagic.gg/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+RedMagic+9+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+RedMagic+9+Pro+specifications"
+            }
+        ],
+        "pricing_reference": "545000",
+        "official_sku": "ZTE-REDMAGIC-9-PRO"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 3.3 GHz",
+        "screen_size": "6.80 pouces",
+        "screen_technology": "AMOLED 120Hz Intégral Sans Encoche",
+        "screen_resolution": "2480 x 1116 pixels",
+        "battery_capacity": "6500 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5X haute cadence",
+        "os": "Android 14",
+        "os_skin": "RedMagic OS 9",
+        "camera_main": "Double capteur 50 MP (Principal 50 MP Samsung GN5 OIS + 50 MP Ultra Grand-Angle) + 2 MP Macro",
+        "camera_selfie": "16 MP sous l'écran",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra et Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & prise jack 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band + GLONASS + BDS + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 80W USB-C avec Bypass Charging",
+        "dimensions": "164.0 x 76.4 x 8.9 mm",
+        "weight": "0.229 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-REDMAGIC-9-PRO-MASTER",
+        "Name": "ZTE RedMagic 9 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "545000",
+        "Categories": "Smartphones > ZTE > RedMagic Gaming, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, RedMagic 9 Pro, Smartphone Gaming, Snapdragon 8 Gen 3, 6500mAh, 80W, 120Hz Sans Encoche, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Transparent Noir, Transparent Argent",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.229 kg",
+        "Attribute 4 default": "0.229 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "color": "Noir",
+            "color_en": "Sleet"
+        },
+        {
+            "ram": "16 Go",
+            "rom": "512 Go",
+            "color": "Transparent Noir",
+            "color_en": "Cyclone"
+        },
+        {
+            "ram": "16 Go",
+            "rom": "512 Go",
+            "color": "Transparent Argent",
+            "color_en": "Snowfall"
+        }
+    ],
+    "short_description": {
+        "title_format": "ZTE RedMagic 9 Pro : Snapdragon 8 Gen 3 Batterie 6500 mAh et Écran Sans Poinçon",
+        "brand_line": "Le smartphone gaming de référence avec ventilateur centrifuge 20 000 RPM et écran intégral 120 Hz.",
+        "marketing_conclusion": "Commandez votre ZTE RedMagic 9 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE RedMagic 9 Pro propose la puce Snapdragon 8 Gen 3, un écran AMOLED 120Hz de 6.8\" sans encoche, une batterie 6500 mAh avec charge 80W et un dos totalement plat.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Gen 3 (3.3 GHz)",
+                "benefice": "Puissance de calcul supérieure pour faire tourner tous les jeux en graphismes maximaux."
+            },
+            {
+                "feature": "Refroidissement Actif ICE 13.0 (20 000 RPM)",
+                "benefice": "Ventilateur interne éliminant toute chute de performance thermique."
+            },
+            {
+                "feature": "Batterie Haute Capacité 6500 mAh & Charge 80W",
+                "benefice": "Endurance remarquable et recharge complète en 35 minutes."
+            },
+            {
+                "feature": "Écran Intégral 120Hz & Dos Plat",
+                "benefice": "Zéro trou visuel et prise en main plane sans bosse pour l'appareil photo."
+            }
+        ],
+        "slogan_final": "ZTE RedMagic 9 Pro — La machine gaming sans compromis pour les passionnés d'e-sport.",
+        "seo": {
+            "meta_title": "Acheter ZTE RedMagic 9 Pro (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE RedMagic 9 Pro avec Snapdragon 8 Gen 3, écran sans encoche, 6500 mAh et charge 80W. Commandez au meilleur prix chez My-eStore.",
+            "keywords": "ZTE RedMagic 9 Pro, smartphone gaming Snapdragon 8 Gen 3 Abidjan, 6500mAh, 120Hz, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE RedMagic 9 Pro",
+            "lsi_keywords": [
+                "ZTE RedMagic 9 Pro",
+                "smartphone ZTE RedMagic 9 Pro Abidjan",
+                "ZTE RedMagic 9 Pro prix",
+                "téléphone gaming snapdragon 8 gen 3",
+                "smartphone ventilateur intégré 6500 mah",
+                "téléphone écran sans encoche 120hz",
+                "achat smartphone gaming premium My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE RedMagic 9 Pro 256 Go : Snapdragon 8 Gen 3 & 6500 mAh | My-eStore",
+            "meta_description": "Achetez le ZTE RedMagic 9 Pro. Puce Snapdragon 8 Gen 3, écran AMOLED 120Hz sans trou, batterie 6500 mAh et charge 80W. Livraison sécurisée à Abidjan."
+        },
+        "h1": "ZTE RedMagic 9 Pro : Snapdragon 8 Gen 3, Écran AMOLED 120Hz et Batterie 6500 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE REDMAGIC 9 PRO",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Gen 3",
+                    "benefice": "Performances graphiques au sommet pour l'e-sport mobile."
+                },
+                {
+                    "feature": "Ventilateur Interne 20 000 RPM",
+                    "benefice": "Refroidissement actif direct sans accessoire externe."
+                },
+                {
+                    "feature": "Batterie Haute Capacité 6500 mAh",
+                    "benefice": "Longévité énergétique remarquable en session intensive."
+                },
+                {
+                    "feature": "Design Dos Plat Sans Débord",
+                    "benefice": "Confort tactile irréprochable lors de la prise à deux mains."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE RedMagic 9 Pro repousse les limites du jeu vidéo nomade à travers une ingénierie thermique novatrice. Cet équipement répond parfaitement aux attentes des joueurs e-sport et professionnels exigeants à Abidjan. En effet, son écran AMOLED de 6.8 pouces sans aucun poinçon offre une surface visuelle intégrale. De plus, sa batterie massive de 6500 mAh garantit des heures d'activité ininterrompue. La puce Qualcomm Snapdragon 8 Gen 3 assure une rapidité d'exécution sans équivalent. Par ailleurs, la recharge rapide 80W remplit la batterie en un temps très court. Enfin, vous commandez sur My-eStore avec une garantie commerciale éprouvée.",
+        "sections": [
+            {
+                "h2_title": "Puce Snapdragon 8 Gen 3 et Refroidissement ICE 13.0",
+                "paragraphs": [
+                    "Le ZTE RedMagic 9 Pro intègre le processeur Qualcomm Snapdragon 8 Gen 3 cadencé à 3.3 GHz. Cette puce gravée en 4 nanomètres s'associe au coprocesseur Red Core R2 Pro pour gérer les haptiques. De plus, le ventilateur centrifuge interne tournant à 20 000 tours par minute évacue immédiatement les calories. Ainsi, la fréquence d'images reste verrouillée à son niveau maximal sur tous les titres compétitifs. La mémoire vive de 12 Go en LPDDR5X soutient une grande vélocité.",
+                    "Le stockage interne repose sur la norme UFS 4.0 offrant des débits d'écriture très élevés. D'ailleurs, les temps de chargement des jeux s'effectuent de façon quasi instantanée. En outre, la connectivité 5G et le Wi-Fi 7 assurent une stabilité réseau optimale lors des tournois en ligne. Le dos totalement plat sans protubérance photo procure une prise en main très confortable. Vous profitez d'une machine de compétition sans compromis."
+                ]
+            },
+            {
+                "h2_title": "Dalle 120Hz Sans Encoche et Gâchettes Tactiles 520Hz",
+                "paragraphs": [
+                    "L'écran AMOLED de 6.8 pouces dissimule la caméra frontale sous sa surface pour libérer entièrement la vision. Cette conception sans encoche affiche une définition de 2480 par 1116 pixels avec un rafraîchissement à 120 Hz. De plus, les deux gâchettes latérales de 520 Hz offrent des contrôles personnalisables comparables à une manette. Le système sonore stéréo DTS:X Ultra diffuse une acoustique spatiale précise. Ainsi, vous repérez la position de vos adversaires au son de leurs pas.",
+                    "Le double capteur photographique arrière de 50 Mégapixels avec stabilisation OIS capture des clichés nets pour vos besoins quotidiens. En effet, l'optique reste parfaitement intégrée sous le verre sans dépasser de la coque. Également, la puce NFC multifonction facilite les paiements sans contact au quotidien. La prise jack 3.5 mm garantit une écoute sans aucune latence audio au casque. Vous disposez d'un équipement moderne et polyvalent."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6500 mAh et Charge Rapide 80W Sécurisée",
+                "paragraphs": [
+                    "La batterie de 6500 mAh procure une autonomie de pointe capable de franchir aisément le cap des deux jours d'utilisation. Cette endurance remarquable élimine toute appréhension de panne lors des déplacements prolongés. Par ailleurs, la technologie de charge rapide 80W permet de récupérer 100% de batterie en seulement 35 minutes. En effet, la fonction de charge directe alimente le téléphone sans faire chauffer la cellule pendant vos parties. Vos composants sont ainsi préservés dans le temps.",
+                    "Le châssis en aluminium aéronautique et verre trempé présente des finitions transparentes avec illumination RGB du ventilateur. D'autre part, la solidité globale du boîtier assure une tenue rassurante en main. En somme, le ZTE RedMagic 9 Pro représente une référence majeure pour le divertissement vidéoludique. Vous pouvez valider votre achat en toute sécurité sur My-eStore. Le service de livraison dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE RedMagic 9 Pro",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE RedMagic 9 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.0 x 76.4 x 8.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.229 kg (229 g)"
+                        },
+                        {
+                            "label": "Particularité design",
+                            "valeur": "Dos 100% plat sans protubérance de caméra, éclairage RGB personnalisable"
+                        },
+                        {
+                            "label": "Gâchettes gaming",
+                            "valeur": "Gâchettes tactiles latérales capacitives 520 Hz"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Sleet), Transparent Noir (Cyclone), Transparent Argent (Snowfall)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.80 pouces (~89.1% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED BOE Q9+, 1 milliard de couleurs, 120 Hz, sans encoche"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "FHD+ (2480 x 1116 pixels, 20:9, ~400 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Taux d'échantillonnage tactile",
+                            "valeur": "960 Hz multi-doigts (2000 Hz instantané)"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1600 nits (pic), gradation PWM 2160 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 3 (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x3.3 GHz Cortex-X4 + 5x3.2 GHz Cortex-A720 + 2x2.3 GHz Cortex-A520)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 750"
+                        },
+                        {
+                            "label": "Coprocesseur de jeu",
+                            "valeur": "Red Core R2 Pro (gestion des haptiques, sons et RGB)"
+                        },
+                        {
+                            "label": "Refroidissement actif",
+                            "valeur": "Système ICE 13.0 avec ventilateur centrifuge interne à 20 000 RPM et chambre à vapeur 10 182 mm²"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface RedMagic OS 9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.9, Samsung GN5, 1/1.57\", stabilisation optique OIS, PDAF)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.2, Samsung JN1, 1/2.76\", 120˚)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran UDC)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, 1080p à 30/60/120/240 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6500 mAh (Double cellule haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge ultra-rapide 80W filaire (100% en 35 min)"
+                        },
+                        {
+                            "label": "Technologie spéciale",
+                            "valeur": "Charge Bypass pour jouer directement branché sans usure de batterie"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Qualcomm Quick Charge 5, USB Power Delivery 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 / 6E / 6 (802.11 a/b/g/n/ac/ax/be) tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 avec A2DP, LE et aptX HD/Adaptive"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 avec sortie vidéo DisplayPort"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et haut-parleurs stéréo 1115K avec DTS:X Ultra"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales optique sous l'écran avec mesure du rythme cardiaque"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "RedMagic Official Store",
+                        "url": "https://redmagic.gg/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+RedMagic+9+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+RedMagic+9+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-15-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 15 Pro 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 15 Pro 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-pro",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-15-PRO-4G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-15-PRO-4G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone performant Xiaomi Redmi Note 15 Pro 4G avec capteur photo 200MP OIS écran AMOLED 120Hz processeur Helio G99 Ultra et charge 67W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Ultra (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 12 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "5500 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.185 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-15-PRO-4G",
+        "Name": "Xiaomi Redmi Note 15 Pro 4G - Dual SIM - Écran 6.67\" AMOLED 120Hz - (8 Go & 256 Go / 12 Go & 512 Go) - 5500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "195000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 15 Pro 4G, Redmi Note 15, Smartphone, 4G, Écran AMOLED, Écran 120Hz, Capteur 200MP, OIS, 5500mAh, Charge 67W, Helio G99 Ultra, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Violet | Titane",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go | 12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.185 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Onyx Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Velvet Violet",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Titane",
+            "color_en": "Titanium Gray",
+            "color_code": "TITANE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "195000",
+            "sku_suffix": "8-GB-256-GB-TITANE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Onyx Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Velvet Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Titane",
+            "color_en": "Titanium Gray",
+            "color_code": "TITANE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "235000",
+            "sku_suffix": "12-GB-512-GB-TITANE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 15",
+        "teaser": "Le Xiaomi Redmi Note 15 Pro 4G intègre un capteur photo de 200 mégapixels stabilisé optiquement. Motorisé par le processeur Helio G99 Ultra et une batterie de 5500 mAh avec charge 67W, il assure précision photographique et confort continu.",
+        "top_features_detailed": [
+            {
+                "label": "Capteur Photo 200 MP avec OIS",
+                "detail": "Prises de vue haute définition très stables et nettes même en condition de basse lumière."
+            },
+            {
+                "label": "Écran AMOLED 120Hz Lumineux",
+                "detail": "Dalle 6.67 pouces contrastée avec défilement fluide et verre de protection Corning Gorilla."
+            },
+            {
+                "label": "Charge Rapide Turbo 67W",
+                "detail": "Regain d'énergie accéléré sur secteur pour retrouver rapidement une autonomie opérationnelle."
+            },
+            {
+                "label": "Batterie Durable 5500 mAh",
+                "detail": "Alimentation continue sur deux journées de travail soutenue par la puce Helio G99 Ultra sobre."
+            }
+        ],
+        "marketing_conclusion": "Un smartphone orienté photographie et productivité associant capteur 200 MP OIS, écran AMOLED 120Hz et recharge accélérée 67W.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 15 Pro 4G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi Note 15 Pro 4G à Abidjan chez My-eStore. Capteur 200MP OIS, écran AMOLED 120Hz et charge rapide 67W au meilleur tarif garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 15 Pro 4G : 200 MP OIS & 67W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 15 Pro 4G chez My-eStore. Capteur 200 MP OIS, écran AMOLED 120Hz et charge 67W au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 15 Pro 4G",
+            "lsi_keywords": [
+                "Redmi Note 15 Pro 4G Abidjan",
+                "smartphone capteur 200 MP OIS",
+                "Helio G99 Ultra Xiaomi",
+                "ecran AMOLED 120Hz Xiaomi",
+                "charge rapide 67W batterie 5500 mAh"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 15 Pro 4G : Capteur 200 MP OIS, Écran AMOLED 120Hz et Charge 67W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi Note 15 Pro 4G",
+            "items": [
+                {
+                    "feature": "Capteur Photo 200 MP OIS",
+                    "benefice": "Prises de vue stables et haute précision même en faible luminosité ambiante."
+                },
+                {
+                    "feature": "Écran AMOLED 120Hz",
+                    "benefice": "Dalle lumineuse 6.67 pouces offrant une lisibilité remarquable en plein soleil."
+                },
+                {
+                    "feature": "Charge Turbo 67W",
+                    "benefice": "Regain d'énergie accéléré en moins d'une demi-heure sur secteur."
+                },
+                {
+                    "feature": "Batterie 5500 mAh & G99 Ultra",
+                    "benefice": "Autonomie sereine sur deux jours avec puce 6 nm fluide et économe."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi Note 15 Pro 4G franchit un cap technique avec son capteur stabilisé. En effet, son module dorsal de 200 mégapixels capture une quantité abondante d'informations visuelles. Son écran AMOLED cadencé à 120Hz garantit une aisance visuelle appréciable pour vos lectures prolongées. De plus, la puce Helio G99 Ultra anime vos programmes avec une cadence vive et constante. L'accumulateur de 5500 mAh soutient ainsi toutes vos activités personnelles et professionnelles à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Capteur 200 MP Stabilisé OIS et Clarté Optique",
+                "paragraphs": [
+                    "L'appareil photo dorsal principal s'appuie sur une lentille optique de haute précision de 200 mégapixels. Il enregistre ainsi des clichés d'une netteté cristalline valorisant les moindres nuances de texture. La stabilisation optique OIS compense instantanément les micro-mouvements de la main lors de la prise de vue. De surcroît, le traitement algorithmique rehausse la luminosité des scènes nocturnes sans bruit numérique visible. Le zoom intégré autorise des recadrages précis tout en conservant une définition globale remarquable. Vous capturez facilement des souvenirs spontanés et détaillés lors de vos sorties amicales en ville.",
+                    "L'objectif ultra grand-angle permet d'englober de grands édifices architecturaux sans recul contraignant. La caméra macro révèle par ailleurs les motifs délicats des feuillages et des surfaces d'artisanat. La caméra frontale de 16 mégapixels restitue des autoportraits nets pour vos visioconférences de travail. En outre, divers modes de prise de vue manuels permettent d'ajuster finement l'exposition photographique. L'enregistrement vidéo haute définition stabilise vos séquences pour un rendu régulier et propre. Cet équipement complet satisfait les exigences créatives des passionnés de photographie sur smartphone."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 120Hz Immersif et Audio Stéréo Dolby Atmos",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.67 pouces diffuse une large gamme de couleurs fidèles et contrastées. Sa luminosité de pointe autorise ainsi une consultation aisée en plein jour lors de vos déplacements. La fréquence dynamique montant à 120Hz assure des défilements réguliers sans saccade perceptible. De plus, la surface tactile réagit immédiatement sous le doigt pour une saisie rapide des messages. Le verre trempé Corning préserve la façade avant des frottements répétés avec les clés. Les bordures fines renforcent l'immersion visuelle lors du visionnage de vidéos ou de diaporamas.",
+                    "La certification TÜV Rheinland filtre le spectre bleu pour ménager vos yeux durant la lecture nocturne. Votre vision conserve par conséquent un confort reposant lors des longues sessions devant l'écran. Deux haut-parleurs stéréo diffusent un son spatialisé enveloppant conforme aux standards Dolby Atmos. En parallèle, la prise jack 3.5 millimètres accueille vos casques audio filaires sans adaptateur. Le châssis certifié IP54 repousse les éclaboussures accidentelles et les poussières de l'air ambiant. Cette conception soignée allie confort sensoriel et solidité pratique au fil des semaines."
+                ]
+            },
+            {
+                "h2_title": "Performances Helio G99 Ultra et Charge Turbo 67W",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G99 Ultra exploite une gravure fine en 6 nanomètres très équilibrée. Cette technologie optimise ainsi la consommation électrique lors du lancement d'applications multitâches soutenues. Les huit cœurs cadencés traitent les requêtes bureautiques avec une cadence continue et régulière. Par conséquent, les jeux actuels s'exécutent avec une réactivité appréciable exempte de ralentissements inopinés. La mémoire vive extensible facilite le basculement instantané entre plusieurs outils professionnels actifs. La mémoire interne jusqu'à 512 Go accueille sans saturation vos volumineuses galeries multimédias.",
+                    "L'accumulateur d'une capacité de 5500 mAh procure une autonomie rassurante pour deux journées complètes. Vous travaillez ainsi sereinement tout au long du jour sans rechercher une prise murale. La charge rapide filaire de 67W restaure rapidement la réserve énergétique sur un chargeur compatible. De plus, le gestionnaire intelligent protège les cellules contre les variations brusques de tension électrique. Le système Xiaomi HyperOS gère efficacement la mémoire pour assurer des lancements toujours promptes. Cette alliance de puissance et d'endurance fait du Redmi Note 15 Pro 4G un choix pérenne."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 15 Pro 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.0 x 74.8 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "185 g (0.185 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Onyx Black), Violet (Velvet Violet), Titane (Titanium Gray)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 120Hz, 1300 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~88.9% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "Full HD+ (1080 x 2400 pixels, ratio 20:9, ~395 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G99 Ultra (6 nm, Octa-core jusqu'à 2.2 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "8 Go + 256 Go / 12 Go + 512 Go (UFS 2.2)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "200 MP (f/1.7, grand-angle, multi-directionnel PDAF, OIS)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 120°)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4, grand-angle, HDR)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5500 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "Charge turbo 67W (50% en ~16 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac double bande, Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, prise jack 3.5mm"
+                        }
+                    ]
+                }
+            ],
+            "verification_sources": [
+                {
+                    "name": "Xiaomi Official Store",
+                    "url": "https://www.mi.com/global/"
+                },
+                {
+                    "name": "Recherche Générique",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+4G"
+                },
+                {
+                    "name": "Recherche Spécialisée IA",
+                    "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+4G+specifications"
+                }
+            ],
+            "official_disclaimer": "Les spécifications techniques et visuels sont fournis à titre indicatif selon les données constructeur certifiées. Les caractéristiques d'autonomie et de vitesse de charge peuvent varier selon les conditions d'utilisation réelles.",
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+Pro+4G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

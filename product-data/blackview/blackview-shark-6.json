@@ -1,0 +1,312 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Shark 6",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/blackview_shark_6_5g-14153.php"
+            }
+        ],
+        "pricing_reference": "79000",
+        "official_sku": "BV-SHARK-6"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.88 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz Smart-Display",
+        "screen_resolution": "1640 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go",
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Haut-parleur Smart-PA & Prise Jack 3.5mm",
+        "audio_tech": "Son HD & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 18W USB-C",
+        "dimensions": "171.05 x 77.66 x 8.45 mm",
+        "weight": "0.210 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-SHARK-6-MASTER",
+        "Name": "Blackview Shark 6",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "79000",
+        "Categories": "Smartphones > Blackview > Shark Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Shark 6, Smartphone 6.88 pouces, 90Hz, 50MP, 5000mAh, 18W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Bleu | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.210 kg",
+        "Attribute 4 default": "0.210 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Shark 6 : Smartphone Écran 6.88 Pouces 90Hz Caméra 50 MP Batterie 5000 mAh",
+        "brand_line": "Le smartphone moderne et élégant Blackview associant grand écran et autonomie au quotidien.",
+        "marketing_conclusion": "Commandez le Blackview Shark 6 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Shark 6 propose un grand écran de 6.88 pouces HD+ à 90 Hz, un capteur photo 50 MP, la puce Octa-Core et une batterie de 5000 mAh avec charge 18W.",
+        "features": [
+            {
+                "feature": "Grand Écran 6.88\" HD+ 90Hz",
+                "benefice": "Affichage spacieux et fluide pour la vidéo et les réseaux sociaux."
+            },
+            {
+                "feature": "Capteur Photo 50 MP ISOCELL",
+                "benefice": "Photographies haute définition d'une netteté remarquable."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 18W",
+                "benefice": "Autonomie sereine sur une journée d'utilisation intensive."
+            },
+            {
+                "feature": "Puce Octa-Core & Puce NFC",
+                "benefice": "Navigation multitâche rapide et paiements sans contact."
+            }
+        ],
+        "slogan_final": "Blackview Shark 6 — Le grand écran fluide à portée de tous.",
+        "seo": {
+            "meta_title": "Acheter Blackview Shark 6 (4Go/8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Shark 6 avec écran 6.88\" 90Hz, caméra 50 MP et batterie 5000 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Shark 6, smartphone 6.88 pouces, prix Abidjan, 90Hz 50MP 5000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Shark 6",
+            "lsi_keywords": [
+                "Blackview Shark 6",
+                "smartphone Blackview Abidjan",
+                "Blackview Shark 6 prix",
+                "téléphone grand écran 90Hz",
+                "téléphone 50 MP 5000 mAh",
+                "smartphone performant Côte d'Ivoire",
+                "achat téléphone Blackview Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Shark 6 128 Go : Écran 6.88\" 90Hz & 50 MP | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Shark 6. Écran 6.88\" HD+ 90Hz, caméra 50 MP, batterie 5000 mAh 18W et puce Octa-Core. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Shark 6 : Spécifications du Smartphone 6.88 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU SHARK 6",
+            "items": [
+                {
+                    "feature": "Dalle 6.88 Pouces 90Hz Fluidité",
+                    "benefice": "Confort visuel immersif pour vos médias."
+                },
+                {
+                    "feature": "Appareil Photo 50 MP Haute Définition",
+                    "benefice": "Prises de vue nettes riches en détails."
+                },
+                {
+                    "feature": "Accumulateur Massif 5000 mAh",
+                    "benefice": "Utilisation prolongée toute la journée."
+                },
+                {
+                    "feature": "Design Affiné 8.45 mm",
+                    "benefice": "Prise en main naturelle et élégante."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Shark 6 est un smartphone grand écran particulièrement moderne et accessible. Cet équipement convient très bien aux jeunes et professionnels actifs en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 6.88 pouces en définition HD+ offre une lisibilité visuelle très claire. De plus, son taux de rafraîchissement de 90 Hz apporte une fluidité constante. La batterie généreuse de 5000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 8.45 mm garantit une prise en main très agréable. L'interface DokeOS 4.0 sous Android 14 simplifie l'accès à vos applications. Enfin, ce smartphone élégant constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.88 Pouces 90Hz et Puce Octa-Core",
+                "paragraphs": [
+                    "Le Blackview Shark 6 intègre une grande dalle IPS de 6.88 pouces en définition HD+. Sa résolution de 1640 x 720 pixels restitue des détails d'une clarté impressionnante. De plus, le taux de rafraîchissement de 90 Hz apporte une fluidité constante lors du défilement. De surcroît, le processeur Unisoc T606 à huit cœurs cadencés à 1.6 GHz gère facilement vos logiciels. Les 8 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le téléphone en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 50 MP, Puce NFC et Triple Slot",
+                "paragraphs": [
+                    "Le Blackview Shark 6 embarque un capteur photo principal de 50 Mégapixels avec Flash LED. Cet objectif capture des images haute définition d'une grande netteté en journée. En outre, la caméra frontale de 8 Mégapixels s'avère très pratique pour les selfies clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous lumière naturelle. Ainsi, le mode nuit immortalise vos souvenirs du soir avec précision. La précision d'image reste constante.",
+                    "Par ailleurs, la puce NFC multifonction permet des paiements rapides sans contact. De plus, le capteur d'empreintes digitales latéral garantit un déverrouillage sécurisé. Également, le module GPS quadruples réseaux assure un guidage précis lors de vos déplacements. De surcroît, la prise jack 3.5mm permet d'écouter votre musique au casque. En somme, ce smartphone polyvalent réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Charge Rapide 18W",
+                "paragraphs": [
+                    "La batterie impressionnante de 5000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption tout au long de la journée. D'ailleurs, le port USB-C prend en charge la charge rapide 18W pour faire le plein rapidement. En effet, le système d'économie d'énergie préserve la batterie lors des veilles prolongées. Vos activités quotidiennes se poursuivent sans interruption.",
+                    "La silhouette affinée de 8.45 mm offre une tenue en main confortable et très légère. Son poids maîtrisé de 210 grammes témoigne du soin apporté au grand format. D'autre part, le Blackview Shark 6 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son écran 90Hz en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Shark 6",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Shark 6."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.05 x 77.66 x 8.45 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.210 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Coque texturée anti-tracé d'empreintes"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.88 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1640 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc T606 Octa-Core 1.6 GHz (12nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 8 Go (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "18W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/blackview_shark_6_5g-14153.php"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,439 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Redmagic 11 Pro+",
+        "generation_date": "2026-09-08"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "REDMAGIC Official Store",
+                "url": "https://redmagic.gg/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Pro%2B"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Pro%2B+specifications"
+            }
+        ],
+        "pricing_reference": "850000",
+        "official_sku": "ZTE-REDMAGIC-11-PRO+"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm) Octa-Core",
+        "processor_ghz": "Fréquence 4.60 GHz (Oryon V3)",
+        "screen_size": "6.85 pouces",
+        "screen_technology": "AMOLED 1.5K 144Hz Sans Encoche",
+        "screen_resolution": "2688 x 1216 pixels",
+        "battery_capacity": "7500 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go",
+            "24 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "LPDDR5X Ultra (9600 Mbps)",
+        "os": "Android 16",
+        "os_skin": "RedMagic OS 11",
+        "camera_main": "Triple capteur 50 MP (50 MP Grand-Angle OIS + 50 MP Ultra Grand-Angle + Aux)",
+        "camera_selfie": "16 MP sous l'écran",
+        "audio_config": "Haut-parleurs Stéréo DTS:X Ultra & Snapdragon Sound",
+        "audio_tech": "Son spatial DTS:X Ultra & prise jack 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS dual-band, GLONASS, BDS, Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 120W filaire + 80W sans fil avec Bypass Charging",
+        "dimensions": "163.8 x 76.5 x 8.9 mm",
+        "weight": "0.230 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-REDMAGIC-11-PRO+-MASTER",
+        "Name": "ZTE Redmagic 11 Pro+",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "850000",
+        "Categories": "Smartphones > ZTE > RedMagic Gaming, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Redmagic 11 Pro+, Snapdragon 8 Elite Gen 5, 7500mAh, Charge 120W, IPX8, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Transparent Noir, Transparent Gris",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go, 24 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.230 kg",
+        "Attribute 4 default": "0.230 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "color_fr": "Noir",
+            "color_en": "Matte Black Cryo",
+            "color_code": "NOIR",
+            "price": "850000",
+            "sku_suffix": "256GB-12GB-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Noir",
+            "color_en": "Matte Black Cryo",
+            "color_code": "NOIR",
+            "price": "920000",
+            "sku_suffix": "512GB-16GB-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Transparent Noir",
+            "color_en": "Nightfreeze",
+            "color_code": "TRANS-NOIR",
+            "price": "950000",
+            "sku_suffix": "512GB-16GB-TRANS-NOIR"
+        },
+        {
+            "ram": "24 Go",
+            "storage": "1 To",
+            "color_fr": "Transparent Noir",
+            "color_en": "Nightfreeze",
+            "color_code": "TRANS-NOIR",
+            "price": "1080000",
+            "sku_suffix": "1TB-24GB-TRANS-NOIR"
+        },
+        {
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "color_fr": "Transparent Gris",
+            "color_en": "Subzero",
+            "color_code": "TRANS-GRIS",
+            "price": "950000",
+            "sku_suffix": "512GB-16GB-TRANS-GRIS"
+        },
+        {
+            "ram": "24 Go",
+            "storage": "1 To",
+            "color_fr": "Transparent Gris",
+            "color_en": "Subzero",
+            "color_code": "TRANS-GRIS",
+            "price": "1080000",
+            "sku_suffix": "1TB-24GB-TRANS-GRIS"
+        }
+    ],
+    "short_description": {
+        "title_format": "ZTE Redmagic 11 Pro+ : Snapdragon 8 Elite Gen 5 Batterie 7500 mAh et Charge 120W",
+        "brand_line": "Le smartphone gaming d'élite réunissant charge 120W, puce Snapdragon 8 Elite Gen 5 et étanchéité IPX8.",
+        "marketing_conclusion": "Commandez votre ZTE Redmagic 11 Pro+ sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Redmagic 11 Pro+ combine la puce Snapdragon 8 Elite Gen 5, une charge 120W, une batterie 7500 mAh, une protection IPX8 et un écran 144Hz sans encoche.",
+        "features": [
+            {
+                "feature": "Puce Snapdragon 8 Elite Gen 5 (4.60 GHz)",
+                "benefice": "Vitesse d'exécution de premier ordre pour vos applications professionnelles et jeux."
+            },
+            {
+                "feature": "Charge Ultra-Rapide 120W & Sans Fil 80W",
+                "benefice": "Restauration intégrale de la batterie en seulement 35 minutes de branchement."
+            },
+            {
+                "feature": "Étanchéité Certifiée IPX8",
+                "benefice": "Protection mécanique complète contre l'eau et les liquides du quotidien."
+            },
+            {
+                "feature": "Écran AMOLED 1.5K 144Hz Intégral",
+                "benefice": "Affichage intégral sans encoche grâce au capteur frontal sous l'écran."
+            }
+        ],
+        "slogan_final": "ZTE Redmagic 11 Pro+ — Le smartphone gaming Snapdragon 8 Elite Gen 5 avec batterie 7500 mAh et charge 120W filaire.",
+        "seo": {
+            "meta_title": "Acheter ZTE Redmagic 11 Pro+ (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Redmagic 11 Pro+ à Abidjan sur My-eStore. Puce Snapdragon 8 Elite Gen 5, batterie 7500 mAh, charge 120W, IPX8 et écran 144Hz sans encoche.",
+            "keywords": "ZTE Redmagic 11 Pro+, Snapdragon 8 Elite Gen 5, smartphone gaming ZTE, batterie 7500 mAh, charge 120W, IPX8, Abidjan"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Redmagic 11 Pro+",
+            "lsi_keywords": [
+                "smartphone gaming ZTE Redmagic",
+                "Snapdragon 8 Elite Gen 5",
+                "batterie 7500 mAh charge 120W",
+                "charge sans fil 80W",
+                "étanchéité IPX8",
+                "écran AMOLED 144Hz sans encoche",
+                "refroidissement ICE 14",
+                "ZTE Redmagic 11 Pro+ Abidjan"
+            ],
+            "meta_title": "ZTE Redmagic 11 Pro+ : Snapdragon 8 Elite & 120W | My-eStore",
+            "meta_description": "Fiche technique du ZTE Redmagic 11 Pro+. Snapdragon 8 Elite Gen 5, batterie 7500 mAh, charge 120W filaire et 80W sans fil, étanchéité IPX8 à Abidjan."
+        },
+        "h1": "ZTE Redmagic 11 Pro+ : Snapdragon 8 Elite Gen 5, Charge Rapide et Batterie 7500 mAh",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE REDMAGIC 11 PRO+",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite Gen 5 (4.60 GHz)",
+                    "benefice": "Vitesse d'exécution de premier ordre pour vos applications professionnelles et jeux."
+                },
+                {
+                    "feature": "Charge Ultra-Rapide 120W & Sans Fil 80W",
+                    "benefice": "Restauration intégrale de la batterie en seulement 35 minutes de branchement."
+                },
+                {
+                    "feature": "Étanchéité Certifiée IPX8",
+                    "benefice": "Protection mécanique complète contre l'eau et les liquides du quotidien."
+                },
+                {
+                    "feature": "Écran AMOLED 1.5K 144Hz Intégral",
+                    "benefice": "Affichage intégral sans encoche grâce au capteur frontal sous l'écran."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Redmagic 11 Pro+ représente le modèle le plus perfectionné de la marque pour les utilisateurs exigeants. Sa batterie au silicium-carbone de 7500 mAh assure ainsi une très grande longévité sans besoin de recharge rapide. La technologie de charge 120W rétablit la totalité de la batterie en un temps d'attente minime. Le processeur Snapdragon 8 Elite Gen 5 délivre en outre un traitement informatique fluide sous forte sollicitation. L'étanchéité IPX8 protège enfin le boîtier contre l'immersion sous l'eau lors de vos déplacements quotidiens.",
+        "sections": [
+            {
+                "h2_title": "Puce Snapdragon 8 Elite Gen 5 et Charge 120W",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite Gen 5 gravé en 3 nanomètres délivre une puissance de calcul remarquable. La puce graphique Adreno 840 assure des animations régulières sur les interfaces multitâches et les moteurs graphiques. Le système de ventilation active ICE 14 disperse également le flux thermique grâce à son turboventilateur interne. Cette conception interne limite l'élévation des températures même au cours des calculs les plus intenses. L'architecture maintient donc des fréquences élevées sans aucun bridage mécanique ou logiciel.",
+                    "La mémoire vive de 12 Go à 24 Go en LPDDR5X soutient une grande vélocité applicative. Le stockage flash UFS 4.1 Pro permet d'ailleurs des transferts de données immédiats et sécurisés. La capacité interne pouvant atteindre 1 To stocke facilement tous vos enregistrements professionnels. L'ergonomie générale offre une excellente prise en main grâce à un profil dorsal équilibré. L'utilisateur conserve par conséquent une réactivité totale à chaque instant de son activité."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 1.5K 144Hz et Protection IPX8",
+                "paragraphs": [
+                    "L'écran AMOLED 1.5K de 6.85 pouces offre une fréquence de rafraîchissement adaptative de 144 Hz. La dalle de 2688 par 1216 pixels restitue un rendu colorimétrique fidèle avec un noir profond. La luminosité maximale de 2000 nits améliore aussi le confort de lecture sous forte lumière solaire. Le capteur frontal de 16 Mégapixels reste masqué sous l'écran pour préserver l'espace visuel. La norme d'étanchéité IPX8 assure une résistance certifiée à l'eau jusqu'à un mètre cinquante de profondeur.",
+                    "Les gâchettes sensitives latérales à 520 Hz procurent un contrôle tactile réactif lors de vos usages. Les haut-parleurs stéréo diffusent notamment un son spatialisé DTS:X Ultra très clair et précis. La prise audio jack 3.5 mm garantit une écoute sans filiation ni latence réseau parasite. La connectivité Wi-Fi 7 assure par ailleurs des débits sans fil constants et ultra-rapides. L'appareil réunit tous les composants utiles pour répondre aux besoins d'une mobilité exigeante."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Silicium 7500 mAh et Double Charge Rapide",
+                "paragraphs": [
+                    "L'accumulateur haute capacité de 7500 mAh soutient les journées de travail les plus chargées sans faiblir. Le protocole filaire 120W recharge de plus la batterie intégrale en seulement trente-cinq minutes de branchement. La charge sans fil rapide à 80W apporte une souplesse d'utilisation moderne sur votre bureau. La fonction d'alimentation directe contourne de fait la batterie pendant les périodes de travail branché. Les capteurs thermiques internes régulent automatiquement l'intensité du courant pour protéger l'appareil.",
+                    "Le double capteur photo de 50 Mégapixels avec stabilisation optique produit des clichés détaillés. L'objectif ultra grand-angle de 50 Mégapixels saisit des paysages étendus avec une netteté uniforme. Le ZTE Redmagic 11 Pro+ représente ainsi un investissement haut de gamme fiable et pérenne. Vous pouvez commander ce smartphone directement sur la boutique My-eStore en toute sérénité. Le service de livraison couvre Abidjan avec diligence et un suivi rigoureusement documenté."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Redmagic 11 Pro+",
+                "subtitle": "Spécifications matérielles certifiées du smartphone gaming ZTE Redmagic 11 Pro+."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.8 x 76.5 x 8.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.230 kg (230 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium aéronautique, dos en verre plat, gâchettes tactiles 520Hz"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IPX8 (étanche à l'eau jusqu'à 1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Matte Black Cryo), Transparent Noir (Nightfreeze), Transparent Gris (Subzero)"
+                        },
+                        {
+                            "label": "Ventilateur interne",
+                            "valeur": "Turbo ventilateur centrifuge haute vitesse avec éclairage RVB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.85 pouces (~91.4% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED 1.5K, 1 milliard de couleurs, 10-bit"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2688 x 1216 pixels, ~431 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "144 Hz (taux d'échantillonnage tactile 960 Hz)"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "2000 nits (pic)"
+                        },
+                        {
+                            "label": "Particularité",
+                            "valeur": "Affichage intégral sans poinçon avec caméra sous écran UDC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (2x4.60 GHz Oryon V3 + 6x3.62 GHz Oryon V3)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 840"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go / 24 Go LPDDR5X Ultra"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go / 1 To UFS 4.1 Pro"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 16 avec interface RedMagic OS 11"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.9, 1/1.55\", 1.0µm, PDAF, OIS)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.2, 120˚, 1/2.88\")"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur d'assistance IA et macro"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "16 MP (f/2.0, intégrée sous l'écran)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K à 30/60 fps, 1080p à 240 fps, gyro-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "7500 mAh (Li-Po silicium-carbone haute densité)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge ultra-rapide 120W filaire + 80W sans fil"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "USB Power Delivery 3.0, Quick Charge 5, Bypass Charging"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 be/ax/ac/a/b/g/n), tri-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP, LE, aptX HD, aptX Adaptive"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Prise casque",
+                            "valeur": "Jack 3.5 mm stéréo"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 réversible (DisplayPort supporté)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "REDMAGIC Official Store",
+                        "url": "https://redmagic.gg/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Pro%2B"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Redmagic+11+Pro%2B+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

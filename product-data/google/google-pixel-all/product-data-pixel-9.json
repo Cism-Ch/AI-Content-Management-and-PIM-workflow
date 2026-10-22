@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-06-02",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "google-pixel-all-v2.1",
+    "notes": "Converti automatiquement à partir de la fiche specs-data de Google Pixel 9."
+  },
+  "product_identity": {
+    "brand": "Google",
+    "product_line": "Pixel",
+    "commercial_name": "Google Pixel 9",
+    "category": "smartphone",
+    "sub_category": "flagship",
+    "release_year": 2024,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "tags": [
+    "Google",
+    "Pixel 9",
+    "GUR2C",
+    "Smartphone",
+    "Android 15",
+    "Tensor G4",
+    "Écran Actua",
+    "Double Capteur 50MP",
+    "Gemini Live",
+    "Smartphone Premium",
+    "Téléphone Google",
+    "Abidjan"
+  ],
+  "model_numbers": {
+    "primary_sku": "GUR2C",
+    "regional_variants": [
+      {
+        "region": "International",
+        "sku": "GUR2C"
+      }
+    ],
+    "verification_sources": [
+      {
+        "source": "Google Official Store",
+        "url": "https://store.google.com/product/pixel_9"
+      },
+      {
+        "source": "GSMArena",
+        "url": "https://www.gsmarena.com/google_pixel_9-13219.php"
+      }
+    ],
+    "disambiguation_notes": "Vérifier le numéro de modèle de base GUR2C pour My-eStore. Éviter les versions opérateur US verrouillées."
+  },
+  "variants": [
+    {
+      "variant_name": "Google Pixel 9 128Go",
+      "sku_suffix": "/128",
+      "configurations": {
+        "ram": "12Go",
+        "storage": "128Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 480000,
+          "max": 580000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    },
+    {
+      "variant_name": "Google Pixel 9 256Go",
+      "sku_suffix": "/256",
+      "configurations": {
+        "ram": "12Go",
+        "storage": "256Go"
+      },
+      "pricing": {
+        "official_price_fcfa": null,
+        "market_price_range_fcfa": {
+          "min": 480000,
+          "max": 580000
+        },
+        "price_source": "Mitc / Jumia CI",
+        "price_date": "2026-06",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": [
+      "Obsidian",
+      "Porcelain",
+      "Wintergreen",
+      "Peony"
+    ],
+    "exclusive": [],
+    "default": "Obsidian"
+  },
+  "key_specifications": {
+    "processor": "Google Tensor G4 (4 nm)",
+    "ram_options": [
+      "12Go"
+    ],
+    "storage_options": [
+      "128Go",
+      "256Go"
+    ],
+    "screen_size": "6.3 inches, 94.7 cm2 (~86.1% screen-to-body ratio)",
+    "screen_technology": "OLED, 120Hz, HDR10+, 1800 nits (HBM), 2700 nits (peak)",
+    "screen_resolution": "1080 x 2424 pixels, 20:9 ratio (~422 ppi density)",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "Li-Ion 4700 mAh",
+    "charging_wired": "27W wired, PD3.0, PPS, 55% in 30 min 15W",
+    "charging_wireless": "15W wireless",
+    "os": "Android",
+    "os_version": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+    "camera_main": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF",
+    "camera_selfie": "10.5 MP",
+    "video_max": "4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+    "connectivity_bluetooth": "5.3, A2DP, LE, aptX HD",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "152.8 x 72 x 8.5 mm (6.02 x 2.83 x 0.33 in)",
+    "weight": "198 g (6.98 oz)",
+    "materials": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "biometrics": "Capteur d'empreinte sous l'écran",
+    "additional_features": [
+      "IA Google (Circle to Search, Gemini intégré, Magic Eraser)",
+      "7 ans de mises à jour de sécurité et système",
+      "Haut-parleurs stéréo"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google Store",
+      "url": "https://store.google.com/product/pixel_9",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "colors",
+        "model_number"
+      ]
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_9-13219.php",
+      "accessed_date": "2026-06-02",
+      "data_extracted": [
+        "specifications",
+        "dimensions",
+        "camera_details"
+      ]
+    }
+  ]
+}

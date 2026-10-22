@@ -1,0 +1,426 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 14T conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 14T",
+        "category": "smartphone",
+        "sub_category": "flagship-media",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-14T",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-14T"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-14t/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+14T"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+14T+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi 14T doté d'un écran AMOLED 144Hz de 6.67 pouces processeur Dimensity 8300-Ultra optiques Leica et charge 67W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8300-Ultra (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge HyperCharge 67W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM ou SIM + eSIM)",
+        "weight": "0.195 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-14T",
+        "Name": "Xiaomi 14T - Dual SIM - Écran 6.67\" 144Hz - (12 Go & 256 Go|512 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "320000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 14T, Xiaomi Series, Smartphone, Android, 5G, Écran 144Hz, Optiques Leica, 5000mAh, Charge 67W, Dimensity 8300-Ultra, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Vert Clair | Noir | Gris | Bleu Ciel",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.195 kg",
+        "Attribute 4 default": "0.195 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Lemon Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "320000",
+            "sku_suffix": "12-GB-256-GB-VERT-CLAIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Titan Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "320000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Titan Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "320000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Titan Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "320000",
+            "sku_suffix": "12-GB-256-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Lemon Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "360000",
+            "sku_suffix": "12-GB-512-GB-VERT-CLAIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Titan Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "360000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Titan Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "360000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Titan Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "360000",
+            "sku_suffix": "12-GB-512-GB-BLEU-CIEL"
+        }
+    ],
+    "short_description": {
+        "brand_line": "L'Élégance Visuelle 144Hz avec Optiques Leica Summilux et Dimensity 8300-Ultra.",
+        "teaser": "Le smartphone haut de gamme Xiaomi 14T réunit un écran AMOLED 144Hz de 6.67 pouces et le processeur MediaTek Dimensity 8300-Ultra. Ses optiques professionnelles Leica et sa batterie de 5000 mAh avec charge 67W garantissent une réactivité optimale.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran AMOLED 6.67\" 144Hz 1.5K",
+                "benefice": "Défilement ultra-fluide et netteté remarquable avec une luminosité de pointe à 4000 nits"
+            },
+            {
+                "feature": "Triple Optique Leica Summilux",
+                "benefice": "Capteur Sony IMX906 de 50MP délivrant une fidélité chromatique et des portraits soignés"
+            },
+            {
+                "feature": "Puce Dimensity 8300-Ultra",
+                "benefice": "Architecture moderne 4nm assurant un traitement applicatif réactif et une gestion sobre"
+            },
+            {
+                "feature": "Batterie 5000 mAh & HyperCharge 67W",
+                "benefice": "Endurance prolongée tout au long de la journée avec recharge rapide en 45 minutes"
+            }
+        ],
+        "marketing_conclusion": "Le fleuron multimédia combinant excellence photographique Leica, fluidité 144Hz et autonomie rassurante.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 14T (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi 14T à Abidjan chez My-eStore. Écran 6.67\" AMOLED 144Hz, optiques Leica 50MP, Dimensity 8300-Ultra et batterie 5000 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 14T 256 Go : Dimensity 8300-Ultra & Leica | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 14T chez My-eStore. Écran AMOLED 6.67 pouces 144Hz, optiques Leica Summilux 50MP, batterie 5000 mAh et charge 67W garantis à Abidjan.",
+            "focus_keyword": "Xiaomi 14T",
+            "lsi_keywords": [
+                "Xiaomi 14T Abidjan",
+                "smartphone Xiaomi Leica",
+                "prix Xiaomi 14T Côte d'Ivoire",
+                "Xiaomi 14T Dimensity 8300",
+                "Xiaomi 14T fiche technique"
+            ]
+        },
+        "h1": "Xiaomi 14T : Dimensity 8300-Ultra, Optiques Leica Summilux et Écran AMOLED 144Hz",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 14T",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 6.67\" 144Hz",
+                    "benefice": "Dalle 1.5K ultra-fluide affichant des teintes riches et contrastées jusqu'à 4000 nits"
+                },
+                {
+                    "feature": "Triple Capteur Leica 50MP",
+                    "benefice": "Optiques de pointe garantissant une colorimétrie équilibrée et des portraits détaillés"
+                },
+                {
+                    "feature": "Puce Dimensity 8300-Ultra",
+                    "benefice": "Performances solides gérant le multitâche soutenu et les loisirs sans aucun ralentissement"
+                },
+                {
+                    "feature": "Batterie 5000 mAh & Charge 67W",
+                    "benefice": "Grande autonomie quotidienne doublée d'une vitesse de réalimentation très efficace"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi 14T élève les standards multimédias par son équipement photographique et son affichage. Sa dalle AMOLED de 6.67 pouces en résolution 1.5K procure une netteté visuelle particulièrement flatteuse. De plus, la fréquence de 144Hz confère une fluidité tactile appréciable lors de chaque manipulation d'application. La puce MediaTek Dimensity 8300-Ultra traite les opérations complexes avec une régularité et une maîtrise exemplaires. Enfin, sa batterie de 5000 mAh rechargeable à 67W accompagne sereinement vos journées d'activité à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Affichage AMOLED 144Hz Lumineux et Protecteur de 6.67 Pouces",
+                "paragraphs": [
+                    "L'écran AMOLED CrystalRes de 6.67 pouces offre une définition précise valorisant chaque document ou vidéo. En outre, le taux de rafraîchissement culminant à 144Hz élimine toute saccade lors de vos défilements tactiles. Les bordures latérales réduites optimisent la surface de travail sans alourdir le boîtier en main. La fidélité des contrastes profonds valorise vos séries et flux graphiques avec une intensité remarquable. Par ailleurs, la luminosité maximale de 4000 nits permet une lisibilité totale sous le soleil direct. Le système anti-scintillement prévient efficacement la fatigue oculaire lors des consultations nocturnes en chambre obscure.",
+                    "D'autre part, le verre protecteur en façade oppose une barrière solide contre les micro-rayures régulières. La prise en charge des technologies HDR10+ et Dolby Vision enrichit grandement la restitution lumineuse. Les nuances de couleurs respectent les standards cinématographiques professionnels pour un rendu toujours naturel. Ainsi, vous consultez vos courriels et graphiques d'affaires avec un confort visuel permanent et durable. La sensibilité tactile élevée répond immédiatement au moindre contact du doigt pour une navigation sans accroc. Cet affichage moderne constitue un atout majeur pour optimiser votre productivité numérique en mobilité."
+                ]
+            },
+            {
+                "h2_title": "Système Photographique Leica Summilux et Puce Dimensity 8300-Ultra",
+                "paragraphs": [
+                    "Tout d'abord, le triple module photo Leica Summilux dispose d'un capteur principal Sony de 50 mégapixels. La stabilisation optique intégrée compense les mouvements pour garantir des prises de vue nettes en marchant. Le téléobjectif dédié de 50 millimètres réalise des portraits expressifs avec une découpe d'arrière-plan harmonieuse. De surcroît, le capteur ultra grand-angle élargit le champ pour capturer des panoramas urbains très détaillés. Les réglages couleur Leica Authentique et Vibrant apportent une signature esthétique reconnue à chaque cliché. L'enregistrement vidéo en 4K restitue vos moments importants avec une clarté sonore et visuelle irréprochable.",
+                    "De ce fait, le processeur Dimensity 8300-Ultra orchestre les applications lourdes avec une remarquable efficience. La mémoire vive de 12 Go garantit une réactivité constante lors des transitions multitâches les plus exigeantes. La structure interne assure une dissipation thermique continue même lors d'enregistrements vidéo prolongés. Également, l'accélérateur graphique dédié soutient les jeux vidéo modernes avec une grande stabilité d'image. L'interface Xiaomi HyperOS intègre des fonctionnalités intelligentes simplifiant la gestion quotidienne de vos fichiers. Cette configuration robuste apporte une vitesse d'exécution rassurante pour tous vos besoins professionnels réguliers."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Confortable de 5000 mAh et Certification Étanche IP68",
+                "paragraphs": [
+                    "D'abord, la batterie haute capacité de 5000 mAh dispense une autonomie fiable du matin jusqu'au soir. Les routines logicielles d'économie d'énergie préservent la charge lorsque l'écran reste éteint en veille. La technologie HyperCharge 67W rétablit la totalité de la réserve énergétique en 45 minutes seulement. De même, le système de gestion Xiaomi Surge contrôle la température pour protéger les cellules internes. Cette recharge rapide vous évite toute coupure gênante avant une réunion importante ou un déplacement. Vous conservez ainsi une sérénité totale tout au long de vos journées professionnelles les plus denses.",
+                    "Enfin, le châssis moderne résiste à l'eau et à la poussière grâce à la norme IP68. Les haut-parleurs stéréo certifiés Dolby Atmos délivrent une acoustique spatiale claire pour vos conférences audio. Le profil fin de 7.8 millimètres assure une prise en main équilibrée et plaisante au quotidien. Par conséquent, la compatibilité 5G et le Wi-Fi 6E garantissent des débits de connexion stables. Le lecteur d'empreintes sous l'écran déverrouille l'accès à vos données en une fraction de seconde. Le Xiaomi 14T s'affirme comme une référence polyvalente associant prestige Leica, écran fluide et grande endurance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 14T - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "160.5 x 75.1 x 7.80 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "195 g (0.195 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre en alliage d'aluminium, dos en verre trempé satiné"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Vert Clair (Lemon Green), Noir (Titan Black), Gris (Titan Gray), Bleu Ciel (Titan Blue)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED CrystalRes 144Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), 446 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1600 nits (HBM), 4000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 8300-Ultra (4 nm, Octa-core jusqu'à 3.35 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G615 MC6"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Optiques Leica : capteur principal 50 MP (Sony IMX906, f/1.7, OIS) + téléobjectif 50 MP (50mm, f/1.9) + ultra grand-angle 12 MP (15mm, f/2.2)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, HDR10+"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo doubles, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 67W HyperCharge"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-14t/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+14T"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+14T+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

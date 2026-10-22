@@ -1,0 +1,364 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab Active 5 Pro conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab Active",
+        "commercial_name": "Samsung Galaxy Tab Active 5 Pro",
+        "category": "tablet",
+        "sub_category": "tablet-rugged",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-ACTIVE-5-PRO",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-ACTIVE-5-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/business/tablets/galaxy-tab-active5-pro/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+Active+5+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+Active+5+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab Active 5 Pro 10.1 pouces 120Hz Snapdragon 7s Gen 3 10100mAh S Pen IP68 MIL-STD-810H 5G"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7s Gen 3 (4nm) Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 8 Go",
+        "audio_config": "2 Haut-parleurs puissants",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "10100 mAh",
+        "charging_wired": "Charge Rapide & Mode No Battery",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM + eSIM / Slot MicroSD jusqu'à 2 To",
+        "weight": "0.680 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-ACTIVE-5-PRO",
+        "Name": "Samsung Galaxy Tab Active 5 Pro - Écran 10.1\" 120Hz - (6 Go|8 Go & 128 Go|256 Go) - S Pen - IP68 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "560000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab Active",
+        "Tags": "Samsung, Galaxy Tab Active 5 Pro, Galaxy Tab Active, Tablette, Tablette Android, 5G, Écran 120Hz, 10100mAh, Snapdragon 7s Gen 3, S-Pen, IP68, Durcie, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Vert",
+        "Attribute 1 default": "Vert",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.680 kg",
+        "Attribute 4 default": "0.680 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, 4G LTE, Wi-Fi 6E, Bluetooth 5.4, GPS, NFC",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Tablette Durcie Professionnelle 10.1 Pouces 120Hz avec Norme Militaire et Stylet S Pen IP68.",
+        "teaser": "Découvrez la Samsung Galaxy Tab Active 5 Pro avec son écran renforcé de 10.1 pouces à 120 Hz, sa puce Snapdragon 7s Gen 3, sa batterie amovible de 10100 mAh, son stylet S Pen étanche et sa double certification IP68 / MIL-STD-810H.",
+        "top_features_detailed": [
+            {
+                "feature": "Conception Durcie IP68 & MIL-STD-810H",
+                "benefice": "Résistance éprouvée aux chutes, chocs, poussières et immersions en milieu industriel"
+            },
+            {
+                "feature": "Écran 10.1\" 120Hz avec Mode Gants",
+                "benefice": "Navigation fluide et utilisation tactile précise même avec des gants épais ou sous la pluie"
+            },
+            {
+                "feature": "Batterie Amovible 10100 mAh & Mode No Battery",
+                "benefice": "Remplacement immédiat sur le terrain et fonctionnement direct sur alimentation secteur"
+            },
+            {
+                "feature": "Stylet S Pen Étanche & Puce Snapdragon 7s Gen 3",
+                "benefice": "Signature électronique, prise de notes tout-terrain et calculs rapides en 5G"
+            }
+        ],
+        "marketing_conclusion": "La référence absolue des tablettes durcies pour les professionnels de terrain, techniciens et chantiers exigeants.",
+        "trust_badges": [
+            "Garantie Officielle Samsung Business",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab Active 5 Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez la tablette durcie Samsung Galaxy Tab Active 5 Pro à Abidjan sur My-eStore. Écran 10.1\" 120Hz, IP68, MIL-STD-810H, S Pen inclus, 5G, garantie.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab Active 5 Pro",
+                "Galaxy Tab Active 5 Pro Abidjan",
+                "Galaxy Tab Active 5 Pro prix",
+                "Tablette durcie Samsung chantier"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab Active 5 Pro : Écran 10.1\" 120Hz, IP68 et Batterie 10100 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab Active 5 Pro : Écran 10.1\" & IP68 | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab Active 5 Pro sur My-eStore. Écran 10.1\" 120Hz, Snapdragon 7s Gen 3, S Pen IP68, batterie 10100 mAh amovible et 5G.",
+            "focus_keyword": "Samsung Galaxy Tab Active 5 Pro",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab Active 5 Pro Abidjan",
+                "prix Samsung Galaxy Tab Active 5 Pro",
+                "fiche technique Tab Active 5 Pro",
+                "tablette durcie Samsung professionnelle",
+                "Galaxy Tab Active 5 Pro 128Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab Active 5 Pro",
+            "items": [
+                {
+                    "feature": "Normes Militaires IP68 & MIL-STD-810H",
+                    "benefice": "Solidité tout-terrain et résistance éprouvée aux chocs et liquides"
+                },
+                {
+                    "feature": "Dalle 10.1\" 120Hz Tactile Haute Sensibilité",
+                    "benefice": "Utilisation optimale sous la pluie et manipulation possible avec gants"
+                },
+                {
+                    "feature": "Stylet S Pen Étanche Inclus",
+                    "benefice": "Précision millimétrique pour annoter plans et signer bons de commande"
+                },
+                {
+                    "feature": "Batterie Amovible 10100 mAh",
+                    "benefice": "Autonomie continue et fonctionnement sans batterie en poste fixe"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab Active 5 Pro répond aux exigences des environnements de terrain les plus rudes. Sa dalle renforcée de 10.1 pouces assure une lisibilité nette même sous un fort soleil. De plus, son processeur Snapdragon 7s Gen 3 exécute vos logiciels industriels avec une grande rapidité. Le boîtier renforcé absorbe efficacement les chocs mécaniques et les chutes accidentelles. Enfin, son accumulateur amovible de 10100 mAh garantit une journée de travail complète sans interruption.",
+        "sections": [
+            {
+                "h2_title": "Conception Tout-Terrain Renforcée et Écran 120Hz",
+                "paragraphs": [
+                    "D'un côté, le gabarit de dix virgule un pouces propose une surface de lecture idéale pour consulter des plans industriels. La technologie Gorilla Glass Victus Plus protège la face avant contre les rayures profondes causées par la poussière abrasive. Le taux de rafraîchissement cadencé à 120 Hz procure une douceur visuelle appréciable lors des manipulations de données. Par ailleurs, la sensibilité tactile renforcée autorise une navigation fluide même avec des gants de travail épais. Le mode extérieur augmente la luminosité pour conserver des contrastes nets en plein soleil. Vous disposez ainsi d'un outil d'affichage lisible sur tous vos chantiers extérieurs.",
+                    "D'un autre côté, la double certification IP68 et militaire garantit une étanchéité complète à l'eau et aux poussières. Le châssis antichoc supporte les chutes répétées sur béton sans altération des circuits internes. Les boutons physiques en façade permettent de naviguer facilement sans recourir constamment au tactile. En outre, la touche programmable latérale lance directement vos applications de communication prioritaires. Les haut-parleurs puissants permettent d'entendre distinctement les alertes dans des ateliers bruyants. Cet équipement robuste accompagne les professionnels sur l'ensemble de leurs missions d'inspection."
+                ]
+            },
+            {
+                "h2_title": "Stylet S Pen Étanche et Fonctionnalités Métier",
+                "paragraphs": [
+                    "Tout d'abord, le stylet S Pen résistant à l'eau se loge directement dans la coque de protection fournie. Sa pointe fine de haute précision facilite la saisie de signatures et l'annotation de schémas techniques. Le mode Samsung DeX transforme la tablette en poste bureautique complet lorsqu'elle est branchée à un écran externe. De surcroît, le lecteur NFC intégré simplifie la vérification des badges d'accès et la gestion des stocks. Les protocoles de sécurité Samsung Knox isolent hermétiquement vos données d'entreprise contre les attaques. Vous pilotez vos opérations de terrain avec une traçabilité totale.",
+                    "Dans cette optique, la caméra arrière de douze mégapixels enregistre des clichés nets pour documenter vos rapports d'expertise. Le flash LED puissant éclaire convenablement les zones sombres lors des inspections dans les locaux techniques. La compatibilité avec les stations d'accueil POGO permet une recharge rapide sans user le connecteur USB-C. Également, la fonction de transfert sécurisé transmet vos comptes-rendus vers le serveur central en temps réel. Toutes vos données critiques sont sauvegardées instantanément sans procédure manuelle fastidieuse. Cet appareil professionnel soutient efficacement la productivité des équipes mobiles."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 7s Gen 3 et Batterie Amovible",
+                "paragraphs": [
+                    "D'abord, la puce Snapdragon gravée en quatre nanomètres délivre une puissance de calcul élevée pour vos applications professionnelles. La mémoire vive spacieuse autorise l'exécution simultanée de logiciels de cartographie et de bases de données. L'espace de stockage généreux accueille l'ensemble de vos manuels techniques sans craindre une saturation rapide. De même, la compatibilité 5G garantit des communications ultra-rapides pour téléverser des dossiers volumineux en direct. Le lecteur d'empreintes et la reconnaissance faciale déverrouillent l'accès en respectant vos consignes de sécurité. Vous bénéficiez ainsi d'une station mobile fiable et réactive.",
+                    "Enfin, l'accumulateur haute capacité de 10100 mAh s'extrait facilement pour être remplacé par une unité chargée sur le terrain. Le mode sans batterie permet d'alimenter la tablette directement sur un véhicule sans détériorer l'accumulateur. La gestion thermique interne préserve la régularité des cadences même lors d'utilisations intensives sous forte chaleur. Par conséquent, vous assurez vos tournées de contrôle sans craindre une panne d'énergie inopinée. Les composants de qualité industrielle ont été sélectionnés pour résister aux environnements les plus sévères. La Galaxy Tab Active 5 Pro constitue une référence pour les professionnels exigeants."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab Active 5 Pro",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab Active 5 Pro</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "242.9 x 170.2 x 10.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.680 kg (680 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre Gorilla Glass Victus+, Dos et Cadre Antichoc Renforcé"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68 (eau et poussière) + MIL-STD-810H (résistance aux chutes jusqu'à 1.5m)"
+                        },
+                        {
+                            "label": "Accessoire Inclus",
+                            "valeur": "Stylet S Pen étanche IP68 et coque renforcée inclus"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 120Hz, Sensibilité tactile renforcée (mode gants et pluie)"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "10.1 pouces (25.65 cm), 1920 x 1200 pixels (WUXGA), 224 ppi, ratio 16:10"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus+"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4nm) Octa-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 2 To (slot dédié)"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec One UI 7 et Samsung Knox Vault"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "12 MP, f/1.8, Autofocus, Flash LED, Enregistrement Vidéo 4K à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "8 MP, f/2.0, Vidéo 1080p"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "2 Haut-parleurs stéréo puissants, Dolby Atmos, Prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "10100 mAh Li-Po amovible (remplaçable par l'utilisateur)"
+                        },
+                        {
+                            "label": "Fonction Spéciale",
+                            "valeur": "Mode 'No Battery' pour alimentation directe sur véhicule / secteur"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge filaire rapide USB-C & Connecteur POGO pour dock"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Nano-SIM + support eSIM"
+                        },
+                        {
+                            "label": "Sans-fil & Pro",
+                            "valeur": "Wi-Fi 6E (802.11ax), Bluetooth 5.4, NFC (mPOS), GPS, Galileo, Glonass"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB-C 3.2 Gen 1 (Samsung DeX), Connecteur POGO, Lecteur d'empreinte sur bouton"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/business/tablets/galaxy-tab-active5-pro/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+Active+5+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+Active+5+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "560000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "730000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        }
+    ]
+}

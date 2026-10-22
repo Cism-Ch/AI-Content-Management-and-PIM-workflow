@@ -1,0 +1,334 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Color 8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/color-8-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "75000",
+        "official_sku": "BV-COLOR-8"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T616 Octa-Core",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.75 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "6000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP (Capteur Samsung ISOCELL JN1) avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Haut-parleur Smart-PA stéréo",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 18W USB-C",
+        "dimensions": "167.8 x 77.4 x 9.1 mm",
+        "weight": "0.214 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-COLOR-8-MASTER",
+        "Name": "Blackview Color 8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "75000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Color 8, Smartphone 4G, 50MP, 6000mAh, 90Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.214 kg",
+        "Attribute 4 default": "0.214 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Color 8 : Le Smartphone Élégant 90Hz et 6000 mAh",
+        "brand_line": "Smartphone polyvalent Blackview conçu pour le style et le divertissement.",
+        "marketing_conclusion": "Commandez le Blackview Color 8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Color 8 combine un grand écran 90Hz de 6.75 pouces, un processeur Octa-Core T616, un capteur photo 50 MP et une batterie longue durée de 6000 mAh.",
+        "features": [
+            {
+                "feature": "Écran 6.75\" HD+ 90Hz Fluide",
+                "benefice": "Défilement très réactif et affichage spacieux pour vos vidéos."
+            },
+            {
+                "feature": "Puce Unisoc Tiger T616 Octa-Core",
+                "benefice": "Lancement rapide des applications et multitâche très fluide."
+            },
+            {
+                "feature": "Capteur Photo 50 MP ISOCELL",
+                "benefice": "Clichés lumineux et détaillés de vos meilleurs moments."
+            },
+            {
+                "feature": "Batterie 6000 mAh & Charge 18W",
+                "benefice": "Autonomie solide de deux jours d'utilisation au quotidien."
+            }
+        ],
+        "slogan_final": "Blackview Color 8 — L'élégance et la fluidité au quotidien.",
+        "seo": {
+            "meta_title": "Acheter Blackview Color 8 (8Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Color 8 avec écran 90Hz 6.75 pouces, batterie 6000 mAh et capteur 50 MP. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Color 8, smartphone Blackview, prix Abidjan, 90Hz 6000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Color 8",
+            "lsi_keywords": [
+                "Blackview Color 8",
+                "smartphone Blackview",
+                "prix Abidjan",
+                "smartphone 90Hz Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "Tiger T616 Octa-Core",
+                "batterie 6000 mAh",
+                "capteur 50 MP",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Color 8 90Hz : 50 MP & 6000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Color 8. Écran 90Hz 6.75 pouces, processeur Tiger T616, 8Go RAM et batterie 6000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Color 8 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Taux de Rafraîchissement 90Hz",
+                    "benefice": "Fluidité remarquable du défilement et des animations système."
+                },
+                {
+                    "feature": "Autonomie Élevée 6000 mAh",
+                    "benefice": "Capacité importante assurant jusqu'à deux jours d'usage continu."
+                },
+                {
+                    "feature": "Appareil Photo 50 MP Samsung",
+                    "benefice": "Restitution fidèle des couleurs et détails nets sur chaque photo."
+                },
+                {
+                    "feature": "Finition Élégante et Finesse 9.1mm",
+                    "benefice": "Prise en main confortable avec un design moderne et stylé."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Color 8 est un smartphone moderne, élégant et performant. Cet appareil répond parfaitement aux attentes des utilisateurs exigeants en Côte d'Ivoire. Par ailleurs, la puce Unisoc Tiger T616 garantit une réactivité système très fluide. De plus, son écran de 6.75 pouces 90Hz offre une excellente immersion visuelle. Le capteur photo 50 Mégapixels capture des images d'une haute précision. Sa batterie solide de 6000 mAh permet d'utiliser votre téléphone sans crainte de batterie faible. En effet, sa finition soignée offre une prise en main très agréable. Enfin, vous profitez de vos applications avec une grande aisance.",
+        "sections": [
+            {
+                "h2_title": "Écran 90Hz Spacieux et Performances Octa-Core",
+                "paragraphs": [
+                    "Le Blackview Color 8 intègre un grand écran HD+ de 6.75 pouces. Son taux de rafraîchissement de 90 Hz apporte une grande fluidité lors du défilement des réseaux sociaux. De plus, la puce Unisoc Tiger T616 à huit cœurs cadencés à 2.0 GHz gère rapidement le multitâche. De surcroît, les 8 Go de mémoire RAM garantissent un lancement instantané de vos jeux et vidéos. Vous naviguez dans l'interface DokeOS 4.0 avec un confort constant. Les performances système restent stables tout au long de la journée.",
+                    "La mémoire interne de 128 Go ou 256 Go permet de conserver l'ensemble de vos applications et photos. La possibilité d'ajouter une carte MicroSD jusqu'à 1 To étend votre capacité de stockage. En effet, le triple emplacement accueille simultanément deux cartes SIM et une carte mémoire. La gestion des lignes professionnelles et personnelles devient ainsi très simple. Vos fichiers médias restent toujours accessibles."
+                ]
+            },
+            {
+                "h2_title": "Photographie 50 MP et Connectivité Moderne",
+                "paragraphs": [
+                    "Le Blackview Color 8 est équipé d'un appareil photo principal Samsung de 50 Mégapixels. Ce capteur de haute définition capture des clichés nets et lumineux en toute circonstance. En outre, la caméra selfie de 8 Mégapixels assure des portraits clairs et réussis. Les différents modes photos intégrés améliorent le rendu visuel de vos souvenirs. La vidéo en haute définition immortalise vos moments importants avec fidélité. La création de contenus multimédias devient très agréable.",
+                    "Par ailleurs, le module NFC multifonction simplifie vos paiements sécurisés sans contact. La connectivité Wi-Fi et Bluetooth 5.0 garantit une excellente stabilité de réseau sans fil. De plus, le lecteur d'empreintes digitales latéral déverrouille l'appareil en une fraction de seconde. La prise Jack 3.5 mm permet de brancher facilement vos écouteurs filaires préférés. En somme, cet équipement polyvalent réunit toutes les fonctions essentielles."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6000 mAh et Charge Rapide 18W",
+                "paragraphs": [
+                    "La batterie haute capacité de 6000 mAh assure une autonomie très confortable. Cet accumulateur vous permet d'enchaîner jusqu'à deux jours d'utilisation normale sans recharge. Le protocole de charge rapide 18W permet de faire le plein d'énergie en peu de temps. En effet, l'optimisation logicielle d'Android 13 limite la consommation d'énergie inutile en arrière-plan. Vous profitez de vos trajets à Abidjan sans crainte de coupure.",
+                    "La silhouette affinée de 9.1 mm confère au téléphone une belle allure en main. Son poids maîtrisé de 214 grammes permet un transport facile au quotidien. Le Blackview Color 8 constitue une opportunité très séduisante pour s'équiper avec style. En somme, son rapport qualité-prix en fait un produit extrêmement compétitif. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Color 8",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Color 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "167.8 x 77.4 x 9.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.214 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Design fluide avec dos mat antidérapant"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir, Or"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.75 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1600 x 720 pixels (260 ppi)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T616 (12 nm) Octa-Core 2.0 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go UFS 2.2 (extensible par MicroSD 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP Samsung ISOCELL JN1 (f/1.8)"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "6000 mAh"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 18W (USB-C)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 740 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 4.0"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/color-8-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    },
+    "colors": {
+        "default": "Bleu",
+        "standard": [
+            "Bleu",
+            "Noir",
+            "Violet"
+        ]
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-s-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab S11 5G conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab S Series",
+        "commercial_name": "Samsung Galaxy Tab S11 5G",
+        "category": "tablet",
+        "sub_category": "tablet-flagship",
+        "release_year": 2025,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-S11-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-S11-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-s11/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S11"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S11+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab S11 5G 11 pouces Dynamic AMOLED 2X 120Hz 8400mAh S Pen IP68 5G"
+    },
+    "key_specifications": {
+        "processor": "Puce Octa-Core Haute Performance 4nm",
+        "ram_extension": "RAM Plus jusqu'à 8 Go",
+        "audio_config": "4 Haut-parleurs stéréo AKG",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "8400 mAh",
+        "charging_wired": "Charge Rapide 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM + eSIM / Slot MicroSD jusqu'à 1.5 To",
+        "weight": "0.498 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-S11-5G",
+        "Name": "Samsung Galaxy Tab S11 - Écran 11\" Dynamic AMOLED 2X - (12 Go & 128 Go|256 Go|512 Go|2 To) - S Pen - IP68 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "590000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab S Series",
+        "Tags": "Samsung, Galaxy Tab S11 5G, Galaxy Tab S Series, Tablette, Tablette Android, 5G, Dynamic AMOLED 2X, 8400mAh, S-Pen, IP68, Galaxy Tab S11, 120Hz, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go, 2 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.498 kg",
+        "Attribute 4 default": "0.498 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, Wi-Fi 7, Bluetooth 5.4, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Excellence Nomade 11 Pouces Dynamic AMOLED 2X avec Stylet S Pen et 5G.",
+        "teaser": "Découvrez la Samsung Galaxy Tab S11 5G avec sa dalle compacte Dynamic AMOLED 2X de 11 pouces à 120 Hz, son stylet S Pen à faible latence, son processeur véloce et son étanchéité IP68.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Compact 11\" Dynamic AMOLED 2X (120 Hz)",
+                "benefice": "Maniabilité parfaite et fluidité tactile éclatante pour vos sessions mobiles"
+            },
+            {
+                "feature": "Stylet S Pen Magnétique Inclus",
+                "benefice": "Prise de notes cursive naturelle et dessin de haute précision sans accessoire additionnel"
+            },
+            {
+                "feature": "Puce 4nm Véloce & Connectivité 5G",
+                "benefice": "Exécution instantanée de vos applications bureautiques et transferts rapides"
+            },
+            {
+                "feature": "Châssis Aluminium Armor & Certification IP68",
+                "benefice": "Protection éprouvée contre la poussière et l'eau dans un format ultra-fin"
+            }
+        ],
+        "marketing_conclusion": "La tablette haut de gamme par excellence associant compacité 11 pouces, autonomie robuste et productivité de pointe.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab S11 à Abidjan | My-eStore",
+            "meta_description": "Commandez la Samsung Galaxy Tab S11 5G à Abidjan sur My-eStore. Écran 11\" AMOLED 120Hz, S Pen inclus, 8400 mAh, livraison express et garantie officielle.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab S11",
+                "Galaxy Tab S11 Abidjan",
+                "Galaxy Tab S11 prix",
+                "Tablette tactile Samsung 11 pouces"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab S11 : Écran 11\" AMOLED, S Pen et Batterie 8400 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab S11 5G : Écran 11\" & S Pen | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab S11 5G sur My-eStore. Écran 11\" AMOLED 120Hz, processeur puissant, S Pen inclus, batterie 8400 mAh et étanchéité IP68.",
+            "focus_keyword": "Samsung Galaxy Tab S11",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab S11 Abidjan",
+                "prix Samsung Galaxy Tab S11",
+                "fiche technique Tab S11",
+                "tablette 11 pouces Samsung",
+                "Galaxy Tab S11 256Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab S11",
+            "items": [
+                {
+                    "feature": "Dalle 11\" Dynamic AMOLED 2X",
+                    "benefice": "Contraste absolu et confort visuel avec traitement anti-reflet"
+                },
+                {
+                    "feature": "Stylet S Pen Magnétique Inclus",
+                    "benefice": "Précision millimétrique pour annoter vos documents et dessiner"
+                },
+                {
+                    "feature": "Batterie 8400 mAh & Charge 45W",
+                    "benefice": "Endurance continue tout au long de la journée pour vos usages nomades"
+                },
+                {
+                    "feature": "Châssis Aluminium Armor & Certification IP68",
+                    "benefice": "Protection contre l'eau et les poussières dans un poids plume de 498g"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab S11 réunit puissance et compacité au creux de votre main. Sa dalle de 11 pouces offre une clarté remarquable pour la lecture et les vidéos. De plus, son processeur de pointe assure une navigation fluide entre vos applications professionnelles. Le châssis en aluminium Armor protège efficacement la structure contre les chocs légers. Enfin, sa batterie de 8400 mAh garantit une autonomie confortable durant toute votre journée.",
+        "sections": [
+            {
+                "h2_title": "Format Compact 11 Pouces et Écran AMOLED 120Hz",
+                "paragraphs": [
+                    "D'un côté, le gabarit de onze pouces se tient confortablement d'une seule main pour lire vos documents. La technologie Dynamic AMOLED 2X délivre des couleurs intenses qui enrichissent chacun de vos visionnages. Le taux de rafraîchissement adaptatif de 120 Hz garantit une réactivité tactile très appréciable. Par ailleurs, la haute luminosité permet de consulter l'écran en extérieur sans plisser les yeux. Le poids plume de quatre cent quatre-vingt-dix-huit grammes facilite grandement son transport au quotidien. Vous profitez ainsi d'un appareil tactile très maniable adapté à tous vos déplacements.",
+                    "D'un autre côté, la certification IP68 protège intégralement l'appareil face aux éclaboussures d'eau accidentelles. Le châssis métallique en aluminium Armor préserve l'intégrité mécanique lors des transports fréquents en sacoche. L'épaisseur fine de cinq millimètres confère une allure soignée et discrète. En outre, la dalle tactile réagit instantanément aux gestes du doigt ou du stylet. Les haut-parleurs stéréo calibrés AKG diffusent des voix audibles et limpides pour vos appels vidéo. Ce modèle rassemble élégance contemporaine et solidité éprouvée pour vous suivre partout."
+                ]
+            },
+            {
+                "h2_title": "Stylet S Pen Créatif et Fonctions Bureautiques DeX",
+                "paragraphs": [
+                    "Tout d'abord, le stylet S Pen inclus se fixe directement sur la tranche magnétique pour être toujours disponible. Sa pointe de haute précision permet de griffonner des croquis ou d'annoter des fichiers PDF en quelques instants. Le mode Samsung DeX recrée une interface familière avec fenêtres multiples pour travailler comme sur un ordinateur classique. De surcroît, le multitâche fluide autorise l'ouverture de plusieurs logiciels simultanés sans ralentissement. Les algorithmes d'écriture manuscrite transforment instantanément vos notes cursives en texte soigné. Vous valorisez votre temps de travail grâce à des outils intuitifs.",
+                    "Dans cette optique, la caméra frontale grand-angle centre automatiquement votre visage pendant vos visioconférences professionnelles. Le système de réduction de bruit élimine les sons parasites environnants pour des discussions orales très nettes. La compatibilité avec les étuis claviers transforme la tablette en petit poste de saisie pratique. Également, la fonction de partage sans fil transfère instantanément vos dossiers vers vos autres équipements Samsung. Toutes vos notes se synchronisent automatiquement sur vos appareils personnels sans démarche laborieuse. Cet équipement polyvalent accompagne avec brio l'ensemble de vos projets."
+                ]
+            },
+            {
+                "h2_title": "Puce Énergétique et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, la puce gravée en quatre nanomètres gère avec souplesse vos applications bureautiques et jeux récents. La mémoire vive de douze gigaoctets évite tout temps de chargement superflu lors des basculements logiciels. L'espace de stockage interne accueille vos applications favorites, photos et cours numériques en toute simplicité. De même, la connectivité 5G assure des téléchargements rapides lors de vos rendez-vous extérieurs. Le capteur d'empreinte digitale intégré sous la dalle sécurise vos accès en une pression. Vous naviguez ainsi dans un espace numérique réactif et sécurisé.",
+                    "Enfin, l'accumulateur de 8400 mAh fournit l'énergie nécessaire pour franchir sereinement une longue journée de cours. Le bloc de charge rapide de 45 watts réduit grandement le temps d'immobilisation près d'une prise. La gestion logicielle optimise la consommation énergétique selon vos logiciels actifs en temps réel. Par conséquent, vous étudiez et travaillez en totale liberté tout au long de la journée. Les composants de fabrication ont été conçus pour offrir une grande longévité d'usage. La Galaxy Tab S11 constitue un choix pertinent associant mobilité et puissance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab S11",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab S11</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "253.8 x 165.3 x 5.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.498 kg (498 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre Gorilla Glass Armor, Dos et Cadre en Aluminium Armor"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68 (résistance à l'eau et à la poussière jusqu'à 1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Accessoire Inclus",
+                            "valeur": "Stylet S Pen magnétique à faible latence inclus"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X, HDR10+, Traitement Anti-reflet"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "11.0 pouces (27.81 cm), 2560 x 1600 pixels (WQXGA), 274 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Armor"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Processeur Octa-Core Haute Performance (Gravure 4nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go / 2 To UFS 4.0"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSD jusqu'à 1.5 To"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 avec One UI Tab & Samsung DeX"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "13 MP (Grand Angle), Flash LED, Vidéo 4K"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "12 MP (Ultra-Large 120°), Cadrage Automatique"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "4 Haut-parleurs stéréo AKG, Dolby Atmos, 3 Microphones"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "8400 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Rapide",
+                            "valeur": "Charge filaire rapide 45W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 15 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Emplacement Nano-SIM + support eSIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 7 (802.11be) tri-bande, Bluetooth 5.4, GPS, Galileo, Glonass, Beidou"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB-C 3.2 Gen 2 (sortie DisplayPort), Lecteur d'empreintes digitales sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-s11/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S11"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S11+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "590000",
+            "sku_suffix": "12-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "765000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "945000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "2 To",
+            "price": "1120000",
+            "sku_suffix": "12-GB-2-TB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "590000",
+            "sku_suffix": "12-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "765000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "945000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "2 To",
+            "price": "1120000",
+            "sku_suffix": "12-GB-2-TB-ARGENT"
+        }
+    ]
+}

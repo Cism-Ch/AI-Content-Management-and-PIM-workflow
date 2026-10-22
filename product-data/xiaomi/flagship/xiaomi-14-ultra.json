@@ -1,0 +1,372 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 14 Ultra conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 14 Ultra",
+        "category": "smartphone",
+        "sub_category": "ultimate-flagship",
+        "release_year": 2024,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-14-ULTRA",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-14-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+14+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+14+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone d'élite Xiaomi 14 Ultra équipé d'un capteur 1 pouce LYT-900 à ouverture variable, quadruple caméra Leica, écran WQHD+ 120Hz et Snapdragon 8 Gen 3."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge filaire 90W HyperCharge",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM)",
+        "weight": "0.219 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-14-ULTRA",
+        "Name": "Xiaomi 14 Ultra - Dual SIM - Écran 6.73\" 120Hz - (16 Go & 512 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "690000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 14 Ultra, Xiaomi Series, Smartphone, Android, 5G, Écran WQHD+, Optiques Leica, 5000mAh, Charge 90W, Snapdragon 8 Gen 3, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.219 kg",
+        "Attribute 4 default": "0.219 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "690000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "690000",
+            "sku_suffix": "16-GB-512-GB-BLANC"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Le Sommet Photographique Mobile avec Capteur 1 Pouce Leica et Snapdragon 8 Gen 3.",
+        "teaser": "Le smartphone d'élite photographique Xiaomi 14 Ultra intègre un capteur 1 pouce Sony LYT-900 à ouverture variable continue et quatre optiques Leica 50MP. Propulsé par la puce Snapdragon 8 Gen 3 et un écran WQHD+ 120Hz, il redéfinit l'art de l'image.",
+        "top_features_detailed": [
+            {
+                "feature": "Capteur 1\" Sony LYT-900 Leica",
+                "benefice": "Diaphragme mécanique réglable de f/1.63 à f/4.0 offrant une gestion optique précise de la lumière"
+            },
+            {
+                "feature": "Quadruple Module Leica 50MP",
+                "benefice": "Couverture focale continue de 12mm à 120mm avec deux téléobjectifs stabilisés OIS"
+            },
+            {
+                "feature": "Écran AMOLED WQHD+ 120Hz",
+                "benefice": "Dalle 6.73 pouces LTPO lumineuse culminant à 3000 nits protégée par le verre Xiaomi Shield Glass"
+            },
+            {
+                "feature": "HyperCharge 90W & Sans Fil 80W",
+                "benefice": "Accumulateur 5000 mAh avec alimentation filaire et sans fil ultra-rapide pour les créateurs nomades"
+            }
+        ],
+        "marketing_conclusion": "L'appareil photographique de niveau studio intégré dans un smartphone d'exception conçu pour les créateurs exigeants.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 14 Ultra (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi 14 Ultra à Abidjan chez My-eStore. Capteur 1\" Leica, quadruple 50MP, Snapdragon 8 Gen 3 et écran WQHD+ au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 14 Ultra 512 Go : Capteur 1\" Leica & WQHD+ | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 14 Ultra chez My-eStore. Capteur 1 pouce Sony LYT-900 Leica, puce Snapdragon 8 Gen 3, écran WQHD+ et charge 90W à Abidjan.",
+            "focus_keyword": "Xiaomi 14 Ultra",
+            "lsi_keywords": [
+                "Xiaomi 14 Ultra Abidjan",
+                "smartphone photophone Leica",
+                "prix Xiaomi 14 Ultra Côte d'Ivoire",
+                "Xiaomi 14 Ultra capteur 1 pouce",
+                "Xiaomi 14 Ultra fiche technique"
+            ]
+        },
+        "h1": "Xiaomi 14 Ultra : Capteur 1\" Leica LYT-900, Snapdragon 8 Gen 3 et Écran WQHD+",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 14 Ultra",
+            "items": [
+                {
+                    "feature": "Capteur 1\" Sony LYT-900",
+                    "benefice": "Grande surface sensible et diaphragme continu de f/1.63 à f/4.0 pour des textures ultra-détaillées"
+                },
+                {
+                    "feature": "Quadruple optique Leica 50MP",
+                    "benefice": "Quatre capteurs professionnels couvrant du grand-angle 12mm jusqu'au périscope 120mm"
+                },
+                {
+                    "feature": "Écran AMOLED WQHD+ LTPO",
+                    "benefice": "Dalle 6.73 pouces 120Hz garantissant une colorimétrie exacte pour l'étalonnage vidéo"
+                },
+                {
+                    "feature": "Batterie 5000 mAh & Charge 90W",
+                    "benefice": "Autonomie solide secondée par une recharge filaire rapide et sans fil d'élite à 80W"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi 14 Ultra incarne l'aboutissement contemporain de l'ingénierie photographique professionnelle mobile. Sa dalle AMOLED WQHD+ de 6.73 pouces procure une netteté visuelle constante avec des contrastes infinis. De plus, la fréquence adaptative de 120Hz optimise la fluidité globale lors de chaque opération tactile. Le processeur Snapdragon 8 Gen 3 traite les flux d'images brutes avec une vélocité informatique exemplaire. Enfin, son accumulateur de 5000 mAh avec charge 90W soutient sans faiblir vos tournages créatifs réguliers.",
+        "sections": [
+            {
+                "h2_title": "Un Écran AMOLED WQHD+ aux Couleurs Calibrées de 6.73 Pouces",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.73 pouces affiche une définition WQHD+ valorisant chaque nuance graphique haute résolution. En outre, la courbure harmonieuse des bordures combine le confort d'un verre incurvé et la précision plat. Le rétroéclairage adaptatif garantit des noirs profonds et des teintes équilibrées conformes aux normes professionnelles du cinéma. La fréquence dynamique variant de 1 à 120Hz s'ajuste instantanément pour préserver la réserve énergétique disponible. Par ailleurs, la luminosité grimpant à 3000 nits assure une lisibilité sans faille sous le soleil zénithal. Le système anti-scintillement avancé protège votre vision lors des séances prolongées de retouche en pénombre.",
+                    "D'autre part, le verre protecteur Xiaomi Shield Glass renforce nettement la résistance contre les chocs mécaniques. La prise en charge des protocoles Dolby Vision et HDR10+ délivre une dynamique visuelle d'une profondeur remarquable. L'étalonnage usine garantit une reproduction chromatique rigoureuse indispensable aux créateurs de contenus exigeants. Ainsi, vous visionnez vos montages vidéo et portfolios avec une justesse visuelle totalement conforme à la réalité. La réactivité tactile instantanée fluidifie vos retouches millimétrées sur les curseurs des logiciels graphiques spécialisés. Cet affichage soigné procure un confort de travail remarquable au creux de votre main."
+                ]
+            },
+            {
+                "h2_title": "Système Quad-Caméra Leica et Capteur Principal 1 Pouce LYT-900",
+                "paragraphs": [
+                    "Tout d'abord, le capteur principal Sony LYT-900 de 1 pouce capte une lumière abondante dans l'obscurité. Le diaphragme mécanique variable de f/1.63 à f/4.0 permet de moduler subtilement la profondeur de champ optique. Deux téléobjectifs Leica à stabilisation optique couvrent les focales de 75 millimètres et 120 millimètres avec brio. De surcroît, le capteur ultra grand-angle saisit des perspectives architecturales larges sans la moindre distorsion périphérique. Les signatures Leica Authentique et Vibrant confèrent une atmosphère artistique inimitable à l'ensemble de vos prises. L'enregistrement vidéo en 8K préserve la finesse des détails visuels sur toutes les plages focales disponibles.",
+                    "De ce fait, la puce Snapdragon 8 Gen 3 traite les fichiers volumineux avec une aisance remarquable. La mémoire vive de 16 Go autorise un traitement multitâche fluide entre les applications graphiques les plus lourdes. Le moteur Xiaomi AISP fusionne les informations brutes des capteurs en une fraction infime de seconde. Également, la dissipation thermique par boucle liquide refroidit efficacement le circuit lors des tournages intensifs. Le format de capture Ultra RAW 16 bits assure une latitude de retouche idéale en post-production créative. Cette puissance de calcul place un véritable studio de production audiovisuelle au creux de votre main."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Confortable de 5000 mAh et Châssis Renforcé IP68",
+                "paragraphs": [
+                    "D'abord, la batterie de 5000 mAh procure une réserve d'énergie stable pour vos journées de tournage intenses. La gestion logicielle intelligente restreint les déperditions lorsque l'appareil reste posé entre deux sessions vidéo. La recharge filaire HyperCharge 90W permet de restaurer l'intégralité de la batterie en seulement 33 minutes. De même, la charge sans fil d'élite montant à 80W simplifie l'alimentation sur votre bureau d'atelier. Les puces Xiaomi Surge protègent l'intégrité chimique des cellules contre les surtensions et l'échauffement prolongé. Vous conservez ainsi une disponibilité absolue pour saisir chaque moment sans craindre la panne sèche.",
+                    "Enfin, le châssis en alliage d'aluminium haute résistance garantit une solidité exemplaire face aux épreuves quotidiennes. La certification officielle IP68 assure une protection hermétique intégrale contre la poussière et les immersions accidentelles. Le revêtement dorsal en cuir végétalien nano-technologique repousse les salissures tout en garantissant un toucher sécurisant. Par conséquent, la connectivité 5G et le Wi-Fi 7 garantissent des transferts de rushes vidéo ultra-véloces. Les haut-parleurs stéréo certifiés Dolby Atmos délivrent une écoute spatiale précise pour contrôler vos bandes sonores. Le Xiaomi 14 Ultra représente le fleuron photographique par excellence associant prestige optique Leica et maîtrise absolue."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 14 Ultra - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "161.4 x 75.3 x 9.20 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "219 g (0.219 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en alliage d'aluminium haute résistance 6M42, dos en cuir végétalien nano-technologique"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Blanc (White)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 1.5m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "LTPO AMOLED, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.73 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "WQHD+ (3200 x 1440 pixels), 522 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "1 à 120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1000 nits (typique), 3000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 3 (4 nm, Octa-core jusqu'à 3.3 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 750"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Quadruple optique Leica : principal 50 MP LYT-900 1\" (f/1.63-f/4.0 variable, OIS) + téléobjectif 50 MP (75mm, f/1.8, OIS) + périscope 50 MP (120mm, f/2.5, OIS) + ultra grand-angle 50 MP (12mm, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, enregistrement 4K@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo doubles, Dolby Atmos, réseau 4 micros studio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 90W HyperCharge + charge sans fil 80W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 (DisplayPort, OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-14-ultra/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+14+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+14+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

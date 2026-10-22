@@ -1,0 +1,472 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Redmi Pad 2 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Pad Series",
+        "commercial_name": "Xiaomi Redmi Pad 2",
+        "category": "tablet",
+        "sub_category": "tablet-entry-midrange",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-PAD-2",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-PAD-2"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+2"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+2+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi Redmi Pad 2 10.61 pouces 2K 90Hz MediaTek Helio G99 batterie 8000 mAh audio Dolby Atmos."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 (6 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "8000 mAh",
+        "charging_wired": "Charge 18W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "microSDXC jusqu'à 1 To",
+        "weight": "0.445 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-PAD-2",
+        "Name": "Xiaomi Redmi Pad 2 - Écran 10.61\" 2K 90Hz - (4 Go|6 Go|8 Go & 128 Go|256 Go) - 8000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "135000",
+        "Categories": "Tablettes > Xiaomi > Redmi Pad",
+        "Tags": "Xiaomi, Redmi Pad 2, Redmi Pad Series, Tablette, Android, Écran 90Hz, Capteur 8MP, 8000mAh, Charge 18W, Helio G99, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris | Vert | Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go | 8 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.445 kg",
+        "Attribute 4 default": "0.445 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi 5",
+        "Attribute 5 default": "Wi-Fi 5",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "4-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "4-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Moonlight Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "4-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Moonlight Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "150000",
+            "sku_suffix": "6-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Moonlight Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "170000",
+            "sku_suffix": "8-GB-256-GB-ARGENT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Pad",
+        "teaser": "La tablette Xiaomi Redmi Pad 2 combine un écran 2K 90Hz de 10.61 pouces et une puce MediaTek Helio G99 véloce. Sa généreuse batterie de 8000 mAh garantit une autonomie prolongée au quotidien, accompagnée de quatre haut-parleurs stéréo Dolby Atmos.",
+        "top_features_detailed": [
+            {
+                "label": "Écran 10.61\" 2K 90Hz",
+                "detail": "Affichage précis de 2000 x 1200 pixels avec rafraîchissement adaptatif pour un confort visuel optimal."
+            },
+            {
+                "label": "Processeur MediaTek Helio G99",
+                "detail": "Architecture 6 nm fluide et économe dédiée à la navigation, aux cours en ligne et à la bureautique."
+            },
+            {
+                "label": "Batterie Durable 8000 mAh",
+                "detail": "Autonomie étendue sur plusieurs jours avec charge filaire de 18W pour un usage familial serein."
+            },
+            {
+                "label": "Quatre Haut-Parleurs Stéréo",
+                "detail": "Immersion sonore Dolby Atmos offrant un son clair et spatialisé lors de vos lectures multimédias."
+            }
+        ],
+        "marketing_conclusion": "La tablette familiale polyvalente combinant écran 2K 90Hz, processeur Helio G99 et batterie 8000 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Pad 2 à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Redmi Pad 2 à Abidjan chez My-eStore. Écran 10.61 pouces 2K 90Hz, MediaTek Helio G99 et batterie 8000 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Redmi Pad 2",
+            "lsi_keywords": [
+                "tablette Xiaomi 90Hz",
+                "écran 2K 10.61 pouces",
+                "MediaTek Helio G99",
+                "batterie 8000 mAh",
+                "Dolby Atmos tablette"
+            ],
+            "meta_title": "Xiaomi Redmi Pad 2 128 Go : Écran 2K 90Hz & Helio G99 | My-eStore",
+            "meta_description": "Découvrez la Xiaomi Redmi Pad 2 avec écran 10.61 pouces 2K 90Hz, processeur Helio G99 et batterie 8000 mAh. Caractéristiques complètes chez My-eStore."
+        },
+        "h1": "Xiaomi Redmi Pad 2 : Écran 10.61\" 90Hz, Processeur Helio G99 et Batterie 8000 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI REDMI PAD 2",
+            "items": [
+                {
+                    "feature": "Écran 10.61\" 2K 90Hz",
+                    "benefice": "Défilement fluide et grand confort de lecture sur les pages web."
+                },
+                {
+                    "feature": "Puce MediaTek Helio G99",
+                    "benefice": "Exécution rapide des applications scolaires et bureautiques sans surchauffe."
+                },
+                {
+                    "feature": "Batterie 8000 mAh",
+                    "benefice": "Disponibilité prolongée pour le streaming vidéo et les cours à distance."
+                },
+                {
+                    "feature": "Quatre Haut-Parleurs Stéréo",
+                    "benefice": "Restitution sonore claire et enveloppante avec traitement Dolby Atmos."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Redmi Pad 2 répond aux exigences du divertissement familial et du travail nomade. Cet équipement propose un affichage de 10.61 pouces en définition 2K particulièrement agréable. En effet, sa dalle lumineuse intègre un taux de rafraîchissement fluide de 90Hz. De plus, le processeur MediaTek Helio G99 exécute les applications courantes sans aucun ralentissement. Ainsi, ce modèle polyvalent accompagne sereinement tous les membres du foyer au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Design en Métal Épuré et Écran IPS 2K 90Hz",
+                "paragraphs": [
+                    "Le boîtier en alliage d'aluminium de la Xiaomi Redmi Pad 2 affiche des finitions soignées. Son profil affiné de 7.1 millimètres facilite une tenue en main agréable et naturelle. Le poids modéré de 445 grammes autorise un transport commode dans un sac d'école. Par ailleurs, la coque métallique assure une protection durable contre les chocs du transport. La texture satinée limite l'apparition de traces visibles lors des manipulations familiales régulières. En outre, les bordures symétriques offrent une préhension confortable sans empiéter sur l'affichage.",
+                    "La surface d'affichage adopte une diagonale de 10.61 pouces appréciable pour la lecture. Ce format équilibré procure un confort réel lors de la consultation de cours scolaires. D'ailleurs, la définition de 2000 par 1200 pixels restitue les caractères avec netteté. La fréquence dynamique de 90Hz fluidifie chaque défilement sur les pages de révision. Le filtre anti-scintillement atténue la fatigue oculaire lors des séances de travail prolongées. Enfin, le niveau de luminosité autorise une lecture agréable dans toutes les pièces éclairées."
+                ]
+            },
+            {
+                "h2_title": "Performances du Processeur Helio G99 et Fluidité Logicielle",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G99 gravé en 6 nanomètres développe une puissance très équilibrée. Son architecture octa-core gère les flux bureautiques et éducatifs avec une cadence soutenue. En effet, la puce graphique Mali-G57 stabilise l'affichage des jeux récréatifs les plus populaires. La mémoire vive dynamique soutient le passage continu d'un traitement de texte au navigateur. L'utilisateur navigue au sein de ses dossiers sans subir d'attente lors des transitions. De plus, l'optimisation énergétique limite la surchauffe thermique durant les phases d'utilisation prolongée.",
+                    "La mémoire flash interne conserve l'ensemble des manuels numériques et documents d'étude. Les cadences de transfert accélèrent l'ouverture des présentations et des fichiers vidéo éducatifs. Par conséquent, la gestion de gros volumes documentaires s'exécute avec une grande régularité. L'interface logicielle Xiaomi HyperOS organise l'affichage multifenêtre de manière claire et instinctive. La répartition des calculs en arrière-plan préserve la réactivité des outils pédagogiques actifs. Ainsi, l'expérience logicielle globale conserve une constance appréciable au fil des mois d'usage."
+                ]
+            },
+            {
+                "h2_title": "Multimédia Immersif, Audio Dolby Atmos et Autonomie de 8000 mAh",
+                "paragraphs": [
+                    "La tablette intègre quatre haut-parleurs stéréo répartis sur les tranches latérales du boîtier. Cette configuration acoustique délivre un son équilibré avec des fréquences vocales très distinctes. De surcroît, le décodage Dolby Atmos rehausse l'immersion sonore pendant vos séances vidéo. La caméra frontale de 8 mégapixels cadre proprement vos cours en visioconférence distante. Le capteur arrière de 8 mégapixels numérise facilement devoirs écrits et schémas d'apprentissage. En conséquence, vos échanges scolaires et professionnels s'organisent avec une clarté exemplaire.",
+                    "L'accumulateur haute capacité de 8000 mAh confère à l'appareil une autonomie de plusieurs jours. Vous suivez vos sessions d'apprentissage sans emporter constamment votre adaptateur secteur d'origine. Grâce au port USB Type-C, le rechargement s'effectue simplement sur n'importe quelle borne. Cette facilité d'alimentation autorise une utilisation nomade sereine lors de chaque déplacement. La puce Wi-Fi bi-bande maintient une connexion stable sur tous les réseaux domestiques. Enfin, le lecteur de carte mémoire autorise l'extension du stockage selon vos besoins."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Redmi Pad 2",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Redmi Pad 2."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "250.4 x 158.0 x 7.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.445 kg (445 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, châssis monocoque en alliage d'aluminium"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Graphite Gray), Vert (Mint Green), Argent (Moonlight Silver)"
+                        },
+                        {
+                            "label": "Conception",
+                            "valeur": "Format monobloc fin et bordures symétriques"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, 1 milliard de couleurs"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "10.61 pouces (~80.9% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "2K (1200 x 2000 pixels), ratio 5:3, ~220 ppp"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "400 nits (typique)"
+                        },
+                        {
+                            "label": "Protection Oculaire",
+                            "valeur": "Certification TÜV Rheinland faible lumière bleue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G99 (Gravure 6 nm TSMC)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go, 6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Slot microSDXC dédié jusqu'à 1 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "8 MP, f/2.0, autofocus AF"
+                        },
+                        {
+                            "label": "Fonctionnalités Caméra",
+                            "valeur": "HDR, mode document, panorama"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "8 MP, f/2.3, ultra grand-angle 105° avec FocusFrame"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Multimédia",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo symétriques"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, certification Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Non (audio via port USB Type-C ou sans fil)"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "2 microphones intégrés avec réduction de bruit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "8000 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge rapide 18W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 avec fonction OTG"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac) bi-bande 2.4 GHz et 5 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3, A2DP, LE"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Accéléromètre, capteur de lumière ambiante, capteur Hall"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android avec interface MIUI / HyperOS pour tablette"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+2"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+2+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Active 12 Pro",
+        "generation_date": "2026-07-29"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/active-12-pro-5g-price"
+            }
+        ],
+        "pricing_reference": "350000",
+        "official_sku": "BV-ACTIVE-12-PRO"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 8020 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.6 GHz",
+        "screen_size": "11.0 pouces",
+        "screen_technology": "2.4K IPS LCD 120Hz Corning Gorilla Glass 5",
+        "screen_resolution": "2000 x 1200 pixels",
+        "battery_capacity": "30000 mAh",
+        "ram_options": [
+            "12 Go",
+            "16 Go"
+        ],
+        "storage_options": [
+            "256 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible jusqu'à 32 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "108 MP (Samsung ISOCELL HM6) + Caméra Vision Nocturne 20 MP",
+        "camera_selfie": "32 MP HD",
+        "audio_config": "Quatre Haut-parleurs Stéréo Harman Kardon",
+        "audio_tech": "Son Harman Kardon & Réduction de bruit",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 5G / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 33W USB-C & Charge inversée 10W",
+        "dimensions": "267.7 x 179 x 28.3 mm",
+        "weight": "1.522 kg",
+        "colors_available": [
+            "Noir"
+        ],
+        "colors_en": [
+            "Black"
+        ]
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ACTIVE-12-PRO-MASTER",
+        "Name": "Blackview Active 12 Pro 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "350000",
+        "Categories": "Tablettes > Blackview > Active Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Active 12 Pro, Tablette Incassable 5G, 30000mAh, 108MP, 1TB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.522 kg",
+        "Attribute 4 default": "1.522 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "paired_variants": [
+        {
+            "ram": "12 Go",
+            "rom": "256 Go",
+            "color": "Noir"
+        },
+        {
+            "ram": "16 Go",
+            "rom": "1 To",
+            "color": "Noir"
+        }
+    ],
+    "short_description": {
+        "title_format": "Blackview Active 12 Pro 5G : Tablette Incassable 11\" 2.4K 120Hz 108 MP 30000 mAh 1 To",
+        "brand_line": "La tablette incassable 5G la plus endurante au monde Blackview avec batterie 30000 mAh et 1 To de stockage.",
+        "marketing_conclusion": "Commandez la Blackview Active 12 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Active 12 Pro 5G combine un écran 11 pouces 2.4K à 120 Hz, une batterie impressionnante de 30000 mAh, un capteur photo de 108 MP et jusqu'à 1 To de stockage.",
+        "features": [
+            {
+                "feature": "Batterie Gigantesque de 30000 mAh",
+                "benefice": "Autonomie de plusieurs semaines sur les chantiers isolés."
+            },
+            {
+                "feature": "Normes Blindées IP68 & IP69K & MIL-STD",
+                "benefice": "Résistance intégrale contre l'eau, les chocs et la poussière."
+            },
+            {
+                "feature": "Caméra 108 MP & Vision Nocturne 20 MP",
+                "benefice": "Prises de vue nettes même dans l'obscurité totale."
+            },
+            {
+                "feature": "Puce Dimensity 8020 5G & 1 To",
+                "benefice": "Puissance de calcul fluide et stockage illimité."
+            }
+        ],
+        "slogan_final": "Blackview Active 12 Pro — L'endurance extrême sans aucune limite.",
+        "seo": {
+            "meta_title": "Acheter Blackview Active 12 Pro 5G (16Go/1To) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette incassable 5G Blackview Active 12 Pro avec batterie 30000 mAh, caméra 108 MP et stockage 1 To. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Active 12 Pro, tablette incassable 5G, prix Abidjan, 30000mAh 1To 108MP"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Active 12 Pro",
+            "lsi_keywords": [
+                "Blackview Active 12 Pro",
+                "tablette incassable 30000 mAh Blackview Abidjan",
+                "Blackview Active 12 Pro prix",
+                "tablette chantier 1 To 5G",
+                "tablette vision nocturne 108 MP",
+                "tablette durcie Côte d'Ivoire",
+                "achat tablette Active 12 Pro Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Active 12 Pro 5G 1 To : 30000 mAh & 108 MP | My-eStore",
+            "meta_description": "Achetez la tablette incassable 5G Blackview Active 12 Pro. Écran 11\" 2.4K 120Hz, batterie 30000 mAh, caméra 108 MP et stockage 1 To. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Active 12 Pro : Spécifications de la Tablette Incassable 30000 mAh",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA TABLETTE ULTIMATE ROBUSTE",
+            "items": [
+                {
+                    "feature": "Réservoir d'Énergie de 30000 mAh",
+                    "benefice": "Inépuisable autonomie de terrain pendant plusieurs semaines."
+                },
+                {
+                    "feature": "Capteur Photo 108 MP & Infrarouge",
+                    "benefice": "Prises de vue nettes de jour comme de nuit."
+                },
+                {
+                    "feature": "Blindage Certifié IP68 & MIL-STD-810H",
+                    "benefice": "Protection absolue contre les immersions et chutes."
+                },
+                {
+                    "feature": "Puce 5G Rapide Dimensity 8020",
+                    "benefice": "Fluidité réseau et calculs complexes sans latence."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Active 12 Pro est une tablette incassable 5G particulièrement robuste et performante. Cet équipement convient très bien aux ingénieurs du bâtiment et aventuriers en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 11.0 pouces en définition 2.4K offre une lisibilité visuelle très claire. De plus, son verre Gorilla Glass 5 gère très bien les chutes accidentelles. La batterie gigantesque de 30000 mAh permet de travailler en toute sérénité sans interruption. Son boîtier blindé de 28.3 mm gagne une prise en main très sûre. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à vos dossiers. Enfin, cette tablette durcie constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 11.0 Pouces 2.4K et Puce Dimensity 8020 5G",
+                "paragraphs": [
+                    "La Blackview Active 12 Pro intègre une grande dalle IPS de 11.0 pouces en définition 2.4K. Sa résolution de 2000 x 1200 pixels restitue des détails d'une clarté impressionnante. De plus, le taux de rafraîchissement de 120 Hz apporte une fluidité constante lors du défilement. De surcroît, le processeur Dimensity 8020 à huit cœurs cadencés à 2.6 GHz gère facilement vos logiciels. Les 16 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go ou 1 To conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 5G pour une connectivité réseau constante. Cette conception blindée protège le téléphone en toutes circonstances. Vos applications de chantier restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 108 MP, Vision Nocturne et Son Harman Kardon",
+                "paragraphs": [
+                    "La Blackview Active 12 Pro embarque un capteur photo principal de 108 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté en extérieur. En outre, la caméra nocturne infrarouge de 20 Mégapixels s'avère très pratique dans le noir complet. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, les quatre haut-parleurs stéréo Harman Kardon immortalisent vos échanges multimédias. La précision sonore reste constante.",
+                    "Par ailleurs, la puce NFC multifonction gère simplement vos paiements rapides sans contact. De plus, la lampe torche LED ultra-puissante éclaire vos chantiers nocturnes. Également, le récepteur GPS quadruples réseaux assure un guidage très précis lors de vos déplacements. De surcroît, la poignée de maintien en cuir incluse facilite le transport à une main. En somme, cette tablette durcie réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 30000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 30000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet d'utiliser l'appareil pendant un mois en veille. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour refaire le plein efficacement. En effet, la fonction de charge inversée 10W permet d'alimenter vos ordinateurs et smartphones. Vos activités de terrain se poursuivent sans interruption.",
+                    "La silhouette blindée offre une tenue en main robuste et très résistante aux chocs extrêmes. Son poids de 1.522 kg témoigne du blindage complet et de l'accumulateur. D'autre part, la Blackview Active 12 Pro constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa batterie de 30000 mAh en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Active 12 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la tablette incassable Blackview Active 12 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Robustesse",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "267.7 x 179 x 28.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.522 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68 & IP69K & MIL-STD-810H (Étanche à 1.5m et antichoc)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "11.0 pouces IPS LCD 2.4K"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz Smart-Display"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2000 x 1200 pixels"
+                        },
+                        {
+                            "label": "Verre de protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Dimensity 8020 Octa-Core 2.6 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G77 MC9"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR4X (+16 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 1 To UFS 3.1 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vision Nocturne",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "108 MP (Samsung ISOCELL HM6, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra vision nocturne",
+                            "valeur": "20 MP IR Infrarouge avec 2 LED IR"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Quatre haut-parleurs stéréo réglés par Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge Inversée",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "30000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB Type-C)"
+                        },
+                        {
+                            "label": "Powerbank inversée",
+                            "valeur": "Oui (10W filaire pour recharger d'autres téléphones et PC)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G NR / 4G LTE / 3G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 6 (802.11 ax), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/active-12-pro-5g-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

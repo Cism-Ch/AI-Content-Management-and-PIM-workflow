@@ -1,0 +1,418 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-s-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab S12 Ultra conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab S Series",
+        "commercial_name": "Samsung Galaxy Tab S12 Ultra",
+        "category": "tablet",
+        "sub_category": "tablet-flagship",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-S12-ULTRA",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-S12-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12-ultra/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S12+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S12+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab S12 Ultra 14.6 pouces Dynamic AMOLED 2X 120Hz 11600mAh S Pen IP68"
+    },
+    "key_specifications": {
+        "processor": "Puce Octa-Core 3nm Haute Performance",
+        "ram_extension": "RAM Plus jusqu'à 8 Go",
+        "audio_config": "4 Haut-parleurs stéréo AKG",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "11600 mAh",
+        "charging_wired": "Charge Rapide 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM + eSIM / Slot MicroSD jusqu'à 1.5 To",
+        "weight": "0.692 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-S12-ULTRA",
+        "Name": "Samsung Galaxy Tab S12 Ultra - Écran 14.6\" Dynamic AMOLED 2X - (12 Go|16 Go & 128 Go|256 Go|512 Go|1 To) - S Pen - IP68",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "890000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab S Series",
+        "Tags": "Samsung, Galaxy Tab S12 Ultra, Galaxy Tab S Series, Tablette, Tablette Android, 5G, Dynamic AMOLED 2X, 11600mAh, S-Pen, IP68, 120Hz, S Pen, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go, 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.692 kg",
+        "Attribute 4 default": "0.692 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, Wi-Fi 7, Bluetooth 5.4, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Espace Visuel Immersif de 14.6 Pouces avec Stylet S Pen Inclus et Puce Haute Performance.",
+        "teaser": "Découvrez la Samsung Galaxy Tab S12 Ultra avec son écran géant Dynamic AMOLED 2X de 14.6 pouces à 120 Hz, son stylet S Pen à faible latence, sa batterie de 11600 mAh et sa certification IP68.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Géant 14.6\" Dynamic AMOLED 2X (120 Hz)",
+                "benefice": "Confort visuel grandiose pour le multitâche professionnel et la création graphique"
+            },
+            {
+                "feature": "Stylet S Pen Inclus à Faible Latence",
+                "benefice": "Prise de notes naturelle et dessin de haute précision sans accessoire supplémentaire"
+            },
+            {
+                "feature": "Batterie Massive 11600 mAh & Charge 45W",
+                "benefice": "Autonomie continue pour toute votre journée de travail intensif en déplacement"
+            },
+            {
+                "feature": "Châssis Aluminium Armor & Étanchéité IP68",
+                "benefice": "Protection éprouvée contre la poussière et l'eau pour une durabilité renforcée"
+            }
+        ],
+        "marketing_conclusion": "La tablette tactile haut de gamme combinant productivité professionnelle, créativité sans limite et puissance multitâche sous Android.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab S12 Ultra à Abidjan | My-eStore",
+            "meta_description": "Achetez la tablette Samsung Galaxy Tab S12 Ultra à Abidjan chez My-eStore. Écran 14.6\" AMOLED 120Hz, S Pen inclus, 11600 mAh, livraison rapide.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab S12 Ultra",
+                "Galaxy Tab S12 Ultra Abidjan",
+                "Galaxy Tab S12 Ultra prix",
+                "Tablette tactile Samsung 14 pouces"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab S12 Ultra : Écran 14.6\" AMOLED, S Pen et Batterie 11600 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab S12 Ultra : Écran 14.6\" & S Pen | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab S12 Ultra sur My-eStore. Écran 14.6\" AMOLED 120Hz, puce 3nm, S Pen inclus, batterie 11600 mAh et étanchéité IP68.",
+            "focus_keyword": "Samsung Galaxy Tab S12 Ultra",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab S12 Ultra Abidjan",
+                "prix Samsung Galaxy Tab S12 Ultra",
+                "fiche technique Tab S12 Ultra",
+                "tablette 14 pouces Samsung",
+                "Galaxy Tab S12 Ultra 512Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab S12 Ultra",
+            "items": [
+                {
+                    "feature": "Dalle Géante 14.6\" Dynamic AMOLED 2X",
+                    "benefice": "Immersion visuelle totale et affichage fluide à 120 Hz anti-reflet"
+                },
+                {
+                    "feature": "Stylet S Pen Magnétique Inclus",
+                    "benefice": "Précision millimétrique pour le dessin et la prise de notes manuscrites"
+                },
+                {
+                    "feature": "Batterie Haute Capacité 11600 mAh",
+                    "benefice": "Endurance longue durée soutenue par une recharge rapide filaire 45W"
+                },
+                {
+                    "feature": "Châssis Renforcé et Certification IP68",
+                    "benefice": "Résistance certifiée à l'eau et à la poussière pour un usage mobile serein"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab S12 Ultra transforme votre façon de travailler avec sa dalle de 14.6 pouces. Cet affichage Dynamic AMOLED 2X délivre des contrastes saisissants pour vos projets visuels. De plus, sa puce de dernière génération exécute vos applications professionnelles avec une grande fluidité. Le boîtier en aluminium Armor protège efficacement la tablette contre les chocs légers. Enfin, sa batterie de 11600 mAh garantit une disponibilité durable tout au long de vos déplacements.",
+        "sections": [
+            {
+                "h2_title": "Affichage Monumental et Conception Renforcée",
+                "paragraphs": [
+                    "D'un côté, l'écran de quatorze virgule six pouces offre un espace de travail comparable à un ordinateur portable moderne. La technologie Dynamic AMOLED 2X restitue des couleurs éclatantes pour enrichir vos montages vidéo et présentations graphiques. Le taux de rafraîchissement de 120 Hz assure une navigation tactile d'une grande douceur. Par ailleurs, le traitement anti-reflet réduit la fatigue oculaire lors des sessions de lecture prolongées sous forte lumière. Les bordures ultra-fines maximisent l'immersion visuelle lors du visionnage de contenus multimédias. Vous bénéficiez ainsi d'une surface d'affichage spacieuse et confortable pour toutes vos tâches.",
+                    "D'un autre côté, le châssis en aluminium Armor garantit une rigidité structurelle rassurante face aux manipulations quotidiennes. La certification IP68 protège l'appareil contre les éclaboussures d'eau et les infiltrations de poussière fine. Le profil très mince de cinq millimètres facilite la prise en main malgré les dimensions généreuses du produit. En outre, le système de quatre haut-parleurs stéréo calibrés délivre un rendu sonore spatial équilibré. Les finitions métalliques brossées confèrent une élégance sobre adaptée à tous les environnements de travail. Ce modèle allie compacité mécanique et résistance pour accompagner vos journées professionnelles."
+                ]
+            },
+            {
+                "h2_title": "Stylet S Pen Intelligent et Productivité DeX",
+                "paragraphs": [
+                    "Tout d'abord, le stylet S Pen fourni se fixe magnétiquement au dos de la tablette pour se recharger automatiquement. Sa pointe fine de zéro virgule sept millimètre retranscrit vos tracés avec une fidélité digne d'un crayon traditionnel. Le mode Samsung DeX transforme instantanément l'interface pour organiser vos fenêtres comme sur un poste bureautique. De surcroît, le multitâche permet d'afficher jusqu'à trois applications simultanément sans ralentissement perceptible. Les outils d'intelligence artificielle convertissent vos notes manuscrites en texte dactylographié d'un simple geste. Vous organisez votre travail avec une méthode efficace et intuitive.",
+                    "Dans cette optique, les deux caméras frontales avec cadrage automatique centrent bien votre visage lors des visioconférences. La tablette filtre automatiquement les bruits ambiants pour restituer votre voix avec une grande clarté. La compatibilité avec les claviers magnétiques optionnels transforme l'appareil en véritable station bureautique nomade. Également, le partage rapide facilite le transfert instantané de vos fichiers volumineux vers vos autres appareils. Toutes vos créations se synchronisent sur vos espaces de stockage sécurisés sans manipulation complexe. Cet outil polyvalent soutient efficacement l'ensemble de vos projets créatifs."
+                ]
+            },
+            {
+                "h2_title": "Puce Puissante et Batterie Longue Durée",
+                "paragraphs": [
+                    "D'abord, le processeur haut de gamme gère le calcul lourd et le multitâche intensif sans chauffer excessivement. Les configurations allant jusqu'à seize gigaoctets de mémoire vive soutiennent l'ouverture instantanée de vos gros fichiers. L'espace de stockage généreux pouvant atteindre un téraoctet accueille vos documents professionnels et bibliothèques de médias. De même, la connectivité 5G et Wi-Fi 7 garantit des téléchargements très rapides même sur les réseaux encombrés. Le lecteur d'empreintes sous l'écran sécurise vos données professionnelles avec une grande fiabilité. Vous accédez à votre espace de travail en toute sérénité.",
+                    "Enfin, la batterie massive de 11600 mAh fournit l'énergie nécessaire pour franchir sans encombre une longue journée active. La technologie de charge rapide de 45 watts permet de retrouver rapidement un niveau d'énergie suffisant. Le gestionnaire thermique interne maintient des performances stables même lors de calculs graphiques soutenus. Par conséquent, vous conservez une productivité constante sans dépendre constamment d'une prise murale. Les composants de pointe ont été testés pour durer au fil des années d'usage intensif. La Galaxy Tab S12 Ultra représente une référence de la technologie mobile grand format."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab S12 Ultra",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab S12 Ultra</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "326.3 x 208.5 x 5.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.692 kg (692 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en Verre Gorilla Glass Victus 2, Châssis et Dos en Aluminium Armor"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68 (résistance à l'eau et à la poussière jusqu'à 1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Accessoire Inclus",
+                            "valeur": "Stylet S Pen magnétique à faible latence (inclus dans la boîte)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X, HDR10+, Traitement Anti-reflet"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "14.6 pouces (37.08 cm), 2960 x 1848 pixels (WQXGA+), 239 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Processeur Octa-Core Haute Performance (Gravure 3nm / 4nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go / 16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go / 1 To UFS 4.0"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSD jusqu'à 1.5 To"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 16 avec interface One UI Tab & Samsung DeX"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "Double capteur : 13 MP (Grand Angle) + 8 MP (Ultra Grand Angle), Flash LED, Vidéo 4K"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "Double capteur selfie : 12 MP (Large) + 12 MP (Ultra-Large 120°), Cadrage Automatique"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "4 Haut-parleurs stéréo AKG, Dolby Atmos, 3 Microphones avec réduction de bruit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "11600 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Rapide",
+                            "valeur": "Charge filaire rapide 45W (câble USB-C inclus)"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 16 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Emplacement Nano-SIM + support eSIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 7 (802.11be) tri-bande, Bluetooth 5.4, GPS, Galileo, Glonass, Beidou"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB-C 3.2 Gen 2 (sortie DisplayPort), Lecteur d'empreintes digitales sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12-ultra/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S12+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S12+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "890000",
+            "sku_suffix": "12-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1155000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1425000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "1690000",
+            "sku_suffix": "16-GB-1-TB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "890000",
+            "sku_suffix": "12-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1155000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1425000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "1690000",
+            "sku_suffix": "16-GB-1-TB-ARGENT"
+        }
+    ]
+}

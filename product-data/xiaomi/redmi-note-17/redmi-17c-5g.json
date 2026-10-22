@@ -1,0 +1,408 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-17-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Redmi 17C 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Series",
+        "commercial_name": "Redmi 17C 5G",
+        "category": "smartphone",
+        "sub_category": "entry-5g-smartphone",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-17C-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-17C-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/redmi-17c-5g/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Redmi+17C+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Redmi+17C+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G d'entrée de gamme Redmi 17C 5G avec grand écran 6.99 pouces, processeur Dimensity 6300 et batterie 6000 mAh."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 6300 (6 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleur mono puissant",
+        "audio_tech": "Certification Hi-Res Audio",
+        "battery_capacity": "6000 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "MicroSDXC (emplacement dédié)",
+        "weight": "0.211 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-17C-5G",
+        "Name": "Redmi 17C 5G - Dual SIM - Écran 6.99\" 120Hz - (4 Go & 64 Go|128 Go) - 6000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "85000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi 17C 5G, Redmi Series, Smartphone, Android, 5G, Écran 120Hz, Capteur 50MP, 6000mAh, Charge 33W, Dimensity 6300, IP64, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Marron | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.211 kg",
+        "Attribute 4 default": "0.211 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "85000",
+            "sku_suffix": "4-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Marron",
+            "color_en": "Brown",
+            "color_code": "MARRON",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "85000",
+            "sku_suffix": "4-GB-64-GB-MARRON"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "85000",
+            "sku_suffix": "4-GB-64-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "95000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Marron",
+            "color_en": "Brown",
+            "color_code": "MARRON",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "95000",
+            "sku_suffix": "4-GB-128-GB-MARRON"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "95000",
+            "sku_suffix": "4-GB-128-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi 17C",
+        "teaser": "Le smartphone abordable Xiaomi Redmi 17C 5G met la vitesse 5G à la portée de tous avec sa puce Dimensity 6300 et son écran 6.99 pouces. Accompagné d'une batterie fiable de 6000 mAh et d'une charge 33W, il propose une expérience quotidienne équilibrée.",
+        "top_features_detailed": [
+            {
+                "label": "Écran Élargi 6.99\" 120Hz",
+                "detail": "Grand confort de consultation avec un rafraîchissement tactile fluide."
+            },
+            {
+                "label": "Puce MediaTek Dimensity 6300",
+                "detail": "Connectivité 5G rapide pour naviguer et télécharger en toute simplicité."
+            },
+            {
+                "label": "Batterie Durable 6000 mAh",
+                "detail": "Autonomie importante permettant d'utiliser le téléphone durant deux jours."
+            },
+            {
+                "label": "Capteur Photo 50 MP",
+                "detail": "Clichés lumineux et naturels pour vos partages sur vos réseaux sociaux."
+            }
+        ],
+        "marketing_conclusion": "La 5G accessible à tous associant autonomie de 6000 mAh, grand écran de 6.99 pouces et charge 33W.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi 17C 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi 17C 5G chez My-eStore. Écran 6.99\" 120Hz, puce Dimensity 6300 5G et batterie 6000 mAh au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi 17C 5G : Dimensity 6300 & 6000 mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi 17C 5G chez My-eStore. Écran 6.99\" 120Hz, batterie 6000 mAh et connectivité Dimensity 6300 5G au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi 17C 5G",
+            "lsi_keywords": [
+                "Xiaomi Redmi 17C 5G Abidjan",
+                "Redmi 17C 5G prix Abidjan",
+                "smartphone 5G 6000 mAh",
+                "Dimensity 6300 Xiaomi pas cher",
+                "Redmi 17C 5G grand écran"
+            ]
+        },
+        "h1": "Redmi 17C 5G : Dimensity 6300, Écran 6.99\" 120Hz et Batterie 6000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi 17C 5G",
+            "items": [
+                {
+                    "feature": "Grand écran 6.99 pouces",
+                    "benefice": "Dalle spacieuse 120Hz facilitant le visionnage de vidéos et la navigation"
+                },
+                {
+                    "feature": "Connectivité 5G moderne",
+                    "benefice": "Puce Dimensity 6300 fluide pour vos téléchargements rapides"
+                },
+                {
+                    "feature": "Batterie 6000 mAh",
+                    "benefice": "Autonomie solide évitant les recharges fréquentes au cours de la semaine"
+                },
+                {
+                    "feature": "Recharge rapide 33W",
+                    "benefice": "Alimentation efficace pour récupérer plusieurs heures d'usage en peu de temps"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi 17C 5G rend le très haut débit cellulaire accessible à tous les budgets. En effet, sa puce MediaTek Dimensity 6300 procure une connectivité 5G fluide et très stable au quotidien. Sa grande dalle de 6.99 pouces rafraîchie à 120Hz assure ainsi une lecture visuelle particulièrement reposante. De plus, la batterie généreuse de 6000 mAh élimine toute anxiété liée à la panne sèche. Cet ensemble technique équilibré répond aux besoins concrets des jeunes actifs et des familles à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran Confortable de 6.99 Pouces et Châssis Résistant IP64",
+                "paragraphs": [
+                    "La surface d'affichage étendue de 6.99 pouces met en valeur vos messageries et vidéos en streaming. Sa luminosité renforcée autorise ainsi un déchiffrage aisé des textes sous une forte lumière en extérieur. La fréquence dynamique de 120Hz fluidifie le défilement continu sur tous vos réseaux sociaux favoris. De surcroît, les certifications de réduction de lumière bleue préservent votre vision lors des lectures tardives. Le verre protecteur de façade résiste vaillamment aux frottements réguliers contre les clés ou les pièces. Cette diagonale spacieuse procure un confort appréciable pour la rédaction rapide de courriels et notes.",
+                    "Le boîtier contemporain intègre un indice de protection IP64 efficace face aux projections d'eau courantes. Son format aminci favorise par conséquent une préhension rassurante tout au long des trajets urbains. Le capteur d'empreintes digitales sur la tranche déverrouille le téléphone d'un simple effleurement du pouce. En outre, la prise audio jack 3.5 millimètres permet d'utiliser directement vos écouteurs filaires habituels. Un haut-parleur calibré diffuse les sonneries et contenus multimédias avec une puissance acoustique très claire. L'appareil présente une finition soignée qui conserve son élégance malgré un usage intensif au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Processeur Dimensity 6300 5G et Appareil Photo 50MP",
+                "paragraphs": [
+                    "Le processeur MediaTek Dimensity 6300 repose sur une architecture moderne gravée en 6 nanomètres. Cette conception thermique modérée assure ainsi une excellente gestion énergétique lors des transferts de données. Les huit cœurs opérationnels traitent les applications bureautiques et la messagerie sans le moindre ralentissement. Par ailleurs, la mémoire vive modulable facilite le passage instantané d'une tâche à une autre. Le modem 5G intégré télécharge les fichiers partagés en quelques secondes pour un gain de temps. Vos appels vidéo se déroulent avec une remarquable régularité pour des échanges sereins et nets.",
+                    "Le capteur photo principal de 50 mégapixels capte des images détaillées aux teintes très réalistes. Il enregistre en outre des clichés lumineux même lorsque la nuit commence à envelopper la ville. Les algorithmes photographiques automatiques équilibrent l'exposition sans exiger de connaissances pointues de la part de l'utilisateur. De même, l'enregistrement vidéo en définition Full HD préserve la fluidité de vos souvenirs de famille. La caméra frontale de 8 mégapixels réalise des autoportraits nets adaptés à tous vos profils sociaux. Cette panoplie photographique complète répond aux envies de partage immédiat des utilisateurs de tout âge."
+                ]
+            },
+            {
+                "h2_title": "Batterie Durable de 6000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "L'accumulateur d'une capacité de 6000 mAh autorise jusqu'à deux journées d'utilisation active continue. Cette réserve énergétique conséquente évite ainsi la recherche anxieuse d'une prise de courant en journée. Vous communiquez librement avec vos contacts professionnels durant vos longs déplacements en province ou à Abidjan. En effet, l'interface Xiaomi HyperOS optimise l'activité en arrière-plan pour sauvegarder chaque milliampère-heure disponible. Un port carte microSD permet d'augmenter le stockage interne selon l'évolution de vos exigences personnelles. Vous stockez des centaines de vidéos éducatives et de morceaux musicaux sans la moindre inquiétude.",
+                    "Le bloc chargeur rapide de 33W restitue une autonomie substantielle en quelques dizaines de minutes. Il permet par conséquent de repartir sereinement après une brève escale de rechargement en voyage. Les circuits de protection intégrés contrôlent la température pour préserver la santé chimique de la batterie. De surcroît, le port réversible USB Type-C simplifie le branchement dans toutes les conditions d'éclairage. Cette fiabilité matérielle éprouvée confère à votre investissement une durabilité appréciable au fil des ans. Le Xiaomi Redmi 17C 5G constitue un allié moderne et très endurant pour réussir chaque journée."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Redmi 17C 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.56 x 79.47 x 8.05 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "211 g (0.211 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en polycarbonate renforcé, dos à texture satinée"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Marron (Brown), Violet (Purple)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP64 résistant aux éclaboussures et à la poussière"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD 120Hz, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.99 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (1640 x 720 pixels), 260 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "450 nits (typique), 600 nits (HBM)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 6300 (6 nm, Octa-core jusqu'à 2.4 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "ARM Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X avec extension virtuelle"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go ou 128 Go eMMC 5.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Oui, via MicroSDXC dédié jusqu'à 1 To"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Double capteur : 50 MP principal (f/1.8, PDAF) + capteur auxiliaire de profondeur"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "5 MP, f/2.2, enregistrement 1080p"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur mono puissant, certification Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire rapide 33W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM + slot MicroSD dédié)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/redmi-17c-5g/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Redmi+17C+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Redmi+17C+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

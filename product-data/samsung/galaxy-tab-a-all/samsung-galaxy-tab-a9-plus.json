@@ -1,0 +1,481 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab A9+ conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab A Series",
+        "commercial_name": "Samsung Galaxy Tab A9+",
+        "category": "tablet",
+        "sub_category": "tablet-midrange",
+        "release_year": 2023,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-A9-PLUS",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-A9-PLUS"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-a9-plus/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab A9+ 11.0 pouces 90Hz Snapdragon 695 7040mAh 5G"
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 695 5G (6nm) Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 4 Go",
+        "audio_config": "4 Haut-parleurs stéréo",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "7040 mAh",
+        "charging_wired": "Charge 15W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM / Slot MicroSD jusqu'à 1 To",
+        "weight": "0.480 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-A9-PLUS",
+        "Name": "Samsung Galaxy Tab A9+ - Écran 11.0\" 90Hz - (4 Go|6 Go|8 Go & 64 Go|128 Go|256 Go) - 7040mAh 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "195000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab A Series",
+        "Tags": "Samsung, Galaxy Tab A9+, Galaxy Tab A Series, Tablette, Tablette Android, 5G, Écran 90Hz, 7040mAh, Snapdragon 695, Écran 11 Pouces, 90Hz, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Bleu Marine",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go, 128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go, 6 Go, 8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.480 kg",
+        "Attribute 4 default": "0.480 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, 4G LTE, Wi-Fi 5, Bluetooth 5.1, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Écran 11.0 Pouces 90Hz avec Quadruple Haut-Parleur Dolby Atmos et 5G.",
+        "teaser": "Découvrez la Samsung Galaxy Tab A9+ avec sa grande dalle lumineuse de 11 pouces à 90 Hz, son processeur Snapdragon 695 5G, ses quatre haut-parleurs enveloppants et sa batterie longue durée de 7040 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Spacieux 11.0\" 90Hz WUXGA",
+                "benefice": "Grand confort de lecture et animations fluides pour vos séries et cours en ligne"
+            },
+            {
+                "feature": "Puce Snapdragon 695 & Modem 5G",
+                "benefice": "Navigation multitâche rapide et téléchargements de données en un instant"
+            },
+            {
+                "feature": "Quadruple Haut-Parleur Dolby Atmos",
+                "benefice": "Rendu audio spatial immersif pour vos films, musiques et appels familiaux"
+            },
+            {
+                "feature": "Châssis Métallique Fin & Batterie 7040 mAh",
+                "benefice": "Design contemporain élégant et autonomie continue sur toute la journée"
+            }
+        ],
+        "marketing_conclusion": "La tablette multimédia par excellence associant grand format 11 pouces, son spatialisé et connectivité 5G nomade.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab A9+ à Abidjan | My-eStore",
+            "meta_description": "Commandez la Samsung Galaxy Tab A9+ 5G à Abidjan sur My-eStore. Écran 11\" 90Hz, Snapdragon 695, 4 haut-parleurs, 7040 mAh, livraison express et garantie.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab A9 Plus",
+                "Galaxy Tab A9+ Abidjan",
+                "Galaxy Tab A9 Plus prix",
+                "Tablette tactile Samsung 11 pouces"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab A9+ : Écran 11\" 90Hz, Snapdragon 695 et Batterie 7040 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab A9+ 5G : Écran 11\" & 5G | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab A9+ 5G sur My-eStore. Écran 11\" 90Hz, Snapdragon 695, 4 haut-parleurs Dolby Atmos, batterie 7040 mAh et design fin.",
+            "focus_keyword": "Samsung Galaxy Tab A9 Plus",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab A9 Plus Abidjan",
+                "prix Samsung Galaxy Tab A9 Plus",
+                "fiche technique Tab A9 Plus",
+                "tablette 11 pouces Samsung",
+                "Galaxy Tab A9+ 128Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab A9+",
+            "items": [
+                {
+                    "feature": "Dalle 11.0\" 90Hz WUXGA",
+                    "benefice": "Grand confort d'affichage et transitions fluides pour vos loisirs"
+                },
+                {
+                    "feature": "Puce Snapdragon 695 5G",
+                    "benefice": "Calculs multitâches efficaces et navigation sans latence"
+                },
+                {
+                    "feature": "Quadruple Haut-Parleur Stéréo",
+                    "benefice": "Restitution sonore enveloppante avec le format Dolby Atmos"
+                },
+                {
+                    "feature": "Batterie 7040 mAh & Châssis Fin",
+                    "benefice": "Endurance durable sur toute la journée et finition soignée"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab A9+ enrichit votre quotidien grâce à son affichage spacieux. Sa grande dalle de 11 pouces offre une clarté appréciable pour regarder des vidéos et étudier. De plus, son processeur Snapdragon 695 prend en charge vos applications favorites avec une belle réactivité. Le boîtier métallique épuré procure une prise en main agréable pour l'ensemble du foyer. Enfin, sa batterie de 7040 mAh garantit une autonomie rassurante sur toute votre journée.",
+        "sections": [
+            {
+                "h2_title": "Affichage Grand Format 11 Pouces et Écran 90Hz",
+                "paragraphs": [
+                    "D'un côté, l'écran de onze pouces propose un espace visuel confortable pour afficher simultanément deux applications. La technologie de rafraîchissement à 90 Hz fluidifie les défilements de texte pour une navigation très reposante. La résolution haute définition fait ressortir nettement les détails de vos documents scolaires et photographies personnelles. Par ailleurs, les bordures fines maximisent la surface d'affichage tout en conservant une préhension sécurisée à deux mains. Le poids contenu de quatre cent quatre-vingts grammes permet une utilisation prolongée sans gêne particulière. Vous profitez ainsi d'un écran multimédia spacieux adapté à toutes vos activités.",
+                    "D'un autre côté, le châssis métallique raffiné protège efficacement la tablette contre les torsions du quotidien. L'épaisseur fine de six virgule neuf millimètres assure une allure moderne et une insertion aisée en sacoche. Les finitions mates réduisent les traces de doigts pour maintenir une présentation toujours élégante. En outre, la surface en verre renforcé résiste convenablement aux micro-rayures liées à un usage partagé. Les boutons latéraux procurent un clic franc pour contrôler le volume rapidement. Ce modèle rassemble élégance contemporaine et solidité éprouvée pour vous accompagner chaque jour."
+                ]
+            },
+            {
+                "h2_title": "Audio Quadruple Dolby Atmos et Productivité Facile",
+                "paragraphs": [
+                    "Tout d'abord, les quatre haut-parleurs stéréo diffusent une ambiance sonore riche et précise lors de vos séances de cinéma. Le traitement acoustique Dolby Atmos retranscrit les voix avec une clarté très agréable pour vos réunions professionnelles. Le mode écran partagé autorise l'ouverture de trois fenêtres côte à côte pour copier facilement des notes. De surcroît, l'application Samsung DeX recrée une interface proche d'un poste de travail avec barre des tâches. Les outils d'organisation facilitent le classement méthodique de l'ensemble de vos fichiers numériques. Vous travaillez avec une méthode intuitive et efficace.",
+                    "Dans cette optique, la caméra avant vous place clairement au centre lors des appels vidéo avec vos proches. Le microphone directionnel atténue les échos environnants pour préserver la netteté de vos interventions orales. La compatibilité avec les étuis protecteurs magnétiques offre un angle incliné adapté à la saisie de texte. Également, la fonction de transfert sans fil partage instantanément vos dossiers vers vos autres équipements connectés. Toutes vos données restent protégées sur votre espace de stockage sécurisé sans manipulation complexe. Cet équipement complet soutient harmonieusement vos projets personnels et professionnels."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 695 et Autonomie Rassurante",
+                "paragraphs": [
+                    "D'abord, la puce Snapdragon 695 gravée en six nanomètres gère avec souplesse vos flux de travail multitâches habituels. La mémoire vive spacieuse autorise un passage sans attente entre vos différents logiciels de bureautique et de divertissement. L'espace de stockage généreux accueille sans encombre vos vidéos et cours enregistrés en haute qualité. De même, la connectivité 5G assure des téléchargements rapides lors de vos rendez-vous extérieurs. Le déverrouillage facial sécurisé débloque l'accès en une fraction de seconde. Vous progressez dans vos activités avec un confort réactif.",
+                    "Enfin, l'accumulateur de 7040 mAh assure une utilisation continue tout au long d'une longue journée active. Le protocole de charge standard permet de redonner facilement de l'énergie à l'appareil lors d'une courte pause. La gestion thermique interne dissipe convenablement la chaleur pour maintenir des cadences stables dans la durée. Par conséquent, vous étudiez et visionnez vos contenus sans dépendre constamment d'une source d'alimentation. Les composants durables ont fait leurs preuves pour assurer une fiabilité continue au fil des années. La Galaxy Tab A9+ constitue un choix pérenne alliant confort visuel et polyvalence."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab A9+",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab A9+</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "257.1 x 168.7 x 6.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.480 kg (480 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre, Dos et Cadre en Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "Non certifié étanche"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Tablette tactile familiale 11 pouces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "11.0 pouces (27.94 cm), 1920 x 1200 pixels (WUXGA), 206 ppi, ratio 16:10"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm SM6375 Snapdragon 695 5G (6nm) Octa-Core (2x2.2 GHz Kryo 660 Gold & 6x1.8 GHz Kryo 660 Silver)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "64 Go / 128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 1 To (slot dédié)"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 13 évolutif vers Android 15 avec One UI 6.1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "8 MP, Autofocus, Enregistrement Vidéo 1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "5 MP, Enregistrement Vidéo HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "4 Haut-parleurs stéréo, Dolby Atmos, Prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "7040 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge filaire 15W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 14 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Emplacement Nano-SIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac) bi-bande, Bluetooth 5.1, GPS, GLONASS, BDS, GALILEO, QZSS"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB Type-C 2.0, Prise Jack 3.5mm, Reconnaissance faciale"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-a9-plus/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+Plus+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "195000",
+            "sku_suffix": "4-GB-64-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "255000",
+            "sku_suffix": "4-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "310000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "430000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "195000",
+            "sku_suffix": "4-GB-64-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "255000",
+            "sku_suffix": "4-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "310000",
+            "sku_suffix": "6-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "430000",
+            "sku_suffix": "8-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "195000",
+            "sku_suffix": "4-GB-64-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "255000",
+            "sku_suffix": "4-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "310000",
+            "sku_suffix": "6-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "370000",
+            "sku_suffix": "8-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "430000",
+            "sku_suffix": "8-GB-256-GB-BLEU-MARINE"
+        }
+    ]
+}

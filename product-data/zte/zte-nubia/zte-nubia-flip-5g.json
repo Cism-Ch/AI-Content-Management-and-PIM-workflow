@@ -1,0 +1,391 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Flip 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+5G+specifications"
+            }
+        ],
+        "pricing_reference": "345000",
+        "official_sku": "ZTE-NUBIA-FLIP-5G"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Cosmic Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "345000",
+            "sku_suffix": "256GB-8GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Sunshine Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "345000",
+            "sku_suffix": "256GB-8GB-OR"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7 Gen 1 (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "6.90 pouces (interne) / 1.43 pouce (externe)",
+        "screen_technology": "OLED Pliable 120Hz + Écran Circulaire Externe",
+        "screen_resolution": "2790 x 1188 pixels (interne)",
+        "battery_capacity": "4310 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "Double capteur 50 MP Haute Résolution + 2 MP Profondeur",
+        "camera_selfie": "16 MP interne",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra",
+        "audio_tech": "Son spatial DTS:X Ultra & Snapdragon Sound",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + BDS + GALILEO",
+        "card_slot": "Dual Nano SIM (double veille)",
+        "charging_wired": "Charge rapide 33W USB-C",
+        "dimensions": "Déplié : 170.0 x 75.5 x 7.0 mm / Plié : 87.6 x 75.5 x 15.0 mm",
+        "weight": "0.209 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-FLIP-5G-MASTER",
+        "Name": "ZTE Nubia Flip 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "345000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Flip 5G, Smartphone Pliable, OLED 120Hz, Snapdragon 7 Gen 1, 50MP, 33W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Or",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.209 kg",
+        "Attribute 4 default": "0.209 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Flip 5G : Smartphone Pliable OLED 120Hz et Snapdragon 7 Gen 1",
+        "brand_line": "Le smartphone pliable compact combinant un écran 6.9 pouces 120 Hz et un écran circulaire externe.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Flip 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Flip 5G propose un écran OLED pliable 120Hz de 6.9 pouces, un écran externe circulaire de 1.43\", la puce Snapdragon 7 Gen 1 et un capteur 50 MP.",
+        "features": [
+            {
+                "feature": "Écran OLED Pliable 120Hz",
+                "benefice": "Immersion fluide dans un format clapet très compact."
+            },
+            {
+                "feature": "Écran Circulaire Externe 1.43\"",
+                "benefice": "Gestion rapide des widgets et aperçu photo sans ouvrir le téléphone."
+            },
+            {
+                "feature": "Puce Snapdragon 7 Gen 1 (4nm)",
+                "benefice": "Vitesse d'exécution moderne et compatibilité 5G."
+            },
+            {
+                "feature": "Batterie 4310 mAh & Charge 33W",
+                "benefice": "Autonomie équilibrée et recharge rapide en USB-C."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Flip 5G — L'innovation du pliable au creux de votre main.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Flip 5G (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Flip 5G pliable avec écran OLED 120Hz, écran externe 1.43\", Snapdragon 7 Gen 1 et 50 MP. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "ZTE Nubia Flip 5G, smartphone pliable Abidjan, écran 120Hz, Snapdragon 7 Gen 1, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Flip 5G",
+            "lsi_keywords": [
+                "ZTE Nubia Flip 5G",
+                "smartphone ZTE Nubia Flip 5G Abidjan",
+                "ZTE Nubia Flip 5G prix",
+                "téléphone pliable compact 120hz",
+                "smartphone snapdragon 7 gen 1 5g",
+                "téléphone clapet oled 50 mp",
+                "achat smartphone pliable My-eStore",
+                "livraison smartphone Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Flip 5G 256 Go : OLED 120Hz & Écran Circulaire | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Flip 5G. Écran pliable OLED 6.9\" 120Hz, écran externe circulaire, Snapdragon 7 Gen 1 et charge 33W. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Nubia Flip 5G : Écran Pliable OLED 120Hz, Snapdragon 7 Gen 1 et Capteur 50 MP",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU ZTE NUBIA FLIP 5G",
+            "items": [
+                {
+                    "feature": "Conception Pliable Clapet",
+                    "benefice": "Format compact de poche avec grand écran déplié."
+                },
+                {
+                    "feature": "Dalle OLED 120Hz Interne",
+                    "benefice": "Fluidité remarquable et contraste infini."
+                },
+                {
+                    "feature": "Écran Multifonction Externe",
+                    "benefice": "Prises de selfie haute qualité avec le capteur principal."
+                },
+                {
+                    "feature": "Recharge Rapide 33 Watts",
+                    "benefice": "Plein d'énergie sécurisé en un temps très court."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Flip 5G rend la technologie des smartphones pliables accessible avec une élégance remarquable. Cet appareil répond précisément aux attentes des utilisateurs modernes et exigeants à Abidjan. En effet, son format clapet se glisse facilement dans une poche une fois refermé. De plus, sa dalle OLED interne de 6.9 pouces se déploie avec un taux de 120 Hz. La puce Qualcomm Snapdragon 7 Gen 1 assure un traitement informatique fluide et rapide. Par ailleurs, la batterie de 4310 mAh soutient une utilisation active tout au long de la journée. Le design à clapet procure ainsi une polyvalence ergonomique très plaisante.",
+        "sections": [
+            {
+                "h2_title": "Double Écran OLED 120Hz et Puce Snapdragon 7 Gen 1",
+                "paragraphs": [
+                    "Le ZTE Nubia Flip 5G intègre un écran principal pliable OLED de 6.9 pouces en résolution 2790 par 1188 pixels. Sa fréquence de rafraîchissement à 120 Hz offre une souplesse visuelle continue lors de la navigation. Ainsi, la charnière métallique robuste permet une ouverture à angles multiples pour poser le téléphone sur une table. De surcroît, le processeur Snapdragon 7 Gen 1 gravé en 4 nanomètres gère vos logiciels avec aisance. La mémoire vive de 8 Go soutient une réactivité immédiate.",
+                    "L'écran extérieur circulaire de 1.43 pouce permet de consulter les alertes et contrôler la musique sans ouvrir l'appareil. D'ailleurs, vous pouvez prévisualiser vos prises de vue directement depuis cet affichage secondaire. En outre, la connectivité 5G assure des téléchargements instantanés lors de vos déplacements. L'épaisseur pliée de 15 mm procure un encombrement réduit et très discret. Vous profitez d'une ergonomie moderne adaptée à vos mouvements."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP et Haut-Parleurs Stéréo DTS:X",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 Mégapixels capture des clichés nets avec un excellent rendu colorimétrique. Cet objectif principal peut être utilisé pour les autoportraits en exploitant l'écran externe fermé. De plus, le capteur de profondeur de 2 Mégapixels optimise les effets de flou artistique en arrière-plan. La caméra frontale interne de 16 Mégapixels assure des visioconférences nettes en mode déplié. Ainsi, vos photos conservent un niveau de détail précis.",
+                    "Les haut-parleurs stéréo certifiés DTS:X Ultra diffusent une acoustique spatiale immersive lors des vidéos. En effet, vous profitez d'une ambiance sonore équilibrée pour vos appels et vos musiques. Également, la puce NFC multifonction facilite les échanges sans contact de proximité. Le lecteur d'empreintes digitales latéral garantit un déverrouillage sécurisé en une fraction de seconde. Vous disposez d'un outil multimédia polyvalent."
+                ]
+            },
+            {
+                "h2_title": "Batterie 4310 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie de 4310 mAh fournit une autonomie adaptée à vos journées de travail et de loisir. Cette capacité assure une alimentation régulière sans nécessiter de ravitaillement fréquent en cours de journée. Par ailleurs, la technologie de charge rapide 33W permet de regagner l'essentiel de l'énergie en un temps court. En effet, vous récupérez plus de la moitié de la batterie en une trentaine de minutes. Vos activités professionnelles se déroulent en toute sérénité.",
+                    "Le smartphone affiche un poids équilibré de 209 grammes avec des finitions en noir, doré et violet. D'autre part, la charnière éprouvée résiste à plus de 200000 ouvertures pour une durabilité certifiée. En somme, le ZTE Nubia Flip 5G réunit l'innovation du pliable et la fiabilité d'un grand constructeur. Vous pouvez valider votre commande en toute sécurité sur My-eStore. Le service de livraison rapide dessert la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Flip 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone pliable ZTE Nubia Flip 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions déplié",
+                            "valeur": "170.0 x 75.5 x 7.0 mm"
+                        },
+                        {
+                            "label": "Dimensions plié",
+                            "valeur": "87.6 x 75.5 x 15.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.209 kg (209 g)"
+                        },
+                        {
+                            "label": "Charnière",
+                            "valeur": "Charnière en acier haute résistance, testée à plus de 200 000 pliages"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Cosmic Black), Doré (Sunshine Gold), Violet (Lilac)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Écran principal (interne)",
+                            "valeur": "6.90 pouces OLED Pliable, 1 milliard de couleurs, 120 Hz"
+                        },
+                        {
+                            "label": "Définition écran principal",
+                            "valeur": "FHD+ (2790 x 1188 pixels, 21:9, ~439 ppi)"
+                        },
+                        {
+                            "label": "Écran secondaire (externe)",
+                            "valeur": "1.43 pouce OLED circulaire (466 x 466 pixels)"
+                        },
+                        {
+                            "label": "Fonctions écran externe",
+                            "valeur": "Aperçu photo, notifications, météo, minuteur, musique"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7 Gen 1 (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (1x2.4 GHz Cortex-A710 + 3x2.36 GHz + 4x1.8 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 644"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur de profondeur",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale interne",
+                            "valeur": "16 MP (f/2.2)"
+                        },
+                        {
+                            "label": "Particularité photo",
+                            "valeur": "Selfie au capteur principal 50 MP via l'écran externe"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30 fps, 1080p à 30/60 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "4310 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 33W filaire (50% en 18 min)"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, USB Power Delivery 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6 dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 réversible"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Flip+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

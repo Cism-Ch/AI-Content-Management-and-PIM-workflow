@@ -1,0 +1,289 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "W50 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview France Store",
+                "url": "https://www.blackview.fr/products/blackview-w50-pro-montre-connectee-robuste-avec-lampe-torche-led-etanche-ip68-de-1-45"
+            }
+        ],
+        "pricing_reference": "35000",
+        "official_sku": "BV-W50-PRO"
+    },
+    "key_specifications": {
+        "processor": "Puce Smartwatch Low-Power Haute Précision",
+        "processor_ghz": "Connectivité Bluetooth 5.2 HD Call",
+        "screen_size": "1.45 pouces",
+        "screen_technology": "TFT HD Tactile Résistant PANDA Glass",
+        "screen_resolution": "360 x 360 pixels",
+        "battery_capacity": "960 mAh (Jusqu'à 30 jours d'utilisation)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Android & iOS",
+        "os_skin": "Application InfoWear / GloryFit",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Haut-parleur étanche & Microphone HD",
+        "audio_tech": "Appels Bluetooth & Lampe Torche LED intégrée",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "Boussole numérique intégrée & Suivi GPS smartphone",
+        "card_slot": "N/A",
+        "charging_wired": "Chargeur Magnétique 2-pin USB",
+        "dimensions": "55.44 x 52.30 x 14.50 mm",
+        "weight": "0.062 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-W50-PRO-MASTER",
+        "Name": "Blackview W50 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "35000",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Blackview Smartwatches, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "Blackview, Blackview W50 Pro, Montre Connectée Incassable, Lampe Torche LED, 960mAh, Appels Bluetooth, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Noir | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.062 kg",
+        "Attribute 4 default": "0.062 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview W50 Pro : Montre Connectée Incassable Lampe Torche LED Batterie 960 mAh 2ATM",
+        "brand_line": "La montre connectée d'aventure renforcée Blackview intégrant une lampe torche et une batterie géante.",
+        "marketing_conclusion": "Commandez la Blackview W50 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview W50 Pro associe un écran de 1.45 pouces HD en verre PANDA Glass, une vraie lampe torche LED, les appels Bluetooth et une batterie géante de 960 mAh.",
+        "features": [
+            {
+                "feature": "Lampe Torche LED Puissante Intégrée",
+                "benefice": "Éclairage nocturne direct de votre chemin en camping."
+            },
+            {
+                "feature": "Batterie Gigantesque 960 mAh",
+                "benefice": "Autonomie impressionnante atteignant 30 jours."
+            },
+            {
+                "feature": "Appels Bluetooth HD & Boussole",
+                "benefice": "Communication claire et orientation précise en extérieur."
+            },
+            {
+                "feature": "Étanchéité 2 ATM & Norme IP68",
+                "benefice": "Protection totale face aux immersions et chocs sévères."
+            }
+        ],
+        "slogan_final": "Blackview W50 Pro — L'endurance extrême et la lumière à votre poignet.",
+        "seo": {
+            "meta_title": "Acheter Blackview W50 Pro Montre Connectée à Abidjan | My-eStore",
+            "meta_description": "Découvrez la montre connectée Blackview W50 Pro avec lampe torche LED, batterie 960 mAh et appels Bluetooth. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview W50 Pro, montre connectee lampe torche, prix Abidjan, 960mAh 2ATM"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview W50 Pro",
+            "lsi_keywords": [
+                "Blackview W50 Pro",
+                "montre connectee lampe torche Blackview Abidjan",
+                "Blackview W50 Pro prix",
+                "montre connectee 960 mAh 30 jours",
+                "montre incassable boussole 2ATM",
+                "accessoire aventure Côte d'Ivoire",
+                "achat montre W50 Pro Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview W50 Pro Montre : Lampe Torche & 960 mAh | My-eStore",
+            "meta_description": "Achetez la montre connectée Blackview W50 Pro. Écran 1.45\" HD, lampe torche LED, batterie 960 mAh et appels Bluetooth. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview W50 Pro : Spécifications de la Montre Connectée d'Aventure",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA VERSION PRO",
+            "items": [
+                {
+                    "feature": "Lampe Torche LED Latérale Puissante",
+                    "benefice": "Faisceau lumineux direct pour vos déplacements de nuit."
+                },
+                {
+                    "feature": "Accumulateur Massif de 960 mAh",
+                    "benefice": "Autonomie hors norme durant plus d'un mois."
+                },
+                {
+                    "feature": "Écran 1.45 Pouces HD PANDA Glass",
+                    "benefice": "Affichage spacieux très résistant aux chocs."
+                },
+                {
+                    "feature": "Boussole Numérique & Altimètre",
+                    "benefice": "Guidage tactique lors de vos randonnées."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview W50 Pro est une montre connectée d'aventure particulièrement robuste et puissante. Cet équipement convient très bien aux baroudeurs et professionnels du terrain en Côte d'Ivoire. Par ailleurs, sa dalle tactile de 1.45 pouce en définition HD offre une lisibilité visuelle très claire. De plus, son verre PANDA Glass résiste très bien aux impacts violents. La batterie géante de 960 mAh permet de travailler en toute sérénité pendant 30 jours d'affilée. Son boîtier en alliage de 14.5 mm garantit une prise en main très agréable. L'application dédiée sous Android et iOS simplifie l'accès à vos données de santé. Enfin, cette montre d'aventure constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 1.45 Pouces HD, Verre PANDA et Torche LED",
+                "paragraphs": [
+                    "La Blackview W50 Pro intègre une grande dalle tactile HD de 1.45 pouce en résolution 360 x 360 pixels. Sa vitre haute résistance restitue des détails d'une clarté impressionnante. De plus, la lampe torche LED intégrée gère facilement le débroussaillage de nuit. De surcroît, le cadran renforcé protège la montre des chocs sur les rochers. Votre montre reste protégée.",
+                    "La structure rigide conserve une stabilité remarquable face aux chutes extrêmes. Le changement de bracelet en silicone s'effectue en un instant. En effet, le boîtier étanche résiste aux immersions d'eau en toutes circonstances. Cette conception soignée convient parfaitement aux missions de terrain. Vos mesures tactiques restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Appels Bluetooth HD, Boussole et 100+ Sports",
+                "paragraphs": [
+                    "La Blackview W50 Pro embarque un haut-parleur et un microphone haute définition intégrés. Cet équipement audio permet de passer des appels téléphoniques clairs depuis votre poignet. En outre, la boussole numérique s'avère très pratique pour trouver votre direction en brousse. La voix de votre interlocuteur reste très claire. Ainsi, la synchronisation Bluetooth 5.2 assure une réception instantanée de vos messages. La précision des alertes reste constante.",
+                    "Par ailleurs, les 100 modes sportifs intégrés analysent votre rythme cardiaque. De plus, le suivi de la saturation en oxygène SpO2 surveille votre effort physique. Également, la fonction d'analyse du sommeil aide à récupérer après l'effort. De surcroît, le contrôle de la musique simplifie vos entraînements. En somme, cette montre d'aventure réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Record 960 mAh et Étanchéité 2 ATM",
+                "paragraphs": [
+                    "La batterie impressionnante de 960 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant 30 jours sans aucune recharge. D'ailleurs, le connecteur magnétique inclus garantit un chargement rapide en moins de trois heures. En effet, l'étanchéité 2 ATM protège les composants internes contre l'eau sous pression. Vos activités nautiques et maritimes se poursuivent sans interruption.",
+                    "La silhouette épurée avec boîtier en alliage métallique offre une tenue naturelle et très solide. Son poids maîtrisé de 62 grammes témoigne du soin apporté à la structure. D'autre part, la Blackview W50 Pro constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa lampe torche LED en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview W50 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la montre connectée Blackview W50 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "55.44 x 52.30 x 14.50 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.062 kg"
+                        },
+                        {
+                            "label": "Boîtier & Verre",
+                            "valeur": "Alliage de zinc renforcé militaire & Verre PANDA Glass anti-chocs"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Noir, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Éclairage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "1.45 pouce TFT HD Tactile"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "360 x 360 pixels"
+                        },
+                        {
+                            "label": "Lampe torche",
+                            "valeur": "Torche LED latérale haute puissance intégrée au boîtier"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctions Téléphonie & Navigation",
+                    "rows": [
+                        {
+                            "label": "Appels Bluetooth",
+                            "valeur": "Émission et réception d'appels via haut-parleur et micro étanches"
+                        },
+                        {
+                            "label": "Orientation",
+                            "valeur": "Boussole numérique intégrée"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 Low Energy"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Suivi de Santé",
+                    "rows": [
+                        {
+                            "label": "Fréquence cardiaque",
+                            "valeur": "Capteur optique PPG suivi 24h/24"
+                        },
+                        {
+                            "label": "Oxygène sanguin",
+                            "valeur": "Mesure du taux de SpO2"
+                        },
+                        {
+                            "label": "Analyse du sommeil",
+                            "valeur": "Suivi des phases de sommeil profond et léger"
+                        },
+                        {
+                            "label": "Modes sportifs",
+                            "valeur": "100+ modes d'entraînement (Course, Randonnée, Escalade, Vélo)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "960 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "30 jours en utilisation normale, jusqu'à 100 jours en veille"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "2 ATM / IP68 (Résistant à l'immersion sous l'eau et à la poussière)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes supportés",
+                            "valeur": "Android 6.0 ou supérieur, iOS 9.0 ou supérieur"
+                        },
+                        {
+                            "label": "Application compagnon",
+                            "valeur": "InfoWear / GloryFit"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview France Store",
+                        "url": "https://www.blackview.fr/products/blackview-w50-pro-montre-connectee-robuste-avec-lampe-torche-led-etanche-ip68-de-1-45"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,575 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s20-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S20 FE conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S20 FE",
+        "category": "smartphone",
+        "sub_category": "fan-edition",
+        "release_year": 2020,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S20-FE",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S20-FE"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s20-fe/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+FE"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+FE+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S20 FE 6.5\" 120Hz 6Go/8Go RAM 4500mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S20-FE",
+        "Name": "Samsung Galaxy S20 FE - 6.5\" 120Hz - 6Go/128Go - 12MP - 4500mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "180000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S20 FE, Galaxy S Series, Smartphone, Android, 5G, Super AMOLED, Écran 120Hz, 12MP, 4500mAh, Snapdragon 865, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Lavande, Vert, Bleu Marine, Blanc, Rouge, Orange",
+        "Attribute 1 default": "Bleu Marine",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Expérience Fan Edition culte de la série Galaxy S20.",
+        "teaser": "Découvrez le Samsung Galaxy S20 FE avec son écran Super AMOLED de 6.5 pouces 120Hz, son triple capteur photo polyvalent et sa batterie de 4500 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.5\" Super AMOLED 120Hz",
+                "benefice": "Dalle lumineuse offrant un grand confort d'affichage pour la lecture et les vidéos"
+            },
+            {
+                "feature": "Puce Hautes Performances 5G",
+                "benefice": "Traitement réactif de vos applications et exécution fluide de vos logiciels"
+            },
+            {
+                "feature": "Triple Capteur Photo avec Zoom 3x",
+                "benefice": "Prises de vue précises et téléobjectif optique pour des détails soignés"
+            },
+            {
+                "feature": "Batterie 4500 mAh & Charge Rapide",
+                "benefice": "Autonomie équilibrée pour votre journée avec recharge sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone Fan Edition équilibré pour profiter de l'expérience Galaxy S20 à prix accessible.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S20 FE (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S20 FE au meilleur prix à Abidjan sur My-eStore. Écran 6.5\" 120Hz, 6Go/8Go RAM, 4500mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S20 FE 128Go : Écran 120Hz & 5G | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S20 FE sur My-eStore. Écran Super AMOLED 6.5 pouces 120Hz, triple capteur, batterie 4500 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S20 FE",
+            "lsi_keywords": [
+                "Samsung Galaxy S20 FE Abidjan",
+                "prix Samsung S20 FE",
+                "fiche technique Galaxy S20 FE",
+                "smartphone Samsung Fan Edition 5G",
+                "Galaxy S20 FE 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S20 FE : Écran 6.5\" 120Hz, Triple Capteur et Connectivité 5G",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S20 FE démocratise les technologies de la gamme phare. Il intègre une dalle Super AMOLED équilibrée de 6.5 pouces très lumineuse. De plus, son processeur moderne assure un traitement fluide de toutes vos tâches numériques quotidiennes. La structure en aluminium offre une prise en main stable pour un usage prolongé régulier. Enfin, l'accumulateur de 4500 mAh procure une autonomie sécurisante sur l'ensemble de votre journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S20 FE",
+            "items": [
+                {
+                    "feature": "Dalle 6.5\" 120Hz Lumineuse",
+                    "benefice": "Grand confort de visionnage et fluidité continue pour vos applications"
+                },
+                {
+                    "feature": "Triple Capteur avec Zoom 3x",
+                    "benefice": "Clichés lumineux de jour comme de nuit avec stabilisation optique"
+                },
+                {
+                    "feature": "Charge Rapide Filaire 25W",
+                    "benefice": "Récupération prompte de la charge pour vos trajets quotidiens"
+                },
+                {
+                    "feature": "Protection Certifiée IP68",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions dans l'eau"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Lumineux et Finitions Soignées",
+                "paragraphs": [
+                    "D'un côté, la diagonale de 6.5 pouces offre un compromis appréciable entre lisibilité et compacité ergonomique. La technologie AMOLED procure des contrastes soutenus et des couleurs vives sans agressivité pour la vue. La protection en verre trempé renforce la dalle face aux frottements et micro-rayures de la journée. Par ailleurs, la luminosité maximale permet une lecture aisée sous un fort éclairage en extérieur. Les bordures soignées maximisent le confort visuel tout en conservant une préhension naturelle et agréable. Vous profitez ainsi d'un confort multimédia adapté pour toutes vos applications mobiles.",
+                    "D'un autre côté, le rafraîchissement à 120 Hz élimine tout effet de saccade lors du défilement. Cet ajustement régule la consommation électrique lors de la lecture d'articles ou courriers électroniques. Les contrastes profonds mettent en valeur vos films et vos photographies haute définition. En outre, la sensibilité de la couche tactile garantit une saisie de texte rapide et précise. Le design contemporain s'adapte avec élégance à l'ensemble de vos environnements de travail. Ce modèle allie grand écran et ergonomie étudiée au service de vos usages quotidiens."
+                ]
+            },
+            {
+                "h2_title": "Performances Polyvalentes et Gestion Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce moderne traite rapidement les requêtes exigeantes et le traitement multimédia courant. La mémoire vive allant jusqu'à huit gigaoctets garantit un multitâche fluide entre vos applications ouvertes. Le stockage interne spacieux accueille l'ensemble de vos documents, musiques et galeries photos sans saturation. De surcroît, le circuit thermique dissipe la chaleur afin de conserver des cadences stables et régulières. Les outils logiciels facilitent la navigation fluide et la personnalisation de votre espace de travail. Vous accomplissez vos tâches quotidiennes avec une régularité et une promptitude appréciables.",
+                    "Dans cette optique, la technologie de charge rapide filaire rétablit promptement l'autonomie lors d'une courte pause. La compatibilité avec la recharge par induction apporte un confort appréciable sur votre table de chevet. Le module de sécurité Knox isole vos codes d'accès et vos données confidentielles de manière étanche. Également, la compatibilité cinq G offre des débits véloces lors de vos déplacements urbains quotidiens. Vos appels vidéo conservent une excellente clarté grâce à un traitement acoustique efficace. Ce smartphone constitue une solution équilibrée et durable pour votre productivité nomade."
+                ]
+            },
+            {
+                "h2_title": "Module Photo Polyvalent et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal enregistre des scènes nettes et détaillées en toutes circonstances. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le téléobjectif optique 3x rapproche les éléments distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle élargit le champ pour capturer des paysages et des portraits de groupe. Le mode nuit améliore la lisibilité des scènes capturées dans des environnements faiblement éclairés. Vous obtenez des photos équilibrées prêtes à être partagées avec vos proches.",
+                    "Enfin, l'accumulateur haute capacité de 4500 mAh vous accompagne sereinement pendant vos journées les plus intenses. Le mode d'économie d'énergie adaptatif ajuste les ressources selon vos habitudes réelles de travail. La recharge inversée permet d'alimenter vos écouteurs sans fil en cas de nécessité imprévue. Par conséquent, vous conservez une totale autonomie lors de vos déplacements professionnels ou personnels. Les composants durables sont sélectionnés pour préserver leur capacité au fil des cycles de charge. Le Galaxy S20 FE constitue un investissement pérenne associant confort et autonomie."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S20 FE",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S20 FE."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "159.8 x 74.5 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.190 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass 3, Cadre Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.5\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Super AMOLED"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2400 x 1080 pixels (FHD+), 407 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 865 (7nm+) / Exynos 990"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Oui (microSDXC partagé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "12 MP, f/1.8, 26mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "8 MP, f/2.4, 76mm, Zoom optique 3x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 13mm, 123˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "32 MP, f/2.2, 26mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4500 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6, Bluetooth 5.0, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM ou microSD (Hybrid Slot)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Fonctionnalités intelligentes intégrées"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s20-fe/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+FE"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S20+FE+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Lavande",
+            "color_en": "Lavande",
+            "color_code": "LAVANDE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-LAVANDE"
+        },
+        {
+            "color_fr": "Lavande",
+            "color_en": "Lavande",
+            "color_code": "LAVANDE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "6-GB-256-GB-LAVANDE"
+        },
+        {
+            "color_fr": "Lavande",
+            "color_en": "Lavande",
+            "color_code": "LAVANDE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-LAVANDE"
+        },
+        {
+            "color_fr": "Lavande",
+            "color_en": "Lavande",
+            "color_code": "LAVANDE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "340000",
+            "sku_suffix": "8-GB-256-GB-LAVANDE"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "6-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Vert",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "340000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Bleu Marine",
+            "color_code": "BLEU-MARINE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Bleu Marine",
+            "color_code": "BLEU-MARINE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "6-GB-256-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Bleu Marine",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Bleu Marine",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "340000",
+            "sku_suffix": "8-GB-256-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "6-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Blanc",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "340000",
+            "sku_suffix": "8-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "6-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Rouge",
+            "color_code": "ROUGE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "340000",
+            "sku_suffix": "8-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "180000",
+            "sku_suffix": "6-GB-128-GB-ORANGE"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "290000",
+            "sku_suffix": "6-GB-256-GB-ORANGE"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-128-GB-ORANGE"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "340000",
+            "sku_suffix": "8-GB-256-GB-ORANGE"
+        }
+    ]
+}

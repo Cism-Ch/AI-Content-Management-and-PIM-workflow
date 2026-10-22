@@ -1,0 +1,375 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO F8 Ultra conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO F Series",
+        "commercial_name": "Xiaomi POCO F8 Ultra",
+        "category": "smartphone",
+        "sub_category": "smartphone-flagship-ultra",
+        "release_year": 2025,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-F8-ULTRA",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-F8-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone porte-étendard ultime Xiaomi POCO F8 Ultra avec processeur Snapdragon 8 Elite écran 2K AMOLED 120Hz batterie 6200 mAh étanchéité IP68 et charge 120W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 16 Go",
+        "audio_config": "Double haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "6200 mAh",
+        "charging_wired": "Charge HyperCharge 120W",
+        "navigation_gps": "GPS double bande L1+L5, GLONASS, Galileo, BDS, NavIC",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.218 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-F8-ULTRA",
+        "Name": "Xiaomi POCO F8 Ultra - Dual SIM - Écran 6.67\" 2K AMOLED 120Hz - (12 Go & 256 Go / 16 Go & 1 To) - 6200 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "495000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO F8 Ultra, POCO F Series, Smartphone, 5G, Écran 2K, Écran 120Hz, Capteur 50MP, OIS, IP68, 6200mAh, Charge 120W, Snapdragon 8 Elite, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Titane",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 1 To",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.218 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Obsidian Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Titane",
+            "color_en": "Titanium Gold",
+            "color_code": "TITANE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "495000",
+            "sku_suffix": "12-GB-256-GB-TITANE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Obsidian Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "595000",
+            "sku_suffix": "16-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Titane",
+            "color_en": "Titanium Gold",
+            "color_code": "TITANE",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "595000",
+            "sku_suffix": "16-GB-1-TB-TITANE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO F Series",
+        "teaser": "Le smartphone porte-drapeau Xiaomi POCO F8 Ultra unit le processeur Snapdragon 8 Elite gravé en 3nm à une batterie conséquente de 6200 mAh. Équipé d'un écran AMOLED 2K à 120Hz et d'une charge 120W avec étanchéité IP68, il procure une réactivité continue pour les usages intensifs à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature": "Puce Snapdragon 8 Elite",
+                "benefice": "Vitesse de traitement véloce pour tous vos flux de données complexes en direct."
+            },
+            {
+                "feature": "Batterie Massive 6200 mAh",
+                "benefice": "Endurance durable permettant d'assurer plusieurs journées d'usage soutenu."
+            },
+            {
+                "feature": "Étanchéité Certifiée IP68",
+                "benefice": "Protection certifiée face aux immersions dans l'eau douce et aux poussières."
+            },
+            {
+                "feature": "Charge HyperCharge 120W",
+                "benefice": "Restauration complète de la réserve d'énergie en moins d'une demi-heure."
+            }
+        ],
+        "marketing_conclusion": "Le fleuron technologique réunissant processeur 3nm, batterie 6200 mAh et étanchéité IP68.",
+        "trust_badges": [
+            "Garantie 12 Mois Constructeur",
+            "Livraison Express à Abidjan",
+            "Service Client My-eStore Réactif"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO F8 Ultra à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F8 Ultra à Abidjan chez My-eStore. Puce Snapdragon 8 Elite, écran 2K 120Hz et batterie 6200 mAh au meilleur prix garanti.",
+            "focus_keywords": [
+                "Xiaomi POCO F8 Ultra",
+                "POCO F8 Ultra prix Abidjan",
+                "smartphone Snapdragon 8 Elite 6200mAh",
+                "POCO F8 Ultra Abidjan"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO F8 Ultra : Snapdragon 8 Elite & 6200mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO F8 Ultra chez My-eStore. Puce Snapdragon 8 Elite, écran 2K 120Hz et batterie 6200 mAh au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO F8 Ultra : Snapdragon 8 Elite, Écran 2K et Batterie 6200 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO F8 Ultra",
+            "items": [
+                {
+                    "feature": "Puce Snapdragon 8 Elite",
+                    "benefice": "Vitesse de traitement véloce pour tous vos flux de données complexes en direct."
+                },
+                {
+                    "feature": "Batterie Massive 6200 mAh",
+                    "benefice": "Endurance durable permettant d'assurer plusieurs journées d'usage soutenu."
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68",
+                    "benefice": "Protection certifiée face aux immersions dans l'eau douce et aux poussières."
+                },
+                {
+                    "feature": "Charge HyperCharge 120W",
+                    "benefice": "Restauration complète de la réserve d'énergie en moins d'une demi-heure."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO F8 Ultra concentre des technologies mobiles avancées au service des utilisateurs exigeants. Sa dalle AMOLED 2K de 6.67 pouces diffuse une précision visuelle soignée pour chaque contenu affiché. De plus, la fréquence adaptative de 120Hz apporte une douceur permanente lors des défilements tactiles réguliers. La puce Qualcomm Snapdragon 8 Elite traite par ailleurs les calculs graphiques professionnels les plus denses. Enfin, la batterie de 6200 mAh avec charge 120W assure une excellente disponibilité énergétique à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Puce Haute Précision Snapdragon 8 Elite et Refroidissement 3D",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Elite gravé en 3 nanomètres traite les données à haute cadence. Cette finesse de gravure limite la dissipation d'énergie lors des séances de calculs complexes prolongées. De surcroît, le circuit de refroidissement liquide évacue activement les calories hors des composants sensibles. Cette régulation thermique préserve la stabilité du taux d'images par seconde pendant les sessions multimédias. Les applications lourdes conservent en outre une réactivité instantanée sans aucun temps d'attente perceptible. Vous profitez d'une fluidité matérielle continue adaptée aux sollicitations les plus intenses en déplacement.",
+                    "La mémoire vive allant jusqu'à 16 Go permet d'alterner commodément entre plusieurs outils professionnels actifs. Le stockage interne rapide de 1 To accueille sans contrainte l'ensemble de vos archives volumineuses. Par conséquent, les transferts de fichiers denses s'effectuent sans ralentir votre travail collaboratif journalier. Le système d'exploitation Xiaomi HyperOS optimise l'attribution des cœurs aux processus applicatifs prioritaires. Cette coordination logicielle évite donc les fermetures inopinées d'outils fonctionnant en arrière-plan prolongé. Les utilisateurs disposent d'une station informatique portative fiable pour leurs missions professionnelles."
+                ]
+            },
+            {
+                "h2_title": "Écran AMOLED 2K Calibré et Solidité Renforcée IP68",
+                "paragraphs": [
+                    "La surface d'affichage AMOLED 2K de 6.67 pouces restitue des contrastes profonds et équilibrés. La luminosité de crête montant à 5000 nits autorise une consultation extérieure limpide en journée. Ainsi, la lecture de vos graphiques techniques reste évidente sous le plein soleil d'Abidjan. Le rafraîchissement adaptatif à 120Hz assure un confort visuel reposant lors des lectures prolongées. La gradation lumineuse protège en conséquence la rétine face aux contrastes violents dans la pénombre. Le verre Gorilla Glass préserve efficacement la face avant contre les rayures et micro-chocs.",
+                    "Le boîtier en métal renforcé bénéficie de la certification d'étanchéité complète IP68. Cette structure protectrice résiste aux immersions involontaires ainsi qu'aux dépôts de poussières fines. De plus, les tranches ergonomiques permettent une prise en main stable au bureau comme dehors. Les deux haut-parleurs stéréo symétriques Dolby Atmos créent une ambiance acoustique ample et immersive. Ce système sonore renforce dès lors la clarté des échanges audio durant vos téléconférences professionnelles. Vous profitez d'un environnement audiovisuel homogène adapté aux communications et aux loisirs vidéo."
+                ]
+            },
+            {
+                "h2_title": "Module Photographique 50 MP Stabilisé et Batterie de 6200 mAh",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 mégapixels capte des images nettes en basse lumière. La stabilisation optique OIS compense les mouvements involontaires pour sécuriser la mise au point. En effet, le piqué photographique reste net lors des scènes nocturnes urbaines et festives. Le téléobjectif dédié rapproche les sujets lointains avec une grande fidélité sans bruit graphique. Le traitement algorithmique affine également le rendu chromatique des paysages et des portraits naturels. Les vidéos enregistrées en 8K conservent une texture précise digne d'une caméra vidéo dédiée.",
+                    "L'accumulateur haute capacité de 6200 mAh garantit une autonomie pouvant couvrir plusieurs journées d'utilisation. La technologie de charge rapide 120W restaure l'ensemble de l'énergie en une demi-heure de connexion. Par ailleurs, le double processeur Surge régule en temps réel la température de l'accumulateur. Cette régulation thermique prévient tout échauffement anormal pendant les cycles de recharge rapide nomade. Cet ensemble d'atouts confirme assurément la place du POCO F8 Ultra au sommet de l'écosystème. Le Xiaomi POCO F8 Ultra s'impose comme un smartphone complet alliant endurance, vélocité et étanchéité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO F8 Ultra - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.0 x 75.5 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "218 g (0.218 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière (1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Obsidian Black), Titane (Titanium Gold)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED 2K, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+, 5000 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~89.5% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2K (1440 x 3200 pixels, ratio 20:9, ~526 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm, Octa-core jusqu'à 4.32 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 830"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "12 Go + 256 Go / 16 Go + 1 To (LPDDR5X, UFS 4.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP Sony LYT-900 1 pouce (f/1.6, OIS, Dual Pixel PDAF)"
+                        },
+                        {
+                            "label": "Téléobjectif périscope",
+                            "valeur": "50 MP (f/2.5, zoom optique 5x, OIS)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "50 MP (f/2.2, 120°)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "32 MP (f/2.2, HDR)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 30 fps, 4K jusqu'à 60 fps, gyroscope-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6200 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "HyperCharge 120W (100% en ~24 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 3.2 Gen 1 compatible DisplayPort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano / eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 7 (802.11 be), Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale optique sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo symétriques Dolby Atmos, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F8+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

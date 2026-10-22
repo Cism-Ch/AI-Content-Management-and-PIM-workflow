@@ -1,0 +1,391 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia Focus 2 Ultra",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+2+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+2+Ultra+specifications"
+            }
+        ],
+        "pricing_reference": "225000",
+        "official_sku": "ZTE-NUBIA-FOCUS-2-ULTRA"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "225000",
+            "sku_suffix": "512GB-8GB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "225000",
+            "sku_suffix": "512GB-8GB-VERT"
+        }
+    ],
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 7300 5G (4 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.5 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "AMOLED 1.5K 120Hz 10-bit",
+        "screen_resolution": "2800 x 1260 pixels",
+        "battery_capacity": "5100 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "512 Go"
+        ],
+        "ram_extension": "Extensible via RAM LPDDR5",
+        "os": "Android 14",
+        "os_skin": "MyOS 14",
+        "camera_main": "108 MP Neovision Master OIS (5 focales 18/24/35/50/85mm) + 50 MP Ultra Grand-Angle + 2 MP Macro",
+        "camera_selfie": "32 MP Haute Définition",
+        "audio_config": "Haut-parleurs Stéréo avec DTS:X Ultra",
+        "audio_tech": "Son spatial DTS:X Ultra & prise 3.5mm",
+        "connectivity_nfc": "Oui, multifonction",
+        "navigation_gps": "GPS + GLONASS + BDS + Galileo",
+        "card_slot": "Dual Nano SIM",
+        "charging_wired": "Charge ultra-rapide 66W USB-C",
+        "dimensions": "166.0 x 76.1 x 8.3 mm",
+        "weight": "0.200 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-FOCUS-2-ULTRA-MASTER",
+        "Name": "ZTE Nubia Focus 2 Ultra",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "225000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Nubia Focus 2 Ultra, 108MP OIS Master, AMOLED 1.5K, Dimensity 7300, 66W, 5G, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Blanc, Vert",
+        "Attribute 1 default": "Blanc",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.200 kg",
+        "Attribute 4 default": "0.200 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia Focus 2 Ultra : Écran AMOLED 1.5K 108 MP OIS et Charge 66W",
+        "brand_line": "Le smartphone photographique d'élite doté d'une dalle 1.5K, d'un capteur 108 MP OIS et d'une finition cuir vegan.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia Focus 2 Ultra sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia Focus 2 Ultra propose un écran AMOLED 1.5K 120Hz de 6.78 pouces, un système photo 108 MP OIS à 5 focales, la puce Dimensity 7300 4nm et une charge rapide 66W.",
+        "features": [
+            {
+                "feature": "Écran AMOLED 1.5K 120Hz 10-bit",
+                "benefice": "Précision d'image supérieure avec plus d'un milliard de teintes."
+            },
+            {
+                "feature": "Système 108 MP Master OIS à 5 Focales",
+                "benefice": "Stabilisation mécanique et cadrages polyvalents de 18 à 85 mm."
+            },
+            {
+                "feature": "Puce MediaTek Dimensity 7300 5G (4nm)",
+                "benefice": "Vitesse d'exécution remarquable et économie d'énergie."
+            },
+            {
+                "feature": "Batterie 5100 mAh & Charge 66W",
+                "benefice": "Autonomie constante et plein d'énergie complet en 35 minutes."
+            }
+        ],
+        "slogan_final": "ZTE Nubia Focus 2 Ultra — L'aboutissement photographique au service de votre talent.",
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia Focus 2 Ultra (8Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Nubia Focus 2 Ultra avec écran 1.5K AMOLED 120Hz, 108 MP OIS, Dimensity 7300 et charge 66W. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "ZTE Nubia Focus 2 Ultra, smartphone photo pro Abidjan, 108MP OIS, AMOLED 1.5K, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Nubia Focus 2 Ultra",
+            "lsi_keywords": [
+                "ZTE Nubia Focus 2 Ultra",
+                "smartphone ZTE Nubia Focus 2 Ultra Abidjan",
+                "ZTE Nubia Focus 2 Ultra prix",
+                "téléphone photo 108 mp ois 1.5k amoled",
+                "smartphone dimensity 7300 5g 66w",
+                "téléphone finition cuir vegan photo",
+                "achat smartphone premium My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Nubia Focus 2 Ultra 512 Go : AMOLED 1.5K & 108 MP OIS | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia Focus 2 Ultra. Dalle AMOLED 1.5K 120Hz, optique 108 MP OIS à 5 focales, puce Dimensity 7300 et charge 66W. Livraison soignée à Abidjan."
+        },
+        "h1": "ZTE Nubia Focus 2 Ultra : Dimensity 7300, Capteur 108 MP OIS et Écran 1.5K 120Hz",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE NUBIA FOCUS 2 ULTRA",
+            "items": [
+                {
+                    "feature": "Dalle AMOLED 1.5K 120Hz",
+                    "benefice": "Finesse visuelle remarquable pour retoucher vos clichés."
+                },
+                {
+                    "feature": "Optique 108 MP Stabilisée OIS",
+                    "benefice": "Précision chirurgicale sur les cinq focales d'exception."
+                },
+                {
+                    "feature": "Finition Cuir Vegan & Châssis Métal",
+                    "benefice": "Toucher noble et prise en main très valorisante."
+                },
+                {
+                    "feature": "Charge Ultra Rapide 66 Watts",
+                    "benefice": "Recharge totale accomplie en une demi-heure."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Nubia Focus 2 Ultra se positionne au sommet de la gamme photographique avec des composants de premier choix. Cet appareil répond idéalement aux attentes des créateurs de contenu et professionnels de l'image à Abidjan. En effet, sa dalle AMOLED 1.5K de 6.78 pouces procure une restitution colorimétrique d'une fidélité rare. De plus, son système 108 Mégapixels OIS couvre cinq focales optiques entre 18 et 85 millimètres. Le processeur MediaTek Dimensity 7300 gravé en 4 nanomètres assure une réactivité exemplaire. Par ailleurs, la batterie de 5100 mAh avec charge 66W apporte une autonomie durable. Enfin, sa conception ergonomique offre une prise en main stable lors des prises de vue.",
+        "sections": [
+            {
+                "h2_title": "Écran AMOLED 1.5K 120Hz et Puce Dimensity 7300 4nm",
+                "paragraphs": [
+                    "Le ZTE Nubia Focus 2 Ultra embarque une dalle AMOLED de 6.78 pouces en résolution 1.5K. Cette définition restitue les moindres nuances lors du visionnage de photos et de vidéos. De plus, la fréquence de rafraîchissement à 120 Hz élimine les flous de mouvement lors de la manipulation tactile. Ainsi, les animations s'affichent avec une souplesse continue sans aucune saccade. Le processeur Dimensity 7300 gravé en 4 nanomètres offre une gestion thermique exemplaire.",
+                    "La mémoire vive allant jusqu'à 12 Go en LPDDR5 assure des transitions instantanées entre vos applications de montage. D'ailleurs, le stockage interne de 256 Go ou 512 Go accueille l'ensemble de vos archives de travail. En outre, la connectivité 5G garantit des transferts rapides de fichiers volumineux. Le revêtement arrière en cuir vegan assure une préhension stable et agréable. Vous profitez d'un confort d'usage optimal au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Système 108 MP Master OIS et Ultra Grand-Angle 50 MP",
+                "paragraphs": [
+                    "Le module photo principal de 108 Mégapixels intègre une stabilisation optique mécanique OIS. Cette optique permet d'exploiter cinq focales photo de référence allant de 18 mm jusqu'à 85 mm pour les portraits serrés. De plus, le capteur ultra grand-angle de 50 Mégapixels assure une couverture panoramique avec une netteté uniforme sur les bords. La caméra frontale de 32 Mégapixels capture des autoportraits très détaillés. Ainsi, vos réalisations photographiques bénéficient d'un excellent rendu optique.",
+                    "Les haut-parleurs stéréo avec certification DTS:X Ultra délivrent une scène acoustique équilibrée et immersive. En effet, vous profitez d'une spatialisation sonore appréciable lors du visionnage de vos enregistrements vidéo. Également, la puce NFC multifonction facilite les échanges sans contact en toute sécurité. Le capteur d'empreintes digitales sous l'écran permet un déverrouillage fluide et instantané. Vous disposez d'un équipement moderne et complet."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5100 mAh et Charge Ultra Rapide 66W",
+                "paragraphs": [
+                    "La batterie haute capacité de 5100 mAh délivre une alimentation constante capable de couvrir de longues journées d'activité. Cette grande autonomie vous libère de l'obligation de recharger votre smartphone en cours de tournage. Par ailleurs, la technologie de charge rapide 66W remplit rapidement la cellule énergétique. En effet, une trentaine de minutes suffit pour regagner l'intégralité de l'autonomie. Vos projets professionnels se déroulent en toute sérénité.",
+                    "Le boîtier soigné affiche un poids de 215 grammes avec des finitions en noir cuir et marron vintage. D'autre part, la bague métallique autour des objectifs renforce l'aspect esthétique de l'appareil. En somme, le ZTE Nubia Focus 2 Ultra associe des performances optiques de pointe et une grande élégance de conception. Vous pouvez passer commande en toute confiance sur My-eStore. Le service de livraison dessert efficacement la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Nubia Focus 2 Ultra",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Nubia Focus 2 Ultra."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "164.0 x 75.5 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.215 kg (215 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, châssis en métal et dos en cuir vegan soigné"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Leather Black), Marron (Vintage Brown)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.78 pouces (~90.5% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "AMOLED 1.5K, 1 milliard de couleurs (10-bit), 120 Hz"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "1.5K (2800 x 1260 pixels, 20:9, ~452 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Luminosité maximale",
+                            "valeur": "1200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Dimensity 7300 5G (4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G615 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go LPDDR5"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go / 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "108 MP Neovision Master (f/1.75, 1/1.52\", stabilisation optique OIS, PDAF)"
+                        },
+                        {
+                            "label": "Focales photo intégrées",
+                            "valeur": "18 mm, 24 mm, 35 mm (Street), 50 mm (Portrait), 85 mm (Téléportrait)"
+                        },
+                        {
+                            "label": "Capteur ultra grand-angle",
+                            "valeur": "50 MP (f/2.2, 120˚, autofocus)"
+                        },
+                        {
+                            "label": "Capteur macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "32 MP (f/2.4, haute définition)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "4K à 30/60 fps, 1080p à 30/60 fps, gyro-EIS + OIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5100 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge ultra-rapide 66W filaire"
+                        },
+                        {
+                            "label": "Protocole de charge",
+                            "valeur": "Quick Charge 4+, USB Power Delivery 3.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6 dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 avec A2DP et LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui, multifonction"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo avec son spatial DTS:X Ultra"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales optique sous l'écran"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+2+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+Focus+2+Ultra+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

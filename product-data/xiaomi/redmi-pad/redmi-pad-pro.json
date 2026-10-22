@@ -1,0 +1,472 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Redmi Pad Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Pad Series",
+        "commercial_name": "Xiaomi Redmi Pad Pro",
+        "category": "tablet",
+        "sub_category": "tablet-midrange-productivity",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-PAD-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-PAD-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi Redmi Pad Pro 12.1 pouces 2.5K 120Hz Snapdragon 7s Gen 2 batterie 10000 mAh charge 33W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7s Gen 2 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "10000 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "microSDXC jusqu'à 1.5 To",
+        "weight": "0.571 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-PAD-PRO",
+        "Name": "Xiaomi Redmi Pad Pro - Écran 12.1\" 2.5K 120Hz - (6 Go|8 Go & 128 Go|256 Go) - 10000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "195000",
+        "Categories": "Tablettes > Xiaomi > Redmi Pad",
+        "Tags": "Xiaomi, Redmi Pad Pro, Redmi Pad Series, Tablette, Android, Écran 120Hz, Capteur 8MP, 10000mAh, Charge 33W, Snapdragon 7s Gen 2, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris | Vert Gris | Bleu",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.571 kg",
+        "Attribute 4 default": "0.571 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi 6",
+        "Attribute 5 default": "Wi-Fi 6",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert Gris",
+            "color_en": "Mint Green",
+            "color_code": "VERT-GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-VERT-GRIS"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert Gris",
+            "color_en": "Mint Green",
+            "color_code": "VERT-GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-128-GB-VERT-GRIS"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert Gris",
+            "color_en": "Mint Green",
+            "color_code": "VERT-GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-VERT-GRIS"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Ocean Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "245000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Pad",
+        "teaser": "La Xiaomi Redmi Pad Pro associe un grand écran 2.5K 120Hz de 12.1 pouces au processeur Qualcomm Snapdragon 7s Gen 2. Sa batterie de 10000 mAh avec charge 33W assure une autonomie durable soutenue par quatre haut-parleurs stéréo Dolby Atmos.",
+        "top_features_detailed": [
+            {
+                "label": "Écran 12.1\" 2.5K 120Hz",
+                "detail": "Résolution précise de 2560 x 1600 pixels au format 16:10 pour travailler confortablement en multitâche."
+            },
+            {
+                "label": "Puce Snapdragon 7s Gen 2 (4 nm)",
+                "detail": "Architecture Qualcomm véloce et efficiente adaptée au traitement des flux bureautiques et créatifs."
+            },
+            {
+                "label": "Batterie Durable 10000 mAh",
+                "detail": "Grande réserve énergétique assurant plusieurs journées d'autonomie avec recharge rapide filaire de 33W."
+            },
+            {
+                "label": "Quatre Haut-Parleurs Stéréo",
+                "detail": "Immersion sonore dynamique certifiée Dolby Atmos et Hi-Res pour vos visioconférences et vidéos."
+            }
+        ],
+        "marketing_conclusion": "La tablette Android grand écran par excellence taillée pour vos projets professionnels et vos loisirs.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Pad Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Redmi Pad Pro à Abidjan chez My-eStore. Écran 12.1 pouces 2.5K 120Hz, Snapdragon 7s Gen 2 et batterie 10000 mAh 33W au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Redmi Pad Pro",
+            "lsi_keywords": [
+                "tablette Xiaomi grand écran",
+                "Redmi Pad Pro 12.1 pouces",
+                "Snapdragon 7s Gen 2",
+                "batterie 10000 mAh 33W",
+                "HyperOS tablette"
+            ],
+            "meta_title": "Xiaomi Redmi Pad Pro 128 Go : Écran 12.1\" 120Hz & 10000 mAh | My-eStore",
+            "meta_description": "Découvrez la tablette Xiaomi Redmi Pad Pro avec écran 12.1 pouces 2.5K 120Hz, processeur Snapdragon 7s Gen 2 et batterie 10000 mAh 33W chez My-eStore."
+        },
+        "h1": "Xiaomi Redmi Pad Pro : Écran 12.1\" 120Hz, Snapdragon 7s Gen 2 et Batterie 10000 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI REDMI PAD PRO",
+            "items": [
+                {
+                    "feature": "Dalle 12.1\" 2.5K 120Hz",
+                    "benefice": "Résolution 2560 x 1600 pour travailler sur deux fenêtres avec netteté."
+                },
+                {
+                    "feature": "Snapdragon 7s Gen 2 4nm",
+                    "benefice": "Traitement réactif de vos feuilles de calcul et de vos cours en ligne."
+                },
+                {
+                    "feature": "Accumulateur 10000 mAh",
+                    "benefice": "Alimentation continue sur plusieurs jours avec une recharge rapide 33W."
+                },
+                {
+                    "feature": "Audio Quadruple Haut-Parleur",
+                    "benefice": "Scène sonore dynamique certifiée Dolby Atmos et Hi-Res Audio."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi Redmi Pad Pro répond aux attentes des utilisateurs cherchant un vaste espace de travail. Son écran spacieux de 12.1 pouces propose une définition 2.5K très précise. En effet, la fréquence adaptative de 120Hz assure une navigation agréable au fil des pages. De plus, le processeur Snapdragon 7s Gen 2 soutient l'exécution de vos tâches bureautiques usuelles. Ainsi, cet outil moderne favorise une organisation productive tout au long de vos journées.",
+        "sections": [
+            {
+                "h2_title": "Vaste Écran 12.1 Pouces 2.5K 120Hz et Qualité d'Affichage",
+                "paragraphs": [
+                    "Le boîtier en aluminium de la Xiaomi Redmi Pad Pro intègre une surface d'affichage spacieuse. Son format au ratio 16:10 permet de manipuler plusieurs documents sans fatigue visuelle excessive. Le profil fin de 7.5 mm garantit une prise en main stable en position horizontale. Par ailleurs, la vitre Corning Gorilla Glass 3 protège efficacement l'écran face aux micro-rayures. Le revêtement antireflet atténue la gêne provoquée par les lampes d'un bureau éclairé. En outre, le châssis rigide protège les composants internes lors des trajets réguliers.",
+                    "La dalle reproduit fidèlement 68 milliards de teintes avec un rendu colorimétrique bien étalonné. Cette justesse chromatique valorise grandement la consultation d'albums photo et de revues numériques. D'ailleurs, la compatibilité Dolby Vision affine le niveau de contraste sur chaque scène vidéo. La cadence de 120Hz fluidifie le tracé lors de l'utilisation d'un stylet tactile. La certification oculaire TÜV Rheinland protège efficacement vos yeux lors des révisions du soir. Enfin, la luminosité maximale maintient un affichage net même sous une forte lumière ambiante."
+                ]
+            },
+            {
+                "h2_title": "Efficacité Énergétique Snapdragon 7s Gen 2 et Productivité HyperOS",
+                "paragraphs": [
+                    "La puce Qualcomm Snapdragon 7s Gen 2 gravée en 4 nanomètres procure une réserve de puissance stable. Les huit cœurs équilibrent la répartition de charge entre logiciels actifs et veille prolongée. En effet, la puce graphique Adreno 710 assure une cadence soutenue dans vos logiciels graphiques. La mémoire vive rapide accélère la reprise instantanée de vos applications mises en pause. L'utilisateur passe d'un tableur à un navigateur web sans subir aucun temps d'attente. De plus, la conception thermique dissipe la chaleur de manière homogène sur la face arrière.",
+                    "L'espace interne accueille l'ensemble de vos dossiers académiques et contenus personnels sans difficulté. Les débits de transfert réduisent l'attente lors de la manipulation de fichiers volumineux. Par conséquent, la manipulation de gros dossiers d'archives conserve une réactivité appréciable. L'environnement logiciel HyperOS optimise le partage de données entre plusieurs appareils connectés. La gestion multifenêtre permet d'organiser plusieurs flux documentaires sur un même plan de travail. Ainsi, vous bénéficiez d'une expérience productive cohérente et très intuitive au fil des jours."
+                ]
+            },
+            {
+                "h2_title": "Acoustique Dolby Atmos et Batterie Haute Capacité de 10000 mAh",
+                "paragraphs": [
+                    "L'appareil dispose de quatre haut-parleurs stéréo répartis sur ses flancs pour un son équilibré. Cette disposition produit une scène acoustique nette sans saturation à fort volume d'écoute. De surcroît, le décodage Dolby Atmos renforce la sensation d'immersion pendant les films récents. La caméra frontale de 8 mégapixels garantit des échanges nets lors des visioconférences professionnelles. Le capteur arrière de 8 mégapixels numérise facilement vos documents écrits en haute résolution. En conséquence, vos cours en ligne et réunions collectives s'organisent avec une grande clarté.",
+                    "La batterie haute capacité de 10000 mAh offre une autonomie appréciable sur plusieurs journées. Vous pouvez utiliser la tablette en déplacement sans devoir constamment transporter le chargeur mural. Grâce au bloc d'alimentation de 33 watts, la batterie retrouve son énergie utile promptement. Cette commodité de charge écourte le temps d'immobilisation de votre outil de travail. La connectivité Wi-Fi 6 assure des transferts de données réguliers sur les bornes modernes. Enfin, la présence d'une prise audio 3.5 mm facilite l'usage d'un casque filaire standard."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Redmi Pad Pro",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Redmi Pad Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "280.0 x 181.9 x 7.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.571 kg (571 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre Gorilla Glass 3, châssis monobloc en alliage d'aluminium"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Graphite Gray), Vert Gris (Mint Green), Bleu (Ocean Blue)"
+                        },
+                        {
+                            "label": "Conception",
+                            "valeur": "Finition métallique sablée et tranches plates ergonomiques"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, 68 milliards de couleurs, Dolby Vision"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "12.1 pouces (~83.4% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "2.5K (1600 x 2560 pixels), ratio 16:10, ~249 ppp"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif dynamique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits (typique), 600 nits (HBM)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 3, triple certification TÜV Rheinland"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7s Gen 2 (Gravure 4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Adreno 710"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Slot microSDXC dédié jusqu'à 1.5 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "8 MP, f/2.0, capteur 1/4.0\", 1.12µm, AF"
+                        },
+                        {
+                            "label": "Fonctionnalités Caméra",
+                            "valeur": "Flash LED, HDR, mode scanner de documents"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "8 MP, f/2.3, cadrage automatique des visages"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Multimédia",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo symétriques"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, certification Hi-Res Audio filaire et sans fil"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui, prise casque 3.5 mm intégrée"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "2 microphones avec suppression de bruit ambiant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "10000 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge rapide 33W (PD / QC3+)"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 avec fonction OTG"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) bi-bande 2.4 GHz et 5 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2, A2DP, LE"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Accéléromètre, gyroscope, capteur de luminosité ambiante, capteur Hall"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android avec interface Xiaomi HyperOS pour tablette"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-14-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 14 Pro Max",
+    "category": "Smartphones",
+    "sub_category": "Premium",
+    "release_year": 2022,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A2894",
+    "regional_variants": [
+      { "region": "International", "sku": "A2894" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://support.apple.com/kb/SP876" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 14 Pro Max 128GB",
+      "sku_suffix": "128",
+      "configurations": { "ram": "6GB", "storage": "128GB" },
+      "pricing": { "official_price_fcfa": 750000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Deep Purple", "Gold", "Silver", "Space Black"],
+    "default": "Deep Purple"
+  },
+  "key_specifications": {
+    "processor": "Apple A16 Bionic (4 nm)",
+    "ram_options": ["6GB"],
+    "storage_options": ["128GB", "256GB", "512GB", "1TB"],
+    "screen_size": "6.7 pouces",
+    "screen_technology": "LTPO Super Retina XDR OLED",
+    "screen_resolution": "1290 x 2796 pixels",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "4323 mAh",
+    "charging_wired": "20W",
+    "charging_wireless": "15W (MagSafe)",
+    "os": "iOS",
+    "os_version": "16",
+    "camera_main": "48 MP, f/1.8, 24mm, OIS",
+    "camera_ultrawide": "12 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "12 MP, f/2.8, 77mm, 3x zoom optique, OIS",
+    "camera_selfie": "12 MP, f/1.9",
+    "video_max": "4K@60fps, ProRes, Cinematic mode",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 6",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "160.7 x 77.6 x 7.9 mm",
+    "weight": "240 g",
+    "materials": "Acier inoxydable, Ceramic Shield",
+    "biometrics": "Face ID (Dynamic Island)",
+    "additional_features": ["Dynamic Island", "Always-On display", "Crash Detection", "Satellite SOS"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

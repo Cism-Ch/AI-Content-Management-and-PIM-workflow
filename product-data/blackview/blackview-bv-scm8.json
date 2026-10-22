@@ -1,0 +1,313 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "SCM8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/scm8-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "115000",
+        "official_sku": "BV-SCM8"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Single Screen Ultra Controller",
+        "processor_ghz": "N/A",
+        "screen_size": "15.3 pouces (Écran Simple Grand Format)",
+        "screen_technology": "FHD IPS LCD Mat Anti-Reflets 100% sRGB",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation directe USB-C)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non disponible",
+        "os": "Compatible Windows, macOS, Android, Linux",
+        "os_skin": "Plug & Play sans pilote",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Double haut-parleur stéréo HD intégré",
+        "audio_tech": "Son Stéréo HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "Dual USB-C & Mini HDMI",
+        "dimensions": "352.2 x 237.42 x 15.9 mm",
+        "weight": "0.8 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-SCM8-MASTER",
+        "Name": "Blackview SCM8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "115000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview SCM8, Moniteur Portable, 15.3 Pouces, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.8 kg",
+        "Attribute 4 default": "0.8 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview SCM8 : Le Moniteur Portable 15.3 Pouces Ultra-Mince",
+        "brand_line": "Moniteur d'appoint grand format Blackview conçu pour les professionnels nomades.",
+        "marketing_conclusion": "Commandez le Blackview SCM8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview SCM8 offre un grand écran d'appoint 15.3 pouces Full HD IPS de seulement 800 g, une connectique USB-C Plug & Play et un châssis en aluminium.",
+        "features": [
+            {
+                "feature": "Grand Écran 15.3\" FHD IPS",
+                "benefice": "Surface de travail spacieuse offrant une excellente lisibilité."
+            },
+            {
+                "feature": "Conception Ultra-Mince 800 g",
+                "benefice": "Châssis aluminium très léger à emporter partout."
+            },
+            {
+                "feature": "Connectique USB-C & Mini HDMI",
+                "benefice": "Brancher et utiliser immédiatement sans pilote informatique."
+            },
+            {
+                "feature": "Support Pliable & Son Stéréo",
+                "benefice": "Maintien très stable sur table et son intégré pour visioconférence."
+            }
+        ],
+        "slogan_final": "Blackview SCM8 — Le grand confort d'affichage en toute simplicité.",
+        "seo": {
+            "meta_title": "Acheter Blackview SCM8 (Moniteur Portable 15.3\") à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable d'appoint grand format Blackview SCM8 avec écran 15.3 pouces Full HD et connectique USB-C. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview SCM8, moniteur portable Blackview, prix Abidjan, écran 15.3 pouces USB-C"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview SCM8",
+            "lsi_keywords": [
+                "Blackview SCM8",
+                "moniteur portable Blackview",
+                "prix Abidjan",
+                "écran d'appoint PC portable Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écran portable 15.3 pouces",
+                "USB-C 800g",
+                "écran portable FHD IPS",
+                "achat moniteur portable Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview SCM8 15.3\" : Moniteur Portable 800g & USB-C | My-eStore",
+            "meta_description": "Achetez le moniteur portable Blackview SCM8. Écran 15.3 pouces Full HD IPS (800 g), USB-C et pied ajustable. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview SCM8 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Châssis Aluminium Ultra-Léger 800 g",
+                    "benefice": "Grande maniabilité facilitant le rangement dans une sacoche."
+                },
+                {
+                    "feature": "Dalle IPS 15.3 Pouces Full HD",
+                    "benefice": "Résolution 1920x1080 offrant des textes très nets et lisibles."
+                },
+                {
+                    "feature": "Alimentation USB-C Directe",
+                    "benefice": "Connexion vidéo et électrique sur un unique fil de raccordement."
+                },
+                {
+                    "feature": "Couverture Colorimétrique 100% sRGB",
+                    "benefice": "Restitution naturelle des couleurs pour vos présentations."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview SCM8 est un moniteur portable d'appoint grand format et performant. Cet équipement répond parfaitement aux exigences des professionnels en déplacement en Côte d'Ivoire. Par ailleurs, son châssis en alliage d'aluminium ne pèse que 800 grammes. De plus, sa grande dalle de 15.3 pouces Full HD IPS garantit une excellente clarté d'affichage. Le traitement mat atténue les réflexions lumineuses pour préserver le confort de vos yeux. La connectique USB-C assure une mise en service instantanée sans aucun logiciel tiers. En effet, sa compatibilité universelle s'adapte à tous vos ordinateurs et consoles. Enfin, vous bénéficiez d'un second écran spacieux en toute circonstance.",
+        "sections": [
+            {
+                "h2_title": "Affichage FHD IPS 15.3 Pouces et Fidélité Visuelle",
+                "paragraphs": [
+                    "Le Blackview SCM8 intègre un grand panneau IPS de 15.3 pouces haute définition. Sa résolution Full HD de 1920 x 1080 pixels restitue vos graphiques et feuilles de calcul avec précision. De plus, la gamme de couleurs sRGB de 100% garantit des teintes très naturelles et fidèles. De surcroît, le revêtement mat évite les reflets gênants sous les lumières intenses. Les angles de vision larges à 178 degrés permettent une consultation facile à plusieurs. Le confort d'affichage reste élevé tout au long de vos sessions.",
+                    "La diagonale spacieuse de 15.3 pouces améliore la lisibilité des documents complexes sans fatigue. Vous suivez vos réunions à distance tout en gardant vos notes sous les yeux. En effet, la consommation d'énergie optimisée préserve l'autonomie de la batterie de l'ordinateur portable hôte. Le pied arrière pliable garantit un réglage précis de l'angle d'inclinaison. Ainsi, vos travaux professionnels à Abidjan gagnent en efficacité."
+                ]
+            },
+            {
+                "h2_title": "Connectique Polyvalente USB-C et Audio Stéréo",
+                "paragraphs": [
+                    "Le Blackview SCM8 propose deux ports USB-C multifonctions transmettant le signal vidéo et l'alimentation. En outre, la présence d'un port Mini HDMI élargit la compatibilité avec vos équipements fixes. Vous raccordez le moniteur directement à votre ordinateur portable en toute simplicité. La détection matérielle s'effectue automatiquement en mode miroir ou étendu. La prise en main globale s'avère fluide et immédiate. L'expérience d'utilisation devient très intuitive.",
+                    "Par ailleurs, l'appareil intègre deux haut-parleurs stéréo procurant un son très net. Vous pouvez ainsi suivre vos formations et vidéos explicatives sans haut-parleur externe. De plus, la prise Jack 3.5 mm offre la possibilité de raccorder un casque filaire facilement. Cette conception audio pratique s'adapte parfaitement aux environnements de travail nomades. En somme, cette extension d'écran réunit toutes les caractéristiques utiles."
+                ]
+            },
+            {
+                "h2_title": "Châssis Aluminium Solide et Mobilité Accrue",
+                "paragraphs": [
+                    "La structure du Blackview SCM8 combine finesse esthétique et grande résistance mécanique. La coque métallique en alliage d'aluminium protège l'écran contre les contraintes de transport. Son poids maîtrisé de 800 grammes constitue un avantage majeur pour les travailleurs itinérants. En effet, l'étui de protection fourni préserve la dalle contre les rayures durant vos trajets. Vous réinstallez votre poste de travail en quelques secondes sur le terrain.",
+                    "La compatibilité matérielle s'étend aux systèmes Windows, macOS, Android, Linux et ChromeOS. Cette universalité simplifie le raccordement avec une large gamme de téléphones et PC. Le Blackview SCM8 représente un choix hautement pertinent pour accroître votre surface de travail à Abidjan. En somme, son rapport qualité-prix en fait un produit extrêmement compétitif. Vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview SCM8",
+                "subtitle": "Spécifications matérielles certifiées du moniteur portable Blackview SCM8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions replié",
+                            "valeur": "352.2 x 237.42 x 15.9 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.8 kg (800 g)"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Moniteur portable d'appoint 15.3 pouces"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Nombre d'écrans",
+                            "valeur": "1 écran portable IPS"
+                        },
+                        {
+                            "label": "Taille écran",
+                            "valeur": "15.3 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Gamme de couleurs",
+                            "valeur": "100% sRGB"
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS Mat Anti-Reflets (178°)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Ports",
+                    "rows": [
+                        {
+                            "label": "Ports vidéo",
+                            "valeur": "2 x USB-C (DisplayPort + Power Delivery), 1 x Mini HDMI"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise Jack 3.5 mm & Haut-parleurs stéréo HD"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Alimentation directe via USB-C (5V/3A)"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play (sans pilote)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité",
+                    "rows": [
+                        {
+                            "label": "Compatibilité appareils",
+                            "valeur": "PC portables, Consoles, Smartphones (mode Desktop)"
+                        },
+                        {
+                            "label": "Systèmes d'exploitation",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS"
+                        },
+                        {
+                            "label": "Modes d'affichage",
+                            "valeur": "Mode Étendu, Mode Miroir, Mode Portrait"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Support inclinable",
+                            "valeur": "Pied arrière rétractable et ajustable"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câbles inclus",
+                            "valeur": "1 x Câble USB-C vers USB-C, 1 x Câble Mini HDMI vers HDMI"
+                        },
+                        {
+                            "label": "Accessoires",
+                            "valeur": "Guide de démarrage et housse de rangement"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/scm8-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

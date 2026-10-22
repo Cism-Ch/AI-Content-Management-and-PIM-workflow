@@ -1,0 +1,287 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "SCM6",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/scm6-price"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "BV-SCM6"
+    },
+    "key_specifications": {
+        "processor": "Contrôleur d'Affichage Vidéo USB-C / HDMI",
+        "processor_ghz": "Signal Vidéo 60 Hz",
+        "screen_size": "14.0 pouces",
+        "screen_technology": "FHD IPS LCD Antireflet 178°",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "Alimentation via câble USB-C Pass-Through (Pas de batterie intégrée)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Windows, macOS, Android, ChromeOS, Linux",
+        "os_skin": "Plug and Play USB-C / Mini HDMI",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Deux Haut-parleurs Stéréo intégrés",
+        "audio_tech": "Son HD via Mini HDMI / USB-C Audio",
+        "connectivity_nfc": "2x Ports USB-C Full-Featured + 1x Port Mini HDMI",
+        "navigation_gps": "N/A",
+        "card_slot": "N/A",
+        "charging_wired": "Alimenté par l'hôte USB-C ou adaptateur 5V/3A",
+        "dimensions": "332 x 207 x 15.6 mm",
+        "weight": "0.600 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-SCM6-MASTER",
+        "Name": "Blackview SCM6",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "95000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview SCM6, Écran Portable 14 pouces, Full HD 1080p, Dual Screen, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.600 kg",
+        "Attribute 4 default": "0.600 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview SCM6 : Écran Portable Extenseur 14 Pouces Full HD IPS USB-C Mini HDMI",
+        "brand_line": "L'écran portable d'extension Blackview conçu pour dédoubler votre espace de travail en déplacement.",
+        "marketing_conclusion": "Commandez le Blackview SCM6 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview SCM6 offre un écran 14.0 pouces Full HD IPS, une connectivité Plug and Play USB-C et deux haut-parleurs stéréo dans un boîtier compact.",
+        "features": [
+            {
+                "feature": "Écran Portable 14.0\" Full HD IPS",
+                "benefice": "Dédoublement d'affichage clair pour travailler sur deux écrans."
+            },
+            {
+                "feature": "Connectique Plug & Play USB-C",
+                "benefice": "Un seul câble suffit pour la vidéo et l'alimentation."
+            },
+            {
+                "feature": "Haut-Parleurs Stéréo Intégrés",
+                "benefice": "Diffusion sonore directe lors de vos présentations."
+            },
+            {
+                "feature": "Poids Maîtrisé 600 g et Housse",
+                "benefice": "Transport facile dans votre sac d'ordinateur."
+            }
+        ],
+        "slogan_final": "Blackview SCM6 — Étendez votre écran où que vous soyez.",
+        "seo": {
+            "meta_title": "Acheter Blackview SCM6 Écran Portable à Abidjan | My-eStore",
+            "meta_description": "Découvrez l'écran portable 14\" Blackview SCM6 avec dalle Full HD IPS, ports USB-C et Mini HDMI. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview SCM6, écran portable, extenseur écran 14 pouces, prix Abidjan, Full HD USB-C"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview SCM6",
+            "lsi_keywords": [
+                "Blackview SCM6",
+                "ecran portable Blackview Abidjan",
+                "Blackview SCM6 prix",
+                "extension ecran pc portable 14 pouces",
+                "moniteur portable usb-c full hd",
+                "accessoire informatique Côte d'Ivoire",
+                "achat ecran portable Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview SCM6 Écran Portable 14\" : Full HD IPS & USB-C | My-eStore",
+            "meta_description": "Achetez l'écran portable Blackview SCM6 14\". Dalle Full HD IPS, connexion USB-C / Mini HDMI, haut-parleurs stéréo. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview SCM6 : Spécifications de l'Écran Portable 14 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU DOUBLE ÉCRAN",
+            "items": [
+                {
+                    "feature": "Dalle Full HD 1080p 14.0 Pouces",
+                    "benefice": "Lisibilité parfaite de vos fenêtres de travail."
+                },
+                {
+                    "feature": "Connexion Monocâble USB-C",
+                    "benefice": "Vidéo et alimentation simultanées sans encombrement."
+                },
+                {
+                    "feature": "Finition Aluminium Mince 15.6 mm",
+                    "benefice": "Structure robuste et élégante pour le voyage."
+                },
+                {
+                    "feature": "Compatible PC, Mac et Smartphones",
+                    "benefice": "Polyvalence d'utilisation sur tous vos appareils."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview SCM6 est un écran portable d'extension particulièrement pratique et performant. Cet équipement convient très bien aux consultants et nomades numériques en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 14.0 pouces en définition Full HD offre une lisibilité visuelle très claire. De plus, son traitement antireflet garantit un confort de travail quotidien sous tout éclairage. L'affichage 60 Hz permet de travailler en toute sérénité sans fatigue oculaire. Son poids contenu de 600 grammes garantit une prise en main très pratique. L'installation Plug and Play sans pilote simplifie l'accès à vos dossiers. Enfin, cet écran moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Dalle 14.0 Pouces Full HD IPS et Antireflet",
+                "paragraphs": [
+                    "Le Blackview SCM6 intègre une dalle IPS de 14.0 pouces en définition Full HD. Sa résolution de 1920 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, les angles de vision larges de 178 degrés préservent la précision des couleurs. De surcroît, le traitement mat antireflet gère facilement le travail près d'une fenêtre. Vos yeux restent protégés.",
+                    "La structure rigide conserve une stabilité remarquable lorsqu'elle est adossée à l'ordinateur. Le rangement du moniteur dans sa pochette s'effectue en un instant. En effet, le cadre en aluminium protège le panneau d'affichage en toutes circonstances. Cette conception soignée convient parfaitement aux rendez-vous professionnels. Vos présentations clients restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Connectique USB-C, Mini HDMI et Audio Stéréo",
+                "paragraphs": [
+                    "Le Blackview SCM6 embarque deux ports USB Type-C multifonctions et une prise Mini HDMI. Cet équipement vidéo diffuse une image haute définition d'une netteté remarquable depuis votre PC. En outre, la présence des deux haut-parleurs stéréo s'avère très pratique lors des visioconférences. Les haut-parleurs intégrés optimisent la restitution des voix avec clarté. Ainsi, la transmission sonore via HDMI immortalise votre confort d'écoute. La qualité audio reste constante.",
+                    "Par ailleurs, le bouton de réglage OSD permet d'ajuster rapidement la luminosité. De plus, le câble USB-C vers USB-C inclus alimente directement l'écran depuis le PC portable. Également, la compatibilité avec les consoles de jeu offre un second moniteur de divertissement. De surcroît, le port jack 3.5mm permet d'écouter au casque. En somme, cet écran portable réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Ergonomie Portative et Alimentation Pass-Through",
+                "paragraphs": [
+                    "L'alimentation via le port USB-C de l'hôte procure une simplicité d'usage maximale. Cette importante technologie vous évite de transporter une brique de recharge supplémentaire. D'ailleurs, le mode de charge Pass-Through permet d'alimenter votre PC à travers l'écran. En effet, la consommation d'énergie maîtrisée préserve l'autonomie de votre ordinateur. Vos sessions de travail se poursuivent sans interruption.",
+                    "La silhouette épurée de 15.6 mm offre un encombrement minimal dans votre sac. Son poids de 600 grammes témoigne du soin apporté à la légèreté du châssis. D'autre part, le Blackview SCM6 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa double connectique en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview SCM6",
+                "subtitle": "Spécifications matérielles certifiées de l'écran portable Blackview SCM6."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "332 x 207 x 15.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.600 kg"
+                        },
+                        {
+                            "label": "Châssis",
+                            "valeur": "Alliage d'aluminium anodisé ultra-mince"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Noir"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "14.0 pouces IPS LCD Mat Antireflet"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Angles de vision",
+                            "valeur": "178° Horizontale / Verticale"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique & Entrées Vidéo",
+                    "rows": [
+                        {
+                            "label": "Ports Type-C",
+                            "valeur": "2x USB Type-C Full-Featured (Signal Vidéo DisplayPort Alt Mode & Alimentation)"
+                        },
+                        {
+                            "label": "Port HDMI",
+                            "valeur": "1x Mini HDMI 1.4"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "1x Prise jack casque 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système Audio & Haut-Parleurs",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "2x Haut-parleurs stéréo intégrés (8Ω 1W)"
+                        },
+                        {
+                            "label": "Boutons de contrôle",
+                            "valeur": "Molette OSD pour réglage de luminosité, volume et contraste"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alimentation & Énergie",
+                    "rows": [
+                        {
+                            "label": "Alimentation requise",
+                            "valeur": "5V / 3A via USB-C (Alimenté directement par l'ordinateur portable)"
+                        },
+                        {
+                            "label": "Charge Pass-Through",
+                            "valeur": "Support de la charge inversée de l'hôte"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes supportés",
+                            "valeur": "Windows 10/11, macOS, iPadOS, Android, ChromeOS, Linux, PS5/Xbox/Switch"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play sans pilote nécessaire"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/scm6-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    },
+    "colors": {
+        "default": "Gris",
+        "standard": [
+            "Gris"
+        ]
+    }
+}

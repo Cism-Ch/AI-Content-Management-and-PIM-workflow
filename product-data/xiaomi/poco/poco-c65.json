@@ -1,0 +1,425 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO C65 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO C Series",
+        "commercial_name": "Xiaomi POCO C65",
+        "category": "smartphone",
+        "sub_category": "entry-level-balanced",
+        "release_year": 2023,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-C65",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-C65"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/poco-c65/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+C65"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+C65+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi POCO C65 avec écran 6.74 pouces 90Hz processeur Helio G85 capteur 50MP batterie 5000 mAh et charge 18W."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G85 (12 nm, Octa-core)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 16 Go",
+        "audio_config": "Haut-parleur mono clair",
+        "audio_tech": "Prise casque 3.5mm et traitement audio",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge rapide 18W (compatible Power Delivery)",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "MicroSDXC (emplacement dédié)",
+        "weight": "0.192 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-C65",
+        "Name": "Xiaomi POCO C65 - Dual SIM - Écran 6.74\" 90Hz - (6 Go|8 Go & 128 Go|256 Go) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "82000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO C65, POCO C Series, Smartphone, Android, 4G, Écran 90Hz, Capteur 50MP, 5000mAh, Charge 18W, Helio G85, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu Nuit | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.192 kg",
+        "Attribute 4 default": "0.192 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "82000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "82000",
+            "sku_suffix": "6-GB-128-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "82000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "98000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "98000",
+            "sku_suffix": "8-GB-256-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "98000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme C Series Polyvalent & Affichage 90Hz",
+        "teaser": "Le smartphone 4G Xiaomi POCO C65 combine un grand écran 6.74 pouces à 90Hz, le processeur éprouvé MediaTek Helio G85 et un capteur photo de 50 MP. Doté d'une batterie de 5000 mAh avec charge 18W, il offre polyvalence et fiabilité au quotidien à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Grand Écran Fluide 6.74\" 90Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Dalle large et navigation très fluide",
+                "technical_detail": "Dalle IPS 6.74 pouces à 90Hz protégée par un verre trempé Corning Gorilla Glass.",
+                "daily_impact": "Lecture agréable de vos messages et défilement fluide sans aucune fatigue oculaire."
+            },
+            {
+                "feature_title": "Puce MediaTek Helio G85 (12 nm)",
+                "badge": "Performances",
+                "lead_benefit": "Réactivité constante pour vos tâches quotidiennes",
+                "technical_detail": "Architecture octa-core équilibrée avec mémoire vive dynamique extensible jusqu'à 16 Go.",
+                "daily_impact": "Exécution rapide de vos applications favorites et multitâche sans lenteur."
+            },
+            {
+                "feature_title": "Capteur Photo 50 MP avec IA",
+                "badge": "Photographie",
+                "lead_benefit": "Prises de vue nettes et couleurs naturelles",
+                "technical_detail": "Capteur principal haute résolution 50 mégapixels avec objectif macro dédié.",
+                "daily_impact": "Immortalisez aisément vos souvenirs de famille et documents avec netteté."
+            },
+            {
+                "feature_title": "Batterie 5000 mAh & Charge 18W",
+                "badge": "Autonomie",
+                "lead_benefit": "Autonomie sereine et temps de recharge réduit",
+                "technical_detail": "Batterie haute capacité de 5000 mAh compatible charge rapide 18W en USB Type-C.",
+                "daily_impact": "Utilisation ininterrompue tout au long de la journée sans craindre la coupure."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone polyvalent par excellence qui combine un affichage fluide 90Hz, des photos nettes et une autonomie solide pour toutes vos journées.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Express à Abidjan"
+            },
+            {
+                "icon": "credit-card",
+                "text": "Paiement Sécurisé à la Livraison"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO C65 (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO C65 chez My-eStore. Écran 6.74 pouces 90Hz, puce Helio G85, capteur 50MP et batterie 5000 mAh avec charge 18W livrés à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO C65 256Go : Helio G85 & Capteur 50MP | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO C65 chez My-eStore. Écran 6.74 pouces 90Hz, appareil photo 50MP et batterie 5000 mAh au tarif le plus bas garanti à Abidjan."
+        },
+        "h1": "Xiaomi POCO C65 : Helio G85, Écran 90Hz et Capteur 50MP",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO C65",
+            "items": [
+                {
+                    "feature": "Écran 6.74 pouces 90Hz",
+                    "benefice": "Affichage confortable et défilement fluide pour tous vos loisirs multimédias"
+                },
+                {
+                    "feature": "Puce MediaTek Helio G85",
+                    "benefice": "Processeur éprouvé gérant avec souplesse les jeux légers et le multitâche"
+                },
+                {
+                    "feature": "Capteur photo 50MP",
+                    "benefice": "Haute précision d'image pour réussir facilement vos photos de famille"
+                },
+                {
+                    "feature": "Batterie 5000 mAh & 18W",
+                    "benefice": "Autonomie constante toute la journée couplée à une recharge plus rapide"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone 4G Xiaomi POCO C65 propose un ensemble équilibré pour les utilisateurs recherchant la polyvalence. Son écran spacieux de 6.74 pouces assure en effet un défilement fluide grâce au rafraîchissement à 90Hz. Le processeur octa-core Helio G85 exécute sans latence les applications sociales et le streaming audio. La batterie de 5000 mAh garantit par ailleurs une grande réserve énergétique pour vos journées actives. Ce modèle accessible séduit par son rapport qualité et fonctionnalités très avantageux à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.74 Pouces 90Hz et Protection Gorilla Glass",
+                "paragraphs": [
+                    "La grande dalle tactile de 6.74 pouces offre un confort visuel appréciable lors de vos lectures. Les contrastes équilibrés affichent distinctement vos photographies et vos messages professionnels. Le taux de rafraîchissement à 90Hz permet ainsi une navigation douce dans toutes vos applications favorites. La luminosité suffisante autorise une consultation aisée de l'écran en pleine rue ensoleillée. Les certifications de réduction de lumière bleue préservent en outre vos yeux pendant les soirées calmes. Cet affichage généreux rend agréable le visionnage de séries lors de vos moments de repos.",
+                    "La vitre de protection Corning Gorilla Glass protège la face avant contre les rayures accidentelles. La coque arrière texturée offre une prise en main stable qui empêche tout glissement involontaire. Les bordures fines facilitent en effet la préhension à une seule main lors des appels. Les matériaux polymères choisis absorbent adéquatement les petits chocs subis pendant vos trajets réguliers. Cette résistance mécanique valorise par conséquent votre achat sur une longue durée d'utilisation. Vous transportez votre téléphone dans votre poche ou un sac sans crainte d'usure précoce."
+                ]
+            },
+            {
+                "h2_title": "Processeur Helio G85 et Double Capteur Photo 50 MP",
+                "paragraphs": [
+                    "La puce MediaTek Helio G85 intègre huit cœurs performants cadencés jusqu'à deux gigahertz. Cette architecture éprouvée assure un fonctionnement fluide pour toutes vos applications de communication. Le processeur graphique exécute également les jeux vidéo occasionnels avec une régularité appréciable. La mémoire vive extensible permet de passer d'un onglet à l'autre sans temps mort. Le stockage interne spacieux accélère de plus le chargement de vos vidéos et musiques enregistrées. L'interface logicielle MIUI optimise la mémoire système pour maintenir une fluidité continue du téléphone.",
+                    "Le capteur principal de 50 mégapixels prend des photos nettes aux couleurs fidèles et lumineuses. Le traitement d'image automatique équilibre l'exposition des arrière-plans lors de prises de vue diurnes. L'objectif macro révèle par ailleurs les petits détails insoupçonnés de vos sujets rapprochés. La caméra frontale capture des autoportraits clairs pour enrichir vos profils sur les réseaux. Le mode portrait sépare donc naturellement le sujet principal du fond pour valoriser les visages. Vos souvenirs de famille conservent une netteté remarquable au fil de vos partages quotidiens."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge Rapide 18W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh fournit une autonomie rassurante pour une journée complète d'activité. Vous passez vos appels téléphoniques sans guetter constamment le niveau de charge restant. La compatibilité avec la charge rapide 18W permet ainsi de recharger l'appareil en temps réduit. Le port USB Type-C offre une connexion réversible aisée pour alimenter votre smartphone. La régulation thermique protège également les composants de la batterie contre les fortes chaleurs. Cette conception durable préserve l'efficacité énergétique de la batterie après de multiples recharges.",
+                    "Le lecteur d'empreinte digitale latéral assure un déverrouillage sécurisé d'un simple effleurement du doigt. Le tiroir dédié accueille simultanément deux cartes SIM et une carte d'extension mémoire MicroSD. La prise jack 3.5mm permet en outre de brancher tous vos casques audio standards. La réception radio FM fonctionne sans dépendre d'une connexion internet ou d'un forfait data. Le haut-parleur intégré délivre par conséquent un son clair lors de vos conversations en mains libres. Cet ensemble complet et pratique fait ainsi du POCO C65 une référence très appréciée à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO C65 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.0 x 78.0 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "192 g (0.192 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque en polycarbonate texturé, face avant en verre Corning Gorilla Glass"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Bleu Nuit (Blue), Violet (Purple)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "Résistance aux éclaboussures légères"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Dot Drop display IPS LCD, 90Hz, certification TÜV Rheinland"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.74 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (1600 x 720 pixels), 260 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "450 nits (typique), 600 nits (HBM)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G85 (12 nm, Octa-core jusqu'à 2.0 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Arm Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go ou 256 Go eMMC 5.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Oui, port MicroSD dédié jusqu'à 1 To"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "MIUI 14 pour POCO basé sur Android 13 (mise à niveau HyperOS)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 50 MP (f/1.8) + macro 2 MP (f/2.4) + capteur auxiliaire"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP, f/2.0"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur mono clair"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 18W Power Delivery"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G, 2G (Double nano-SIM + port MicroSD)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/poco-c65/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+C65"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+C65+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

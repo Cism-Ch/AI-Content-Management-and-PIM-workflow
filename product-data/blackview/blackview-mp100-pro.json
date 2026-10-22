@@ -1,0 +1,302 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "MP100 Pro i9",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/mp100-pro-price"
+            }
+        ],
+        "pricing_reference": "325000",
+        "official_sku": "BV-MP100-PRO"
+    },
+    "key_specifications": {
+        "processor": "Intel Core i9-12900HK 3.8 GHz",
+        "processor_ghz": "Fréquence 3.8 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "Triple Affichage 4K UHD via HDMI + DisplayPort + Type-C",
+        "screen_resolution": "Support 4K 60Hz Multi-Écrans",
+        "battery_capacity": "Alimentation secteur DC 19V 4.74A (90W)",
+        "ram_options": [
+            "16 Go"
+        ],
+        "storage_options": [
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible jusqu'à 64 Go DDR5 Dual-Channel",
+        "os": "Windows 11 Pro Officiel préinstallé",
+        "os_skin": "Système de Refroidissement Passif & Ventilateur Silencieux",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Sortie Jack Audio 3.5mm & Audio Numérique HDMI",
+        "audio_tech": "Son Haute Définition Realtek ALC",
+        "connectivity_nfc": "Wi-Fi 6E Dual-Band & Bluetooth 5.2",
+        "navigation_gps": "N/A",
+        "card_slot": "Emplacement M.2 NVMe PCIe 4.0 SSD + Baie 2.5 pouces SATA",
+        "charging_wired": "Adaptateur Secteur Externe 90W inclus",
+        "dimensions": "147.5 x 147.5 x 41.8 mm",
+        "weight": "0.492 kg",
+        "graphics": "Intel Iris Xe Graphics",
+        "graphics_card": "Intel Iris Xe Graphics"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MP100-PRO-MASTER",
+        "Name": "Blackview MP100 Pro i9 Mini PC",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "25",
+        "Regular price": "325000",
+        "Categories": "Matériels Informatique & Bureautique > Ordinateurs Portable > Mini PC, Matériels Informatique & Bureautique > Ordinateurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview MP100 Pro, Mini PC Intel Core i9, 16GB RAM, 1TB SSD, Windows 11 Pro, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go | 1 To",
+        "Attribute 2 default": "1 To",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.492 kg",
+        "Attribute 4 default": "0.492 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview MP100 Pro i9 : Mini PC Intel Core i9-12900H 16 Go DDR5 Triple Affichage 4K",
+        "brand_line": "Le Mini PC de bureau haute performance Blackview conçu pour les professionnels et les créateurs.",
+        "marketing_conclusion": "Commandez le Blackview MP100 Pro i9 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview MP100 Pro i9 embarque un processeur Intel Core i9 14 cœurs, 16 Go de RAM DDR5, un SSD NVMe et le support triple écran 4K.",
+        "features": [
+            {
+                "feature": "Processeur Intel Core i9-12900H",
+                "benefice": "Puissance de calcul massive avec 14 cœurs jusqu'à 5.0 GHz."
+            },
+            {
+                "feature": "Mémoire 16 Go DDR5 & SSD NVMe",
+                "benefice": "Lancements d'applications professionnels en une fraction de seconde."
+            },
+            {
+                "feature": "Support Triple Écran 4K UHD",
+                "benefice": "Espace de travail multi-écrans immersif pour le montage et la gestion."
+            },
+            {
+                "feature": "Connectivité Wi-Fi 6E & Ethernet 2.5G",
+                "benefice": "Transferts réseau réseau ultra-rapides et sans latence."
+            }
+        ],
+        "slogan_final": "Blackview MP100 Pro i9 — La puissance d'une tour dans un format de poche.",
+        "seo": {
+            "meta_title": "Acheter Blackview MP100 Pro i9 Mini PC à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Mini PC Blackview MP100 Pro avec processeur Intel Core i9, 16 Go RAM DDR5 et Windows 11 Pro. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview MP100 Pro, Mini PC Intel Core i9, prix Abidjan, 16GB DDR5 1TB NVMe"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview MP100 Pro",
+            "lsi_keywords": [
+                "Blackview MP100 Pro",
+                "Mini PC intel core i9 Blackview Abidjan",
+                "Blackview MP100 Pro i9 prix",
+                "ordinateur fixe compact i9",
+                "mini pc bureau windows 11 pro",
+                "mini pc performant Côte d'Ivoire",
+                "achat mini pc i9 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview MP100 Pro i9 : Mini PC Intel Core i9 & 4K Triple Display | My-eStore",
+            "meta_description": "Achetez le Mini PC Blackview MP100 Pro. Processeur Intel Core i9-12900H, 16 Go RAM DDR5, SSD 1 To et Windows 11 Pro. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview MP100 Pro i9 : Spécifications du Mini PC de Bureau",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT MINI PC",
+            "items": [
+                {
+                    "feature": "Processeur Intel Core i9 14 Cœurs",
+                    "benefice": "Exécution très fluide des calculs informatiques lourds."
+                },
+                {
+                    "feature": "Refroidissement Cuivre Silencieux",
+                    "benefice": "Températures sous contrôle sans nuisance sonore."
+                },
+                {
+                    "feature": "Triple Sortie Vidéo 4K 60Hz",
+                    "benefice": "Productivité maximale sur trois moniteurs simultanés."
+                },
+                {
+                    "feature": "Boîtier Compact 14.7 cm",
+                    "benefice": "Gain de place considérable sur votre bureau."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview MP100 Pro i9 est un Mini PC de bureau particulièrement puissant et compact. Cet équipement convient très bien aux ingénieurs et créateurs de contenu en Côte d'Ivoire. Par ailleurs, sa structure carrée de 147.5 mm offre une lisibilité visuelle très moderne. De plus, sa conception thermique avancée garantit un fonctionnement silencieux au quotidien. Le processeur Intel Core i9 permet de travailler en toute sérénité sur des projets complexes. Son poids contenu de 492 grammes garantit une prise en main très pratique. Le système Windows 11 Pro préinstallé simplifie l'accès à tous vos logiciels. Enfin, cet ordinateur moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Processeur Intel Core i9 et Mémoire DDR5",
+                "paragraphs": [
+                    "Le Blackview MP100 Pro i9 intègre une puce Intel Core i9-12900H à 14 cœurs. Sa fréquence Turbo s'élève à 5.0 GHz pour restituer des détails de calcul impressionnants. De plus, la puce graphique Intel Iris Xe apporte une fluidité constante sur vos traitements vidéo. De surcroît, la mémoire RAM DDR5 de 16 Go gère facilement vos logiciels lourds. La réactivité du système reste optimale lors de l'exécution.",
+                    "Le stockage SSD NVMe de 512 Go ou 1 To conserve l'ensemble de vos fichiers volumineux. La présence d'un port d'extension M.2 permet d'étendre la capacité globale rapidement. En effet, le châssis s'ouvre facilement pour personnaliser les composants en toutes circonstances. Cette conception robuste protège l'ordinateur des chocs. Vos données professionnelles restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Affichage Triple Écran 4K, Wi-Fi 6E et Connectique",
+                "paragraphs": [
+                    "Le Blackview MP100 Pro i9 embarque un contrôleur graphique supportant trois moniteurs 4K simultanés. Cet équipement vidéo diffuse une image haute définition d'une précision remarquable en travail. En outre, la connectivité Wi-Fi 6E s'avère très pratique pour des débits internet très rapides. Les antennes réseau optimisent la stabilité de liaison même à travers les cloisons. Ainsi, le port Ethernet 2.5 Gigabits immortalise vos transferts de fichiers volumineux. La vitesse de connexion reste constante.",
+                    "Par ailleurs, les quatre ports USB 3.2 permettent de brancher tous vos périphériques externes. De plus, la sortie DisplayPort et le port HDMI facilitent le raccordement d'écrans. Également, le port Type-C multifonction autorise l'affichage vidéo direct. De surcroît, la prise jack 3.5mm garantit un raccordement audio très simple. En somme, ce Mini PC puissant réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Refroidissement Silencieux et Windows 11 Pro",
+                "paragraphs": [
+                    "Le système de refroidissement par caloducs en cuivre procure une dissipation thermique supérieure. Cette importante technologie vous permet de travailler sans interruption à pleine charge. D meure, l'alimentation externe 90W prend en charge le fonctionnement sans surchauffe. En effet, le ventilateur intelligent réduit les décibels lors des tâches de bureautique. Vos sessions d'analyse se poursuivent sans interruption.",
+                    "La silhouette compacte de 41.8 mm d'hauteur offre une installation sur bureau naturelle et très discrète. Son poids léger de 492 grammes témoigne de l'ingénierie apportée au boîtier. D'autre part, le Blackview MP100 Pro i9 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa puissance processeur en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview MP100 Pro i9",
+                "subtitle": "Spécifications matérielles certifiées du Mini PC Blackview MP100 Pro i9."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "147.5 x 147.5 x 41.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.492 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Boîtier ultra-compact carré (VESA compatible)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Intel Core i9-12900H (14 Cœurs / 20 Threads, jusqu'à 5.0 GHz, 24 Mo Cache)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Intel Iris Xe Graphics (96 EU)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go DDR5 4800 MHz (Dual-Channel, extensible jusqu'à 64 Go)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go / 1 To SSD M.2 NVMe PCIe 4.0 (extensible via baie 2.5\" SATA)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Affichage multi-écrans",
+                            "valeur": "Jusqu'à 3 écrans 4K simultanés"
+                        },
+                        {
+                            "label": "Connecteurs vidéo",
+                            "valeur": "1x HDMI 2.0 (4K@60Hz), 1x DisplayPort 1.4, 1x USB Type-C (Alt Mode)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6E (802.11 ax) Dual-Band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Réseau filaire (LAN)",
+                            "valeur": "1x Port Ethernet RJ45 2.5 Gigabits"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique E/S",
+                    "rows": [
+                        {
+                            "label": "Ports USB",
+                            "valeur": "4x USB 3.2 Gen2 Type-A, 1x USB Type-C multifonction"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack combo casque/micro 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Windows 11 Pro 64-bit Officiel préinstallé"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Adaptateur secteur externe DC 19V / 4.74A (90W)"
+                        },
+                        {
+                            "label": "Refroidissement",
+                            "valeur": "Double caloduc cuivre & ventilateur intelligent ultra-silencieux"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/mp100-pro-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "MP200 (Core i9)",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://www.blackview.fr/products/blackview-mp200-windows-11-intel-core-i5-i9-16-go-de-ram-512-go-1-to-ssd-wifi-6-mini-pc"
+            }
+        ],
+        "pricing_reference": "295000",
+        "official_sku": "BV-MP200-I9"
+    },
+    "key_specifications": {
+        "processor": "Intel Core i9-11900H 8 Coeurs 16 Threads",
+        "processor_ghz": "Fréquence Turbo 4.9 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "Triple Affichage 4K UHD via HDMI + DisplayPort + Type-C",
+        "screen_resolution": "Support 4K 60Hz Multi-Écrans",
+        "battery_capacity": "Alimentation secteur DC 19V 6.32A (120W)",
+        "ram_options": [
+            "16 Go"
+        ],
+        "storage_options": [
+            "512 Go",
+            "1 To"
+        ],
+        "ram_extension": "Extensible jusqu'à 64 Go DDR4 Dual-Channel",
+        "os": "Windows 11 Pro Officiel préinstallé",
+        "os_skin": "Ventilation Silencieuse & Pied Support Vertical Inclus",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Prise Jack Audio Combo 3.5mm & HDMI Audio",
+        "audio_tech": "Son Spatial HD Realtek ALC",
+        "connectivity_nfc": "Wi-Fi 6 Dual-Band & Bluetooth 5.2",
+        "navigation_gps": "N/A",
+        "card_slot": "Emplacement M.2 NVMe SSD + Baie 2.5 pouces SATA",
+        "charging_wired": "Adaptateur Secteur 120W inclus",
+        "dimensions": "183.2 x 150 x 75.5 mm",
+        "weight": "0.690 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-MP200-I9-MASTER",
+        "Name": "Blackview MP200 Core i9 Mini PC",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "295000",
+        "Categories": "Matériels Informatique & Bureautique > Ordinateurs Portable > Mini PC, Matériels Informatique & Bureautique > Ordinateurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview MP200, Mini PC Core i9, 16GB RAM, 1TB SSD, Windows 11 Pro, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go | 1 To",
+        "Attribute 2 default": "1 To",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.690 kg",
+        "Attribute 4 default": "0.690 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview MP200 Core i9 : Mini PC Intel i9 8 Coeurs 16 Go RAM Triple Écran 4K",
+        "brand_line": "Le Mini PC haute puissance Blackview avec processeur Intel Core i9 et socle vertical pour le bureau.",
+        "marketing_conclusion": "Commandez le Blackview MP200 Core i9 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview MP200 i9 intègre un processeur Intel Core i9-11900H 8 cœurs, 16 Go de RAM DDR4, un SSD NVMe et le Wi-Fi 6.",
+        "features": [
+            {
+                "feature": "Processeur Intel Core i9-11900H",
+                "benefice": "Puissance de calcul supérieure avec 8 cœurs jusqu'à 4.9 GHz."
+            },
+            {
+                "feature": "Mémoire 16 Go DDR4 & SSD NVMe",
+                "benefice": "Traitements multitâches fluides et débits de lecture élevés."
+            },
+            {
+                "feature": "Triple Affichage 4K 60Hz",
+                "benefice": "Confort visuel étendu sur 3 moniteurs simultanés."
+            },
+            {
+                "feature": "Support Vertical & Wi-Fi 6",
+                "benefice": "Gain d'espace sur bureau et réseau sans fil haut débit."
+            }
+        ],
+        "slogan_final": "Blackview MP200 Core i9 — La performance i9 dans un boîtier compact.",
+        "seo": {
+            "meta_title": "Acheter Blackview MP200 Core i9 Mini PC à Abidjan | My-eStore",
+            "meta_description": "Découvrez le Mini PC Blackview MP200 i9 avec processeur Intel Core i9, 16 Go RAM et Windows 11 Pro. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview MP200 i9, Mini PC Core i9, prix Abidjan, 16GB 1TB Windows 11 Pro"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview MP200 i9",
+            "lsi_keywords": [
+                "Blackview MP200 i9",
+                "Mini PC intel core i9 Blackview Abidjan",
+                "Blackview MP200 i9 prix",
+                "mini pc de bureau i9 16 Go",
+                "mini pc windows 11 pro i9",
+                "ordinateur i9 compact Côte d'Ivoire",
+                "achat mini pc i9 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview MP200 Core i9 : Mini PC 16 Go RAM & Triple 4K | My-eStore",
+            "meta_description": "Achetez le Mini PC Blackview MP200 Core i9. Processeur Intel 8 cœurs 4.9 GHz, 16 Go RAM DDR4, SSD NVMe 1 To et Windows 11 Pro. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview MP200 Core i9 : Spécifications du Mini PC i9",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU PROCESSEUR CORE I9",
+            "items": [
+                {
+                    "feature": "Processeur Intel Core i9 8 Cœurs",
+                    "benefice": "Puissance brute adaptée aux charges lourdes du bureau."
+                },
+                {
+                    "feature": "Socle Vertical Antidérapant",
+                    "benefice": "Organisation parfaite de votre espace de travail."
+                },
+                {
+                    "feature": "Triple Affichage HDMI/DP/Type-C",
+                    "benefice": "Immersions visuelles complètes sur trois moniteurs."
+                },
+                {
+                    "feature": "Refroidissement Cuivre Silencieux",
+                    "benefice": "Dissipation thermique efficace sans perturbation."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview MP200 Core i9 est un Mini PC de bureau particulièrement véloce et performant. Cet équipement convient très bien aux professionnels et développeurs exigeants en Côte d'Ivoire. Par ailleurs, sa structure verticale de 183.2 mm offre une lisibilité visuelle très moderne. De plus, son système de ventilation renforcé garantit un fonctionnement frais au quotidien. Le processeur Intel Core i9 permet de travailler en toute sérénité sur tous vos projets complexes. Son poids de 690 grammes garantit une prise en main très pratique. L'environnement Windows 11 Pro préinstallé simplifie l'accès à vos applications. Enfin, cet ordinateur puissant constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Processeur Intel Core i9 et Mémoire DDR4",
+                "paragraphs": [
+                    "Le Blackview MP200 Core i9 intègre une puce Intel Core i9-11900H à 8 cœurs et 16 threads. Sa fréquence Turbo s'élève à 4.9 GHz pour restituer des détails de calcul impressionnants. De plus, le contrôleur graphique Intel UHD Graphics apporte une fluidité constante sur vos visuels. De surcroît, la mémoire RAM DDR4 de 16 Go gère facilement vos sessions multitâches. Les applications lourdes s'exécutent avec réactivité.",
+                    "Le stockage SSD NVMe de 512 Go ou 1 To conserve l'ensemble de vos fichiers volumineux. La présence d'une baie 2.5 pouces SATA permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, l'ouverture du boîtier s'effectue simplement pour faire évoluer la mémoire en toutes circonstances. Cette conception soignée protège le matériel. Vos fichiers professionnels restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Triple Affichage 4K, Wi-Fi 6 et Ethernet Gigabit",
+                "paragraphs": [
+                    "Le Blackview MP200 Core i9 embarque trois sorties vidéo compatibles 4K 60Hz. Cet équipement multimédia diffuse une image haute définition d'une précision remarquable en réunion. En outre, la connectivité Wi-Fi 6 Dual-Band s'avère très pratique pour des visioconférences sans interruption. Les antennes intégrées optimisent le signal réseau même en environnement chargé. Ainsi, le port Ethernet Gigabit LAN immortalise vos transferts de données. La vitesse réseau reste constante.",
+                    "Par ailleurs, les quatre ports USB 3.2 Gen2 garantissent des transferts de données ultra-rapides. De plus, le port DisplayPort et la prise HDMI facilitent le raccordement de vos projecteurs. Également, la sortie Type-C prend en charge l'affichage vidéo et la donnée simultanée. De surcroît, la prise jack 3.5mm assure la connexion directe de votre casque. En somme, ce Mini PC i9 réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Pied Support Inclus et Windows 11 Pro",
+                "paragraphs": [
+                    "Le socle vertical amovible procure une stabilité remarquable sur votre bureau. Cette importante conception vous permet de travailler sans encombrer votre espace de travail. D'ailleurs, l'alimentation externe 120W prend en charge le fonctionnement optimal des composants. En effet, le ventilateur à grand volume d'air maintient la température sous 39°C. Vos heures de rédaction se poursuivent sans interruption.",
+                    "La silhouette affinée de 75.5 mm de largeur offre une esthétique naturelle et très professionnelle. Son poids contenu de 690 grammes témoigne du soin apporté à la structure. D'autre part, le Blackview MP200 Core i9 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa puissance en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview MP200 (Core i9)",
+                "subtitle": "Spécifications matérielles certifiées du Mini PC Blackview MP200 Core i9."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "183.2 x 150 x 75.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.690 kg"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Boîtier compact vertical avec socle antidérapant inclus"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Intel Core i9-11900H (8 Cœurs / 16 Threads, jusqu'à 4.9 GHz, 24 Mo Cache)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Intel UHD Graphics for 11th Gen Intel Processors"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go DDR4 3200 MHz (Dual-Channel, extensible jusqu'à 64 Go)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go / 1 To SSD M.2 NVMe PCIe 3.0 (extensible via baie 2.5\" SATA III)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Affichage multi-écrans",
+                            "valeur": "Jusqu'à 3 écrans 4K simultanés"
+                        },
+                        {
+                            "label": "Connecteurs vidéo",
+                            "valeur": "1x HDMI 2.0 (4K@60Hz), 1x DisplayPort 1.4, 1x USB Type-C (Display)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 ax) Dual-Band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Réseau filaire (LAN)",
+                            "valeur": "1x Port Ethernet RJ45 Gigabit (1000 Mbps)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectique E/S",
+                    "rows": [
+                        {
+                            "label": "Ports USB",
+                            "valeur": "4x USB 3.2 Gen2 Type-A, 1x USB Type-C multifonction"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack combo casque/micro 3.5 mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Windows 11 Pro 64-bit Officiel préinstallé"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Adaptateur secteur externe DC 19V / 6.32A (120W)"
+                        },
+                        {
+                            "label": "Refroidissement",
+                            "valeur": "Système cuivre haute conductivité & ventilateur silencieux"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://www.blackview.fr/products/blackview-mp200-windows-11-intel-core-i5-i9-16-go-de-ram-512-go-1-to-ssd-wifi-6-mini-pc"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AirBuds 12",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/airbuds12"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "25000",
+        "official_sku": "BV-AIRBUDS-12"
+    },
+    "key_specifications": {
+        "processor": "Puce Bluetooth 5.3 Low Latency",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "500 mAh (boîtier) / 45 mAh (écouteur)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio TWS",
+        "os_skin": "Contrôles tactiles natifs",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Drivers 13 mm dynamiques haute fidélité",
+        "audio_tech": "Réduction de bruit ENC & Son HD Stéréo",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "55 x 45 x 22 mm",
+        "weight": "0.045 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AIRBUDS-12-MASTER",
+        "Name": "Blackview AirBuds 12",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "60",
+        "Regular price": "25000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AirBuds 12, Écouteurs Sans Fil, TWS, Bluetooth 5.3, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.045 kg",
+        "Attribute 4 default": "0.045 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AirBuds 12 : L'Acoustique TWS Sans Fil Épurée",
+        "brand_line": "Écouteurs sans fil Blackview conçus pour la clarté sonore et le confort d'écoute.",
+        "marketing_conclusion": "Commandez les Blackview AirBuds 12 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les écouteurs Blackview AirBuds 12 intègrent des haut-parleurs de 13 mm, la puce Bluetooth 5.3 et une réduction de bruit environnementale ENC pour vos appels téléphoniques.",
+        "features": [
+            {
+                "feature": "Puce Bluetooth 5.3",
+                "benefice": "Connexion stable à faible latence portée jusqu'à 10 mètres."
+            },
+            {
+                "feature": "Drivers Dynamiques 13 mm",
+                "benefice": "Son HD équilibré avec des basses profondes et des aigus clairs."
+            },
+            {
+                "feature": "Réduction de Bruit ENC",
+                "benefice": "Filtrage des bruits ambiants pour des conversations limpides en tout lieu."
+            },
+            {
+                "feature": "Autonomie Cumulée 30h",
+                "benefice": "Boîtier compact de 500 mAh offrant plusieurs recharges complètes."
+            }
+        ],
+        "slogan_final": "Blackview AirBuds 12 — La liberté audio au quotidien.",
+        "seo": {
+            "meta_title": "Acheter Blackview AirBuds 12 (TWS Bluetooth 5.3) à Abidjan | My-eStore",
+            "meta_description": "Découvrez les écouteurs sans fil Blackview AirBuds 12 avec Bluetooth 5.3 et autonomie 30h. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AirBuds 12, écouteurs sans fil Blackview, prix Abidjan, Bluetooth 5.3"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AirBuds 12",
+            "lsi_keywords": [
+                "Blackview AirBuds 12",
+                "écouteurs sans fil Blackview",
+                "prix Abidjan",
+                "écouteurs Bluetooth Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écouteurs TWS 30h",
+                "boîtier 500 mAh",
+                "Bluetooth 5.3",
+                "achat écouteurs Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AirBuds 12 : Bluetooth 5.3 & Autonomie 30h | My-eStore",
+            "meta_description": "Achetez les écouteurs Blackview AirBuds 12. Puce Bluetooth 5.3, drivers 13 mm et boîtier de charge 500 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AirBuds 12 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Connexion Bluetooth 5.3",
+                    "benefice": "Appairage automatique rapide avec une excellente stabilité de signal."
+                },
+                {
+                    "feature": "Transducteurs 13 mm HD",
+                    "benefice": "Rendu sonore immersif pour la musique, le streaming et les appels."
+                },
+                {
+                    "feature": "Réduction de Bruit ENC Appels",
+                    "benefice": "Atténuation des bruits extérieurs lors de vos communications téléphoniques."
+                },
+                {
+                    "feature": "Format Ultra-Compact 45g",
+                    "benefice": "Boîtier ergonomique se glissant en toute discrétion dans votre poche."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview AirBuds 12 sont des écouteurs sans fil modernes et très performants. Cet équipement convient parfaitement aux amateurs de musique et aux professionnels en Côte d'Ivoire. La puce Bluetooth 5.3 assure une liaison sans fil réactive et sans coupure. De plus, la réduction de bruit ENC clarifie vos appels en milieu bruyant. Les transducteurs de 13 mm délivrent une acoustique très équilibrée. Le boîtier de charge de 500 mAh garantit plusieurs jours d'écoute continue. En effet, l'ergonomie des embouts offre un confort d'utilisation prolongé. Enfin, vous profitez d'une liberté totale dans vos déplacements.",
+        "sections": [
+            {
+                "h2_title": "Qualité Acoustique et Réduction de Bruit ENC",
+                "paragraphs": [
+                    "Les Blackview AirBuds 12 intègrent des haut-parleurs dynamiques de 13 mm. Cette configuration restitue un son clair avec des basses dynamiques et bien définies. Les voix restent très intelligibles lors de l'écoute de vos podcasts et vidéos. De surcroît, la technologie d'annulation de bruit ENC filtre les bruits de fond lors des appels. La transmission vocale conserve ainsi une grande netteté pour vos interlocuteurs. L'expérience d'écoute reste agréable tout au long de la journée.",
+                    "La conception intra-auriculaire s'adapte naturellement à la forme de votre oreille. Les embouts souples garantissent une isolation passive efficace contre les bruits extérieurs. En effet, la tenue reste stable même lors de vos activités physiques ou déplacements. L'étanchéité certifiée protège les écouteurs contre les projections d'eau et la transpiration. Ainsi, vous écoutez vos morceaux préférés en toute tranquillité."
+                ]
+            },
+            {
+                "h2_title": "Connexion Bluetooth 5.3 et Ergonomie Tactile",
+                "paragraphs": [
+                    "Le composant Bluetooth 5.3 offre un appairage instantané dès l'ouverture du boîtier. La portée du signal atteint 10 mètres sans aucune perte de qualité audio. Son faible temps de latence permet de visionner vos films sans décalage entre le son et l'image. En outre, les commandes tactiles sur la tige facilitent le contrôle de la musique. Vous ajustez le volume ou répondez aux appels d'un simple effleurement du doigt. L'utilisation quotidienne gagne en simplicité et en confort.",
+                    "Par ailleurs, l'assistant vocal de votre téléphone s'active d'une simple pression tactile. Vous pouvez passer des commandes vocales sans sortir votre smartphone de votre poche. De plus, le basculement entre le mode mono et stéréo se fait automatiquement. L'écoute continue reste possible en utilisant un seul écouteur pendant que l'autre recharge. En somme, cette flexibilité d'usage simplifie vos journées de travail."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Prolongée et Boîtier de Charge Compact",
+                "paragraphs": [
+                    "Le boîtier de charge compact intègre une batterie solide de 500 mAh. Chaque écouteur offre jusqu'à 6 heures d'autonomie en lecture continue sur une seule charge. Le boîtier permet de recharger complètement les écouteurs plusieurs fois d'affilée. Vous bénéficiez ainsi de 30 heures d'autonomie totale au quotidien. En effet, la prise USB-C permet une recharge rapide et efficace du boîtier. Vos écouteurs restent toujours prêts à l'emploi.",
+                    "La finition soignée du boîtier offre une prise en main très agréable. Son poids plume de 45 grammes le rend invisible une fois rangé dans une poche. Les écouteurs AirBuds 12 s'imposent comme un compagnon audio idéal pour vos déplacements à Abidjan. En somme, leur rapport qualité-prix en fait une opportunité très intéressante. Vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AirBuds 12",
+                "subtitle": "Spécifications matérielles certifiées des écouteurs Blackview AirBuds 12."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "55 x 45 x 22 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.045 kg (boîtier + écouteurs)"
+                        },
+                        {
+                            "label": "Poids par écouteur",
+                            "valeur": "4.2 g"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Intra-auriculaire True Wireless (TWS)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "13 mm dynamiques haute fidélité"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Impédance",
+                            "valeur": "32 Ohms"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction de bruit environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Autonomie écouteurs",
+                            "valeur": "Jusqu'à 6h d'écoute continue"
+                        },
+                        {
+                            "label": "Autonomie avec boîtier",
+                            "valeur": "Jusqu'à 30h grâce au boîtier de 500 mAh"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "1h30 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP, HSP"
+                        },
+                        {
+                            "label": "Connexion automatique",
+                            "valeur": "Appairage rapide à l'ouverture du boîtier"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri & Google Assistant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Commandes tactiles intuitives sur la tige"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance à l'eau et à la sueur IPX7"
+                        },
+                        {
+                            "label": "Mode Mono/Stéréo",
+                            "valeur": "Utilisation indépendante de chaque écouteur"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Double micro HD avec débruitage ENC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Embouts silicone",
+                            "valeur": "3 tailles d'embouts fournies (S/M/L)"
+                        },
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Boîtier",
+                            "valeur": "Boîtier de charge intelligent compact"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/airbuds12"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

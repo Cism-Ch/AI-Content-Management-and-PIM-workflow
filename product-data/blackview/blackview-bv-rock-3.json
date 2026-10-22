@@ -1,0 +1,337 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Rock 3",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/rock-3-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "145000",
+        "official_sku": "BV-ROCK-3"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.78 pouces",
+        "screen_technology": "FHD+ IPS LCD 120Hz Gorilla Glass 5",
+        "screen_resolution": "2460 x 1080 pixels",
+        "battery_capacity": "10000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "64 MP (Capteur OV64B) avec Flash LED",
+        "camera_selfie": "16 MP HD",
+        "audio_config": "Haut-parleur Smart-PA stéréo",
+        "audio_tech": "Son HD & Débruitage double micro",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "181 x 82 x 18.1 mm",
+        "weight": "0.388 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ROCK-3-MASTER",
+        "Name": "Blackview Rock 3",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "145000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Rock 3, Smartphone Durci, 10000mAh, Helio G99, 120Hz, IP68, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.388 kg",
+        "Attribute 4 default": "0.388 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Rock 3 : Le Smartphone Durci 10000 mAh et Helio G99",
+        "brand_line": "Smartphone incassable Blackview combinant puissance matérielle et grande autonomie.",
+        "marketing_conclusion": "Commandez le Blackview Rock 3 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Rock 3 intègre une batterie de 10000 mAh avec charge 33W, la puce Helio G99, un écran 6.78 pouces FHD+ 120Hz et un capteur photo 64 MP certifié IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Puce MediaTek Helio G99 (6 nm)",
+                "benefice": "Performances élevées et sobriété énergétique au quotidien."
+            },
+            {
+                "feature": "Batterie 10000 mAh & Charge 33W",
+                "benefice": "Excellente autonomie pour plusieurs jours de travail intensif."
+            },
+            {
+                "feature": "Écran 6.78\" FHD+ 120Hz Gorilla Glass",
+                "benefice": "Affichage ultra-fluide et net avec protection renforcée."
+            },
+            {
+                "feature": "Appareil Photo 64 MP HD",
+                "benefice": "Prises de vues très détaillées même en basse lumière."
+            }
+        ],
+        "slogan_final": "Blackview Rock 3 — L'équilibre idéal entre puissance et résistance.",
+        "seo": {
+            "meta_title": "Acheter Blackview Rock 3 (8Go/256Go 10000mAh) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview Rock 3 avec batterie 10000 mAh, Helio G99, écran 120Hz et capteur 64 MP. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Rock 3, smartphone durci Blackview, prix Abidjan, 10000mAh Helio G99"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Rock 3",
+            "lsi_keywords": [
+                "Blackview Rock 3",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable 10000mAh",
+                "meilleur prix Côte d'Ivoire",
+                "Helio G99 Octa-Core",
+                "batterie 10000 mAh",
+                "IP68 IP69K 64MP",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Rock 3 256 Go : 10000 mAh & Helio G99 | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview Rock 3. Batterie 10000 mAh, processeur Helio G99, écran 120Hz et 256Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Rock 3 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Processeur Helio G99 Octa-Core",
+                    "benefice": "Exécution rapide et réactive de toutes vos applications."
+                },
+                {
+                    "feature": "Résolution Écran FHD+ 120Hz",
+                    "benefice": "Qualité visuelle très nette avec des défilements d'une haute fluidité."
+                },
+                {
+                    "feature": "Capteur Photo 64 MP Haute Résolution",
+                    "benefice": "Restitution d'images claires et fidèles pour vos rapports de terrain."
+                },
+                {
+                    "feature": "Batterie 10000 mAh Longue Durée",
+                    "benefice": "Autonomie importante assurant une autonomie de deux à trois jours."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Rock 3 est un smartphone durci polyvalent et particulièrement performant. Cet appareil répond idéalement aux besoins des professionnels exigeants en Côte d'Ivoire. Par ailleurs, la puce MediaTek Helio G99 offre une réelle puissance de calcul. De plus, sa batterie de 10000 mAh permet d'enchaîner les journées de travail sans recharge. Son grand écran de 6.78 pouces FHD+ 120Hz procure un affichage d'une grande fluidité. Le système de charge rapide 33W rétablit l'énergie du téléphone en peu de temps. En effet, sa coque renforcée certifiée IP68 et IP69K résiste parfaitement aux environnements hostiles. Enfin, vous profitez d'une fiabilité totale au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Performance G99 et Écran 120Hz FHD+",
+                "paragraphs": [
+                    "Le processeur MediaTek Helio G99 du Blackview Rock 3 délivre une grande réactivité. Ses huit cœurs gravés en 6 nm atteignent 2.2 GHz pour gérer les tâches gourmandes. De plus, les 8 Go de mémoire RAM garantissent un multitâche fluide sans aucun ralentissement. De surcroît, le taux de rafraîchissement de 120 Hz rend l'utilisation de l'interface particulièrement agréable. La mémoire interne de 256 Go conserve tous vos fichiers multimédias et documents volumineux. Les performances système restent très stables en toute circonstance.",
+                    "L'écran de 6.78 pouces FHD+ affiche une résolution élevée de 2460 x 1080 pixels. Les textes ressortent avec une excellente netteté sous les rayons du soleil à Abidjan. En effet, la vitre Corning Gorilla Glass 5 préserve la dalle contre les rayures accidentelles. Le châssis absorbant protège les composants électroniques internes lors des chutes mécaniques. Ainsi, votre outil de travail conserve toute sa robustesse sur le terrain."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 10000 mAh et Appareil Photo 64 MP",
+                "paragraphs": [
+                    "Le Blackview Rock 3 renferme une batterie haute capacité de 10000 mAh. Cet accumulateur solide vous permet de voyager plusieurs jours sans chercher de prise secteur. En outre, le protocole de charge rapide 33W recharge efficacement cette réserve d'énergie. La gestion thermique interne prévient toute élévation de température durant le processus de charge. Les fonctions intelligentes de DokeOS 4.0 optimisent la consommation en veille. Vos communications se poursuivent sans interruption.",
+                    "Par ailleurs, le capteur photo arrière de 64 Mégapixels capture vos clichés avec clarté. Cette caméra restitue des détails précis pour documenter vos missions de chantier. De plus, la caméra selfie de 16 Mégapixels assure des appels vidéo d'une très bonne netteté. Le module NFC multifonction facilite vos opérations de paiement sans contact. En somme, cet équipement nomade réunit des caractéristiques très complètes."
+                ]
+            },
+            {
+                "h2_title": "Châssis Blindé et Normes Militaires",
+                "paragraphs": [
+                    "Le Blackview Rock 3 est conçu pour faire face aux conditions les plus exigeantes. Ses certifications IP68 et IP69K garantissent une étanchéité totale sous l'eau et à la poussière. La conformité avec la norme militaire MIL-STD-810H confirme sa résistance aux chocs répétés. Ses coins en caoutchouc haute densité amortissent les impacts en cas de chute de 1.5 mètre. En effet, les boutons d'accès et les trappes de charge restent parfaitement protégés. Vos activités s'effectuent en toute sérénité.",
+                    "La prise en main du smartphone reste confortable avec un poids maîtrisé de 388 grammes. Sa silhouette équilibrée offre un bon compromis entre autonomie géante et maniabilité. Le Blackview Rock 3 représente une opportunité très intéressante pour s'équiper à Abidjan. En somme, son rapport qualité-prix en fait un choix hautement compétitif. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Rock 3",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview Rock 3."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "181 x 82 x 18.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.388 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.78 pouces IPS LCD FHD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2460 x 1080 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 (6 nm) Octa-Core 2.2 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "64 MP (Capteur OV64B, f/1.79) avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "16 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "2K à 30 fps / 1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "10000 mAh"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 33W (USB-C)"
+                        },
+                        {
+                            "label": "Charge inversée",
+                            "valeur": "Oui (Reverse Powerbank)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 1080 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.2"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 4.0"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/rock-3-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

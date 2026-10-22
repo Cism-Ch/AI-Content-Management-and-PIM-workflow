@@ -1,0 +1,548 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s25-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S25 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S25",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S25",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S25"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s25/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S25"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S25 6.2\" 120Hz 12Go RAM 4000mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S25",
+        "Name": "Samsung Galaxy S25 - 6.2\" 120Hz - 12Go/256Go - 50MP - 4000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "650000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S25, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 4000mAh, Snapdragon 8 Elite, Galaxy AI, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Bleu Marine, Vert, Bleu, Argent, Rose, Rouge, Bleu Nuit",
+        "Attribute 1 default": "Bleu Marine",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Excellence compacte et l'intelligence Galaxy AI.",
+        "teaser": "Découvrez le Samsung Galaxy S25 avec son écran Dynamic AMOLED 2X de 6.2 pouces, son processeur haute performance et son triple module photo de 50 mégapixels.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 6.2\" Dynamic AMOLED 2X",
+                "benefice": "Dalle 120 Hz adaptative offrant un affichage net et une lisibilité parfaite"
+            },
+            {
+                "feature": "Processeur Haute Performance 3nm",
+                "benefice": "Multitâche rapide et exécution fluide de vos logiciels professionnels"
+            },
+            {
+                "feature": "Triple Capteur Photo 50MP",
+                "benefice": "Clichés précis et téléobjectif 3x optique pour saisir chaque détail"
+            },
+            {
+                "feature": "Batterie 4000 mAh & Charge Rapide",
+                "benefice": "Autonomie équilibrée pour votre journée avec recharge sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Un smartphone compact haut de gamme conçu pour allier maniabilité et efficacité au quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S25 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S25 au meilleur prix à Abidjan sur My-eStore. Écran Dynamic AMOLED 6.2\" 120Hz, 12Go RAM, 50MP et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S25 256Go : Écran 120Hz & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S25 sur My-eStore. Écran Dynamic AMOLED 6.2 pouces 120Hz, triple capteur 50MP, batterie 4000 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S25",
+            "lsi_keywords": [
+                "Samsung Galaxy S25 Abidjan",
+                "prix Samsung S25",
+                "fiche technique Galaxy S25",
+                "smartphone Samsung compact 5G",
+                "Galaxy S25 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S25 : Format Compact, Écran 120Hz et Puissance 12Go RAM",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S25 propose un écran Dynamic AMOLED 2X très lumineux. Cette dalle compacte procure une fluidité visuelle optimale grâce à son rafraîchissement adaptatif de 120 Hz. De plus, sa puce nouvelle génération gravée en 3nm accélère l'exécution des tâches quotidiennes. Le châssis en aluminium renforcé assure une excellente prise en main au creux de la paume. Enfin, sa batterie de 4000 mAh maintient une autonomie stable pour vos journées actives.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S25",
+            "items": [
+                {
+                    "feature": "Dalle 6.2\" 120Hz Adaptative",
+                    "benefice": "Grand confort de lecture et encombrement réduit en poche"
+                },
+                {
+                    "feature": "Triple Capteur Polyvalent 50MP",
+                    "benefice": "Stabilisation optique et zoom 3x pour des prises de vue nettes"
+                },
+                {
+                    "feature": "Fonctionnalités Galaxy AI",
+                    "benefice": "Traduction instantanée et retouche intelligente de vos documents"
+                },
+                {
+                    "feature": "Étanchéité Certifiée IP68",
+                    "benefice": "Résistance éprouvée contre la poussière et les immersions accidentelles"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Format Compact et Confort Visuel Supérieur",
+                "paragraphs": [
+                    "D'un côté, l'écran de 6.2 pouces permet une manipulation complète et agréable à une seule main. La technologie Dynamic AMOLED offre des couleurs équilibrées pour la consultation de tous vos documents. La protection en verre trempé réduit le risque de rayures superficielles lors des déplacements fréquents. Par ailleurs, la luminosité maximale autorise une lisibilité claire même en plein soleil à l'extérieur. Le profil fin se glisse aisément dans une poche sans encombrement inutile au quotidien. Vous profitez ainsi d'un appareil maniable adapté à un usage professionnel continu.",
+                    "D'un autre côté, la fréquence d'affichage s'ajuste dynamiquement selon les besoins de chaque application. Ce mécanisme régule la consommation électrique lors de la lecture prolongée de pages internet statiques. Les contrastes profonds mettent en valeur vos photos ainsi que vos flux vidéo personnels. En outre, la sensibilité tactile garantit une réactivité immédiate pour la saisie de vos messages. Les finitions soignées témoignent d'une conception de qualité pensée pour résister aux années. Ce terminal concilie compacité remarquable et performances d'affichage de premier ordre."
+                ]
+            },
+            {
+                "h2_title": "Capacités de Traitement et Gestion de l'Énergie",
+                "paragraphs": [
+                    "Tout d'abord, le processeur moderne traite les calculs complexes sans ralentissement ni surchauffe excessive. Les douze gigaoctets de mémoire vive assurent des transitions instantanées entre vos applications ouvertes. L'espace de stockage interne accueille vos fichiers professionnels et vos galeries de photos volumineuses. De surcroît, le circuit thermique maintient des performances homogènes même lors de sessions de travail soutenues. La suite logicielle Galaxy AI optimise la recherche d'informations et l'organisation de vos rendez-vous. Vous réalisez vos tâches numériques avec une fluidité constante et rassurante.",
+                    "Dans cette optique, le protocole de charge rapide filaire rétablit rapidement la disponibilité de votre smartphone. La compatibilité avec la recharge par induction facilite le confort d'alimentation sur votre espace de travail. La puce de sécurité protège efficacement l'intégrité de vos identifiants et transactions bancaires courantes. Également, la compatibilité avec le réseau cinq G accélère l'envoi de vos courriels professionnels. Vos appels vidéo restent stables grâce à une gestion optimale de la bande passante. Ce modèle constitue une solution durable et performante pour la productivité mobile."
+                ]
+            },
+            {
+                "h2_title": "Photographie Équilibrée et Disponibilité Quotidienne",
+                "paragraphs": [
+                    "D'abord, le module principal de 50 mégapixels réalise des clichés lumineux et précis en extérieur. La stabilisation optique de l'image élimine les flous de bougé lors des prises de vue rapides. Le téléobjectif optique 3x rapproche vos sujets distants avec une remarquable clarté de détail. De même, le capteur ultra grand-angle saisit de grands ensembles architecturaux sans recul nécessaire. Le mode nocturne compense les zones sombres pour valoriser les scènes prises en faible luminosité. Vous partagez des photographies soignées directement avec vos collaborateurs ou proches.",
+                    "Enfin, la batterie de 4000 mAh fournit l'énergie requise pour franchir l'ensemble de votre journée. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La fonction de partage d'énergie sans fil dépanne ponctuellement vos accessoires connectés compatibles. Par conséquent, vous conservez une totale sérénité lors de vos trajets professionnels ou personnels. Les matériaux sélectionnés garantissent une tenue exemplaire face à l'usure du temps. Le Galaxy S25 constitue un choix de premier rang pour les amateurs de formats compacts."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S25",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S25."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "146.9 x 70.5 x 7.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.162 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus 2, Cadre Armor Aluminum 2.0"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.2\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic LTPO AMOLED 2X"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2340 x 1080 pixels (FHD+), 416 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif (1-120Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, 24mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "10 MP, f/2.4, 67mm, Zoom optique 3x, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "12 MP, f/2.2, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 30 fps, 4K à 60/120 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4000 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android 15 avec One UI 7"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Jusqu'à 7 ans de mises à jour système et sécurité"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI (Traduction instantanée, Retouche intelligente, Circle to Search)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s25/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S25"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S25+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Icyblue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Icyblue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Icyblue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Pinkgold",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Pinkgold",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Pinkgold",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-ROSE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coralred",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coralred",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-ROUGE"
+        },
+        {
+            "color_fr": "Rouge",
+            "color_en": "Coralred",
+            "color_code": "ROUGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-ROUGE"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blueblack",
+            "color_code": "BLEU-NUIT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "650000",
+            "sku_suffix": "12-GB-128-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blueblack",
+            "color_code": "BLEU-NUIT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "845000",
+            "sku_suffix": "12-GB-256-GB-BLEU-NUIT"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blueblack",
+            "color_code": "BLEU-NUIT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1040000",
+            "sku_suffix": "12-GB-512-GB-BLEU-NUIT"
+        }
+    ]
+}

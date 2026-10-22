@@ -1,0 +1,420 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO F7 Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO F Series",
+        "commercial_name": "Xiaomi POCO F7 Pro",
+        "category": "smartphone",
+        "sub_category": "smartphone-flagship-pro",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-F7-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-F7-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F7+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F7+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone ultra puissant Xiaomi POCO F7 Pro avec écran 2K AMOLED 120Hz processeur Snapdragon 8 Gen 3 charge 120W et capteur photo 50MP OIS."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 16 Go",
+        "audio_config": "Double haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5500 mAh",
+        "charging_wired": "Charge HyperCharge 120W",
+        "navigation_gps": "GPS tri-bande, GLONASS, Galileo, BDS, NavIC",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-F7-PRO",
+        "Name": "Xiaomi POCO F7 Pro - Dual SIM - Écran 6.67\" 2K AMOLED 120Hz - (12 Go & 256 Go / 12 Go & 512 Go / 16 Go & 1 To) - 5500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "375000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO F7 Pro, POCO F Series, Smartphone, 5G, Écran 2K, Écran 120Hz, Capteur 50MP, OIS, 5500mAh, Charge 120W, Snapdragon 8 Gen 3, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Argent | Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go | 1 To",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "375000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "415000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "415000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "415000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "475000",
+            "sku_suffix": "16-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "475000",
+            "sku_suffix": "16-GB-1-TB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "475000",
+            "sku_suffix": "16-GB-1-TB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO F Series",
+        "teaser": "Le smartphone d'élite Xiaomi POCO F7 Pro réunit un écran AMOLED 2K à 120Hz et la puce Snapdragon 8 Gen 3. Doté d'un capteur 50 MP OIS haute précision et d'une charge rapide 120W avec batterie de 5500 mAh, il répond aux exigences professionnelles les plus pointues à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran AMOLED 2K Ultra-Net",
+                "benefice": "Définition dense garantissant une finesse de tracé soignée sur tous vos médias."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 3",
+                "benefice": "Capacité de calcul supérieure pour le jeu compétitif et les montages en direct."
+            },
+            {
+                "feature": "Batterie Renforcée 5500 mAh",
+                "benefice": "Autonomie soutenue pour franchir deux journées de travail sans interruption."
+            },
+            {
+                "feature": "Recharge HyperCharge 120W",
+                "benefice": "Batterie intégralement restaurée en une vingtaine de minutes de branchement."
+            }
+        ],
+        "marketing_conclusion": "Le fleuron de technologie alliant écran 2K haute définition et charge 120W ultra-véloce.",
+        "trust_badges": [
+            "Garantie 12 Mois Constructeur",
+            "Livraison Express à Abidjan",
+            "Service Client My-eStore Réactif"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO F7 Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F7 Pro à Abidjan chez My-eStore. Écran 2K 120Hz, puce Snapdragon 8 Gen 3 et charge 120W au meilleur prix garanti.",
+            "focus_keywords": [
+                "Xiaomi POCO F7 Pro",
+                "POCO F7 Pro prix Abidjan",
+                "smartphone 2K Snapdragon 8 Gen 3",
+                "POCO F7 Pro Abidjan"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO F7 Pro : Écran 2K & Charge 120W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO F7 Pro chez My-eStore. Écran 2K 120Hz, Snapdragon 8 Gen 3 et charge 120W au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO F7 Pro : Écran AMOLED 2K, Snapdragon 8 Gen 3 et Charge 120W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO F7 Pro",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 2K Ultra-Net",
+                    "benefice": "Définition dense garantissant une finesse de tracé soignée sur tous vos médias."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Gen 3",
+                    "benefice": "Capacité de calcul supérieure pour le jeu compétitif et les montages en direct."
+                },
+                {
+                    "feature": "Batterie Renforcée 5500 mAh",
+                    "benefice": "Autonomie soutenue pour franchir deux journées de travail sans interruption."
+                },
+                {
+                    "feature": "Recharge HyperCharge 120W",
+                    "benefice": "Batterie intégralement restaurée en une vingtaine de minutes de branchement."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO F7 Pro concentre des technologies matérielles avancées au service des utilisateurs exigeants. Sa dalle AMOLED 2K de 6.67 pouces diffuse des couleurs réalistes avec un contraste très équilibré. De plus, la fréquence adaptative de 120Hz garantit une grande douceur lors de chaque interaction tactile. La puce Qualcomm Snapdragon 8 Gen 3 traite par ailleurs vos logiciels professionnels les plus lourds. Enfin, la batterie de 5500 mAh avec charge 120W assure une excellente disponibilité énergétique à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Dalle AMOLED 2K Immersive et Châssis Métallique Robuste",
+                "paragraphs": [
+                    "L'écran AMOLED 2K de 6.67 pouces offre une densité de pixels particulièrement élevée et nette. Cette finesse d'affichage supérieure permet de consulter de longs rapports d'entreprise sans fatigue oculaire. De surcroît, la luminance maximale autorise une lisibilité complète sous la lumière solaire directe d'Abidjan. La fréquence de rafraîchissement adaptative de 120Hz s'ajuste intelligemment pour ménager l'autonomie de la batterie. La gradation lumineuse protège en outre la rétine lors des consultations tardives dans une pièce sombre. Vous profitez d'un confort visuel de premier ordre pour tous vos usages bureautiques et ludiques.",
+                    "Le boîtier monobloc en métal brossé procure une rigidité appréciable lors de vos manipulations journalières. Le dos en verre trempé satiné résiste efficacement aux traces de doigts et aux frottements. Par conséquent, l'appareil conserve une allure soignée en toutes circonstances professionnelles ou récréatives. Les deux haut-parleurs stéréo certifiés Dolby Atmos diffusent une ambiance acoustique ample et équilibrée. Cette spatialisation sonore améliore donc la clarté des échanges audio lors de vos réunions distancielles. Les utilisateurs profitent d'un environnement audiovisuel homogène pour l'écoute musicale ou le divertissement vidéo."
+                ]
+            },
+            {
+                "h2_title": "Module Photographique 50 MP Stabilisé et Clarté Nocturne",
+                "paragraphs": [
+                    "Le module photo principal de 50 mégapixels utilise un capteur à grande ouverture focale. La capture de lumière naturelle reste équilibrée même au crépuscule sans bruit numérique envahissant. Ainsi, les clichés urbains conservent des contrastes fidèles et des teintes très naturelles. La stabilisation optique OIS compense les micro-secousses pour garantir la netteté de chaque image. Le mode portrait dynamique applique en conséquence un flou d'arrière-plan harmonieux autour du sujet photographié. Cet enregistrement précis permet de capturer des scènes vivantes avec une grande fidélité visuelle.",
+                    "L'objectif ultra grand-angle permet d'immortaliser de larges monuments ou des paysages sans distorsion. La caméra frontale de 20 mégapixels assure des visioconférences nettes aux couleurs fidèles. De plus, l'algorithme d'imagerie assisté affine l'exposition des visages lors des prises de vue. L'enregistrement vidéo 8K produit des séquences détaillées adaptées aux besoins des créateurs de contenu. Vous disposez dès lors d'un studio d'enregistrement polyvalent prêt à capturer chaque événement quotidien. La réactivité de déclenchement facilite la saisie immédiate des actions spontanées en famille ou travail."
+                ]
+            },
+            {
+                "h2_title": "Puce Qualcomm Snapdragon 8 Gen 3 et Recharge Rapide 120W",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 8 Gen 3 supporte sans faiblir les flux applicatifs les plus denses. Sa gravure économe en 4 nanomètres optimise la consommation électrique sur chaque cœur de calcul. En effet, le processeur s'adapte en continu pour délivrer une cadence stable dans les jeux. Le circuit thermique LiquidCool dissipe activement la chaleur grâce à sa chambre à vapeur élargie. La mémoire vive allant jusqu'à 16 Go permet également de gérer de nombreux logiciels simultanés. Vous travaillez avec fluidité sans baisse de régime même lors d'exports de fichiers volumineux.",
+                    "La batterie haute capacité de 5500 mAh soutient aisément une autonomie pouvant atteindre deux journées complètes. La technologie HyperCharge 120W recharge la batterie de zéro à cent pour cent en vingt minutes. Par ailleurs, le double circuit de contrôle Surge veille en permanence sur la sécurité électrique. Cette surveillance prévient toute montée en température excessive pendant les séances de recharge dynamique rapide. Cet équilibre matériel complet confirme assurément la supériorité du POCO F7 Pro pour les professionnels. Le Xiaomi POCO F7 Pro représente une solution de référence pour les utilisateurs exigeants à Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO F7 Pro - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "160.9 x 75.0 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "205 g (0.205 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium aéronautique, dos en verre texturé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Argent (Silver), Bleu (Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED 2K, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+, 4500 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~89.2% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2K (1440 x 3200 pixels, ratio 20:9, ~526 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 3 (4 nm, Octa-core jusqu'à 3.3 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 750"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "12 Go + 256 Go / 12 Go + 512 Go / 16 Go + 1 To (LPDDR5X, UFS 4.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP Light Hunter (f/1.6, 1/1.55\", OIS, Dual Pixel PDAF)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 118°)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4, HDR)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 24 fps, 4K jusqu'à 60 fps, gyroscope-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5500 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "HyperCharge 120W (100% en ~20 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 7 (802.11 be), Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo symétriques Dolby Atmos, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F7+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F7+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

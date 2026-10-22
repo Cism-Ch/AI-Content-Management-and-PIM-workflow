@@ -1,0 +1,384 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade V70 Max",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V70+Max"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+V70+Max+specifications"
+            }
+        ],
+        "pricing_reference": "109000",
+        "official_sku": "ZTE-BLADE-V70-MAX"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Glacier Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "109000",
+            "sku_suffix": "256GB-8GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Olive Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "109000",
+            "sku_suffix": "256GB-8GB-VERT"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Sunshine Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "109000",
+            "sku_suffix": "256GB-8GB-OR"
+        }
+    ],
+    "key_specifications": {
+        "processor": "Processeur Huit Cœurs 2.0 GHz",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.75 pouces",
+        "screen_technology": "IPS LCD 90Hz Grand Format",
+        "screen_resolution": "1600 x 720 pixels",
+        "battery_capacity": "6000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible via mémoire virtuelle",
+        "os": "Android 14",
+        "os_skin": "MyOS 14",
+        "camera_main": "50 MP Haute Résolution avec IA et flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur puissant optimisé DTS Audio",
+        "audio_tech": "Son spatial DTS & prise casque 3.5mm",
+        "connectivity_nfc": "Non disponible sur ce modèle",
+        "navigation_gps": "GPS + GLONASS",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 22.5W USB-C",
+        "dimensions": "168.0 x 77.5 x 8.6 mm",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-V70-MAX-MASTER",
+        "Name": "ZTE Blade V70 Max",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "109000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade V70 Max, Batterie 6000mAh, Écran 6.75\", 50MP, 256Go, Charge 22.5W, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Vert, Or",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 default": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade V70 Max : Batterie 6000 mAh Écran 6.75 Pouces et 256 Go",
+        "brand_line": "Le smartphone à très grande autonomie doté d'une batterie 6000 mAh et d'un écran 6.75 pouces.",
+        "marketing_conclusion": "Commandez votre ZTE Blade V70 Max sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade V70 Max intègre une batterie haute endurance de 6000 mAh, un écran fluide 90Hz de 6.75 pouces, un capteur photo 50 MP et 256 Go de stockage.",
+        "features": [
+            {
+                "feature": "Batterie Très Haute Capacité 6000 mAh",
+                "benefice": "Endurance prolongée sur plusieurs jours d'utilisation."
+            },
+            {
+                "feature": "Écran 6.75\" 90Hz Confortable",
+                "benefice": "Surface d'affichage généreuse et lisibilité optimale."
+            },
+            {
+                "feature": "Stockage Massif 256 Go",
+                "benefice": "Espace suffisant pour tous vos fichiers et vidéos."
+            },
+            {
+                "feature": "Charge Rapide 22.5W USB-C",
+                "benefice": "Recharge efficace pour reprendre rapidement vos activités."
+            }
+        ],
+        "slogan_final": "ZTE Blade V70 Max — L'endurance maximale et l'espace visuel grand format.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade V70 Max (8Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le ZTE Blade V70 Max avec batterie 6000 mAh, écran 6.75\" 90Hz, caméra 50 MP et 256 Go. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "ZTE Blade V70 Max, smartphone batterie 6000mAh Abidjan, écran 6.75 pouces, 256Go, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade V70 Max",
+            "lsi_keywords": [
+                "ZTE Blade V70 Max",
+                "smartphone ZTE Blade V70 Max Abidjan",
+                "ZTE Blade V70 Max prix",
+                "téléphone batterie 6000 mah pas cher",
+                "smartphone grand écran 6.75 pouces",
+                "téléphone 256 go charge 22.5w",
+                "achat smartphone zte My-eStore",
+                "livraison téléphone Abidjan"
+            ],
+            "meta_title": "ZTE Blade V70 Max 256 Go : Batterie 6000 mAh & Écran 6.75\" | My-eStore",
+            "meta_description": "Achetez le ZTE Blade V70 Max. Batterie 6000 mAh, dalle 6.75 pouces 90Hz, capteur 50 MP, 256 Go et charge rapide 22.5W. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Blade V70 Max : Batterie 6000 mAh, Écran 6.75\" et Capteur 50 MP",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE BLADE V70 MAX",
+            "items": [
+                {
+                    "feature": "Batterie Haute Capacité 6000 mAh",
+                    "benefice": "Disponibilité énergétique sur plusieurs journées complètes."
+                },
+                {
+                    "feature": "Dalle 6.75 Pouces 90Hz",
+                    "benefice": "Grand espace de consultation pour documents et séries."
+                },
+                {
+                    "feature": "Capacité Interne 256 Go",
+                    "benefice": "Sauvegarde sans restriction de vos données personnelles."
+                },
+                {
+                    "feature": "Recharge Rapide 22.5W",
+                    "benefice": "Alimentation sécurisée par port USB Type-C."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade V70 Max répond avec brio aux besoins des utilisateurs recherchant une autonomie hors pair. Cet appareil s'adresse directement aux professionnels mobiles et aux grands voyageurs à Abidjan. En effet, sa batterie impressionnante de 6000 mAh assure plusieurs jours de fonctionnement sans interruption. De plus, sa grande dalle de 6.75 pouces procure un espace de lecture très confortable. Le processeur huit cœurs maintient un rythme de calcul régulier pour vos applications. Par ailleurs, la mémoire de 256 Go accueille tous vos fichiers multimédias volumineux. Cet équipement garantit ainsi une grande sérénité énergétique au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 6.75\" 90Hz et Processeur Huit Cœurs",
+                "paragraphs": [
+                    "Le ZTE Blade V70 Max intègre une dalle IPS de 6.75 pouces offrant une fréquence de 90 Hz. Cette dimension généreuse facilite la lecture de courriels et le visionnage de contenus vidéo. Ainsi, les textes s'affichent avec une bonne netteté et les menus défilent sans à-coups. De surcroît, le processeur huit cœurs cadencé à 2.0 GHz gère facilement vos tâches multitâches. La mémoire vive de 6 Go soutient une stabilité d'exécution appréciable.",
+                    "Le stockage interne de 256 Go offre une capacité idéale pour conserver vos documents professionnels. D'ailleurs, un port microSD permet d'ajouter de la mémoire si votre activité s'intensifie. En outre, la connexion 4G garantit des communications vocales limpides en tous lieux. La coque ergonomique assure une prise en main stable malgré le format étendu. Vous profitez d'un appareil très pratique au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP et Traitement Audio DTS",
+                "paragraphs": [
+                    "Le capteur photographique principal de 50 Mégapixels enregistre des images claires et détaillées. Cet objectif bénéficie de l'assistance de l'intelligence artificielle pour régler l'exposition selon la luminosité ambiante. De plus, la caméra avant de 8 Mégapixels assure des appels vidéo nets avec vos collègues et proches. Les différents modes de prise de vue simplifient la capture de paysages urbains. Ainsi, vos clichés gardent des couleurs naturelles et harmonieuses.",
+                    "La prise jack 3.5 mm et le système audio DTS procurent un son clair et bien défini au casque. En effet, les voix ressortent distinctement lors de vos appels mains libres ou de vos cours en ligne. Également, le connecteur USB Type-C réversible simplifie les opérations de recharge au quotidien. Le lecteur d'empreintes digitales sur le côté protège vos données avec une réactivité instantanée. Vous disposez d'un équipement moderne et sécurisé."
+                ]
+            },
+            {
+                "h2_title": "Batterie 6000 mAh et Charge Rapide 22.5W",
+                "paragraphs": [
+                    "La batterie de 6000 mAh délivre une alimentation constante capable de durer jusqu'à trois jours en usage modéré. Cette réserve énergétique libère l'esprit de toute contrainte de charge lors de vos déplacements prolongés. Par ailleurs, la technologie de charge rapide 22.5W permet de ravitailler la cellule en toute sécurité. En effet, vous récupérez une autonomie appréciable lors de vos pauses habituelles. Vos communications restent actives en toute circonstance.",
+                    "Le smartphone présente un poids équilibré de 205 grammes pour une prise en main solide et rassurante. D'autre part, les finitions en noir et bleu confèrent un style sobre et professionnel. En somme, le ZTE Blade V70 Max réunit une batterie de 6000 mAh et un grand affichage. Vous pouvez passer commande en toute confiance sur le site My-eStore. Le service de livraison rapide dessert la ville d'Abidjan."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade V70 Max",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade V70 Max."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "168.0 x 77.5 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.205 kg (205 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, châssis soigné et coque robuste"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Midnight Black), Bleu (Ocean Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.75 pouces (~86.5% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD grand format"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1600 x 720 pixels, 20:9, ~260 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "90 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Octa-Core 2.0 GHz"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Huit cœurs cadencés à 2.0 GHz"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 avec interface MyOS 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur auxiliaire",
+                            "valeur": "Capteur IA pour scènes et profondeur"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "8 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 22.5W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son optimisé DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V70+Max"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+V70+Max+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

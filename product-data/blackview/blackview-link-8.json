@@ -1,0 +1,308 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Link 8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/link-8-price"
+            }
+        ],
+        "pricing_reference": "175000",
+        "official_sku": "BV-LINK-8"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "12.7 pouces",
+        "screen_technology": "2.4K IPS LCD TUV Rheinland Low Blue Light",
+        "screen_resolution": "2176 x 1600 pixels",
+        "battery_capacity": "8400 mAh",
+        "ram_options": [
+            "6 Go",
+            "12 Go"
+        ],
+        "storage_options": [
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 24 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "16 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Quatre Haut-parleurs Stéréo Harman Kardon",
+        "audio_tech": "Son Spatial Quad-Speaker",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "282.98 x 214.2 x 8.4 mm",
+        "weight": "0.710 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-LINK-8-MASTER",
+        "Name": "Blackview Link 8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "175000",
+        "Categories": "Tablettes > Blackview > Link Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Link 8, Tablette 12.7 pouces, 2.4K, 8400mAh, 33W, 256GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Gris | Violet",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.710 kg",
+        "Attribute 4 default": "0.710 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Link 8 : Tablette 12.7 Pouces 2.4K Helio G99 Batterie 8400 mAh 33W",
+        "brand_line": "La grande tablette multimédia et professionnelle Blackview conçue pour le divertissement et le travail.",
+        "marketing_conclusion": "Commandez le Blackview Link 8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Link 8 propose un grand écran de 12.7 pouces 2.4K, le processeur Helio G99, quatre haut-parleurs et une batterie 8400 mAh avec charge 33W.",
+        "features": [
+            {
+                "feature": "Écran Géant 12.7\" 2.4K IPS",
+                "benefice": "Confort visuel immersif pour vos films et visioconférences."
+            },
+            {
+                "feature": "Quatre Haut-Parleurs Harman Kardon",
+                "benefice": "Rendu sonore puissant et clair lors de vos présentations."
+            },
+            {
+                "feature": "Puce Helio G99 & Jusqu'à 12 Go RAM",
+                "benefice": "Productivité multitâche fluide et sans aucun ralentissement."
+            },
+            {
+                "feature": "Batterie 8400 mAh & Charge 33W",
+                "benefice": "Autonomie prolongée toute la journée de travail."
+            }
+        ],
+        "slogan_final": "Blackview Link 8 — L'expérience grand écran pour vos projets.",
+        "seo": {
+            "meta_title": "Acheter Blackview Link 8 (6Go/12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Link 8 avec écran 12.7\" 2.4K, processeur Helio G99 et batterie 8400 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Link 8, tablette 12.7 pouces, prix Abidjan, 2.4K 8400mAh 33W"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Link 8",
+            "lsi_keywords": [
+                "Blackview Link 8",
+                "tablette 12.7 pouces Blackview Abidjan",
+                "Blackview Link 8 prix",
+                "tablette grand écran 2.4K",
+                "tablette harman kardon 8400 mAh",
+                "tablette travail Côte d'Ivoire",
+                "achat tablette grand écran Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Link 8 256 Go : Écran 12.7\" 2.4K & 8400 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Link 8. Écran géant 12.7\" 2.4K, audio Harman Kardon, batterie 8400 mAh 33W et puce Helio G99. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Link 8 : Spécifications de la Tablette 12.7 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU GRAND ÉCRAN",
+            "items": [
+                {
+                    "feature": "Dalle Haute Résolution 2.4K 12.7\"",
+                    "benefice": "Affichage spacieux idéal pour la bureautique."
+                },
+                {
+                    "feature": "Quadruple Haut-Parleur Stéréo",
+                    "benefice": "Immersion sonore remarquable pour vos contenus."
+                },
+                {
+                    "feature": "Recharge Rapide 33W USB-C",
+                    "benefice": "Récupération d'énergie rapide en cours de journée."
+                },
+                {
+                    "feature": "Mode PC DokeOS_P 4.0",
+                    "benefice": "Transformation instantanée de l'interface en ordinateur."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Link 8 est une tablette grand écran particulièrement performante et polyvalente. Cet équipement convient très bien aux professionnels et créateurs de contenu en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 12.7 pouces en définition 2.4K offre une lisibilité visuelle très claire. De plus, la certification TÜV Rheinland protège vos yeux contre la lumière bleue. La batterie généreuse de 8400 mAh permet de travailler en toute sérénité toute la journée. Son boîtier affiné de 8.4 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à tous vos projets. Enfin, cette tablette moderne constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 12.7 Pouces 2.4K et Puce Helio G99",
+                "paragraphs": [
+                    "Le Blackview Link 8 intègre une grande dalle IPS de 12.7 pouces en définition 2.4K. Sa résolution de 2176 x 1600 pixels restitue des détails d'une clarté impressionnante. De plus, la fréquence d'affichage fluide améliore le défilement de vos documents. De surcroît, le processeur Helio G99 à huit cœurs cadencés à 2.2 GHz gère facilement vos logiciels. Les 12 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le châssis en toutes circonstances. Vos applications de création restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Audio Quad Harman Kardon, Appareil 16 MP et 4G LTE",
+                "paragraphs": [
+                    "Le Blackview Link 8 embarque quatre haut-parleurs stéréo optimisés par Harman Kardon. Cet équipement audio diffuse un son haute définition d'une puissance remarquable en réunion. En outre, la caméra arrière de 16 Mégapixels s'avère très pratique pour numériser des documents clairs. Les algorithmes d'image optimisent le rendu des couleurs même sous faible éclairage. Ainsi, l'objectif frontal de 8 Mégapixels immortalise vos visioconférences avec netteté. La précision d'image reste constante.",
+                    "Par ailleurs, le Mode PC transforme l'interface utilisateur en environnement de bureau. De plus, le support du stylet permet de prendre des notes manuscrites naturelles. Également, la connectivité 4G LTE assure des appels et internet sans réseau Wi-Fi. De surcroît, le récepteur GPS intégré garantit un guidage très précis sur les cartes. En somme, cette grande tablette réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8400 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 8400 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sans interruption pendant de nombreuses heures. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la gestion thermique intelligente préserve la batterie lors des sessions de jeu. Vos activités multimédias se poursuivent sans interruption.",
+                    "La silhouette épurée de 8.4 mm offre une tenue en main confortable et très esthétique. Son poids maîtrisé de 710 grammes témoigne du soin apporté au grand format. D'autre part, le Blackview Link 8 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son écran géant en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Link 8",
+                "subtitle": "Spécifications matérielles certifiées de la tablette 12.7 pouces Blackview Link 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "282.98 x 214.2 x 8.4 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.710 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis monobloc en alliage d'aluminium anodisé"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Gris, Violet"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "12.7 pouces IPS LCD 2.4K"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2176 x 1600 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Certification TÜV Rheinland Low Blue Light"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G99 Octa-Core 2.2 GHz (6nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 12 Go LPDDR4X (+12 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go UFS (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "16 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Système audio",
+                            "valeur": "4 haut-parleurs stéréo certifiés Harman Kardon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8400 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual Nano SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.2"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0 avec Mode PC)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/link-8-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

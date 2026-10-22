@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-17-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 17",
+    "category": "Smartphones",
+    "sub_category": "Standard",
+    "release_year": 2025,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3485",
+    "regional_variants": [
+      { "region": "International", "sku": "A3485" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://apple.com/iphone-17" }
+    ]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 17 256GB",
+      "sku_suffix": "256",
+      "configurations": { "ram": "8GB", "storage": "256GB" },
+      "pricing": { "official_price_fcfa": 699000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Ultramarine", "Teal", "Pink", "White", "Black"],
+    "default": "Ultramarine"
+  },
+  "key_specifications": {
+    "processor": "Apple A19 (2 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "screen_size": "6.3 pouces",
+    "screen_technology": "Super Retina XDR OLED",
+    "screen_resolution": "1170 x 2550 pixels",
+    "screen_refresh_rate": "120Hz (ProMotion)",
+    "battery_capacity": "3500 mAh",
+    "charging_wired": "30W",
+    "charging_wireless": "15W (MagSafe)",
+    "os": "iOS",
+    "os_version": "26",
+    "camera_main": "48 MP, f/1.6, 26mm, dual pixel AF, sensor-shift OIS",
+    "camera_ultrawide": "48 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "Non",
+    "camera_selfie": "18 MP, f/1.9, Center Stage",
+    "video_max": "4K@60fps, Spatial Video",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 7",
+    "connectivity_bluetooth": "5.4",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "149.0 x 71.5 x 7.8 mm",
+    "weight": "178 g",
+    "materials": "Aluminium, Ceramic Shield 3",
+    "biometrics": "Face ID",
+    "additional_features": ["Action Button", "Camera Control 2.0", "Apple Intelligence V2"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_17",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

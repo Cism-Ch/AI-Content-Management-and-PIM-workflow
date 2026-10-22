@@ -1,0 +1,321 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Link 1 Kids",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/link-1-kids"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "65000",
+        "official_sku": "BV-LINK-1-KIDS"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "8.68 pouces",
+        "screen_technology": "HD+ IPS LCD Anti-Lumière Bleue",
+        "screen_resolution": "1340 x 800 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "64 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM virtuelle",
+        "os": "Android 13 avec Espace Enfants iKids",
+        "os_skin": "DokeOS_P 3.0 Kids",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Double haut-parleur stéréo Smart-PA",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "231.7 x 154.5 x 15 mm",
+        "weight": "0.476 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-LINK-1-KIDS-MASTER",
+        "Name": "Blackview Link 1 Kids",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "65000",
+        "Categories": "Tablettes > Blackview > Link Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Link 1 Kids, Tablette Enfant, iKids, Housse Antichoc, 5000mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Violet",
+        "Attribute 1 default": "Bleu",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.476 kg",
+        "Attribute 4 default": "0.476 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Link 1 Kids : La Tablette Éducative avec Housse Protection",
+        "brand_line": "Tablette tactile pour enfants Blackview équipée d'applications éducatives et du contrôle parental.",
+        "marketing_conclusion": "Commandez la Blackview Link 1 Kids sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La tablette Blackview Link 1 Kids intègre un écran 8.68 pouces eye-care, un processeur Tiger T606, l'espace enfants iKids, une batterie 5000 mAh et une housse en EVA renforcée.",
+        "features": [
+            {
+                "feature": "Écran 8.68\" HD+ Eye-Care",
+                "benefice": "Filtrage de la lumière bleue pour protéger les yeux des plus jeunes."
+            },
+            {
+                "feature": "Espace iKids & Contrôle Parental",
+                "benefice": "Environnement sécurisé avec gestion du temps d'écran et des contenus."
+            },
+            {
+                "feature": "Housse de Protection EVA Antichoc",
+                "benefice": "Coque résistante avec poignée rabattable servant de support."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Connectivité 4G",
+                "benefice": "Autonomie prolongée pour les jeux éducatifs et dessins animés."
+            }
+        ],
+        "slogan_final": "Blackview Link 1 Kids — L'apprentissage ludique et sécurisé.",
+        "seo": {
+            "meta_title": "Acheter Blackview Link 1 Kids (4Go/64Go 8.68\") à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette enfant Blackview Link 1 Kids avec écran 8.68 pouces, housse antichoc et contrôle parental iKids. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Link 1 Kids, tablette enfant Blackview, prix Abidjan, iKids 8.68 pouces"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Link 1 Kids",
+            "lsi_keywords": [
+                "Blackview Link 1 Kids",
+                "tablette enfant Blackview",
+                "prix Abidjan",
+                "tablette éducative iKids Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "Tiger T606 8.68 pouces",
+                "batterie 5000 mAh",
+                "housse EVA antichoc",
+                "achat tablette enfant Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Link 1 Kids 64 Go : 8.68\" & Contrôle iKids | My-eStore",
+            "meta_description": "Achetez la tablette enfant Blackview Link 1 Kids. Écran 8.68 pouces eye-care, housse antichoc EVA, 4Go RAM et 64Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Link 1 Kids : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Interface Dédiée iKids",
+                    "benefice": "Applications éducatives ludiques adaptées à l'éveil des enfants."
+                },
+                {
+                    "feature": "Coque de Protection Antichoc EVA",
+                    "benefice": "Matière souple absorbant les chutes avec poignée de transport intégrée."
+                },
+                {
+                    "feature": "Mode Protection Oculaire",
+                    "benefice": "Réduction de la fatigue visuelle lors des sessions de lecture."
+                },
+                {
+                    "feature": "Batterie 5000 mAh Longue Durée",
+                    "benefice": "Plusieurs heures de divertissement sans interruption de charge."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Link 1 Kids est une tablette éducative pour enfants performante et robuste. Cet équipement répond idéalement aux besoins d'apprentissage et de divertissement en Côte d'Ivoire. Par ailleurs, la puce Unisoc Tiger T606 garantit un fonctionnement réactif des jeux et applications. De plus, son écran de 8.68 pouces HD+ offre un confort visuel adapté aux enfants. La technologie eye-care réduit l'émission de lumière bleue pour préserver la vue. Sa batterie de 5000 mAh assure plusieurs heures d’autonomie pour le visionnage de dessins animés. En effet, sa housse de protection en mousse EVA résiste aux petits chocs du quotidien. Enfin, les parents contrôlent l'utilisation en toute tranquillité.",
+        "sections": [
+            {
+                "h2_title": "Écran 8.68 Pouces Eye-Care et Sécurité iKids",
+                "paragraphs": [
+                    "La Blackview Link 1 Kids possède un écran IPS HD+ de 8.68 pouces de haute clarté. Sa définition de 1340 x 800 pixels affiche des images colorées pour captiver l'attention des jeunes. De plus, le filtre oculaire certifié préserve la santé visuelle lors des lectures éducatives. De surcroît, l'application préinstallée iKids propose un univers d'éveil totalement sécurisé. Les parents définissent facilement les temps d'utilisation et les applications autorisées. L'expérience d'apprentissage reste ludique et très cadrée.",
+                    "La poignée intégrée à la coque se transforme en support incliné pour visionner des vidéos. Cette fonction offre un confort de visionnage idéal sur une table ou sur un lit. En effet, la surface en silicone doux garantit une prise en main antidérapante adaptée aux petites mains. Le châssis absorbant protège les coins de l'appareil contre les chutes accidentelles. Ainsi, votre tablette reste en très bon état d'usage au quotidien à Abidjan."
+                ]
+            },
+            {
+                "h2_title": "Performance Matérielle et Connexion 4G Dual SIM",
+                "paragraphs": [
+                    "Le processeur Unisoc Tiger T606 de la Blackview Link 1 Kids offre une réactivité très appréciable. Ses huit cœurs cadencés à 1.6 GHz exécutent sans ralentissement les applications éducatives. En outre, les 4 Go de mémoire RAM assurent une fluidité constante lors du changement de jeu. La mémoire de stockage de 64 Go conserve de nombreux livres interactifs et dessins animés. L'ajout d'une carte MicroSD jusqu'à 1 To permet d'étendre la capacité disponible. Les performances système répondent parfaitement aux besoins de l'enfant.",
+                    "Par ailleurs, le module cellulaire 4G LTE permet aux enfants de rester connectés en déplacement. La tablette intègre également un double haut-parleur stéréo pour une restitution sonore d'une grande clarté. De plus, la prise Jack 3.5 mm permet de brancher un casque audio lors des voyages en voiture. L'appareil photo de 13 Mégapixels permet aux enfants d'immortaliser leurs activités manuelles. En somme, cet équipement nomade réjouit toute la famille."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Ergonomie Enfantine",
+                "paragraphs": [
+                    "La batterie intégrée de 5000 mAh offre une réserve d'énergie durable très appréciable. Cet accumulateur permet de tenir une journée d'apprentissage et de loisirs sans recharge intermédiaire. Le port USB-C standard facilite la recharge au moyen des câbles de la maison. En effet, l'interface DokeOS_P 3.0 Kids est conçue pour être manipulée intuitivement par les plus jeunes. Les icônes larges et lisibles simplifient l'accès aux activités préférées.",
+                    "La housse de protection disponible en coloris Bleu ou Violet offre un style pétillant et très joyeux. Son poids maîtrisé de 476 grammes permet aux enfants de la transporter facilement dans leur sac. La Blackview Link 1 Kids constitue un cadeau éducatif très pertinent à Abidjan. En somme, son rapport qualité-prix en fait une opportunité extrêmement intéressante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Link 1 Kids",
+                "subtitle": "Spécifications matérielles certifiées de la tablette enfant Blackview Link 1 Kids."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "231.7 x 154.5 x 15 mm (avec housse EVA)"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.476 kg"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Housse de protection en mousse EVA renforcée"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Violet"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "8.68 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1340 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection visuelle",
+                            "valeur": "Mode Eye-Care anti-lumière bleue certifié"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 (12 nm) Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        },
+                        {
+                            "label": "Autonomie vidéo",
+                            "valeur": "Jusqu'à 6 heures en continu"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS_P 3.0 Kids"
+                        },
+                        {
+                            "label": "Logiciel enfants",
+                            "valeur": "Espace iKids préinstallé avec contrôle parental"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/link-1-kids"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

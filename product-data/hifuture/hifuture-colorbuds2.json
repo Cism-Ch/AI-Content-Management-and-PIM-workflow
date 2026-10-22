@@ -1,0 +1,317 @@
+{
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-11",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "hifuture-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du modèle HiFuture ColorBuds 2 avec rédaction 3-Persona."
+    },
+    "product_identity": {
+        "brand": "HiFuture",
+        "product_line": "Écouteurs Sans Fil TWS",
+        "commercial_name": "HiFuture ColorBuds 2",
+        "category": "audio",
+        "sub_category": "audio",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "HIFUTURE-COLORBUDS2",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "HIFUTURE-COLORBUDS2"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "HiFuture Official Store",
+                "url": "https://hifuturegroup.com/products/colorbuds2"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=HiFuture+ColorBuds+2"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=HiFuture+ColorBuds+2+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié HiFuture ColorBuds 2 Écouteurs TWS Bluetooth 5.3 IPX5"
+    },
+    "variants": [
+        {
+            "variant_name": "Standard",
+            "sku_suffix": "",
+            "configurations": {
+                "ram": "N/A",
+                "storage": "N/A"
+            },
+            "pricing": {
+                "official_price_fcfa": 18000,
+                "market_price_range_fcfa": {
+                    "min": 15000,
+                    "max": 22000
+                },
+                "price_source": "My-eStore",
+                "price_date": "2026-08-11",
+                "currency": "FCFA"
+            }
+        }
+    ],
+    "colors": {
+        "standard": [
+            "Noir",
+            "Blanc",
+            "Rose"
+        ],
+        "exclusive": [],
+        "default": "Noir"
+    },
+    "key_specifications": {
+        "processor": "Puce Audio TWS Gen 2",
+        "processor_ghz": "N/A",
+        "ram_options": [
+            "N/A"
+        ],
+        "ram_extension": "",
+        "storage_options": [
+            "N/A"
+        ],
+        "card_slot": "",
+        "screen_size": "N/A",
+        "screen_technology": "Indicateurs LED sur boîtier",
+        "screen_resolution": "N/A",
+        "screen_refresh_rate": "N/A",
+        "battery_capacity": "300 mAh Boîtier / 40 mAh Écouteurs (20h total)",
+        "charging_wired": "USB Type-C (5V / 1A)",
+        "charging_wireless": "Non",
+        "os": "Firmware HiFuture TWS Audio",
+        "os_version": "V1.0",
+        "os_skin": "",
+        "camera_main": "",
+        "camera_ultrawide": "",
+        "camera_telephoto": "",
+        "camera_selfie": "",
+        "video_max": "",
+        "audio_config": "Transducteurs Dynamiques 10 mm",
+        "audio_tech": "Réduction de Bruit ENC pour Appels & Bluetooth 5.3",
+        "connectivity_5g": false,
+        "connectivity_wifi": "Non",
+        "connectivity_bluetooth": "Bluetooth 5.3",
+        "connectivity_nfc": false,
+        "navigation_gps": "Non",
+        "sim_type": "Non",
+        "water_resistance": "IPX5 (Résistance transpiration & pluie)",
+        "dimensions": "55 x 45 x 25 mm (Boîtier)",
+        "weight": "0.082 kg",
+        "materials": "Polymère ABS ergonomique & Embouts silicone",
+        "biometrics": "Non",
+        "additional_features": [
+            "Transducteurs 10mm Dynamiques",
+            "Réduction de Bruit ENC pour Appels",
+            "Autonomie 20 Heures Totales",
+            "Étanchéité Certifiée IPX5"
+        ]
+    },
+    "sources": [
+        {
+            "name": "HiFuture Official Store",
+            "url": "https://hifuturegroup.com/products/colorbuds2"
+        },
+        {
+            "name": "Recherche Générique",
+            "url": "https://www.google.com/search?q=HiFuture+ColorBuds+2"
+        },
+        {
+            "name": "Recherche Spécialisée IA",
+            "url": "https://www.google.com/search?q=HiFuture+ColorBuds+2+specifications"
+        }
+    ],
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "woocommerce_csv": {
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Blanc, Rose",
+        "Attribute 1 default": "Noir",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.082 kg",
+        "Attribute 4 default": "0.082 kg",
+        "Name": "HiFuture ColorBuds 2 - Écouteurs Sans Fil TWS - Bluetooth 5.3 - Drivers 10mm - Boîtier 300mAh - IPX5",
+        "Stock": "10",
+        "Categories": "Audio & Hi-fi > Ecouteurs Sans Fil & Ecouteurs Filaire, Audio & Hi-fi",
+        "Tags": "HiFuture, HiFuture ColorBuds 2, Écouteurs sans fil, Écouteurs TWS, Bluetooth 5.3, Audio HD, Abidjan, My-eStore"
+    },
+    "short_description": {
+        "seo": {
+            "meta_title": "Acheter HiFuture ColorBuds 2 à Abidjan | My-eStore",
+            "meta_description": "Achetez les écouteurs HiFuture ColorBuds 2 au meilleur prix à Abidjan sur My-eStore. Drivers 10mm, autonomie 20h, IPX5 et livraison rapide en Côte d'Ivoire."
+        },
+        "text": "Découvrez les HiFuture ColorBuds 2. Écouteurs sans fil TWS officiels avec drivers 10mm, autonomie 20h et garantie officielle sur My-eStore."
+    },
+    "long_description": {
+        "h1": "HiFuture ColorBuds 2 : Transducteurs 10mm, Réduction ENC et Autonomie 20h",
+        "seo": {
+            "focus_keyword": "HiFuture ColorBuds 2 Abidjan",
+            "lsi_keywords": [
+                "HiFuture ColorBuds 2",
+                "écouteurs HiFuture ColorBuds 2",
+                "fiche technique HiFuture ColorBuds 2",
+                "prix HiFuture ColorBuds 2 Abidjan",
+                "My-eStore"
+            ],
+            "meta_title": "HiFuture ColorBuds 2 : Drivers 10mm & Autonomie 20h | My-eStore",
+            "meta_description": "Découvrez la fiche technique officielle des HiFuture ColorBuds 2 à Abidjan sur My-eStore. Drivers 10mm, réduction ENC et garantie officielle."
+        },
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Drivers Dynamiques 10mm",
+                    "benefice": "Son limpide avec basses rythmées et voix équilibrées."
+                },
+                {
+                    "feature": "Réduction de Bruit ENC pour Appels",
+                    "benefice": "Atténuation des bruits extérieurs lors de vos conversations."
+                },
+                {
+                    "feature": "Autonomie 20 Heures Totales",
+                    "benefice": "Écoute prolongée grâce à la réserve du boîtier compact."
+                },
+                {
+                    "feature": "Étanchéité Certifiée IPX5",
+                    "benefice": "Résistance éprouvée contre la sueur lors de vos séances de sport."
+                }
+            ]
+        },
+        "intro_paragraph": "Les HiFuture ColorBuds 2 sont des écouteurs sans fil TWS modernes et performants. Cet appareil convient parfaitement aux amateurs de musique en Côte d'Ivoire. En effet, la connexion sans fil garantit une excellente stabilité de signal au quotidien. De plus, la réduction de bruit améliore la clarté de vos appels téléphoniques. Par ailleurs, la certification IPX5 assure une protection efficace contre la transpiration.",
+        "sections": [
+            {
+                "h2_title": "Performance Acoustique et Rendu Sonore",
+                "paragraphs": [
+                    "Les HiFuture ColorBuds 2 intègrent des transducteurs acoustiques de haute précision. Cette configuration de 10mm restitue un son clair avec des basses bien définies. Les voix restent très intelligibles lors des appels et du streaming. De surcroît, le traitement sonore limite efficacement les distorsions à haut volume. L'expérience d'écoute reste agréable lors de vos déplacements quotidiens. Ainsi, vous profitez pleinement de chaque détail de votre playlist.",
+                    "La conception ergonomique s'adapte naturellement à votre morphologie auditive. Les embouts en silicone garantissent un maintien stable lors de vos activités. En effet, la protection contre la transpiration sécurise l'appareil pendant le sport. Vous utilisez votre équipement sonore en toute confiance chaque jour. De plus, la légèreté de la structure réduit la fatigue auditive prolongée. L'utilisation quotidienne devient un véritable plaisir pour vos oreilles."
+                ]
+            },
+            {
+                "h2_title": "Ergonomie Légère et Commandes Intelligentes",
+                "paragraphs": [
+                    "La technologie sans fil offre une connexion instantanée avec votre smartphone. La portée du signal permet une utilisation fluide sans aucune interruption. Son faible temps de latence améliore le visionnage de vos vidéos en ligne. En outre, les commandes intuitives facilitent la gestion des pistes musicales. Vous ajustez le volume d'un simple geste sur votre appareil. Ainsi, l'ergonomie générale simplifie vos usages professionnels et personnels.",
+                    "L'assistant vocal de votre téléphone s'active très rapidement d'une simple pression. Vous passez des commandes vocales sans manipuler votre smartphone directement. Par ailleurs, la gestion des appels téléphoniques s'effectue en toute simplicité. La transmission vocale conserve une grande clarté pour vos correspondants. De plus, cette polyvalence d'usage répond parfaitement à vos besoins quotidiens. Votre quotidien gagne en confort et en efficacité au bureau."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Prolongée et Connexion Stable",
+                "paragraphs": [
+                    "Le système d'alimentation intègre une batterie solide de 300 mAh dans le boîtier. L'autonomie globale permet de tenir jusqu'à 20 heures d'écoute au total. Le format compact se transporte facilement dans votre poche ou votre sac. En effet, la recharge rapide s'effectue via un câble USB Type-C standard. Vos écouteurs restent toujours prêts à l'emploi pour vos sorties. Ainsi, vous évitez les pannes d'énergie inattendues en plein déplacement.",
+                    "La finition soignée garantit une excellente durabilité au fil des mois. L'appareil résiste parfaitement aux contraintes d'un usage quotidien à Abidjan. De surcroît, le rapport qualité-prix se montre particulièrement avantageux pour vous. La conception légère garantit un port agréable sans aucune gêne tout au long de la journée. En résumé, ce modèle représente un équipement audio particulièrement équilibré pour vos trajets."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : HiFuture ColorBuds 2",
+                "subtitle": "Spécifications matérielles des HiFuture ColorBuds 2."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Modèle",
+                            "valeur": "HiFuture ColorBuds 2"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Écouteurs Intra-auriculaires TWS"
+                        },
+                        {
+                            "label": "Poids Total",
+                            "valeur": "0.082 kg"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc, Rose"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Acoustique",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "10 mm dynamiques"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "Réduction environnementale ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Batterie",
+                    "rows": [
+                        {
+                            "label": "Puce Audio",
+                            "valeur": "Puce Audio TWS Gen 2"
+                        },
+                        {
+                            "label": "Batterie Boîtier",
+                            "valeur": "300 mAh"
+                        },
+                        {
+                            "label": "Autonomie Totale",
+                            "valeur": "Jusqu'à 20h avec le boîtier"
+                        },
+                        {
+                            "label": "Port de Charge",
+                            "valeur": "USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (Portée 10m)"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IPX5 (Résistance sueur & pluie)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "HiFuture Official Store",
+                        "url": "https://hifuturegroup.com/products/colorbuds2"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=HiFuture+ColorBuds+2"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=HiFuture+ColorBuds+2+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "template_version": "3.4"
+}

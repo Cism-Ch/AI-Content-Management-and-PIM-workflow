@@ -1,0 +1,408 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 17 Ultra conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 17 Ultra",
+        "category": "smartphone",
+        "sub_category": "premium-flagship-camera",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-17-ULTRA",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-17-ULTRA"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-17-ultra/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+17+Ultra"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+17+Ultra+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone haut de gamme d'élite Xiaomi 17 Ultra avec capteurs Leica 1 pouce, Snapdragon 8 Elite Gen 5, écran 6.9 pouces et batterie 6000 mAh."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "6000 mAh",
+        "charging_wired": "Charge turbo 90W HyperCharge",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM ou SIM + eSIM)",
+        "weight": "0.218 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-17-ULTRA",
+        "Name": "Xiaomi 17 Ultra - Dual SIM - Écran 6.9\" 120Hz - (16 Go & 512 Go|1 To) - 6000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "750000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 17 Ultra, Xiaomi Series, Smartphone, Android, 5G, Écran 120Hz, Optiques Leica, 6000mAh, Charge 90W, Snapdragon 8 Elite Gen 5, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go | 1 To",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "16 Go",
+        "Attribute 3 default": "16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.218 kg",
+        "Attribute 4 default": "0.218 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "750000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "750000",
+            "sku_suffix": "16-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Starlit Green",
+            "color_code": "VERT",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "750000",
+            "sku_suffix": "16-GB-512-GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "820000",
+            "sku_suffix": "16-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "820000",
+            "sku_suffix": "16-GB-1-TB-BLANC"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Starlit Green",
+            "color_code": "VERT",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "820000",
+            "sku_suffix": "16-GB-1-TB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "L'Excellence Photographique avec Capteur Leica 1 Pouce et Snapdragon 8 Elite Gen 5.",
+        "teaser": "Le smartphone d'élite Xiaomi 17 Ultra redéfinit la photographie mobile grâce à son quadruple module Leica Summilux avec capteur 1 pouce. Propulsé par la puce Snapdragon 8 Elite Gen 5 avec un grand écran 2K de 6.9 pouces et une batterie de 6000 mAh, il propose une expérience technologique de premier ordre.",
+        "top_features_detailed": [
+            {
+                "feature": "Quadruple Module Leica Summilux",
+                "benefice": "Capteur principal 1 pouce et double téléobjectif périscopique garantissant des clichés détaillés"
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite Gen 5",
+                "benefice": "Architecture 3nm de pointe traitant instantanément l'imagerie informatique avancée et la vidéo 8K"
+            },
+            {
+                "feature": "Écran LTPO AMOLED 6.9\" 2K",
+                "benefice": "Dalle spacieuse 120Hz offrant des couleurs naturelles et une luminosité de pointe de 3500 nits"
+            },
+            {
+                "feature": "Batterie 6000 mAh & Charge 90W",
+                "benefice": "Autonomie robuste et recharge filaire rapide accompagnée de la charge sans fil 50W"
+            }
+        ],
+        "marketing_conclusion": "La référence absolue de la photographie mobile combinant optiques Leica d'élite, puissance 3nm et écran immersif.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 17 Ultra (16Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi 17 Ultra chez My-eStore. Quadruple optique Leica, Snapdragon 8 Elite Gen 5 et batterie 6000 mAh au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 17 Ultra 512 Go : Leica 1 pouce & Snapdragon 8 | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 17 Ultra chez My-eStore. Écran 6.9 pouces 2K, quadruple optique Leica, Snapdragon 8 Elite Gen 5 et batterie 6000 mAh à Abidjan.",
+            "focus_keyword": "Xiaomi 17 Ultra",
+            "lsi_keywords": [
+                "Xiaomi 17 Ultra Abidjan",
+                "Snapdragon 8 Elite Gen 5",
+                "smartphone photo Leica 1 pouce",
+                "écran LTPO 2K 120Hz",
+                "batterie 6000 mAh charge 90W"
+            ]
+        },
+        "h1": "Xiaomi 17 Ultra : Snapdragon 8 Elite Gen 5, Optiques Leica 1 Pouce et Écran 2K",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 17 Ultra",
+            "items": [
+                {
+                    "feature": "Système photo Leica quadri-capteur",
+                    "benefice": "Quatre modules 50MP polyvalents capturant chaque nuance de lumière avec fidélité"
+                },
+                {
+                    "feature": "Processeur Snapdragon 8 Elite Gen 5",
+                    "benefice": "Architecture haut de gamme exécutant toutes vos tâches créatives sans aucun délai"
+                },
+                {
+                    "feature": "Écran géant LTPO 6.9 pouces",
+                    "benefice": "Dalle 120Hz adaptative assurant un confort visuel remarquable sous forte lumière"
+                },
+                {
+                    "feature": "Batterie 6000 mAh & charge 90W",
+                    "benefice": "Réserve énergétique robuste avec charge filaire 90W et sans fil rapide 50W"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le Xiaomi 17 Ultra incarne le sommet absolu de la photographie mobile professionnelle. Son grand écran AMOLED LTPO de 6.9 pouces offre une netteté remarquable en définition 2K. De plus, le taux adaptatif 120Hz assure une fluidité exemplaire pour vos retouches visuelles. Le processeur Snapdragon 8 Elite Gen 5 exécute les calculs graphiques avec une aisance incomparable. Enfin, la batterie de 6000 mAh soutient de longues séances de captation en extérieur.",
+        "sections": [
+            {
+                "h2_title": "Un Écran 2K Spacieux de 6.9 Pouces et Châssis Renforcé",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.9 pouces affiche des contrastes infinis et des noirs profonds. En outre, la résolution 2K ciselée permet d'apprécier chaque nuance lors de vos visionnages. La luminance de pointe atteint 3500 nits pour une lisibilité optimale en plein soleil. Le verre protecteur de dernière génération préserve la face avant contre les rayures. Par ailleurs, la technologie LTPO ajuste le rafraîchissement afin d'économiser l'énergie de l'accumulateur. Le confort visuel reste irréprochable lors des séances prolongées de consultation professionnelle.",
+                    "D'autre part, le châssis en aluminium renforcé assure une rigidité structurelle exemplaire. La certification IP68 garantit une étanchéité complète contre l'eau douce et les poussières. Le revêtement dorsal offre une prise en main stable qui limite les glissements. Ainsi, vous manipulez sereinement votre appareil photographique dans toutes les situations. Les haut-parleurs stéréo diffusent une scène acoustique riche avec le traitement Dolby Atmos. L'assemblage premium valorise immédiatement l'ensemble des éléments de finition extérieure."
+                ]
+            },
+            {
+                "h2_title": "Optiques Leica Summilux et Puissance Snapdragon 8 Elite Gen 5",
+                "paragraphs": [
+                    "Tout d'abord, le système photographique Leica quadri-capteur élève la capture mobile au rang d'art. Le capteur principal 50 mégapixels d'un pouce absorbe une quantité abondante de lumière naturelle. Les deux téléobjectifs périscopiques immortalisent les sujets distants avec un piqué chirurgical. De surcroît, l'ultra grand-angle capture les paysages architecturaux avec une distorsion minimale. Les filtres authentiques Leica restituent des couleurs fidèles sans saturation artificielle excessive. L'enregistrement vidéo 8K produit des rendus cinématographiques d'une stabilité exemplaire.",
+                    "De ce fait, la plateforme Snapdragon 8 Elite Gen 5 libère une réactivité foudroyante. L'architecture 3 nanomètres traite les algorithmes d'imagerie avancés sans aucun ralentissement. La mémoire vive de 16 Go garantit un multitâche instantané entre plusieurs flux vidéo. Également, la grande chambre à vapeur maintient la température stable sous forte sollicitation. Le moteur neuronal optimise en continu l'exposition lumineuse de chaque cliché capturé. Les créateurs de contenu disposent ainsi d'un outil mobile aux capacités professionnelles complètes."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Fiable de 6000 mAh et Charge Rapide 90W",
+                "paragraphs": [
+                    "D'abord, la batterie silicium-carbone de 6000 mAh assure une grande tranquillité d'utilisation. Cette autonomie généreuse autorise une journée complète de tournage vidéo sans contrainte. Le chargeur rapide de 90W rétablit la totalité de la batterie en trente minutes. De même, la charge par induction 50W offre un grand confort au quotidien. Le système de charge inversée permet d'alimenter vos accessoires compatibles en déplacement. Les puces de sécurité contrôlent les flux d'énergie pour préserver la batterie.",
+                    "Enfin, le stockage massif jusqu'à 1 To accueille sans limite vos fichiers volumineux. L'interface intuitive Xiaomi HyperOS s'adapte avec précision à vos habitudes d'utilisation quotidienne. Les puces réseau 5G et Wi-Fi 7 garantissent des débits internet ultrarapides. Par conséquent, ce modèle ultra haut de gamme s'adresse aux utilisateurs exigeants d'Abidjan. L'ergonomie générale du boîtier favorise un cadrage photographique confortable et intuitif. Ce smartphone d'exception représente le sommet technologique du constructeur en Côte d'Ivoire."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 17 Ultra - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.9 x 77.6 x 8.29 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "218 g (0.218 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en alliage d'aluminium monobloc, dos en verre céramique ou similicuir technique"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Blanc (White), Vert (Starlit Green)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "LTPO AMOLED 120Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.9 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "2K WQHD+ (3200 x 1440 pixels), 522 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "1 à 120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1600 nits (HBM), 3500 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno GPU"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "16 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go ou 1 To UFS 4.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Quadruple optique Leica : 50 MP grand-angle 1 pouce (f/1.63-f/4.0 variable, OIS) + 50 MP téléobjectif flottant (75mm, f/1.8, OIS) + 50 MP téléobjectif périscope (120mm, f/2.5, OIS) + 50 MP ultra grand-angle (12mm, f/1.8)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, enregistrement 4K@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh non amovible technologie silicium-carbone"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 90W HyperCharge + charge sans fil 50W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 2 (DisplayPort, OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-17-ultra/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+17+Ultra"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+17+Ultra+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

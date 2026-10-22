@@ -1,0 +1,337 @@
+{
+    "template_version": "3.4",
+    "product_type": "audio",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "AirBuds 200",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official",
+                "url": "https://www.blackview.hk/products/item/airbuds200"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "38000",
+        "official_sku": "BV-AIRBUDS-200"
+    },
+    "key_specifications": {
+        "processor": "Puce Bluetooth 5.3 ANC Hybride Low Latency",
+        "processor_ghz": "Fréquence 2.4 GHz",
+        "screen_size": "N/A",
+        "screen_technology": "N/A",
+        "screen_resolution": "N/A",
+        "battery_capacity": "500 mAh (boîtier) / 45 mAh (écouteur)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non extensible",
+        "os": "Système propriétaire audio TWS",
+        "os_skin": "Contrôles tactiles ANC",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Drivers 13 mm dynamiques diaphragme bio-cellulose",
+        "audio_tech": "Réduction de bruit active ANC & ENC",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "USB-C Charge Rapide",
+        "dimensions": "56 x 46 x 23 mm",
+        "weight": "0.050 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-AIRBUDS-200-MASTER",
+        "Name": "Blackview AirBuds 200",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "60",
+        "Regular price": "38000",
+        "Categories": "Matériels Informatique & Bureautique > Accessoires Tech, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview AirBuds 200, Écouteurs Sans Fil, TWS, ANC, Bluetooth 5.3, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.050 kg",
+        "Attribute 4 default": "0.050 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview AirBuds 200 : Réduction de Bruit Active ANC",
+        "brand_line": "Écouteurs sans fil haut de gamme Blackview intégrant la technologie ANC active.",
+        "marketing_conclusion": "Commandez les Blackview AirBuds 200 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Les écouteurs Blackview AirBuds 200 proposent une réduction de bruit active ANC hybride jusqu'à -30dB, la puce Bluetooth 5.3 et une autonomie totale de 30 heures.",
+        "features": [
+            {
+                "feature": "Réduction de Bruit Active ANC",
+                "benefice": "Isolation acoustique efficace réduisant les bruits gênants de l'environnement."
+            },
+            {
+                "feature": "Bluetooth 5.3 Haute Stabilité",
+                "benefice": "Appairage instantané avec une portée de 10 mètres sans déconnexion."
+            },
+            {
+                "feature": "Drivers 13 mm Bio-Cellulose",
+                "benefice": "Son haute fidélité avec des basses profondes et des détails précis."
+            },
+            {
+                "feature": "Autonomie Cumulée 30h",
+                "benefice": "Boîtier compact de 500 mAh offrant plusieurs jours d'écoute."
+            }
+        ],
+        "slogan_final": "Blackview AirBuds 200 — L'immersion sonore sans compromis.",
+        "seo": {
+            "meta_title": "Acheter Blackview AirBuds 200 (TWS ANC 5.3) à Abidjan | My-eStore",
+            "meta_description": "Découvrez les écouteurs sans fil Blackview AirBuds 200 avec réduction de bruit ANC et Bluetooth 5.3. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview AirBuds 200, écouteurs sans fil Blackview, prix Abidjan, ANC Bluetooth 5.3"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview AirBuds 200",
+            "lsi_keywords": [
+                "Blackview AirBuds 200",
+                "écouteurs sans fil Blackview",
+                "prix Abidjan",
+                "écouteurs ANC Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "écouteurs TWS 30h",
+                "boîtier 500 mAh",
+                "Bluetooth 5.3 ANC",
+                "achat écouteurs Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview AirBuds 200 : ANC Hybride & Autonomie 30h | My-eStore",
+            "meta_description": "Achetez les écouteurs Blackview AirBuds 200. Réduction de bruit ANC, puce Bluetooth 5.3 et boîtier 500 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview AirBuds 200 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Technologie ANC Hybride -30dB",
+                    "benefice": "Atténuation active des bruits urbains et transports pour une immersion totale."
+                },
+                {
+                    "feature": "Transducteurs 13 mm Bio-Cellulose",
+                    "benefice": "Signature audio équilibrée avec une excellente dynamique dans les graves."
+                },
+                {
+                    "feature": "Double Micro ENC Appels",
+                    "benefice": "Voix cristalline lors de vos échanges téléphoniques professionnels."
+                },
+                {
+                    "feature": "Étanchéité Certifiée IPX7",
+                    "benefice": "Protection contre l'eau et la sueur adaptée au sport et à la pluie."
+                }
+            ]
+        },
+        "intro_paragraph": "Les Blackview AirBuds 200 sont des écouteurs sans fil premium et performants. Cet équipement répond optimalement aux exigences des mélomanes en Côte d'Ivoire. Par ailleurs, la puce Bluetooth 5.3 assure une connexion sans fil ultra-stable. De plus, la réduction de bruit active ANC isole efficacement des bruits environnants. Les transducteurs de 13 mm délivrent une qualité sonore remarquable. Le boîtier de charge de 500 mAh offre une autonomie prolongée en déplacement. En effet, les embouts ergonomiques garantissent un confort d'écoute prolongé. Enfin, vous profitez de vos musiques en toute tranquillité d'esprit.",
+        "sections": [
+            {
+                "h2_title": "Réduction de Bruit ANC et Qualité Acoustique",
+                "paragraphs": [
+                    "Les Blackview AirBuds 200 intègrent une technologie d'annulation de bruit ANC performante. Ce système capte et neutralise les bruits ambiants jusqu'à 30 décibels. De plus, la qualité des transducteurs de 13 mm offre un son riche. De surcroît, le filtrage ENC des microphones garantit des appels clairs en extérieur. Ainsi, la restitution des voix conserve toute sa clarté naturelle. L'immersion sonore reste optimale tout au long de la journée.",
+                    "L'embout en silicone s'adapte confortablement à l'anatomie de votre oreille. Cette isolation passive renforce l'efficacité du système ANC actif. En effet, le maintien reste ferme lors des activités physiques intensives. La certification étanche IPX7 résiste à la pluie et à la sueur. Ainsi, vous écoutez vos playlists préférées en toute sécurité."
+                ]
+            },
+            {
+                "h2_title": "Puce Bluetooth 5.3 et Commandes Tactiles",
+                "paragraphs": [
+                    "Le composant Bluetooth 5.3 offre un appairage immédiat dès l'ouverture du boîtier. La portée du signal atteint 10 mètres sans coupure ni distorsion. En outre, la faible latence audio synchronise parfaitement le son et la vidéo. Vous contrôlez les fonctions de lecture via des capteurs tactiles très réactifs. La sélection des modes ANC et le réglage du volume se font facilement. L'utilisation quotidienne gagne en fluidité et en confort.",
+                    "Par ailleurs, l'assistant vocal de votre smartphone s'active d'une simple touche. Vous pouvez lancer une commande sans sortir le téléphone de votre poche. De plus, chaque écouteur peut s'utiliser de manière indépendante en mode mono. Cette fonction s'avère très pratique pour économiser la batterie en appel. En somme, cette conception répond parfaitement aux besoins nomades."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Globale 30h et Charge Rapide",
+                "paragraphs": [
+                    "Le boîtier de charge compact intègre une batterie efficace de 500 mAh. Chaque écouteur fournit jusqu'à 6 heures d'écoute continue sans recharge. Le boîtier permet d'effectuer plusieurs recharges complètes en déplacement. Vous profitez d'une autonomie globale atteignant 30 heures au total. En effet, le port USB-C permet une recharge rapide et sécurisée. Vos écouteurs restent toujours prêts pour vos trajets.",
+                    "La finition soignée du boîtier offre une prise en main douce et naturelle. Son poids léger de 50 grammes permet de le transporter facilement. Les écouteurs AirBuds 200 constituent une excellente option audio à Abidjan. En somme, leur rapport qualité-prix en fait une solution extrêmement compétitive. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview AirBuds 200",
+                "subtitle": "Spécifications matérielles certifiées des écouteurs Blackview AirBuds 200."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "56 x 46 x 23 mm"
+                        },
+                        {
+                            "label": "Poids total",
+                            "valeur": "0.050 kg (boîtier + écouteurs)"
+                        },
+                        {
+                            "label": "Poids par écouteur",
+                            "valeur": "4.5 g"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Intra-auriculaire True Wireless (TWS)"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Blanc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "rows": [
+                        {
+                            "label": "Drivers",
+                            "valeur": "13 mm dynamiques avec membrane bio-cellulose"
+                        },
+                        {
+                            "label": "Réponse en fréquence",
+                            "valeur": "20 Hz - 20 kHz"
+                        },
+                        {
+                            "label": "Impédance",
+                            "valeur": "32 Ohms"
+                        },
+                        {
+                            "label": "Réduction de bruit",
+                            "valeur": "ANC Hybride (-30dB) + Débruitage ENC pour appels"
+                        },
+                        {
+                            "label": "Codecs Audio",
+                            "valeur": "SBC, AAC HD"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Autonomie écouteurs",
+                            "valeur": "Jusqu'à 6h d'écoute (ANC désactivé)"
+                        },
+                        {
+                            "label": "Autonomie avec boîtier",
+                            "valeur": "Jusqu'à 30h grâce au boîtier de 500 mAh"
+                        },
+                        {
+                            "label": "Temps de recharge",
+                            "valeur": "1h30 pour une recharge complète"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB-C Charge Rapide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité",
+                    "rows": [
+                        {
+                            "label": "Bluetooth (version)",
+                            "valeur": "Bluetooth 5.3 portée 10 mètres"
+                        },
+                        {
+                            "label": "Protocole",
+                            "valeur": "A2DP, AVRCP, HFP, HSP"
+                        },
+                        {
+                            "label": "Connexion automatique",
+                            "valeur": "Appairage rapide à l'ouverture du boîtier"
+                        },
+                        {
+                            "label": "Assistant vocal",
+                            "valeur": "Compatible Siri & Google Assistant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctionnalités",
+                    "rows": [
+                        {
+                            "label": "Contrôles tactiles",
+                            "valeur": "Commandes tactiles avancées pour modes ANC"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "Résistance à l'eau et à la sueur IPX7"
+                        },
+                        {
+                            "label": "Mode Transparence",
+                            "valeur": "Écoute de l'environnement sans retirer les écouteurs"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "Quatre micros HD intégrés pour l'ANC et l'ENC"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Embouts silicone",
+                            "valeur": "3 tailles d'embouts fournies (S/M/L)"
+                        },
+                        {
+                            "label": "Câble",
+                            "valeur": "Câble de charge USB-C inclus"
+                        },
+                        {
+                            "label": "Boîtier",
+                            "valeur": "Boîtier de charge intelligent compact"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official",
+                        "url": "https://www.blackview.hk/products/item/airbuds200"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

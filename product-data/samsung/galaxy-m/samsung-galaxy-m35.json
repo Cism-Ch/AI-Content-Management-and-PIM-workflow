@@ -1,0 +1,428 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "samsung-m-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy M35 5G conforme aux spécifications officielles."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy M Series",
+        "commercial_name": "Samsung Galaxy M35 5G",
+        "category": "smartphone",
+        "sub_category": "mid-range",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-M35-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-M35-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m35-5g-dark-blue-128gb-sm-m356bdbdins/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+M35+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+M35+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy M35 5G 6.6\" Super AMOLED 120Hz 50MP OIS 6000mAh Exynos 1380"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-M35-5G",
+        "Name": "Samsung Galaxy M35 5G - 6.6\" Super AMOLED 120Hz - 6Go/128Go - 50MP OIS - 6000mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "103500",
+        "Categories": "Smartphones > Samsung > Galaxy M Series",
+        "Tags": "Samsung, Galaxy M35 5G, Galaxy M Series, Smartphone, Android, 5G, Super AMOLED, Écran 120Hz, 50MP OIS, 6000mAh, Exynos 1380, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Bleu Marine, Bleu Clair, Gris",
+        "Attribute 1 default": "Bleu Marine",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go, 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Affichage Super AMOLED 120Hz avec Batterie 6000mAh et Capteur 50MP OIS.",
+        "teaser": "Découvrez le Samsung Galaxy M35 5G avec son grand écran Super AMOLED 120Hz de 6.6 pouces, son capteur photo 50MP stabilisé, sa batterie record de 6000 mAh et sa puce Exynos 1380.",
+        "top_features_detailed": [
+            {
+                "feature": "Grand Écran 6.6\" Super AMOLED 120Hz",
+                "benefice": "Confort visuel fluide et lisibilité appréciable en extérieur sous le soleil"
+            },
+            {
+                "feature": "Batterie Massive de 6000 mAh",
+                "benefice": "Autonomie remarquable de plus de deux jours pour vos déplacements"
+            },
+            {
+                "feature": "Capteur Photo 50MP avec OIS",
+                "benefice": "Prises de vue nettes et vidéos stables sans tremblement involontaire"
+            },
+            {
+                "feature": "Processeur Octa-Core Exynos 1380 5G",
+                "benefice": "Navigation véloce et réactivité continue dans toutes vos applications"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G équilibré et autonome équipé d'un grand écran Super AMOLED et d'une batterie généreuse de 6000 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy M35 5G (6Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy M35 5G au meilleur prix à Abidjan sur My-eStore. Écran 6.6\" Super AMOLED 120Hz, 50MP OIS, 6000mAh et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy M35 5G 128Go : AMOLED & 6000mAh | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy M35 5G sur My-eStore. Écran Super AMOLED 6.6 pouces 120Hz, triple capteur 50MP OIS, batterie 6000 mAh et processeur Exynos 1380.",
+            "focus_keyword": "Samsung Galaxy M35 5G",
+            "lsi_keywords": [
+                "Samsung Galaxy M35 5G Abidjan",
+                "prix Samsung Galaxy M35 5G",
+                "fiche technique Galaxy M35",
+                "smartphone batterie 6000mAh",
+                "Galaxy M35 128Go"
+            ]
+        },
+        "h1": "Samsung Galaxy M35 5G : Écran 6.6\" Super AMOLED 120Hz, Batterie 6000mAh et Capteur 50MP OIS",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy M35 5G propose une autonomie record et un affichage très lumineux. Sa grande dalle Super AMOLED de 6.6 pouces assure une netteté remarquable pour vos vidéos et messages. De plus, son processeur moderne Exynos 1380 gère sans ralentissement vos flux d'applications habituels. Le châssis au design épuré assure une prise en main très naturelle et confortable au quotidien. Enfin, son accumulateur massif de 6000 mAh procure une endurance rassurante sur plusieurs journées complètes.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy M35 5G",
+            "items": [
+                {
+                    "feature": "Dalle 6.6\" Super AMOLED 120Hz",
+                    "benefice": "Grand confort d'affichage et fluidité exemplaire pour la navigation quotidienne"
+                },
+                {
+                    "feature": "Capteur Photo 50MP OIS",
+                    "benefice": "Prises de vue équilibrées et netteté préservée même en basse luminosité"
+                },
+                {
+                    "feature": "Batterie Longue Durée 6000 mAh",
+                    "benefice": "Autonomie sécurisante pour couvrir l'ensemble de vos journées actives"
+                },
+                {
+                    "feature": "Protection Gorilla Glass Victus+",
+                    "benefice": "Résistance éprouvée face aux frottements et rayures du quotidien"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Super AMOLED 120Hz et Conception Ergonomique",
+                "paragraphs": [
+                    "D'un côté, la dalle Super AMOLED de 6.6 pouces apporte des contrastes élevés et une grande clarté. Le rafraîchissement fluide de 120 Hz rend la navigation à travers vos flux d'actualités particulièrement agréable. La protection en verre trempé Gorilla Glass Victus+ renforce la face avant contre les rayures quotidiennes. Par ailleurs, la luminosité maximale de 1000 nits permet une lecture aisée en extérieur sous le soleil. Les bordures maîtrisées maximisent le confort visuel tout en conservant une préhension naturelle et sûre. Vous profitez ainsi d'un confort multimédia agréable pour l'ensemble de vos applications mobiles favorites.",
+                    "D'un autre côté, la finition soignée confère à l'appareil une élégance sobre et moderne. Cette structure robuste garantit une utilisation quotidienne sereine au bureau comme lors de vos déplacements. Les couleurs contemporaines mettent en valeur les lignes équilibrées de la face arrière. En outre, la sensibilité de la couche tactile assure une réactivité immédiate pour la saisie de texte. Les lignes profilées s'adaptent facilement à l'ensemble de vos environnements professionnels et personnels. Ce smartphone allie robustesse matérielle et confort de prise en main au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Performances 5G et Autonomie Massive 6000 mAh",
+                "paragraphs": [
+                    "Tout d'abord, la puce Exynos 1380 gravée en 5 nanomètres assure une réactivité exemplaire pour chaque usage. La mémoire vive spacieuse autorise un basculement instantané entre vos différents logiciels de messagerie. Le stockage interne accueille vos nombreux documents ainsi que vos photographies sans la moindre contrainte. De surcroît, le système de refroidissement dissipe la chaleur afin de maintenir des cadences stables. L'interface fluide simplifie la navigation quotidienne et la personnalisation de votre environnement mobile. Vous accomplissez vos activités courantes avec une célérité et une régularité très appréciables.",
+                    "Dans cette optique, l'accumulateur généreux de 6000 mAh repousse les limites habituelles de l'endurance mobile. La compatibilité avec les réseaux 5G garantit des transferts rapides lors de vos trajets quotidiens. Le dispositif de sécurité Samsung Knox isole vos mots de passe et données personnelles sensibles. Également, les haut-parleurs stéréo délivrent une restitution sonore équilibrée pour tous vos contenus multimédias. Le lecteur d'empreintes biométrique positionné sur la tranche offre un déverrouillage instantané et pratique. Cet appareil constitue une solution durable et performante pour accompagner votre quotidien connecté."
+                ]
+            },
+            {
+                "h2_title": "Capteur 50MP Stabilisé et Polyvalence Multimédia",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 50 mégapixels capture des clichés nets en toutes circonstances. La stabilisation optique OIS compense efficacement les mouvements involontaires lors de vos prises de vue. Le module ultra grand-angle élargit la perspective pour immortaliser des panoramas et des photos de groupe. De même, l'objectif macro dédié permet d'enregistrer des détails précis lors de gros plans rapprochés. Le mode nuit perfectionné optimise l'éclairage des scènes capturées dans des environnements faiblement éclairés. Vous réalisez des photos équilibrées prêtes à être partagées instantanément avec vos proches.",
+                    "En conséquence, la technologie de charge rapide 25W restaure promptement l'énergie de l'appareil. L'optimisation logicielle intelligente adapte la consommation électrique selon vos habitudes réelles d'utilisation. Cette gestion soignée de l'alimentation préserve la longévité de la batterie sur le long terme. Par conséquent, vous restez joignable sereinement tout au long de vos semaines de travail intenses. Les composants certifiés sont conçus pour maintenir leur efficacité au fil des cycles de recharge. Ce modèle représente un investissement judicieux associant polyvalence technique et autonomie record."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy M35 5G",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy M35 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.3 x 78.6 x 9.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.222 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre avant Gorilla Glass Victus+, Châssis ergonomique, Dos satiné"
+                        },
+                        {
+                            "label": "Sécurité",
+                            "valeur": "Lecteur d'empreintes digital latéral, Samsung Knox"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "6.6\" Super AMOLED, 120Hz"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "FHD+ (1080 x 2340 pixels), ~390 ppi"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1000 nits (HBM)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus+"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 1380 (5 nm) Octa-Core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Processeur Graphique (GPU)",
+                            "valeur": "Mali-G68 MP5"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go supplémentaires"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "MicroSD jusqu'à 1 To (slot SIM partagé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, (grand-angle), PDAF, OIS"
+                        },
+                        {
+                            "label": "Capteur Ultra Grand-Angle",
+                            "valeur": "8 MP, f/2.2, 123˚"
+                        },
+                        {
+                            "label": "Capteur Macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra Frontale (Selfie)",
+                            "valeur": "13 MP, f/2.2 (grand-angle)"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo",
+                            "valeur": "4K à 30fps, 1080p à 30/60fps, gyro-EIS"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "6000 mAh (Li-Po, non amovible)"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "Charge rapide 25W"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0, OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux Mobiles",
+                            "valeur": "5G, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Double SIM hybride (Nano-SIM, double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3, A2DP, LE"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 14 avec One UI 6.1 (4 ans de mises à jour OS majeures)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m35-5g-dark-blue-128gb-sm-m356bdbdins/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+M35+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+M35+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Dark Blue",
+            "color_code": "BLEU-MARINE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "103500",
+            "sku_suffix": "6-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Dark Blue",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "118500",
+            "sku_suffix": "8-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Dark Blue",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Light Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "103500",
+            "sku_suffix": "6-GB-128-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Light Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "118500",
+            "sku_suffix": "8-GB-128-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Light Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "103500",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "118500",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        }
+    ]
+}

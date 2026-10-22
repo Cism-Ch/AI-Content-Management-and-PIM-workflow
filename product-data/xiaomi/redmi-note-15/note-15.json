@@ -1,0 +1,412 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-15-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 15 4G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 15 4G",
+        "category": "smartphone",
+        "sub_category": "smartphone-midrange-standard",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-15",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-15"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+4G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+4G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent Xiaomi Redmi Note 15 4G avec écran AMOLED 120Hz capteur photo 108MP processeur Snapdragon 685 et batterie 5500 mAh."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 685 (6 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 8 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et prise jack 3.5mm",
+        "battery_capacity": "5500 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.189 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-15",
+        "Name": "Xiaomi Redmi Note 15 4G - Dual SIM - Écran 6.67\" AMOLED 120Hz - (6 Go & 128 Go / 8 Go & 256 Go) - 5500 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "135000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 15 4G, Redmi Note 15, Smartphone, 4G, Écran AMOLED, Écran 120Hz, Capteur 108MP, 5500mAh, Charge 33W, Snapdragon 685, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Bleu | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.189 kg",
+        "Attribute 4 default": "0.189 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "6-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "155000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "155000",
+            "sku_suffix": "8-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Forest Green",
+            "color_code": "VERT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "155000",
+            "sku_suffix": "8-GB-256-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 15",
+        "teaser": "Le Xiaomi Redmi Note 15 4G combine un écran AMOLED 120Hz très lumineux et un capteur photo de 108 mégapixels. Doté du processeur Snapdragon 685 et d'une batterie de 5500 mAh avec charge 33W, il garantit un confort prolongé au meilleur coût.",
+        "top_features_detailed": [
+            {
+                "label": "Écran AMOLED 120Hz Lumineux",
+                "detail": "Dalle Full HD+ contrastée avec fluidité 120Hz et certification TÜV pour un confort visuel reposant."
+            },
+            {
+                "label": "Capteur Photo 108 MP",
+                "detail": "Prises de vue haute définition très nettes avec zoom numérique précis pour vos événements."
+            },
+            {
+                "label": "Puce Snapdragon 685 (6 nm)",
+                "detail": "Processeur Qualcomm économe et stable assurant une navigation réactive sans surchauffe."
+            },
+            {
+                "label": "Batterie 5500 mAh et Charge 33W",
+                "detail": "Autonomie solide de deux journées complètes avec recharge rapide sécurisée via port Type-C."
+            }
+        ],
+        "marketing_conclusion": "Un smartphone polyvalent et endurant taillé pour la consultation multimédia et la productivité sans contrainte.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 15 4G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi Note 15 4G à Abidjan chez My-eStore. Écran AMOLED 120Hz, capteur 108MP et batterie 5500 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 15 4G : 108 MP & AMOLED 120Hz | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 15 4G chez My-eStore. Écran AMOLED 120Hz, capteur photo 108 MP et batterie 5500 mAh au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 15 4G",
+            "lsi_keywords": [
+                "Redmi Note 15 4G Abidjan",
+                "smartphone AMOLED 120Hz pas cher",
+                "Snapdragon 685 Xiaomi",
+                "batterie 5500 mAh charge 33W",
+                "telephone Xiaomi capteur 108 MP"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 15 4G : Capteur 108 MP, Écran AMOLED 120Hz et Batterie 5500 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi Note 15 4G",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 120Hz",
+                    "benefice": "Dalle lumineuse aux noirs profonds offrant un défilement fluide et reposant pour les yeux."
+                },
+                {
+                    "feature": "Capteur Photo 108 MP",
+                    "benefice": "Prises de vue riches en détails authentiques avec zoom numérique précis."
+                },
+                {
+                    "feature": "Puce Snapdragon 685",
+                    "benefice": "Processeur Qualcomm 6 nm stable et sobre pour vos applications quotidiennes."
+                },
+                {
+                    "feature": "Batterie 5500 mAh & 33W",
+                    "benefice": "Excellente autonomie de deux journées avec recharge rapide filaire 33W."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi Note 15 4G répond aux besoins quotidiens avec un équilibre technique remarquable. En effet, sa batterie généreuse de 5500 mAh offre une réserve énergétique pérenne pour toutes vos activités. Son écran AMOLED rafraîchi à 120Hz diffuse des couleurs éclatantes et des contrastes très profonds. De plus, le capteur dorsal de 108 mégapixels immortalise vos événements avec une netteté très appréciable. La puce Qualcomm Snapdragon 685 assure ainsi une fluidité continue lors de vos déplacements à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Écran AMOLED 120Hz Lumineux et Audio Stéréo Dolby Atmos",
+                "paragraphs": [
+                    "Le panneau AMOLED de 6.67 pouces propose une définition Full HD+ particulièrement agréable à l'œil. Sa luminosité de pointe autorise ainsi une consultation confortable en extérieur sous un fort ensoleillement. La fréquence dynamique de 120Hz assure des transitions fluides à l'ouverture de chaque application mobile. De surcroît, la dalle filtre les émissions nocives de lumière bleue selon les recommandations TÜV Rheinland. Le verre trempé protecteur prévient l'apparition des микро-rayures causées par les manipulations usuelles. Les bordures fines augmentent la sensation d'immersion visuelle lors du visionnage de vidéos en streaming.",
+                    "La technologie tactile réagit promptement aux moindres sollicitations de vos doigts pour un confort immédiat. Ce calibrage rigoureux rend par conséquent la saisie de textes longs particulièrement fluide et intuitive. Deux haut-parleurs stéréo diffusent un son spatialisé équilibré certifié par les normes Dolby Atmos. En outre, la prise jack 3.5 millimètres permet de brancher directement votre casque audio traditionnel. La structure arrière combine une prise en main stable et des finitions soignées très modernes. Cette ergonomie étudiée convient parfaitement aux exigences multimédias de la vie moderne."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 108 MP Détaillé et Traitement Numérique Réactif",
+                "paragraphs": [
+                    "L'appareil photo dorsal principal s'appuie sur un capteur haute résolution atteignant 108 mégapixels. Il enregistre ainsi des clichés fourmillant de détails authentiques et de textures très précises. La technologie de regroupement de pixels améliore la captation lumineuse lors des prises de vue nocturnes. De plus, le zoom numérique 3x conserve une bonne définition pour isoler vos sujets éloignés. Les algorithmes d'exposition automatique ajustent les contrastes afin d'équilibrer l'arrière-plan sans zone brûlée. Vous obtenez facilement des photographies chaleureuses lors de vos réunions amicales ou familiales.",
+                    "L'objectif ultra grand-angle permet de cadrer d'amples paysages sans devoir reculer exagérément. Le capteur macro capture par ailleurs la précision des textures miniatures et des éléments naturels. La caméra frontale de 16 mégapixels restitue des visages nets pour vos visioconférences de travail. De surcroît, l'enregistrement vidéo haute définition stabilise vos clips souvenirs lors de vos balades urbaines. L'application photo propose divers filtres créatifs pour enrichir rapidement vos galeries d'images. Cet ensemble optique complet répond avec efficacité aux attentes visuelles des utilisateurs contemporains."
+                ]
+            },
+            {
+                "h2_title": "Performances Snapdragon 685 et Batterie Durable 5500 mAh",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 685 adopte un procédé de gravure économe en 6 nanomètres. Cette conception thermique modérée garantit ainsi une température stable durant les sessions prolongées. Les huit cœurs opérationnels exécutent vos applications de messagerie et réseaux sociaux avec régularité. Par conséquent, la navigation entre documents bureautiques ne souffre d'aucun ralentissement pénalisant. La mémoire vive extensible facilite le maintien de plusieurs services ouverts en arrière-plan immédiat. Le tiroir hybride autorise l'ajout d'une carte microSD pour archiver vos nombreuses photographies.",
+                    "L'accumulateur d'une capacité de 5500 mAh procure une autonomie rassurante de deux jours complets. Vous vaquez ainsi sereinement à vos occupations sans transporter continuellement votre adaptateur secteur. La charge rapide filaire de 33W restitue une charge substantielle en quelques dizaines de minutes. De plus, les protections électroniques intégrées préservent la santé chimique des composants internes. Le système d'exploitation Xiaomi HyperOS gère intelligemment la consommation des applications inactives. Ce modèle réunit tous les critères de durabilité requis pour accompagner vos projets quotidiens."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 15 4G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.0 x 76.0 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "189 g (0.189 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP54 résistant aux éclaboussures et à la poussière"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Bleu (Sky Blue), Vert (Forest Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED, 120Hz, 1200 nits en pic"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~88.0%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2400 x 1080 pixels), format 20:9 (~395 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 3"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 685 (6 nm, 8 cœurs jusqu'à 2.80 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno 610"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC (emplacement hybride)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "108 MP, f/1.8, 24mm (grand-angle), 1/1.67\", PDAF"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP, f/2.4"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.4, vidéo 1080p@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5500 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge rapide filaire 33W (Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM hybride)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 (A2DP, LE)"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+4G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+15+4G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

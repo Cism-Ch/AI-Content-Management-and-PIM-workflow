@@ -1,0 +1,306 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Tab 90",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview France Store",
+                "url": "https://www.blackview.fr/products/blackview-tab-90-tablette-pc-android-widevine-l1-unisoc-t606-8-128-go-8200-mah-10-92-pouces?"
+            }
+        ],
+        "pricing_reference": "99000",
+        "official_sku": "BV-TAB-90"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "10.92 pouces",
+        "screen_technology": "HD IPS LCD Widevine L1",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "8200 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo Smart-PA",
+        "audio_tech": "Son Spatial HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 4G LTE / MicroSD jusqu'à 2 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "256.9 x 168.5 x 9.5 mm",
+        "weight": "0.544 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TAB-90-MASTER",
+        "Name": "Blackview Tab 90 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "40",
+        "Regular price": "99000",
+        "Categories": "Tablettes > Blackview > Tab Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Tab 90, Tablette 11 pouces, 8200mAh, 128GB, 4G LTE, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Gris | Rose",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.544 kg",
+        "Attribute 4 default": "0.544 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Tab 90 4G : Tablette 10.92 Pouces 8 Go RAM 128 Go 4G LTE 8200 mAh",
+        "brand_line": "La grande tablette tactile 4G autonome Blackview conçue pour travailler et voyager en liberté.",
+        "marketing_conclusion": "Commandez la Blackview Tab 90 4G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Tab 90 4G propose un écran grand format de 10.92 pouces HD, 8 Go de RAM, la connectivité 4G LTE et une batterie géante de 8200 mAh.",
+        "features": [
+            {
+                "feature": "Écran Grand Format 10.92\" HD",
+                "benefice": "Confort visuel remarquable certifié Widevine L1."
+            },
+            {
+                "feature": "Connectivité Dual SIM 4G LTE",
+                "benefice": "Navigation internet autonome partout sans Wi-Fi."
+            },
+            {
+                "feature": "Accumulateur Massif 8200 mAh",
+                "benefice": "Autonomie très longue pour les déplacements."
+            },
+            {
+                "feature": "Mémoire 8 Go RAM & 128 Go SSD",
+                "benefice": "Gestion multitâche réactive et stockage spacieux."
+            }
+        ],
+        "slogan_final": "Blackview Tab 90 4G — La liberté 4G et le grand écran sans limites.",
+        "seo": {
+            "meta_title": "Acheter Blackview Tab 90 4G (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette 4G LTE Blackview Tab 90 avec écran 10.92\", 8 Go RAM, 128 Go SSD et batterie 8200 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Tab 90, tablette 4G LTE, prix Abidjan, 8200mAh 128GB 11 pouces"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Tab 90",
+            "lsi_keywords": [
+                "Blackview Tab 90",
+                "tablette 4G 11 pouces Blackview Abidjan",
+                "Blackview Tab 90 prix",
+                "tablette 4G LTE 8200 mAh",
+                "tablette grande autonomie Côte d'Ivoire",
+                "achat tablette 4G Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Tab 90 4G 128 Go : Écran 10.92\" & 8200 mAh | My-eStore",
+            "meta_description": "Achetez la tablette 4G Blackview Tab 90. Écran 10.92\" HD IPS, 8 Go RAM, batterie 8200 mAh et connectivité 4G LTE. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Tab 90 4G : Spécifications de la Tablette 10.92 Pouces 4G",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT 4G LTE",
+            "items": [
+                {
+                    "feature": "Réseau Dual SIM 4G LTE",
+                    "benefice": "Connectivité permanente en tout lieu sans Wi-Fi."
+                },
+                {
+                    "feature": "Dalle 10.92 Pouces HD Widevine L1",
+                    "benefice": "Lisibilité visuelle optimale pour les films et cours."
+                },
+                {
+                    "feature": "Batterie Géante de 8200 mAh",
+                    "benefice": "Endurance remarquable durant de longues heures."
+                },
+                {
+                    "feature": "Double Haut-Parleur Stéréo Smart-PA",
+                    "benefice": "Diffusion sonore enveloppante de grande clarté."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Tab 90 4G est une tablette tactile 10.92 pouces particulièrement complète et autonome. Cet équipement convient très bien aux professionnels nomades et familles en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 10.92 pouces en définition HD offre une lisibilité visuelle très claire. De plus, sa certification Widevine L1 autorise le streaming haute définition. La batterie géante de 8200 mAh permet de travailler en toute sérénité sans interruption. Son boîtier épuré de 9.5 mm garantit une prise en main très agréable. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès à tous vos dossiers. Enfin, cette tablette 4G constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 10.92 Pouces HD et Puce Octa-Core",
+                "paragraphs": [
+                    "La Blackview Tab 90 4G intègre une grande dalle IPS de 10.92 pouces en définition HD. Sa résolution de 1280 x 800 pixels restitue des détails d'une clarté impressionnante. De plus, les modes de protection oculaire réduisent la fatigue visuelle lors des lectures prolongées. De surcroît, le processeur Unisoc T606 à huit cœurs cadencés à 1.6 GHz gère facilement vos logiciels. Les 8 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 2 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité réseau constante. Cette conception soignée protège le boîtier en toutes circonstances. Vos applications préférées restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 13 MP, Dual Speakers et 4G LTE",
+                "paragraphs": [
+                    "La Blackview Tab 90 4G embarque un capteur photo arrière de 13 Mégapixels avec Flash LED. Cet objectif capture des images nettes pour numériser vos documents administratifs. En outre, la caméra frontale de 8 Mégapixels s'avère très pratique pour les visioconférences HD. Les haut-parleurs stéréo Smart-PA optimisent la restitution sonore avec netteté. Ainsi, la prise jack 3.5mm immortalise vos sessions d'écoute au casque. La précision audio reste constante.",
+                    "Par ailleurs, le réseau 4G LTE assure une connexion internet constante en déplacement. De plus, le module GPS quadruples réseaux garantit un guidage très précis sur la route. Également, l'association Bluetooth 5.0 autorise la connexion de claviers et écouteurs sans fil. De surcroît, la faible consommation d'énergie préserve la durée de batterie. En somme, cette tablette 4G réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8200 mAh et Port USB-C",
+                "paragraphs": [
+                    "La batterie impressionnante de 8200 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant plus de 12 heures consécutives. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble fourni. En effet, la gestion thermique intelligente préserve la durée de vie du composant. Vos activités de travail se poursuivent sans interruption.",
+                    "La silhouette épurée de 9.5 mm offre une tenue en main naturelle et très équilibrée. Son poids maîtrisé de 544 grammes témoigne du soin apporté à la structure. D'autre part, la Blackview Tab 90 4G constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa connectivité 4G en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Tab 90 4G",
+                "subtitle": "Spécifications matérielles certifiées de la tablette 4G Blackview Tab 90."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "256.9 x 168.5 x 9.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.544 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Coque métallisée élégante"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu (Blue), Gris (Gray), Rose (Pink)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "10.92 pouces IPS LCD HD Widevine L1"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Confort des Yeux & Mode Sombre"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc T606 Octa-Core 1.6 GHz (12nm)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go UFS 2.1 (extensible par MicroSD jusqu'à 2 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo Smart-PA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8200 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview France Store",
+                        "url": "https://www.blackview.fr/products/blackview-tab-90-tablette-pc-android-widevine-l1-unisoc-t606-8-128-go-8200-mah-10-92-pouces?"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

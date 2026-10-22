@@ -1,0 +1,321 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "DCM6 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/dcm6-pro-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "165000",
+        "official_sku": "BV-DCM6-PRO"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Dual Screen Pro Controller",
+        "processor_ghz": "N/A",
+        "screen_size": "14 pouces (Écran Double Ultra-Mince)",
+        "screen_technology": "FHD IPS LCD Mat Anti-Reflets 100% sRGB",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation directe USB-C)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non disponible",
+        "os": "Compatible Windows, macOS, Android, Linux",
+        "os_skin": "Plug & Play sans pilote",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Double haut-parleur stéréo HD intégré",
+        "audio_tech": "Son Stéréo HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "Dual USB-C & Mini HDMI",
+        "dimensions": "364.4 x 237.43 x 21 mm",
+        "weight": "1.0 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-DCM6-PRO-MASTER",
+        "Name": "Blackview DCM6 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "165000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview DCM6 Pro, Moniteur Portable, Double Écran, 14 Pouces, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.0 kg",
+        "Attribute 4 default": "1.0 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview DCM6 Pro : L'Extension Double Écran Ultra-Légère 14 Pouces",
+        "brand_line": "Moniteur portable double écran léger Blackview conçu pour la mobilité.",
+        "marketing_conclusion": "Commandez le Blackview DCM6 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview DCM6 Pro propose un double écran 14 pouces Full HD IPS de seulement 1 kg, une connectique USB-C Plug & Play et un pied de maintien orientable.",
+        "features": [
+            {
+                "feature": "Poids Ultra-Mince 1.0 kg",
+                "benefice": "Châssis en aluminium particulièrement léger facile à emporter."
+            },
+            {
+                "feature": "Double Dalle 14\" FHD IPS 100% sRGB",
+                "benefice": "Qualité d'image remarquable avec un espace de couleurs étendu."
+            },
+            {
+                "feature": "USB-C & Mini HDMI Plug & Play",
+                "benefice": "Connexion directe sans logiciel ou configuration complexe."
+            },
+            {
+                "feature": "Compatibilité Universelle Multi-OS",
+                "benefice": "Fonctionnement très fluide avec Windows, macOS, Android et Linux."
+            }
+        ],
+        "slogan_final": "Blackview DCM6 Pro — Le travail double écran en toute légèreté.",
+        "seo": {
+            "meta_title": "Acheter Blackview DCM6 Pro (Double Écran 14\") à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable Blackview DCM6 Pro ultra-léger (1 kg) avec double écran 14 pouces Full HD et USB-C. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview DCM6 Pro, moniteur portable Blackview, prix Abidjan, extension écran 14 pouces"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview DCM6 Pro",
+            "lsi_keywords": [
+                "Blackview DCM6 Pro",
+                "moniteur portable Blackview",
+                "prix Abidjan",
+                "extension écran PC portable Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "double écran 14 pouces",
+                "USB-C 1kg",
+                "écran portable FHD IPS",
+                "achat moniteur portable Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview DCM6 Pro 14\" : Double Écran 1 kg & USB-C | My-eStore",
+            "meta_description": "Achetez le moniteur portable Blackview DCM6 Pro. Double écran 14 pouces Full HD IPS ultra-léger (1 kg), USB-C et pied orientable. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview DCM6 Pro : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Châssis Aluminium Ultra-Léger 1kg",
+                    "benefice": "Conception fine assurant une grande mobilité lors de vos déplacements."
+                },
+                {
+                    "feature": "Rendu Couleur 100% sRGB",
+                    "benefice": "Fidélité chromatique élevée adaptée aux professionnels et créateurs."
+                },
+                {
+                    "feature": "Système de Fixation Magnétique",
+                    "benefice": "Maintien très stable au dos de l'ordinateur portable hôte."
+                },
+                {
+                    "feature": "Haut-Parleurs Stéréo HD",
+                    "benefice": "Diffusion sonore intégrée sans nécessiter d'accessoires audio externes."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview DCM6 Pro est une extension de moniteur portable double écran haut de gamme et ultra-léger. Cet équipement répond idéalement aux besoins des cadres et créatifs en Côte d'Ivoire. Par ailleurs, sa structure affinée en aluminium ne pèse que 1 kg. De plus, sa double dalle de 14 pouces Full HD IPS offre une qualité d'affichage remarquable. La prise en charge de 100% de l'espace colorimétrique sRGB garantit des visuels très précis. La connectique USB-C assure un branchement rapide sans aucun pilote. En effet, sa compatibilité étendue s'adapte à tous vos appareils mobiles. Enfin, vous travaillez en double écran avec un confort total.",
+        "sections": [
+            {
+                "h2_title": "Affichage FHD IPS et Fidélité Chromatique",
+                "paragraphs": [
+                    "Le Blackview DCM6 Pro s'appuie sur deux dalles IPS de 14 pouces haute définition. Sa résolution Full HD de 1920 x 1080 pixels restitue des détails d'une clarté impressionnante. De plus, la couverture colorimétrique sRGB de 100% satisfait les exigences des travaux graphiques. De surcroît, le traitement anti-reflets préserve votre vue lors des longues sessions de travail. Les angles de vision larges permettent de présenter des documents à vos collaborateurs. La qualité d'affichage globale demeure constante au quotidien.",
+                    "La disposition latérale des panneaux permet de doubler votre espace de travail en un instant. Vous comparez vos rapports ou suivez vos visioconférences avec une aisance appréciable. En effet, la charnière métallique autorise une orientation jusqu'à 235 degrés selon votre position. La gestion d'énergie intelligente évite de vider la batterie de votre ordinateur portable. Ainsi, vos déplacements professionnels à Abidjan gagnent en productivité."
+                ]
+            },
+            {
+                "h2_title": "Connectique USB-C et Ergonomie Nomade",
+                "paragraphs": [
+                    "Le Blackview DCM6 Pro intègre deux ports USB-C polyvalents assurant l'affichage et l'alimentation. En outre, la présence d'un port Mini HDMI élargit les possibilités de branchement sur console ou PC fixe. Vous reliez l'extension en quelques secondes sans installer de logiciel supplémentaire. La détection du signal vidéo s'effectue automatiquement en mode miroir ou étendu. La prise en main matérielle est particulièrement intuitive et rapide. L'utilisation gagne en commodité.",
+                    "Par ailleurs, l'appareil intègre deux haut-parleurs stéréo procurant un son très net. Vous pouvez ainsi visionner vos contenus vidéo ou participer à des réunions sans casque. De plus, la prise audio Jack 3.5 mm permet une écoute confidentielle à tout moment. Cette polyvalence garantit une excellente ergonomie dans tous les environnements de travail. En somme, cette solution double écran répond à vos attentes."
+                ]
+            },
+            {
+                "h2_title": "Structure Aluminium et Transport Facilité",
+                "paragraphs": [
+                    "La conception du Blackview DCM6 Pro combine robustesse mécanique et grande légèreté. Le châssis en alliage d'aluminium offre une protection efficace contre les secousses de transport. Son poids maîtrisé de 1 kg en fait une référence d'ergonomie nomade sur le marché. En effet, le pied réglable intégré garantit une assise très stable sur votre table de réunion. Vous repliez les panneaux pour un rangement rapide dans votre sac.",
+                    "La compatibilité matérielle couvre l'intégralité des ordinateurs portables de 13 à 16 pouces. Cette flexibilité simplifie le partage de l'écran avec d'autres membres de votre équipe. Le Blackview DCM6 Pro représente un équipement indispensable pour travailler en mobilité à Abidjan. En somme, son rapport qualité-prix en fait une opportunité extrêmement attractive. Vous profitez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview DCM6 Pro",
+                "subtitle": "Spécifications matérielles certifiées de l'extension écran portable Blackview DCM6 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions replié",
+                            "valeur": "364.4 x 237.43 x 21 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.0 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis ultra-mince en alliage d'aluminium"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Extension double écran portable ultra-léger"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Nombre d'écrans",
+                            "valeur": "2 écrans portables IPS"
+                        },
+                        {
+                            "label": "Taille écran",
+                            "valeur": "14 pouces par écran"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Gamme de couleurs",
+                            "valeur": "100% sRGB"
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS Mat Anti-Reflets (178°)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Ports",
+                    "rows": [
+                        {
+                            "label": "Ports vidéo",
+                            "valeur": "2 x USB-C (DisplayPort + Charge), 1 x Mini HDMI"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise Jack 3.5 mm & Haut-parleurs stéréo HD"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Alimentation directe USB-C (5V/3A)"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play (sans pilote)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité",
+                    "rows": [
+                        {
+                            "label": "Compatibilité PC",
+                            "valeur": "Ordinateurs portables de 13 à 16.5 pouces"
+                        },
+                        {
+                            "label": "Systèmes d'exploitation",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS"
+                        },
+                        {
+                            "label": "Modes d'affichage",
+                            "valeur": "Mode Étendu, Mode Miroir, Mode Portrait"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ergonomics",
+                    "rows": [
+                        {
+                            "label": "Support réglable",
+                            "valeur": "Pied arrière pliable ajustabilité continue"
+                        },
+                        {
+                            "label": "Charnière",
+                            "valeur": "Orientation réglable jusqu'à 235°"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câbles inclus",
+                            "valeur": "2 x Câbles USB-C vers USB-C, 1 x Câble Mini HDMI vers HDMI"
+                        },
+                        {
+                            "label": "Accessoires",
+                            "valeur": "Manuel d'utilisation et housse de rangement"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/dcm6-pro-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

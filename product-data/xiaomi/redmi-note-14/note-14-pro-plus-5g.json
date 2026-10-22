@@ -1,0 +1,451 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-14-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi Note 14 Pro+ 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Xiaomi Redmi Note 14 Pro+ 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-flagship-killer",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "NOTE-14-PRO-PLUS-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "NOTE-14-PRO-PLUS-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro%2B+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro%2B+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone haut de gamme Xiaomi Redmi Note 14 Pro+ 5G avec batterie Silicium-Carbone 6200 mAh charge 90W processeur Snapdragon 7s Gen 3 et étanchéité IP68."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7s Gen 3 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 16 Go",
+        "audio_config": "Double haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "6200 mAh (Silicium-Carbone)",
+        "charging_wired": "HyperCharge filaire 90W",
+        "navigation_gps": "GPS, GLONASS, BDS, Galileo, QZSS",
+        "card_slot": "Non (stockage haute vitesse UFS 3.1)",
+        "weight": "0.210 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "NOTE-14-PRO-PLUS-5G",
+        "Name": "Xiaomi Redmi Note 14 Pro+ 5G - Dual SIM - Écran 6.67\" Incurvé 1.5K 120Hz - (12 Go & 256 Go / 512 Go / 16 Go & 512 Go) - 6200 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "295000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 14 Pro+ 5G, Redmi Note 14, Smartphone, 5G, Écran Incurvé, Écran 120Hz, Capteur 50MP, 6200mAh, Charge 90W, Snapdragon 7s Gen 3, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc | Bleu",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.210 kg",
+        "Attribute 4 default": "0.210 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "295000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Moonlight White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "295000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Mirage Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "295000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "335000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Moonlight White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "335000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Mirage Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "335000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Midnight Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "375000",
+            "sku_suffix": "16-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "Moonlight White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "375000",
+            "sku_suffix": "16-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Mirage Blue",
+            "color_code": "BLEU",
+            "ram": "16 Go",
+            "storage": "512 Go",
+            "price": "375000",
+            "sku_suffix": "16-GB-512-GB-BLEU"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 14",
+        "teaser": "Le Xiaomi Redmi Note 14 Pro+ 5G innove avec sa batterie Silicium-Carbone de 6200 mAh et sa recharge rapide 90W. Doté d'une certification IP68 et du processeur Snapdragon 7s Gen 3, il associe endurance de premier plan et écran incurvé 1.5K 120Hz.",
+        "top_features_detailed": [
+            {
+                "label": "Batterie Silicium-Carbone 6200 mAh",
+                "detail": "Capacité énergétique massive logée dans un boîtier compact pour une autonomie sereine de deux jours."
+            },
+            {
+                "label": "HyperCharge Filaire 90W",
+                "detail": "Alimentation accélérée sécurisée par les puces Surge pour un gain d'énergie rapide au quotidien."
+            },
+            {
+                "label": "Étanchéité IP68 et Victus 2",
+                "detail": "Protection avancée contre l'eau et résistance éprouvée aux chutes sur surfaces dures."
+            },
+            {
+                "label": "Snapdragon 7s Gen 3 et Téléobjectif 50 MP",
+                "detail": "Gravure moderne en 4 nm et module photo polyvalent avec téléobjectif dédié pour des portraits valorisants."
+            }
+        ],
+        "marketing_conclusion": "Le modèle le plus complet de la gamme Redmi Note, combinant endurance record, optiques avancées et étanchéité certifiée.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 14 Pro+ 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi Note 14 Pro+ 5G à Abidjan chez My-eStore. Batterie 6200 mAh Silicium-Carbone, charge 90W, IP68 et Snapdragon 7s Gen 3 au prix officiel."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 14 Pro+ 5G : 6200 mAh & 90W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 14 Pro+ 5G chez My-eStore. Batterie 6200 mAh Silicium-Carbone, charge 90W, IP68 et téléobjectif 50 MP au meilleur prix à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 14 Pro+ 5G",
+            "lsi_keywords": [
+                "Redmi Note 14 Pro Plus Abidjan",
+                "smartphone batterie 6200 mAh",
+                "Snapdragon 7s Gen 3 Xiaomi",
+                "charge rapide 90W etanche",
+                "telephone 5G ecran incurve"
+            ]
+        },
+        "h1": "Xiaomi Redmi Note 14 Pro+ 5G : Batterie 6200 mAh, Snapdragon 7s Gen 3 et Charge 90W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi Note 14 Pro+ 5G",
+            "items": [
+                {
+                    "feature": "Batterie Si/C 6200 mAh & 90W",
+                    "benefice": "Densité énergétique record offrant deux jours d'autonomie et recharge Turbo 90W."
+                },
+                {
+                    "feature": "Écran Incurvé 1.5K 120Hz",
+                    "benefice": "Dalle AMOLED CrystalRes aux bords incurvés avec certification d'étanchéité IP68."
+                },
+                {
+                    "feature": "Téléobjectif Dédié 50 MP",
+                    "benefice": "Portraits rapprochés valorisants et zoom optique net sans perte de qualité."
+                },
+                {
+                    "feature": "Snapdragon 7s Gen 3",
+                    "benefice": "Plateforme mobile 4 nm de dernière génération fluide et stable en multitâche."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi Note 14 Pro+ 5G redéfinit l'autonomie nomade grâce à des technologies d'avant-garde. En effet, sa batterie Silicium-Carbone de 6200 mAh fournit une réserve énergétique conséquente et durable. Son écran AMOLED incurvé 1.5K assure un rendu visuel d'une finesse exemplaire pour vos usages. De plus, la puce Snapdragon 7s Gen 3 orchestre vos applications multitâches avec une remarquable vélocité. L'étanchéité IP68 protège ainsi l'appareil contre toutes les intempéries rencontrées à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Design Incurvé Résistant IP68 et Écran AMOLED 1.5K",
+                "paragraphs": [
+                    "Le profil incurvé épouse naturellement la paume pour offrir une prise en main très confortable. La certification IP68 assure ainsi une barrière hermétique contre les infiltrations de poussière et d'eau. Le verre Corning Gorilla Glass Victus 2 protège la façade avant des frottements et impacts accidentels. De surcroît, les bordures affinées accentuent l'immersion visuelle lors de la lecture de vidéos. La dalle AMOLED CrystalRes propose une résolution 1.5K nette aux détails très précis. Sa diagonale de 6.67 pouces enrichit l'affichage de vos documents bureautiques et présentations.",
+                    "La fréquence dynamique de 120Hz confère des transitions fluides à l'ensemble du système d'exploitation. Cette technologie adaptative réduit par conséquent la consommation d'énergie selon les contenus visualisés. L'écran demeure parfaitement réactif même lors d'une utilisation avec les doigts mouillés. En outre, la certification TÜV Rheinland atténue les émissions de lumière bleue en soirée. Deux haut-parleurs stéréo Dolby Atmos diffusent un son clair et spatialisé très enveloppant. Vous profitez d'une expérience multimédia complète lors de tous vos divertissements quotidiens."
+                ]
+            },
+            {
+                "h2_title": "Batterie Silicium-Carbone 6200 mAh et HyperCharge 90W",
+                "paragraphs": [
+                    "La technologie de batterie Silicium-Carbone permet d'intégrer une capacité record de 6200 mAh. Cette composition chimique assure ainsi une compacité optimale du châssis sans compromis d'épaisseur. L'accumulateur maintient facilement une autonomie solide durant deux journées de travail continu. De surcroît, les puces de gestion Surge contrôlent la tension pour préserver chaque cellule. Vous menez vos activités professionnelles sans dépendre constamment d'une source électrique. Cette endurance rassurante transforme positivement vos habitudes lors des voyages longue distance.",
+                    "Le système de charge filaire de 90W rétablit rapidement la réserve d'énergie requise. Vous gagnez ainsi de précieuses heures d'activité après seulement quelques minutes de branchement. La régulation thermique maintient une température modérée tout au long du processus d'alimentation. De plus, l'algorithme intelligent adapte la puissance reçue selon votre routine de sommeil nocturne. Cette gestion électronique rigoureuse prolonge la durée de vie globale de la batterie. L'alimentation électrique allie donc célérité remarquable et protection matérielle de haut niveau."
+                ]
+            },
+            {
+                "h2_title": "Architecture Snapdragon 7s Gen 3 et Téléobjectif 50 MP",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 7s Gen 3 adopte une gravure fine en 4 nanomètres. Il procure ainsi une vivacité immédiate dans le lancement des outils professionnels exigeants. L'architecture à huit cœurs assure une stabilité exemplaire lors des sessions graphiques 3D. Par conséquent, les commutations entre programmes lourds s'effectuent sans aucun temps mort ressenti. La mémoire vive généreuse permet de stocker de nombreux onglets actifs sans rechargement. La connectivité 5G moderne accélère vos téléchargements et échanges de dossiers volumineux.",
+                    "L'équipement photographique dorsal s'appuie sur un capteur principal de 50 mégapixels stabilisé optiquement. Il enregistre ainsi des clichés d'une fidélité chromatique remarquable en toute circonstance. Le téléobjectif dédié de 50 mégapixels réussit des portraits nets avec un zoom optique précis. De plus, la caméra ultra grand-angle saisit de vastes paysages sans distorsion angulaire gênante. Les algorithmes d'intelligence artificielle améliorent spontanément la netteté des détails nocturnes. Ce smartphone polyvalent répond concrètement à l'ensemble des exigences des utilisateurs exigeants."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi Note 14 Pro+ 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "162.5 x 74.7 x 8.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "210 g (0.210 kg)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68/IP69K résistant à l'eau et à la poussière (jusqu'à 2m pendant 24h)"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Midnight Black), Blanc (Moonlight White), Bleu (Mirage Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED incurvé CrystalRes, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.67 pouces (ratio écran-corps ~89.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), format 20:9 (~446 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "600 nits typique, 1200 nits HBM, 3000 nits en pic"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass Victus 2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7s Gen 3 (4 nm, 8 cœurs jusqu'à 2.50 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno 710 optimisé"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go ou 16 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 3.1"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP, f/1.6, 24mm (grand-angle), 1/1.55\", 1.0µm, multi-directionnel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "50 MP, f/2.0, 60mm (zoom optique 2.5x), PDAF"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "20 MP, f/2.2, enregistrement 1080p@30/60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo, Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6200 mAh (Silicium-Carbone) non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "HyperCharge filaire 90W (100% en 35 min annoncé)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE-A, 3G WCDMA, 2G GSM (Double Nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 (A2DP, LE)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port infrarouge",
+                            "valeur": "Oui"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro%2B+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Note+14+Pro%2B+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

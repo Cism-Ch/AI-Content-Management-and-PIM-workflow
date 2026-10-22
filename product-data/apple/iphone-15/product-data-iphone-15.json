@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-15-series-v2"
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 15",
+    "category": "Smartphones",
+    "sub_category": "Standard",
+    "release_year": 2023,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3089",
+    "regional_variants": [{ "region": "International", "sku": "A3089" }],
+    "verification_sources": [{ "source": "GSMArena", "url": "https://www.gsmarena.com/apple_iphone_15-12559.php" }]
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 15 128GB",
+      "sku_suffix": "128",
+      "configurations": { "ram": "6GB", "storage": "128GB" },
+      "pricing": { "official_price_fcfa": 645000, "currency": "FCFA" }
+    }
+  ],
+  "colors": {
+    "standard": ["Pink", "Yellow", "Green", "Blue", "Black"],
+    "default": "Black"
+  },
+  "key_specifications": {
+    "processor": "Apple A16 Bionic (4 nm)",
+    "ram_options": ["6GB"],
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "screen_size": "6.1 pouces",
+    "screen_technology": "Super Retina XDR OLED",
+    "screen_resolution": "1179 x 2556 pixels",
+    "battery_capacity": "3349 mAh",
+    "charging_wired": "20W",
+    "os": "iOS",
+    "os_version": "17",
+    "camera_main": "48 MP, f/1.6, 26mm, OIS",
+    "camera_ultrawide": "12 MP, f/2.4, 13mm",
+    "camera_selfie": "12 MP, f/1.9",
+    "connectivity_5g": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "dimensions": "147.6 x 71.6 x 7.8 mm",
+    "weight": "171 g",
+    "additional_features": ["Dynamic Island", "USB-C 2.0"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_15-12559.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    },
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com/iphone-15/",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Official Data"]
+    }
+  ]
+}

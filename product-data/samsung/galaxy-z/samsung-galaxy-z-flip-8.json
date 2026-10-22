@@ -1,0 +1,419 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-10-01",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-z-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy Z Flip 8 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Z Series",
+        "commercial_name": "Samsung Galaxy Z Flip 8",
+        "category": "smartphone",
+        "sub_category": "foldable-clamshell",
+        "release_year": 2026,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-Z-FLIP-8",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-Z-FLIP-8"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+8"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+8+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Z Flip 8 6.9\" Pliable 120Hz 12Go RAM Snapdragon 8 Elite 4300mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-Z-FLIP-8",
+        "Name": "Samsung Galaxy Z Flip 8 - 6.9\" Pliable 120Hz - 12Go/256Go - 50MP - 4300mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "690000",
+        "Categories": "Smartphones > Samsung > Galaxy Z Series",
+        "Tags": "Samsung, Galaxy Z Flip 8, Galaxy Z Series, Smartphone Pliable, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 4300mAh, Snapdragon 8 Elite, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Blanc Crème, Gris, Rose, Vert",
+        "Attribute 1 default": "Blanc Crème",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Excellence Pliable à Clapet avec Écran 6.9\" 120Hz et Snapdragon 8 Elite.",
+        "teaser": "Découvrez le Samsung Galaxy Z Flip 8 avec sa dalle pliable 6.9 pouces 120Hz, sa puce Snapdragon 8 Elite, son capteur photo 50MP et son autonomie de 4300 mAh.",
+        "top_features_detailed": [
+            {
+                "feature": "Dalle Pliable 6.9\" Dynamic AMOLED 2X",
+                "benefice": "Confort visuel remarquable et fluidité 120Hz adaptative dans un format de poche"
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite (3nm)",
+                "benefice": "Puissance de calcul supérieure et gestion thermique optimisée pour toutes vos tâches"
+            },
+            {
+                "feature": "Capteur 50MP & FlexCam Assistée par IA",
+                "benefice": "Clichés lumineux précis et cadrages mains libres sous tous les angles de pose"
+            },
+            {
+                "feature": "Batterie 4300 mAh & Étanchéité IP48",
+                "benefice": "Disponibilité continue sur la journée et protection robuste contre l'eau"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone pliable à clapet alliant compacité mécanique, performances 3nm et finitions haut de gamme.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Z Flip 8 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy Z Flip 8 au meilleur prix à Abidjan sur My-eStore. Écran pliable 6.9\" 120Hz, Snapdragon 8 Elite, 50MP, 4300mAh et garantie officielle."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Z Flip 8 256Go : Écran 6.9\" & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy Z Flip 8 sur My-eStore. Écran pliable 6.9 pouces 120Hz, Snapdragon 8 Elite, capteur 50MP, batterie 4300 mAh et connectivité 5G.",
+            "focus_keyword": "Samsung Galaxy Z Flip 8",
+            "lsi_keywords": [
+                "Samsung Galaxy Z Flip 8 Abidjan",
+                "prix Samsung Z Flip 8",
+                "fiche technique Galaxy Z Flip 8",
+                "smartphone pliable clapet 5G",
+                "Galaxy Z Flip 8 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy Z Flip 8 : Écran Pliable 6.9\" 120Hz, Snapdragon 8 Elite et Capteur 50MP",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy Z Flip 8 perfectionne le format pliable avec une charnière renforcée. Sa dalle interne pliable de 6.9 pouces offre un affichage fluide cadencé à 120 Hz. De plus, sa puce Snapdragon 8 Elite gravée en 3nm traite vos applications sans ralentissement. Le châssis en aluminium robuste garantit une prise en main stable au creux de votre main. Enfin, sa batterie de 4300 mAh assure une autonomie équilibrée pour vos usages quotidiens.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy Z Flip 8",
+            "items": [
+                {
+                    "feature": "Dalle Pliable 6.9\" Dynamic AMOLED 2X",
+                    "benefice": "Confort visuel supérieur et compacité de poche une fois replié"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite 3nm",
+                    "benefice": "Calculs réactifs et gestion thermique maîtrisée pour vos applications"
+                },
+                {
+                    "feature": "Double Module Photo 50MP OIS",
+                    "benefice": "Photographies précises de jour comme de nuit avec stabilisation"
+                },
+                {
+                    "feature": "Résistance Certifiée IP48",
+                    "benefice": "Protection éprouvée contre les éclaboussures et l'eau au quotidien"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Format Pliable de Poche et Écran Externe Élargi",
+                "paragraphs": [
+                    "D'un côté, le format pliable divise la hauteur du boîtier par deux pour faciliter vos trajets. La dalle interne Dynamic AMOLED procure des contrastes profonds et des couleurs fidèles sans agressivité. La protection en verre trempé renforce la structure externe contre les micro-rayures de la journée. Par ailleurs, la luminosité maximale autorise une lisibilité nette même sous un fort soleil estival. Les bordures affinées maximisent la surface d'affichage tout en préservant une préhension naturelle et agréable. Vous bénéficiez ainsi d'un appareil très ergonomique adapté à tous vos déplacements professionnels.",
+                    "D'un autre côté, l'écran externe de 4.0 pouces permet de vérifier vos messages en un instant. Cet affichage régule la consommation électrique en évitant d'ouvrir continuellement la dalle principale pliable. Les contrastes profonds mettent en valeur vos notifications essentielles ainsi que vos fonds d'écran personnalisés. En outre, la surface tactile réactive assure une navigation rapide à travers tous vos widgets favoris. Les matériaux soignés témoignent d'une construction pensée pour résister avec fiabilité aux manipulations répétées. Ce smartphone concilie discrétion compacte et polyvalence moderne au bénéfice de votre quotidien."
+                ]
+            },
+            {
+                "h2_title": "Performances Matérielles et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8 Elite exécute les calculs complexes avec une promptitude appréciable. Les douze gigaoctets de mémoire vive garantissent un passage instantané entre vos logiciels ouverts. L'espace de stockage interne accueille l'ensemble de vos documents volumineux et vos galeries multimédias. De surcroît, la chambre de dissipation thermique préserve des cadences élevées sans surchauffe de l'appareil. Les optimisations logicielles accompagnent la fluidité globale lors de vos sessions de travail collaboratif nomade. Vous profitez d'une vélocité exemplaire pour accomplir chacune de vos tâches quotidiennes prioritaires.",
+                    "Dans cette optique, la charge rapide filaire rétablit promptement l'autonomie lors d'une courte pause active. La compatibilité avec la charge sans fil apporte un confort pratique sur votre bureau professionnel. La suite logicielle sécurisée protège vos données personnelles et transactions financières contre les accès non autorisés. Également, la connectivité cinq G garantit des transferts de données rapides lors de vos déplacements. La qualité acoustique des haut-parleurs stéréo enrichit vos communications vocales et visionnages de vidéos d'actualité. Ce modèle constitue une solution durable et performante adaptée aux utilisateurs les plus exigeants."
+                ]
+            },
+            {
+                "h2_title": "Module Photo 50MP et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur photographique principal de 50 mégapixels capture des images nettes et lumineuses. La stabilisation optique compense les tremblements de la main pour éliminer tout flou de bougé. Le mode FlexCam permet de poser le téléphone sur une table pour photographier sans trépied. De même, le capteur ultra grand-angle saisit l'ensemble des paysages et vos scènes de groupe. Les algorithmes d'intelligence artificielle améliorent la netteté des détails dans les environnements à faible éclairage. Vous partagez directement des clichés équilibrés avec vos collaborateurs ou vos proches en famille.",
+                    "Enfin, l'accumulateur de 4300 mAh assure une couverture énergétique solide pour votre journée active. Le gestionnaire d'alimentation adapte les ressources aux habitudes d'utilisation pour préserver l'autonomie en veille. La recharge inversée sans fil permet de dépanner rapidement des écouteurs compatibles en cas d'urgence. Par conséquent, vous conservez une disponibilité continue sans interruption lors de vos déplacements citadins réguliers. Les composants robustes sont conçus pour durer face aux sollicitations répétées de vos journées bien remplies. Le Galaxy Z Flip 8 s'impose comme un investissement fiable associant compacité et performance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Z Flip 8",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Z Flip 8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Déplié",
+                            "valeur": "166.9 x 75.4 x 6.1 mm"
+                        },
+                        {
+                            "label": "Dimensions Plié",
+                            "valeur": "85.7 x 75.4 x 13.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.180 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus 2, Cadre Enhanced Armor Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP48 (Résistant à l'eau jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Principal (Interne)",
+                            "valeur": "6.9\" Foldable Dynamic AMOLED 2X, LTPO (1-120Hz), 2640 x 1080 pixels (FHD+)"
+                        },
+                        {
+                            "label": "Écran Secondaire (Externe)",
+                            "valeur": "4.0\" Super AMOLED panoramique, 120Hz, 720 x 748 pixels"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, 23mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Selfie (Interne)",
+                            "valeur": "10 MP, f/2.2, 23mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4300 mAh Li-Po double cellule"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Fast Wireless Charging 2.0"
+                        },
+                        {
+                            "label": "Partage d'Énergie",
+                            "valeur": "4.5W Wireless PowerShare inversé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI (Optimisé FlexMode)"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "7 ans de mises à jour système et sécurité garanties"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI intégrée (Interprète, Photo Assist, Live Translate)"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+8"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Flip+8+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "690000",
+            "sku_suffix": "12-GB-256-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Blanc Crème",
+            "color_en": "Cream (White)",
+            "color_code": "BLANC-CREME",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "895000",
+            "sku_suffix": "12-GB-512-GB-BLANC-CREME"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "690000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "895000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Pink",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "690000",
+            "sku_suffix": "12-GB-256-GB-ROSE"
+        },
+        {
+            "color_fr": "Rose",
+            "color_en": "Pink",
+            "color_code": "ROSE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "895000",
+            "sku_suffix": "12-GB-512-GB-ROSE"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "690000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Mint",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "895000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ]
+}

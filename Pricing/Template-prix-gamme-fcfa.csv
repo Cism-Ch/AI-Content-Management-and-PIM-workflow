@@ -1,0 +1,53 @@
+# ============================================================================
+# TEMPLATE - FICHIER DE PRIX UNIFIÉ POUR GAMMES DE PRODUITS
+# ============================================================================
+#
+# FORMAT UNIFIÉ (5 colonnes) :
+# - Modèle : Nom EXACT du produit tel qu'il apparaît dans le CSV généré (colonne Name)
+# - Variante RAM/Stockage : Configuration mémoire (ex: "8 Go / 128 Go")
+# - Prix Estimé FCFA : Prix en Francs CFA (sans espaces, sans symbole)
+# - Prix USD Référence : Prix de référence USD pour traçabilité (format "$XXX" ou "$X,XXX")
+# - Source/Notes : Source du prix ou notes complémentaires
+#
+# CONVENTIONS DE NOMMAGE (CRITIQUES pour l'auto-matching) :
+# - Le nom dans la colonne "Modèle" DOIT correspondre exactement au nom extrait
+#   depuis les fichiers long-*.html (fonction Extract-ProductName)
+# - Format général : "[Marque] [Série] [Modèle]"
+#   Exemples :
+#     * Tecno Spark 40 Pro
+#     * iPhone 15 Pro Max
+#     * Samsung Galaxy S23 Ultra
+#     * Redmi Note 14 Pro+ 5G
+#
+# - Respecter les espaces, majuscules, et caractères spéciaux (+, -, etc.)
+# - Pour les variantes (couleur, mémoire), utiliser le modèle de base car
+#   le script match sur le nom principal, pas la configuration
+#
+# UTILISATION :
+# 1. Copier ce template et le renommer : prix-[nom-gamme]-fcfa.csv
+#    Exemples : prix-tecno-spark-fcfa.csv, prix-iphone-16-fcfa.csv
+#
+# 2. Remplir les lignes pour chaque produit de la gamme
+#
+# 3. Placer le fichier à la racine du workspace
+#
+# 4. Exécuter le script d'ajout des prix :
+#    .\scripts\update-csv-prices.ps1 -CsvFile "products-import-[gamme].csv" -PriceFile "prix-[gamme]-fcfa.csv"
+#
+# NOTES :
+# - Les lignes commençant par # sont des commentaires (ignorées)
+# - Le script utilise l'auto-matching intelligent (similarité >85%)
+# - Pour les cas complexes, créer un mapping manuel dans config/price-mappings.json
+# - Privilégier la variante de base/moyenne pour le Prix Estimé FCFA
+#
+# ============================================================================
+
+Modèle,Variante RAM/Stockage,Prix Estimé FCFA,Prix USD Référence,Source/Notes
+Tecno Spark 20,4 Go / 64 Go,55000,"$75","Prix moyen marché africain 2025"
+Tecno Spark 20 Pro,6 Go / 128 Go,75000,"$100","Prix moyen marché africain 2025"
+Tecno Spark 30,4 Go / 128 Go,75000,"$100","Prix moyen marché africain 2025"
+iPhone 15,6 Go / 128 Go,650000,"$899","Prix Apple officiel"
+iPhone 15 Plus,6 Go / 128 Go,750000,"$999","Prix Apple officiel"
+Samsung Galaxy S23,8 Go / 128 Go,550000,"$799","Prix Samsung estimé"
+Samsung Galaxy S23 Ultra,12 Go / 512 Go,950000,"$1429","Prix Samsung estimé"
+Redmi Note 14 Pro 5G,8 Go / 256 Go,180000,"$250","Prix Xiaomi estimé marché africain"

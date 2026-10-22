@@ -1,0 +1,333 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Fort 1",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/fort-1-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "115000",
+        "official_sku": "BV-FORT-1"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G85 Octa-Core",
+        "processor_ghz": "Fréquence 2.0 GHz",
+        "screen_size": "6.56 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz Corning Gorilla Glass",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "10000 mAh",
+        "ram_options": [
+            "4 Go",
+            "6 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 12 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "50 MP avec Flash LED & Caméra thermique/IR",
+        "camera_selfie": "13 MP HD",
+        "audio_config": "Haut-parleur Smart-PA étanche",
+        "audio_tech": "Son HD & Prise Jack 3.5mm étanche",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 33W USB-C & Charge Inversée",
+        "dimensions": "176.15 x 80.1 x 17.5 mm",
+        "weight": "0.390 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-FORT-1-MASTER",
+        "Name": "Blackview Fort 1",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "115000",
+        "Categories": "Smartphones > Blackview > Fort Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Fort 1, Smartphone Durci, IP68, IP69K, 10000mAh, 50MP, 33W, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.390 kg",
+        "Attribute 4 default": "0.390 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Fort 1 : Smartphone Durci Écran 6.56 Pouces 90Hz Batterie 10000 mAh 33W",
+        "brand_line": "Smartphone durci tout-terrain Blackview conçu pour résister aux environnements extrêmes.",
+        "marketing_conclusion": "Commandez le Blackview Fort 1 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Fort 1 réunit une batterie de 10000 mAh 33W, un capteur photo de 50 MP, un écran 90Hz protégé et la certification étanche IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Résistance Certifiée IP68 & IP69K",
+                "benefice": "Protection totale contre l'eau, les poussières et les chutes."
+            },
+            {
+                "feature": "Batterie 10000 mAh & Charge 33W",
+                "benefice": "Autonomie massive de plusieurs jours sur le terrain."
+            },
+            {
+                "feature": "Capteur Photo 50 MP Samsung",
+                "benefice": "Prises de vue très nettes lors de vos inspections."
+            },
+            {
+                "feature": "Puce MediaTek Helio G85",
+                "benefice": "Gestion fluide de vos applications professionnelles."
+            }
+        ],
+        "slogan_final": "Blackview Fort 1 — Le smartphone blindé taillé pour l'aventure.",
+        "seo": {
+            "meta_title": "Acheter Blackview Fort 1 (4Go/6Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview Fort 1 avec batterie 10000 mAh, appareil photo 50 MP et étanchéité IP68. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Fort 1, smartphone durci, prix Abidjan, 10000mAh IP68 50MP"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Fort 1",
+            "lsi_keywords": [
+                "Blackview Fort 1",
+                "smartphone durci Blackview Abidjan",
+                "Blackview Fort 1 prix",
+                "téléphone incassable 10000 mAh",
+                "smartphone étanche IP68 IP69K",
+                "téléphone chantier Côte d'Ivoire",
+                "achat téléphone blindé Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Fort 1 10000 mAh : IP68 & 50MP | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview Fort 1. Batterie 10000 mAh 33W, appareil photo 50 MP, écran 90Hz et résistance IP68/IP69K. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Fort 1 : Spécifications du Smartphone Durci",
+        "experience_box": {
+            "box_title": "LES ATOUTS DE LA ROBUSTESSE",
+            "items": [
+                {
+                    "feature": "Blindage Certifié MIL-STD-810H",
+                    "benefice": "Résistance avérée contre les chocs et chutes de chantier."
+                },
+                {
+                    "feature": "Accumulateur Massif 10000 mAh",
+                    "benefice": "Utilisation ininterrompue durant vos expéditions."
+                },
+                {
+                    "feature": "Capteur Photo 50 MP Réactif",
+                    "benefice": "Immortalisation claire de vos rapports et dossiers."
+                },
+                {
+                    "feature": "Fonction Charge Inversée Powerbank",
+                    "benefice": "Dépannage de la batterie de vos autres accessoires."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Fort 1 est un smartphone durci extrêmement solide et performant. Cet équipement convient très bien aux professionnels du bâtiment et aventuriers en Côte d'Ivoire. Par ailleurs, sa structure renforcée certifiée IP68 et IP69K résiste aux conditions climatiques rudes. De plus, son écran de 6.56 pouces à 90 Hz offre une lisibilité visuelle très claire. La batterie généreuse de 10000 mAh permet de travailler en toute sérénité sur le terrain. Son boîtier ergonomique de 17.5 mm garantit une prise en main très sécurisante. L'interface DokeOS 4.0 sous Android 14 simplifie l'accès à tous vos outils. Enfin, ce smartphone blindé constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 6.56 Pouces 90Hz et Puce Helio G85",
+                "paragraphs": [
+                    "Le Blackview Fort 1 intègre une dalle IPS de 6.56 pouces en définition HD+. Sa résolution de 1612 x 720 pixels restitue des détails d'une clarté impressionnante. De plus, le taux de rafraîchissement de 90 Hz apporte une fluidité constante lors du défilement. De surcroît, le processeur Helio G85 à huit cœurs cadencés à 2.0 GHz gère facilement vos logiciels. Les 6 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 128 Go ou 256 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 4G pour une connectivité double réseau. Cette conception robuste protège vos données en toutes circonstances. Vos fichiers restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 50 MP, Étanchéité IP68 et Puce NFC",
+                "paragraphs": [
+                    "Le Blackview Fort 1 embarque un capteur photo principal de 50 Mégapixels signé Samsung. Cet objectif capture des images haute définition d'une grande netteté sur le terrain. En outre, la caméra frontale de 13 Mégapixels s'avère très pratique pour les visioconférences claires. Les algorithmes d'image optimisent le rendu des détails même en milieu sombre. Ainsi, la captation vidéo en haute définition immortalise vos inspections professionnelles. La précision d'image reste constante.",
+                    "Par ailleurs, le boîtier étanche résiste à l'immersion sous l'eau jusqu'à 1.5 mètre pendant 30 minutes. De plus, le verre Corning Gorilla Glass protège l'écran contre les rayures d'outils. Également, la puce NFC multifonction permet des paiements rapides sans contact. De surcroît, le module GPS quadruples réseaux garantit un guidage très précis en brousse. En somme, ce smartphone durci réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 10000 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie impressionnante de 10000 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de travailler sur le terrain pendant plusieurs jours consécutifs. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour faire le plein rapidement. En effet, la fonction de charge inversée permet de recharger vos autres appareils électroniques. Vos activités professionnelles se poursuivent sans interruption.",
+                    "La silhouette renforcée de 17.5 mm offre une tenue en main ferme et très sécurisante. Son poids de 390 grammes témoigne du blindage complet apporté au téléphone. D'autre part, le Blackview Fort 1 constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa résistance certifiée en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Fort 1",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview Fort 1."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "176.15 x 80.1 x 17.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.390 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Boîtier renforcé antichoc avec protections en caoutchouc"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K & MIL-STD-810H"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.56 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1612 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek Helio G85 Octa-Core 2.0 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 6 Go (+6 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "50 MP (Samsung ISOCELL) avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "13 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "10000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        },
+                        {
+                            "label": "Fonction Powerbank",
+                            "valeur": "Charge inversée filaire 5W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS 4.0)"
+                        },
+                        {
+                            "label": "Navigation",
+                            "valeur": "GPS + GLONASS + Beidou + Galileo"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/fort-1-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

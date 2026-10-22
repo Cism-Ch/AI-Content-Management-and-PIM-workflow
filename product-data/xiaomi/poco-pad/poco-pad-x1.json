@@ -1,0 +1,366 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi POCO Pad X1 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO Pad Series",
+        "commercial_name": "Xiaomi POCO Pad X1",
+        "category": "tablet",
+        "sub_category": "tablet-flagship-multimedia",
+        "release_year": 2025,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-PAD-X1",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-PAD-X1"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad+X1"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad+X1+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi POCO Pad X1 11.2 pouces 144Hz processeur Snapdragon 7+ Gen 3 batterie 8850 mAh charge 67W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7+ Gen 3 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio haute fidélité",
+        "battery_capacity": "8850 mAh",
+        "charging_wired": "Charge turbo 67W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "microSDXC jusqu'à 2 To",
+        "weight": "0.500 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-PAD-X1",
+        "Name": "Xiaomi POCO Pad X1 - Écran 11.2\" 144Hz - (8 Go & 512 Go) - 8850 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "330000",
+        "Categories": "Tablettes > Xiaomi > POCO Pad",
+        "Tags": "Xiaomi, POCO Pad X1, POCO Pad Series, Tablette, Android, Écran 144Hz, Capteur 13MP, 8850mAh, Charge 67W, Snapdragon 7+ Gen 3, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris | Bleu Nuit",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "512 Go",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.500 kg",
+        "Attribute 4 default": "0.500 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi 6E",
+        "Attribute 5 default": "Wi-Fi 6E",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Black",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "330000",
+            "sku_suffix": "8-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "330000",
+            "sku_suffix": "8-GB-512-GB-BLEU-NUIT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO Pad Series",
+        "teaser": "La tablette Xiaomi POCO Pad X1 associe un écran 144Hz de 11.2 pouces au processeur Snapdragon 7+ Gen 3. Dotée d'une charge turbo 67W et d'une batterie de 8850 mAh, elle garantit une réactivité constante pour le travail et le divertissement.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran 11.2\" 144Hz",
+                "benefice": "Dalle 3K fluide et lumineuse pour une précision visuelle optimale au quotidien."
+            },
+            {
+                "feature": "Snapdragon 7+ Gen 3",
+                "benefice": "Puce 4 nm efficace pour exécuter sans heurt les jeux 3D et le multitâche."
+            },
+            {
+                "feature": "Batterie 8850 mAh & 67W",
+                "benefice": "Autonomie généreuse et réalimentation rapide pour préserver votre productivité."
+            },
+            {
+                "feature": "Châssis Fin de 6.2 mm",
+                "benefice": "Finition aluminium compacte et légère facilitant la prise en main prolongée."
+            }
+        ],
+        "marketing_conclusion": "La tablette agile et polyvalente conçue pour allier fluidité d'affichage et réactivité applicative.",
+        "trust_badges": [
+            "Garantie 12 Mois Constructeur",
+            "Livraison Express à Abidjan",
+            "Service Client My-eStore Réactif"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO Pad X1 (8Go/512Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez la tablette Xiaomi POCO Pad X1 chez My-eStore. Écran 11.2 pouces 144Hz, Snapdragon 7+ Gen 3, 512 Go et batterie 8850 mAh au meilleur prix à Abidjan.",
+            "focus_keywords": [
+                "Xiaomi POCO Pad X1",
+                "tablette Xiaomi 144Hz",
+                "POCO Pad X1 prix Abidjan",
+                "tablette Snapdragon 7+ Gen 3"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO Pad X1 512 Go : Écran 11.2\" 144Hz & 8850 mAh | My-eStore",
+            "meta_description": "Découvrez la tablette Xiaomi POCO Pad X1 chez My-eStore. Écran 11.2 pouces 144Hz, Snapdragon 7+ Gen 3 et batterie 8850 mAh avec charge 67W à Abidjan."
+        },
+        "h1": "Xiaomi POCO Pad X1 : Écran 11.2\" 144Hz, Snapdragon 7+ Gen 3 et Batterie 8850 mAh",
+        "experience_box": {
+            "box_title": "Points Clés de la Xiaomi POCO Pad X1",
+            "items": [
+                {
+                    "feature": "Écran 11.2\" 144Hz",
+                    "benefice": "Dalle réactive avec noirs profonds et fluidité régulière à 144Hz"
+                },
+                {
+                    "feature": "Snapdragon 7+ Gen 3",
+                    "benefice": "Puce 4 nm de pointe capable de gérer les graphismes 3D et le multitâche sans heurt"
+                },
+                {
+                    "feature": "Charge Turbo 67W",
+                    "benefice": "Recharge rapide pour réalimenter efficacement la batterie de 8850 mAh"
+                },
+                {
+                    "feature": "Châssis Aluminium Fin",
+                    "benefice": "Conception monobloc de seulement 6.2 mm procurant confort et robustesse"
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette Xiaomi POCO Pad X1 répond aux exigences des utilisateurs nomades recherchant réactivité et lisibilité. Sa dalle de 11.2 pouces délivre une grande netteté sur chaque contenu affiché. De plus, la fréquence de 144Hz procure une aisance constante lors de chaque défilement tactile. Le processeur Snapdragon 7+ Gen 3 prend par ailleurs en charge vos applications lourdes avec équilibre. Enfin, la batterie de 8850 mAh assure une autonomie durable pour tous vos déplacements quotidiens.",
+        "sections": [
+            {
+                "h2_title": "Affichage 3K 144Hz Lumineux et Système Audio Stéréo Dynamique",
+                "paragraphs": [
+                    "Le panneau d'affichage haute définition de la POCO Pad X1 offre un confort visuel appréciable. La définition 3K affiche des textes détaillés ainsi que des contrastes soigneusement équilibrés. De surcroît, le taux de rafraîchissement adaptatif de 144Hz supprime tout effet de flou. La luminosité maîtrisée maintient une visibilité claire dans les environnements éclairés. Le verre de protection prévient en outre les petites rayures lors des manipulations répétées. Cette surface tactile réagit immédiatement aux sollicitations des doigts comme des stylets compatibles.",
+                    "Quatre haut-parleurs stéréo répartis sur les tranches diffusent une acoustique claire et enveloppante. Le profil Dolby Atmos améliore la distinction spatiale de chaque composante sonore. Par conséquent, les dialogues restent distincts pendant vos sessions de formation à distance. La certification Hi-Res Audio valorise les nuances subtiles de vos morceaux musicaux préférés. Cette spatialisation sonore enrichit donc chaque visionnage de séries ou de films récents. Les utilisateurs profitent d'un ensemble multimédia complet pour leurs loisirs numériques réguliers."
+                ]
+            },
+            {
+                "h2_title": "Architecture Snapdragon 7+ Gen 3 et Gestion Multitâche Intuitive",
+                "paragraphs": [
+                    "La puce Qualcomm Snapdragon 7+ Gen 3 délivre une puissance de traitement véloce. Sa gravure en 4 nanomètres garantit une utilisation énergétique judicieuse sans élévation thermique. Ainsi, les jeux mobiles sophistiqués fonctionnent avec une stabilité régulière et fluide. La mémoire vive de 8 Go soutient le passage instantané entre plusieurs applications. Vous pouvez en conséquence organiser votre travail collaboratif sans craindre de ralentissements. L'extension logicielle de mémoire optimise encore la réactivité du système lors des charges denses.",
+                    "L'interface logicielle Xiaomi HyperOS facilite la manipulation simultanée de fenêtres flottantes. Le stockage interne rapide de 512 Go accueille l'ensemble de vos dossiers volumineux. De plus, l'ouverture des présentations lourdes s'effectue sans aucun délai d'attente perceptible. Un emplacement pour carte mémoire autorise l'ajout d'espace de stockage supplémentaire si nécessaire. Cette souplesse technique permet dès lors de conserver tous vos projets de travail réunis. La tablette s'adapte aux activités créatives comme à la consultation de documents professionnels."
+                ]
+            },
+            {
+                "h2_title": "Châssis Aluminium Ultra-Fin de 6.2 mm et Charge Turbo 67W",
+                "paragraphs": [
+                    "Le boîtier monobloc en aluminium affiche une épaisseur contenue de seulement 6.2 millimètres. Son poids maîtrisé de 500 grammes simplifie son transport dans une pochette de protection. En effet, les bordures affinées procurent une prise en main stable au bureau. L'assemblage soigné résiste aux manipulations régulières des utilisateurs professionnels et étudiants. Ce format compact facilite également l'utilisation prolongée lors des trajets en transport. Les finitions discrètes confèrent à l'appareil une présentation sobre dans tous les contextes.",
+                    "La batterie conséquente de 8850 mAh alimente la tablette pendant de longues séances continues. La charge turbo de 67W restaure rapidement l'autonomie utile en quelques dizaines de minutes. Par ailleurs, la connectivité Wi-Fi 6E assure des transferts de fichiers véloces et stables. Le capteur photographique de 13 mégapixels numérise instantanément vos notes et documents papier. Cette polyvalence globale constitue assurément un atout pour vos projets quotidiens à Abidjan. La Xiaomi POCO Pad X1 représente une solution moderne alliant vélocité matérielle et endurance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO Pad X1 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "251.2 x 173.4 x 6.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "500 g (0.500 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis monocoque en aluminium, écran en verre résistant aux rayures"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Gris (Black), Bleu Nuit (Blue)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD / OLED, 1 milliard de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "11.2 pouces (format 3:2, ~87% de ratio écran-corps)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "3K (3200 x 2136 pixels), format 3:2 (~345 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "800 nits typique"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7+ Gen 3 (4 nm, 8 cœurs jusqu'à 2.80 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno 732"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC jusqu'à 2 To"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "13 MP, f/2.0, autofocus PDAF, flash LED, enregistrement 1080p@30fps"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP, f/2.2, grand-angle, enregistrement 1080p@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "4 haut-parleurs stéréo, Dolby Atmos, Hi-Res Audio certifié"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio haute fidélité via port USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "8850 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge turbo filaire 67W (Power Delivery 3.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "Non (modèle Wi-Fi uniquement)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax), tri-bande 2.4GHz, 5GHz et 6GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4 (A2DP, LE, aptX Adaptive, LDAC)"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad+X1"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad+X1+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-flagship-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi 15 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Xiaomi Series",
+        "commercial_name": "Xiaomi 15",
+        "category": "smartphone",
+        "sub_category": "compact-flagship-elite",
+        "release_year": 2024,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "XIAOMI-15",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "XIAOMI-15"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/xiaomi-15/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+15"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+15+specifications"
+            }
+        ],
+        "disambiguation_notes": "Fleuron compact de nouvelle génération Xiaomi 15 doté d'un écran 6.36 pouces 120Hz LTPO, processeur Snapdragon 8 Elite, optiques Leica et batterie 5240 mAh."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo certifiés Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5240 mAh",
+        "charging_wired": "Charge filaire turbo 90W HyperCharge",
+        "navigation_gps": "GPS double fréquence, GLONASS, Galileo, Beidou, NavIC",
+        "card_slot": "Non (double nano-SIM)",
+        "weight": "0.192 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "XIAOMI-15",
+        "Name": "Xiaomi 15 - Dual SIM - Écran 6.36\" 120Hz - (12 Go & 256 Go|512 Go) - 5240 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "465000",
+        "Categories": "Smartphones > Xiaomi > Xiaomi Series",
+        "Tags": "Xiaomi, Xiaomi 15, Xiaomi Series, Smartphone, Android, 5G, Écran 120Hz, Optiques Leica, 5240mAh, Charge 90W, Snapdragon 8 Elite, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Argent | Blanc | Noir | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.192 kg",
+        "Attribute 4 default": "0.192 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "465000",
+            "sku_suffix": "12-GB-256-GB-VERT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "510000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "510000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "510000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Green",
+            "color_code": "VERT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "510000",
+            "sku_suffix": "12-GB-512-GB-VERT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "La Nouvelle Génération Compacte avec Snapdragon 8 Elite et Batterie Silicium-Carbone.",
+        "teaser": "Le smartphone compact haut de gamme Xiaomi 15 associe un écran LTPO 120Hz de 6.36 pouces au puissant processeur Snapdragon 8 Elite gravé en 3nm. Ses optiques professionnelles Leica Summilux et sa batterie haute densité de 5240 mAh garantissent une endurance record.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Compact 6.36\" LTPO 120Hz",
+                "benefice": "Bordures ultra-fines de 1.38 mm et luminosité éclatante de 3200 nits sous le verre Dragon Crystal"
+            },
+            {
+                "feature": "Puce Révolutionnaire Snapdragon 8 Elite",
+                "benefice": "Architecture 3nm dotée de cœurs Oryon surpuissants offrant une réactivité applicative absolue"
+            },
+            {
+                "feature": "Triple Optique Leica Summilux 50MP",
+                "benefice": "Capteur Light Fusion 900 et téléobjectif flottant garantissant des détails d'une justesse studio"
+            },
+            {
+                "feature": "Batterie Silicium-Carbone 5240 mAh",
+                "benefice": "Autonomie étendue dans un format maniable complétée par la charge filaire 90W et sans fil 50W"
+            }
+        ],
+        "marketing_conclusion": "Le fleuron compact par excellence associant technologie 3nm de pointe, autonomie accrue et savoir-faire Leica.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi 15 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le Xiaomi 15 à Abidjan chez My-eStore. Écran 6.36\" LTPO 120Hz, puce Snapdragon 8 Elite, optiques Leica et batterie 5240 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi 15 256 Go : Snapdragon 8 Elite & Leica | My-eStore",
+            "meta_description": "Découvrez le Xiaomi 15 chez My-eStore. Écran compact 6.36 pouces LTPO, Snapdragon 8 Elite 3nm, triple caméra Leica 50MP et batterie 5240 mAh à Abidjan.",
+            "focus_keyword": "Xiaomi 15",
+            "lsi_keywords": [
+                "Xiaomi 15 Abidjan",
+                "smartphone compact haut de gamme",
+                "prix Xiaomi 15 Côte d'Ivoire",
+                "Xiaomi 15 Snapdragon 8 Elite",
+                "Xiaomi 15 fiche technique"
+            ]
+        },
+        "h1": "Xiaomi 15 : Snapdragon 8 Elite, Optiques Leica Summilux et Batterie 5240 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi 15",
+            "items": [
+                {
+                    "feature": "Écran compact 6.36 pouces LTPO",
+                    "benefice": "Dalle AMOLED 120Hz aux bordures ultra-fines de 1.38 mm procurant une maniabilité optimale"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite 3nm",
+                    "benefice": "Processeur de nouvelle génération capable de traiter les flux de calcul les plus intenses"
+                },
+                {
+                    "feature": "Optiques Leica Summilux 50MP",
+                    "benefice": "Trois capteurs complémentaires délivrant un piqué photographique et des portraits fidèles"
+                },
+                {
+                    "feature": "Batterie 5240 mAh & Charge 90W",
+                    "benefice": "Technologie silicium-carbone offrant une autonomie record dans un châssis compact étanche IP68"
+                }
+            ]
+        },
+        "intro_paragraph": "En premier lieu, le smartphone Xiaomi 15 établit un standard d'ingénierie moderne remarquable pour le segment compact. Sa dalle AMOLED LTPO de 6.36 pouces procure un affichage éclatant avec une netteté 1.5K irréprochable. De plus, la fréquence adaptative de 120Hz assure une fluidité tactile exemplaire à chaque manipulation quotidienne. Le processeur Snapdragon 8 Elite déploie une puissance de calcul impressionnante pour vos usages professionnels intensifs. Enfin, sa batterie silicium-carbone de 5240 mAh rechargeable à 90W sécurise durablement vos déplacements à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran LTPO Compact aux Bordures Fines de 1.38 Millimètre",
+                "paragraphs": [
+                    "La dalle AMOLED de 6.36 pouces affiche une définition 1.5K valorisant chaque document graphique avec précision. En outre, les bordures symétriques de seulement 1.38 millimètre maximisent la zone utile sans agrandir le châssis. Cette finesse géométrique garantit une préhension naturelle et une manipulation aisée à une main en déplacement. La fréquence dynamique variant de 1 à 120Hz s'ajuste instantanément pour préserver la réserve d'énergie disponible. Par ailleurs, la luminosité maximale atteignant 3200 nits autorise une lecture limpide sous un soleil rasant. Le système anti-scintillement avancé préserve votre confort oculaire lors des sessions de consultation en environnement tamisé.",
+                    "D'autre part, le verre protecteur Dragon Crystal Glass offre une résistance remarquable face aux micro-frottements quotidiens. Les normes HDR10+ et Dolby Vision procurent un étalonnage visuel riche et contrasté sur vos vidéos. La fidélité des couleurs satisfait pleinement les exigences des créateurs et des analystes d'images professionnels. Ainsi, vous consultez vos courriels et graphiques d'affaires avec une clarté visuelle reposante et durable. La réactivité tactile instantanée garantit une précision immédiate pour la rédaction de messages et le jeu. Cet affichage moderne s'affirme comme une référence absolue d'élégance ergonomique au creux de votre main."
+                ]
+            },
+            {
+                "h2_title": "Puissance Snapdragon 8 Elite et Triple Module Leica Summilux 50MP",
+                "paragraphs": [
+                    "Tout d'abord, le processeur Snapdragon 8 Elite gravé en 3 nanomètres traite les requêtes avec brio. Ses cœurs Oryon développés sur mesure exécutent instantanément les charges de travail informatiques les plus complexes. Le triple module photo Leica intègre des capteurs de 50 mégapixels d'une remarquable cohérence optique. De surcroît, le capteur principal Light Fusion 900 capte une lumière abondante dans les environnements nocturnes. Le téléobjectif flottant de 60 millimètres restitue des portraits expressifs avec une netteté de texture irréprochable. L'enregistrement vidéo en 8K préserve la finesse des détails visuels lors de vos tournages en mobilité.",
+                    "De ce fait, la mémoire vive de 12 Go garantit une transition fluide entre vos applications. Le dispositif thermique innovant dissipe continuellement les montées de température lors des calculs vidéo les plus lourds. Le circuit graphique de nouvelle génération accélère le rendu des jeux vidéo 3D avec une stabilité exemplaire. Également, l'interface Xiaomi HyperOS intègre des fonctionnalités intelligentes optimisant la gestion générale de vos dossiers. Les styles photographiques Leica Authentique et Vibrant apportent une signature esthétique raffinée à chaque prise de vue. Cette alliance matérielle et logicielle assure une réactivité sans faille pour l'ensemble de vos activités quotidiennes."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Confortable de 5240 mAh et Châssis Monobloc IP68",
+                "paragraphs": [
+                    "D'abord, la batterie silicium-carbone de 5240 mAh apporte une densité d'énergie supérieure dans ce gabarit compact. Les algorithmes d'économie d'énergie préservent la réserve disponible durant les temps de veille prolongée du téléphone. La technologie filaire HyperCharge 90W permet de restaurer la totalité de l'autonomie en une trentaine de minutes. De même, la charge par induction sans fil 50W procure un confort d'alimentation très pratique au bureau. Le système Xiaomi Surge protège la santé des accumulateurs contre l'usure prématurée des cycles de charge réguliers. Vous conservez ainsi une disponibilité continue pour vos communications professionnelles tout au long de vos journées.",
+                    "Enfin, le cadre monobloc en aluminium d'aviation offre une résistance élevée face aux chocs du quotidien. La certification officielle IP68 assure une protection hermétique complète contre l'infiltration de poussière et d'eau. Les haut-parleurs stéréo certifiés Dolby Atmos délivrent un signal sonore immersif pour vos échanges téléphoniques réguliers. Par conséquent, la connectivité 5G et le Wi-Fi 7 garantissent des vitesses de transfert en ligne maximales. Le capteur biométrique d'empreinte sous l'écran sécurise vos données professionnelles avec une fiabilité et rapidité absolues. Le Xiaomi 15 représente le choix compact idéal alliant compacité premium, puissance 3nm et endurance silicium-carbone."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi 15 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "152.3 x 71.2 x 8.48 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "192 g (0.192 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en aluminium d'aviation monobloc, dos en verre texturé mat, verre avant Xiaomi Dragon Crystal Glass"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Argent (Silver), Blanc (White), Noir (Black), Vert (Green)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière jusqu'à 2m durant 30 min"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "LTPO AMOLED 120Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.36 pouces (ratio écran-corps ~90.8%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2670 x 1200 pixels), 460 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "1 à 120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (typique), 3200 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite (3 nm, Octa-core jusqu'à 4.32 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Triple optique Leica : principal 50 MP Light Fusion 900 (f/1.62, OIS) + téléobjectif 50 MP (60mm flottant, f/2.0, OIS) + ultra grand-angle 50 MP (14mm, f/2.2)"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.0, enregistrement 4K@60fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo doubles, Dolby Atmos, Hi-Res Audio sans fil"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5240 mAh (typique) technologie silicium-carbone"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 90W HyperCharge + charge sans fil 50W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM physique ou SIM + eSIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 3.2 Gen 1 (DisplayPort, OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/xiaomi-15/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+15"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+15+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

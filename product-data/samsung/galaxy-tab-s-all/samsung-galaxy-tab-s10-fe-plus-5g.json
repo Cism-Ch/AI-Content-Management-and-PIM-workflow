@@ -1,0 +1,400 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-s-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab S10 FE+ conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab S Series",
+        "commercial_name": "Samsung Galaxy Tab S10 FE+",
+        "category": "tablet",
+        "sub_category": "tablet-fe",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-S10-FE-PLUS-5G",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-S10-FE-PLUS-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe-plus/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+FE+Plus"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+FE+Plus+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab S10 FE+ 13.1 pouces 90Hz Exynos 1580 8000mAh S Pen IP68 5G"
+    },
+    "key_specifications": {
+        "processor": "Samsung Exynos 1580 Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 8 Go",
+        "audio_config": "2 Haut-parleurs stéréo AKG",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "8000 mAh",
+        "charging_wired": "Charge Rapide 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM + eSIM / Slot MicroSD jusqu'à 2 To",
+        "weight": "0.628 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-S10-FE-PLUS-5G",
+        "Name": "Samsung Galaxy Tab S10 FE+ - Écran 13.1\" 90Hz - (8 Go|12 Go & 128 Go|256 Go) - S Pen - IP68 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "450000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab S Series",
+        "Tags": "Samsung, Galaxy Tab S10 FE+, Galaxy Tab S Series, Tablette, Tablette Android, 5G, Écran 90Hz, 8000mAh, Exynos 1580, S-Pen, Galaxy AI, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Bleu",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go, 12 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.628 kg",
+        "Attribute 4 default": "0.628 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G, 4G, Wi-Fi 6, Bluetooth 5.3, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "Le Grand Affichage 13.1 Pouces 90Hz avec Stylet S Pen et Étanchéité IP68.",
+        "teaser": "Découvrez la Samsung Galaxy Tab S10 FE+ 5G avec son grand écran immersif de 13.1 pouces 90Hz, sa puce Exynos 1580, son stylet S Pen résistant à l'eau et sa connectivité 5G ultra-rapide.",
+        "top_features_detailed": [
+            {
+                "feature": "Grand Écran 13.1\" 90Hz Spacieux",
+                "benefice": "Affichage généreux et confort visuel optimal pour vos cours et projets graphiques"
+            },
+            {
+                "feature": "Stylet S Pen Étanche Inclus",
+                "benefice": "Prise de notes naturelle et schématisation précise sans frais additionnels"
+            },
+            {
+                "feature": "Puce Exynos 1580 & Connectivité 5G",
+                "benefice": "Navigation fluide et téléchargements ultra-rapides en mobilité"
+            },
+            {
+                "feature": "Châssis Métallique & Certification IP68",
+                "benefice": "Résistance certifiée à l'eau et aux poussières pour une tranquillité d'esprit totale"
+            }
+        ],
+        "marketing_conclusion": "La tablette idéale pour les étudiants et professionnels recherchant un très grand écran, un stylet précis et la robustesse IP68.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab S10 FE+ à Abidjan | My-eStore",
+            "meta_description": "Commandez la Samsung Galaxy Tab S10 FE+ 5G à Abidjan sur My-eStore. Écran 13.1\" 90Hz, S Pen inclus, Exynos 1580, IP68, garantie officielle 24 mois.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab S10 FE Plus",
+                "Galaxy Tab S10 FE+ Abidjan",
+                "Galaxy Tab S10 FE Plus prix",
+                "Tablette tactile Samsung 13.1 pouces"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab S10 FE+ : Grand Écran 13.1\", S Pen et Connectivité 5G",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab S10 FE+ 5G : Écran 13.1\" & S Pen | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab S10 FE+ 5G sur My-eStore. Grand écran 13.1\" 90Hz, puce Exynos 1580, S Pen inclus, étanchéité IP68 et 5G.",
+            "focus_keyword": "Samsung Galaxy Tab S10 FE Plus",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab S10 FE Plus Abidjan",
+                "prix Samsung Galaxy Tab S10 FE Plus",
+                "fiche technique Tab S10 FE Plus",
+                "tablette 13 pouces Samsung",
+                "Galaxy Tab S10 FE+ 128Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab S10 FE+",
+            "items": [
+                {
+                    "feature": "Dalle Spacieuse 13.1\" 90Hz",
+                    "benefice": "Grand confort de lecture et fluidité d'affichage pour toutes vos révisions"
+                },
+                {
+                    "feature": "Stylet S Pen Magnétique Inclus",
+                    "benefice": "Précision authentique et résistance IP68 pour vos prises de notes"
+                },
+                {
+                    "feature": "Puce Exynos 1580 & Modem 5G",
+                    "benefice": "Calculs réactifs et connexions sans fil stables en déplacement"
+                },
+                {
+                    "feature": "Conception Robuste et Norme IP68",
+                    "benefice": "Protection certifiée face aux projections d'eau et aux poussières"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab S10 FE+ propose un grand format d'affichage pour vos études. Sa dalle de 13.1 pouces offre un confort visuel appréciable lors de vos lectures prolongées. De plus, son processeur Exynos 1580 prend en charge vos applications éducatives avec une grande régularité. Le boîtier métallique solide protège les composants internes contre les chocs du quotidien. Enfin, son autonomie généreuse vous permet de réviser durant toute la journée en toute sérénité.",
+        "sections": [
+            {
+                "h2_title": "Affichage Spacieux 13.1 Pouces et Finition Métallique",
+                "paragraphs": [
+                    "D'un côté, la diagonale de treize virgule un pouces offre un champ visuel très large pour vos documents. Le taux de rafraîchissement de 90 Hz assure des défilements réguliers sans saccades lors de vos lectures. La technologie d'amélioration de la vision ajuste automatiquement les contrastes sous une vive lumière extérieure. Par ailleurs, la résolution nette permet de distinguer clairement les formules mathématiques et détails cartographiques. Le profil épuré de six millimètres se glisse facilement dans un sac de cours ordinaire. Vous disposez ainsi d'une surface généreuse pour travailler confortablement dans toutes les situations.",
+                    "D'un autre côté, la certification IP68 protège l'appareil contre les maladresses et les éclaboussures d'eau imprévues. La coque en métal robuste assure une rigidité bienvenue lors des déplacements quotidiens. Les bordures bien dimensionnées facilitent une prise en main stable sans masquer la zone active. En outre, le revêtement satiné préserve l'aspect soigné de la tablette au fil du temps. Les deux haut-parleurs stéréo AKG restituent les voix de vos cours en ligne avec clarté. Ce produit allie endurance physique et élégance fonctionnelle pour vous accompagner durant vos études."
+                ]
+            },
+            {
+                "h2_title": "Stylet S Pen Inclus et Polyvalence Pédagogique",
+                "paragraphs": [
+                    "Tout d'abord, le stylet S Pen étanche s'aimante fermement au dos de la tablette pour rester à portée. Sa sensibilité à la pression reproduit fidèlement la sensation d'un crayon feutre pour le dessin artistique. L'application Samsung Notes permet de rechercher rapidement un mot clé au sein de vos annotations manuscrites. De surcroît, le mode multi-fenêtres affiche un cours vidéo tout en conservant une page de rédaction ouverte. Les outils de conversion numérique facilitent le partage propre de vos résumés d'exercices avec vos camarades. Vous structurez vos révisions avec une méthode claire et moderne.",
+                    "Dans cette optique, la caméra frontale grand-angle vous garde bien au centre du cadre lors des travaux de groupe. Le microphone intégré filtre les échos pour permettre des échanges vocaux audibles sans casque obligatoire. La compatibilité avec les claviers optionnels transforme rapidement la tablette en poste de traitement de texte efficace. Également, le système de partage sans fil transfère vos documents vers votre téléphone en quelques secondes. Toutes vos données scolaires se synchronisent en arrière-plan sans action manuelle compliquée. Cet appareil accompagne vos progrès académiques avec une grande simplicité."
+                ]
+            },
+            {
+                "h2_title": "Puce Exynos Réactive et Réseau 5G Nomade",
+                "paragraphs": [
+                    "D'abord, le processeur Exynos 1580 exécute les calculs complexes sans ralentir vos applications en tâche de fond. La mémoire vive allant jusqu'à douze gigaoctets garantit une réactivité constante lors des sessions multitâches exigeantes. L'espace de stockage extensif par carte mémoire accueille vos bibliothèques de cours et séries favorites. De même, la compatibilité 5G assure des téléchargements fluides de polycopiés volumineux même hors de votre domicile. Le système de déverrouillage sécurise vos accès en respectant votre vie privée numérique. Vous travaillez en toute autonomie sans perte de cadence.",
+                    "Enfin, l'accumulateur haute capacité fournit l'énergie nécessaire pour franchir sans peine une longue journée sur le campus. La compatibilité avec la charge rapide de 45 watts remplit rapidement la batterie pendant une pause. La gestion thermique interne préserve la fraîcheur du châssis même lors d'une utilisation prolongée. Par conséquent, vous restez serein sans chercher continuellement une source de courant électrique disponible. Les composants durables ont été rigoureusement sélectionnés pour conserver leurs performances initiales. La Galaxy Tab S10 FE+ s'impose comme une compagne de travail fiable et accessible."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab S10 FE+",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab S10 FE+</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "300.6 x 194.2 x 6.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.628 kg (628 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre trempé, Châssis et Dos en Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "IP68 (résistance à l'eau et à la poussière jusqu'à 1.5m pendant 30 min)"
+                        },
+                        {
+                            "label": "Accessoire Inclus",
+                            "valeur": "Stylet S Pen étanche IP68 inclus dans la boîte"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS LCD, Vision Booster"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "13.1 pouces (33.27 cm), 2880 x 1800 pixels (WQXGA+), 259 ppi"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre trempé haute résistance"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Samsung Exynos 1580 (4nm) Octa-Core"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go / 12 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "128 Go / 256 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSD jusqu'à 2 To"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 15 / One UI 8.5 avec fonctions Galaxy AI"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "13 MP, Autofocus, Flash LED, Enregistrement Vidéo 4K"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "12 MP (Ultra-Large), Cadrage Automatique"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "2 Haut-parleurs stéréo calibrés AKG, Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "8000 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge Rapide",
+                            "valeur": "Charge filaire rapide 45W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 15 heures en usage mixte"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "5G Sub-6, 4G LTE, Nano-SIM + support eSIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 6 (802.11ax), Bluetooth 5.3, GPS, Galileo, Glonass"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB-C 2.0 / 3.0, Lecteur d'empreintes digitales sur la tranche"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe-plus/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+FE+Plus"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+S10+FE+Plus+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "450000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Gray",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "585000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "450000",
+            "sku_suffix": "8-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "585000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "450000",
+            "sku_suffix": "8-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "585000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        }
+    ]
+}

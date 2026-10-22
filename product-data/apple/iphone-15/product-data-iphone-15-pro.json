@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "product_type": "tech",
+  "generation_metadata": {
+    "generated_date": "2026-05-12",
+    "workflow": "generate-product-data",
+    "confidence_level": "high",
+    "batch_id": "iphone-15-series-v2",
+    "notes": "Données extraites des sources officielles Apple et GSMArena."
+  },
+  "product_identity": {
+    "brand": "Apple",
+    "product_line": "iPhone",
+    "commercial_name": "iPhone 15 Pro",
+    "category": "Smartphones",
+    "sub_category": "Premium",
+    "release_year": 2023,
+    "release_quarter": "Q3",
+    "status": "available"
+  },
+  "model_numbers": {
+    "primary_sku": "A3101",
+    "regional_variants": [
+      { "region": "International", "sku": "A3101" },
+      { "region": "USA", "sku": "A2848" }
+    ],
+    "verification_sources": [
+      { "source": "Apple Support", "url": "https://support.apple.com/kb/SP876" }
+    ],
+    "disambiguation_notes": "Modèle international."
+  },
+  "variants": [
+    {
+      "variant_name": "iPhone 15 Pro 128GB",
+      "sku_suffix": "128",
+      "configurations": {
+        "ram": "8GB",
+        "storage": "128GB"
+      },
+      "pricing": {
+        "official_price_fcfa": 895000,
+        "market_price_range_fcfa": {
+          "min": 850000,
+          "max": 950000
+        },
+        "price_source": "Market estimation Ivory Coast",
+        "price_date": "2026-05-12",
+        "currency": "FCFA"
+      }
+    }
+  ],
+  "colors": {
+    "standard": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+    "exclusive": [],
+    "default": "Natural Titanium"
+  },
+  "key_specifications": {
+    "processor": "Apple A17 Pro (3 nm)",
+    "ram_options": ["8GB"],
+    "storage_options": ["128GB", "256GB", "512GB", "1TB"],
+    "screen_size": "6.1 pouces",
+    "screen_technology": "LTPO Super Retina XDR OLED",
+    "screen_resolution": "1179 x 2556 pixels",
+    "screen_refresh_rate": "120Hz",
+    "battery_capacity": "3274 mAh",
+    "charging_wired": "27W",
+    "charging_wireless": "15W",
+    "os": "iOS",
+    "os_version": "17",
+    "camera_main": "48 MP, f/1.8, 24mm, OIS",
+    "camera_ultrawide": "12 MP, f/2.2, 13mm, 120˚",
+    "camera_telephoto": "12 MP, f/2.8, 77mm, 3x zoom optique, OIS",
+    "camera_selfie": "12 MP, f/1.9, 23mm, OIS",
+    "video_max": "4K@60fps, ProRes, Log",
+    "connectivity_5g": true,
+    "connectivity_wifi": "Wi-Fi 6E",
+    "connectivity_bluetooth": "5.3",
+    "connectivity_nfc": true,
+    "sim_type": "Nano-SIM + eSIM",
+    "water_resistance": "IP68",
+    "dimensions": "146.6 x 70.6 x 8.3 mm",
+    "weight": "187 g",
+    "materials": "Titane Grade 5 (cadre), Verre Corning",
+    "biometrics": "Face ID",
+    "additional_features": ["Action Button", "USB-C 3.0"]
+  },
+  "sources": [
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_iphone_15_pro-12548.php",
+      "accessed_date": "2026-05-12",
+      "data_extracted": ["Specs"]
+    }
+  ]
+}

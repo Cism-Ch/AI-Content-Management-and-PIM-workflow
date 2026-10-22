@@ -1,0 +1,489 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-17-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Redmi Note 17 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Redmi Note 17",
+        "category": "smartphone",
+        "sub_category": "accessible-4g-endurance",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-NOTE-17",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-NOTE-17"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/redmi-note-17/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Redmi+Note+17"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Redmi+Note+17+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone grand format polyvalent Redmi Note 17 4G avec batterie 7700 mAh, écran 6.99 pouces 120Hz et Snapdragon 6s 4G Gen 2."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 6s 4G Gen 2 (6 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "7700 mAh",
+        "charging_wired": "Charge rapide 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "MicroSDXC (emplacement dédié)",
+        "weight": "0.224 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-NOTE-17",
+        "Name": "Redmi Note 17 - Dual SIM - Écran 6.99\" 120Hz - (4 Go|6 Go|8 Go & 128 Go|256 Go) - 7700 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "125000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 17, Redmi Note Series, Smartphone, Android, 4G, Écran 120Hz, Capteur 50MP, 7700mAh, Charge 45W, Snapdragon 6s 4G Gen 2, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Turquoise | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go | 8 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.224 kg",
+        "Attribute 4 default": "0.224 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Sky Teal",
+            "color_code": "TURQUOISE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "4-GB-128-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Celestial Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "4-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "140000",
+            "sku_suffix": "4-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Sky Teal",
+            "color_code": "TURQUOISE",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "140000",
+            "sku_suffix": "4-GB-256-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Celestial Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "256 Go",
+            "price": "140000",
+            "sku_suffix": "4-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Sky Teal",
+            "color_code": "TURQUOISE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "6-GB-128-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Celestial Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "135000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "150000",
+            "sku_suffix": "6-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Sky Teal",
+            "color_code": "TURQUOISE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "150000",
+            "sku_suffix": "6-GB-256-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Celestial Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "150000",
+            "sku_suffix": "6-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Sky Teal",
+            "color_code": "TURQUOISE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Celestial Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "165000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 17",
+        "teaser": "Le smartphone abordable Xiaomi Redmi Note 17 offre une grande surface visuelle de 6.99 pouces à 120Hz et une batterie généreuse de 7700 mAh. Animé par la puce Snapdragon 6s 4G Gen 2, il garantit un confort multitâche sans faille pour vos activités quotidiennes.",
+        "top_features_detailed": [
+            {
+                "label": "Écran Élargi 6.99\" 120Hz",
+                "detail": "Affichage net et fluide procurant un confort visuel reposant à chaque instant."
+            },
+            {
+                "label": "Batterie Durable 7700 mAh",
+                "detail": "Autonomie étendue assurant plus de deux jours complets de fonctionnement."
+            },
+            {
+                "label": "Puce Snapdragon 6s 4G Gen 2",
+                "detail": "Traitement réactif limitant la consommation énergétique au cours de la journée."
+            },
+            {
+                "label": "Appareil Photo 50 MP",
+                "detail": "Prises de vue équilibrées et claires adaptées aux partages sur les réseaux."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone abordable associant grand écran de 6.99 pouces, endurance de 7700 mAh et fiabilité Xiaomi.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Note 17 à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi Note 17 chez My-eStore. Écran géant 6.99\" 120Hz, batterie 7700 mAh et Snapdragon 6s 4G Gen 2 au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi Note 17 : Snapdragon 6s 4G Gen 2 & 7700 mAh | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi Note 17 chez My-eStore. Écran 6.99\" 120Hz, batterie 7700 mAh et Snapdragon 6s 4G Gen 2 au meilleur tarif à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi Note 17",
+            "lsi_keywords": [
+                "Xiaomi Redmi Note 17 Abidjan",
+                "Redmi Note 17 prix Abidjan",
+                "smartphone batterie 7700 mAh",
+                "Snapdragon 6s 4G Gen 2 Xiaomi",
+                "Redmi Note 17 grand écran"
+            ]
+        },
+        "h1": "Redmi Note 17 : Snapdragon 6s 4G Gen 2, Écran 6.99\" 120Hz et Batterie 7700 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 17",
+            "items": [
+                {
+                    "feature": "Écran géant 6.99 pouces",
+                    "benefice": "Grand espace de consultation 120Hz pour visionner confortablement vos médias"
+                },
+                {
+                    "feature": "Batterie haute capacité 7700 mAh",
+                    "benefice": "Endurance remarquable permettant d'espacer les recharges sur plusieurs jours"
+                },
+                {
+                    "feature": "Puce Snapdragon 6s 4G Gen 2",
+                    "benefice": "Processeur économe assurant une stabilité logicielle pour toutes vos tâches"
+                },
+                {
+                    "feature": "Protection IP65",
+                    "benefice": "Résistance éprouvée contre la poussière et les averses soudaines"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi Note 17 repousse les limites de l'endurance avec une autonomie remarquable. En effet, sa batterie massive de 7700 mAh permet plusieurs journées d'utilisation intensive sans la moindre recharge. Sa grande dalle de 6.99 pouces rafraîchie à 120Hz garantit ainsi un confort visuel très immersif. De plus, la puce Snapdragon 6s 4G Gen 2 assure un fonctionnement stable de vos outils. Cet ensemble robuste s'adapte fidèlement au quotidien des usagers exigeants et des professionnels à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Affichage Spacieux de 6.99 Pouces et Châssis Résistant IP65",
+                "paragraphs": [
+                    "La vaste surface d'affichage de 6.99 pouces met en valeur vos fichiers multimédias et tableaux professionnels. Sa luminosité accrue autorise ainsi une lisibilité satisfaisante en extérieur sous un fort ensoleillement direct. La fréquence de 120Hz adoucit les mouvements graphiques lors du défilement des longs flux d'actualité. De surcroît, les certifications de confort visuel réduisent la fatigue oculaire lors des séances de lecture. Le verre trempé protecteur protège efficacement l'écran face aux frottements et chocs involontaires du quotidien. Cette diagonale généreuse facilite l'utilisation simultanée de deux applications en écran partagé sans aucune gêne.",
+                    "Le châssis renforcé bénéficie d'une certification IP65 pour affronter la poussière et les averses soudaines. Son profil ergonomique favorise par conséquent une prise en main stable lors de vos déplacements quotidiens. Le capteur biométrique placé sur le bouton latéral déverrouille votre interface en une fraction de seconde. En outre, la prise audio jack 3.5 millimètres maintient la compatibilité avec tous vos casques traditionnels. Un système de haut-parleurs stéréo diffuse des dialogues clairs pour apprécier vos vidéos et appels vocaux. L'appareil allie une grande robustesse structurelle à des finitions satinées adaptées à tous les environnements."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 6s 4G Gen 2 et Capteur Photo 50MP",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 6s 4G Gen 2 intègre huit cœurs véloces gravés en 6 nanomètres. Cette puce moderne garantit ainsi une consommation électrique modérée même lors des sessions d'utilisation soutenues. Les applications bureautiques et les utilitaires bancaires tournent avec une fluidité remarquable au fil des heures. Par ailleurs, la mémoire vive modulable facilite le passage d'une tâche à l'autre sans ralentissement. Le modem 4G LTE assure des téléchargements véloces et une réception réseau fiable en toute circonstance. Vos échanges professionnels s'exécutent avec une réactivité appréciable pour vous faire gagner un temps utile.",
+                    "Le capteur photo principal culmine à 50 mégapixels pour capturer des images équilibrées aux détails nets. Il enregistre en outre des couleurs naturelles pour immortaliser fidèlement tous vos événements de famille. Les algorithmes de traitement automatique rehaussent la clarté des prises de vue réalisées sous éclairage tamisé. De même, l'enregistrement vidéo haute définition stabilise vos séquences personnelles avec une grande régularité visuelle. La caméra frontale de 16 mégapixels produit des portraits précis pour vos visioconférences de télétravail. Cette panoplie photographique complète répond aux attentes de partage spontané de l'ensemble de la famille."
+                ]
+            },
+            {
+                "h2_title": "Batterie Durable de 7700 mAh et Charge Rapide 45W",
+                "paragraphs": [
+                    "L'accumulateur d'une capacité conséquente de 7700 mAh assure une réserve énergétique très importante au quotidien. Cette capacité permet ainsi de couvrir plus de deux journées entières sans nécessiter de recharge intermédiaire. Vous partez sereinement en voyage ou sur le terrain sans emporter votre bloc secteur dans vos poches. En effet, l'interface Xiaomi HyperOS gère avec rigueur la consommation des services tournant en arrière-plan. Un logement pour carte mémoire permet de sauvegarder des milliers de documents professionnels sans contrainte. Vous archivez vos contenus volumineux en conservant un fonctionnement réactif sur toutes vos applications favorites.",
+                    "Le bloc chargeur rapide de 45W restitue une autonomie substantielle en quelques dizaines de minutes seulement. Il permet par conséquent de repartir rapidement après une simple pause de détente au cours du jour. Les circuits de régulation thermique protègent les composants contre toute élévation excessive de la température interne. De surcroît, la robustesse chimique des cellules prolonge notablement la longévité de l'accumulateur sur plusieurs années. Cette endurance globale constitue un atout décisif pour affronter les exigences des journées bien remplies. Le Xiaomi Redmi Note 17 s'impose comme un smartphone accessible remarquable par son autonomie durable."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Redmi Note 17 - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "169.70 x 79.14 x 8.45 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "224 g (0.224 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en polycarbonate renforcé, dos satiné"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Turquoise (Sky Teal), Violet (Celestial Purple)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP65 résistant à la poussière et aux jets d'eau"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD 120Hz, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.99 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "FHD+ (2460 x 1080 pixels), 388 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "600 nits (typique), 1000 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 6s 4G Gen 2 (6 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno GPU"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go, 6 Go ou 8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go ou 256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Oui, via MicroSDXC dédié"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Double capteur : 50 MP principal (f/1.8, PDAF) + 2 MP profondeur"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP, f/2.0, enregistrement 1080p"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo, Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "7700 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire rapide 45W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G, 2G (Double nano-SIM + emplacement MicroSD séparé)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/redmi-note-17/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Redmi+Note+17"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Redmi+Note+17+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

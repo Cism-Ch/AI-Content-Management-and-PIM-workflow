@@ -1,0 +1,412 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi Redmi A4 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi A Series",
+        "commercial_name": "Xiaomi Redmi A4 5G",
+        "category": "smartphone",
+        "sub_category": "smartphone-entry-5g",
+        "release_year": 2024,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-A4-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-A4-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+A4+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+A4+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone 5G accessible Xiaomi Redmi A4 5G avec processeur Snapdragon 4s Gen 2 écran 6.88 pouces 120Hz et batterie 5160 mAh."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 4s Gen 2 5G (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 6 Go",
+        "audio_config": "Haut-parleur avec volume augmenté à 150%",
+        "audio_tech": "Son clair et prise jack 3.5mm",
+        "battery_capacity": "5160 mAh",
+        "charging_wired": "Charge rapide 18W",
+        "navigation_gps": "GPS, GLONASS, Galileo, BDS, NavIC",
+        "card_slot": "microSDXC (emplacement hybride)",
+        "weight": "0.212 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-A4-5G",
+        "Name": "Xiaomi Redmi A4 5G - Dual SIM - Écran 6.88\" 120Hz - (4 Go|6 Go & 64 Go|128 Go) - 5160 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "80000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi A4 5G, Redmi A Series, Smartphone, 5G, Écran 120Hz, Capteur 50MP, 5160mAh, Charge 18W, Snapdragon 4s Gen 2, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Violet",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.212 kg",
+        "Attribute 4 default": "0.212 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Starry Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "80000",
+            "sku_suffix": "4-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Sparkle Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "80000",
+            "sku_suffix": "4-GB-64-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Starry Black",
+            "color_code": "NOIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "90000",
+            "sku_suffix": "4-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Sparkle Purple",
+            "color_code": "VIOLET",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "90000",
+            "sku_suffix": "4-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Starry Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Sparkle Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "105000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi A",
+        "teaser": "Le smartphone Xiaomi Redmi A4 5G démocratise la vitesse 5G grâce à la puce Qualcomm Snapdragon 4s Gen 2 gravée en 4 nm. Muni d'un grand écran 120Hz de 6.88 pouces et d'une batterie de 5160 mAh avec charge 18W, il offre une réactivité sans faille.",
+        "top_features_detailed": [
+            {
+                "label": "Puce Snapdragon 4s Gen 2 (4 nm)",
+                "detail": "Processeur Qualcomm 5G moderne assurant des débits cellulaires rapides et une grande sobriété."
+            },
+            {
+                "label": "Grand Écran 6.88\" 120Hz",
+                "detail": "Affichage immersif avec fluidité de 120Hz certifié pour le confort visuel lors des sessions prolongées."
+            },
+            {
+                "label": "Capteur Photo 50 MP Détaillé",
+                "detail": "Prises de vue nettes et lumineuses secondées par les algorithmes de traitement numérique."
+            },
+            {
+                "label": "Batterie 5160 mAh et Charge 18W",
+                "detail": "Alimentation durable couvrant aisément la journée avec connecteur réversible USB Type-C."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone 5G équilibré réunissant affichage 120Hz spacieux et autonomie de 5160 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi A4 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi Redmi A4 5G à Abidjan chez My-eStore. Puce Snapdragon 4s Gen 2, écran 6.88 pouces 120Hz et batterie 5160 mAh au meilleur prix."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi Redmi A4 5G : Snapdragon 4s & 120Hz | My-eStore",
+            "meta_description": "Découvrez le Xiaomi Redmi A4 5G chez My-eStore. Connectivité 5G Snapdragon 4s Gen 2, écran 6.88 pouces 120Hz et batterie 5160 mAh au meilleur prix à Abidjan.",
+            "focus_keyword": "Xiaomi Redmi A4 5G",
+            "lsi_keywords": [
+                "Xiaomi Redmi A4 5G Abidjan",
+                "Redmi A4 5G prix Abidjan",
+                "smartphone 5G pas cher Xiaomi",
+                "Snapdragon 4s Gen 2 5G",
+                "Redmi A4 5G batterie 5160 mAh"
+            ]
+        },
+        "h1": "Xiaomi Redmi A4 5G : Snapdragon 4s Gen 2, Écran 6.88\" 120Hz et Batterie 5160 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi Redmi A4 5G",
+            "items": [
+                {
+                    "feature": "Connectivité 5G Qualcomm",
+                    "benefice": "Téléchargements cellulaires rapides et streaming sans attente à prix maîtrisé"
+                },
+                {
+                    "feature": "Puce Snapdragon 4s Gen 2 (4 nm)",
+                    "benefice": "Processeur Qualcomm économe et réactif préservant la fraîcheur de l'appareil"
+                },
+                {
+                    "feature": "Écran Élargi 6.88\" 120Hz",
+                    "benefice": "Diagonale imposante et très fluide pour lire vos documents avec un grand confort"
+                },
+                {
+                    "feature": "Batterie 5160 mAh & 18W",
+                    "benefice": "Autonomie sereine sur plus d'une journée avec recharge pratique via port USB-C"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi Redmi A4 5G démocratise l'accès à la transmission mobile de cinquième génération. En effet, son grand écran tactile de 6.88 pouces procure une lisibilité très appréciable au quotidien. De plus, la dalle cadencée à 120Hz apporte un confort visuel reposant lors des défilements. La puce Snapdragon 4s Gen 2 assure ainsi une réactivité sans latence sur les applications. Cet appareil moderne et endurant accompagne avec constance les usagers actifs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Affichage Imposant de 6.88 Pouces et Fluidité Visuelle 120Hz",
+                "paragraphs": [
+                    "La grande surface d'affichage de 6.88 pouces simplifie la lecture de vos documents professionnels. Par ailleurs, le panneau IPS restitue des couleurs homogènes sous différents angles de vision. Le taux d'actualisation de 120Hz élimine les saccades visuelles lors des recherches sur le web. En outre, les certifications de réduction de lumière bleue protègent les yeux des tiraillements. Le verre renforcé en façade oppose une bonne résistance face aux rayures du quotidien. Cette dalle généreuse transforme chaque session de divertissement en un moment très agréable.",
+                    "Le châssis soigné présente un dos aux finitions scintillantes captant joliment la lumière. De ce fait, la prise en main reste sûre même lors d'une utilisation d'une seule main. Le lecteur biométrique latéral autorise un déverrouillage sécurisé par une simple pression du pouce. De même, la certification IP52 préserve les composants internes contre les éclaboussures accidentelles. La prise jack de 3.5 millimètres maintient la compatibilité avec vos accessoires filaires. Le boîtier associe une silhouette équilibrée à une réelle robustesse mécanique générale."
+                ]
+            },
+            {
+                "h2_title": "Photographie Polyvalente 50 MP et Confort Audio Renforcé",
+                "paragraphs": [
+                    "Le capteur photographique principal atteint 50 mégapixels pour des prises de vue très détaillées. En premier lieu, les algorithmes de capture stabilisent les clichés pris lors des journées ensoleillées. Le module d'assistance analyse la scène pour valoriser les textures des sujets photographiés. De surcroît, le mode nocturne rehausse la clarté globale sans générer de grain excessif. Les commandes tactiles de l'application photo facilitent les ajustements manuels des prises de vue. Vos souvenirs de vacances ou de réunions familiales demeurent immédiatement partageables avec vos contacts.",
+                    "La caméra frontale de 5 mégapixels restitue un cadrage net pour vos visioconférences professionnelles. Dès lors, les discussions avec vos proches conservent une belle intelligibilité visuelle et sonore. Le haut-parleur intégré délivre un volume accru pour entendre distinctement dans les lieux animés. D'ailleurs, le traitement audio réduit les bruits parasites durant vos appels téléphoniques en extérieur. L'enregistrement vidéo Full HD produit des séquences nettes pour documenter vos événements marquants. Cette configuration multimédia complète comble les attentes pratiques de tous les usagers modernes."
+                ]
+            },
+            {
+                "h2_title": "Architecture Snapdragon 5G et Batterie Durable 5160 mAh",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 4s Gen 2 bénéficie d'une gravure avancée en 4 nanomètres. Par conséquent, la dissipation thermique demeure très faible lors de vos téléchargements cellulaires 5G. Les huit cœurs exécutent vos applications favorites avec une grande régularité de calcul. Le système Xiaomi HyperOS libère également la mémoire vive afin d'optimiser le multitâche quotidien. Le tiroir pour carte mémoire microSD permet d'augmenter le stockage interne selon vos besoins. Vous sauvegardez vos cours et documents volumineux sans redouter de manque de place.",
+                    "L'accumulateur d'une capacité de 5160 mAh délivre une alimentation constante sur une longue durée. Grâce à cette capacité, votre téléphone assure plus d'une journée entière d'usage mixte. Le système de charge filaire 18W reconstitue rapidement la réserve d'énergie disponible. Enfin, le port réversible USB Type-C simplifie le branchement régulier avec les câbles modernes. Ce dispositif d'alimentation solide met fin aux craintes de panne durant vos déplacements. Le Xiaomi Redmi A4 5G concrétise une transition idéale vers les vitesses mobiles contemporaines."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi Redmi A4 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.9 x 77.8 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "212 g (0.212 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre résistant, dos avec texture moderne scintillante"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP52 résistant à la poussière et aux gouttes d'eau"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Starry Black), Violet (Sparkle Purple)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 120Hz, 450 nits typique, 600 nits HBM"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.88 pouces (ratio écran-corps ~84.0%)"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (1640 x 720 pixels), format 20.5:9 (~260 ppp)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 4s Gen 2 5G (4 nm, 8 cœurs jusqu'à 2.00 GHz)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Adreno"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go ou 6 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go ou 128 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP, f/1.8, 28mm (grand-angle), PDAF"
+                        },
+                        {
+                            "label": "Caméra auxiliaire",
+                            "valeur": "Capteur de profondeur"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "5 MP, f/2.2, vidéo 1080p@30fps"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur mono avec amplification 150%, prise jack 3.5mm"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5160 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge rapide filaire 18W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM (Double Nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, double bande 2.4GHz et 5GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0 (A2DP, LE)"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+A4+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+A4+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

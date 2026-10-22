@@ -1,0 +1,409 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi POCO Pad conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO Pad Series",
+        "commercial_name": "Xiaomi POCO Pad",
+        "category": "tablet",
+        "sub_category": "tablet-midrange-multimedia",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-PAD",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-PAD"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette Xiaomi POCO Pad 12.1 pouces 2.5K 120Hz Snapdragon 7s Gen 2 batterie 10000 mAh charge 33W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 7s Gen 2 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "4 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "10000 mAh",
+        "charging_wired": "Charge rapide 33W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "microSDXC jusqu'à 1.5 To",
+        "weight": "0.571 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-PAD",
+        "Name": "Xiaomi POCO Pad - Écran 12.1\" 2.5K 120Hz - (8 Go & 256 Go) - 10000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "215000",
+        "Categories": "Tablettes > Xiaomi > POCO Pad",
+        "Tags": "Xiaomi, POCO Pad, POCO Pad Series, Tablette, Android, Écran 120Hz, Capteur 8MP, 10000mAh, Charge 33W, Snapdragon 7s Gen 2, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris | Bleu Nuit",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.571 kg",
+        "Attribute 4 default": "0.571 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi 6",
+        "Attribute 5 default": "Wi-Fi 6",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Dark Gray",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Bleu Nuit",
+            "color_en": "Blue",
+            "color_code": "BLEU-NUIT",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-256-GB-BLEU-NUIT"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série POCO Pad",
+        "teaser": "La tablette tactile Xiaomi POCO Pad combine un large écran 2.5K 120Hz de 12.1 pouces au processeur Snapdragon 7s Gen 2. Sa généreuse batterie de 10000 mAh avec charge 33W garantit une autonomie longue durée, soutenue par quatre haut-parleurs stéréo Dolby Atmos.",
+        "top_features_detailed": [
+            {
+                "label": "Écran 12.1\" 2.5K 120Hz",
+                "detail": "Affichage vaste et fluide certifié Dolby Vision pour vos séries en streaming et vos travaux scolaires."
+            },
+            {
+                "label": "Puce Snapdragon 7s Gen 2 (4 nm)",
+                "detail": "Gravure moderne de 4 nanomètres assurant un multitâche réactif et une excellente maîtrise thermique."
+            },
+            {
+                "label": "Batterie Durable 10000 mAh",
+                "detail": "Grande réserve énergétique assurant plusieurs journées d'autonomie avec recharge rapide filaire de 33W."
+            },
+            {
+                "label": "Quatre Haut-Parleurs Stéréo",
+                "detail": "Immersion sonore claire et dynamique avec prise en charge Dolby Atmos et Hi-Res Audio."
+            }
+        ],
+        "marketing_conclusion": "La tablette grand format par excellence combinant écran 12.1 pouces 2.5K, Snapdragon 7s Gen 2 et batterie 10000 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO Pad à Abidjan | My-eStore",
+            "meta_description": "Commandez la tablette Xiaomi POCO Pad à Abidjan chez My-eStore. Écran 12.1 pouces 2.5K 120Hz, Snapdragon 7s Gen 2 et batterie 10000 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi POCO Pad",
+            "lsi_keywords": [
+                "tablette POCO grand écran",
+                "POCO Pad 12.1 pouces",
+                "Snapdragon 7s Gen 2",
+                "tablette 120Hz 10000 mAh",
+                "tablette multimédia Abidjan"
+            ],
+            "meta_title": "Xiaomi POCO Pad 256 Go : Écran 12.1\" 120Hz & 10000 mAh | My-eStore",
+            "meta_description": "Découvrez la tablette Xiaomi POCO Pad avec écran 12.1 pouces 2.5K 120Hz, puce Snapdragon 7s Gen 2 et batterie 10000 mAh 33W chez My-eStore."
+        },
+        "h1": "Xiaomi POCO Pad : Écran 12.1\" 120Hz, Snapdragon 7s Gen 2 et Batterie 10000 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI POCO PAD",
+            "items": [
+                {
+                    "feature": "Dalle 12.1\" 2.5K 120Hz",
+                    "benefice": "Espace de visionnage généreux pour les vidéos et la consultation de documents."
+                },
+                {
+                    "feature": "Puce Snapdragon 7s Gen 2",
+                    "benefice": "Puissance équilibrée assurant une grande régularité dans vos logiciels préférés."
+                },
+                {
+                    "feature": "Batterie 10000 mAh 33W",
+                    "benefice": "Autonomie solide couvrant plusieurs journées d'activités nomades variées."
+                },
+                {
+                    "feature": "Système Acoustique Quad",
+                    "benefice": "Rendu sonore immersif enveloppant grâce au traitement certifié Dolby Atmos."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile Xiaomi POCO Pad offre un environnement complet pour les amateurs de divertissement et d'études. Son écran spacieux de 12.1 pouces propose une définition 2.5K très précise. En effet, la fréquence adaptative de 120Hz fluidifie le défilement de tous vos contenus multimédias. De plus, le processeur Snapdragon 7s Gen 2 prend en charge vos applications usuelles sans latence. Ainsi, cet outil moderne facilite la gestion de vos projets bureautiques au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 12.1 Pouces 2.5K 120Hz et Finition Métallique",
+                "paragraphs": [
+                    "Le châssis monocoque en aluminium de la Xiaomi POCO Pad assure une prise en main stable. Son épaisseur fine de 7.5 millimètres procure une élégance sobre sur votre bureau de travail. Le poids équilibré permet une tenue commode lors des sessions de lecture prolongées. Par ailleurs, la coque métallique dissipe naturellement la chaleur tout en protégeant les circuits. Les bordures symétriques offrent une excellente préhension sans masquer la surface active d'affichage. En outre, le traitement antireflet limite les reflets gênants des lampes de chevet.",
+                    "La dalle IPS de 12.1 pouces restitue les documents avec une netteté très appréciable. L'écran affiche plus de 68 milliards de nuances avec une colorimétrie dynamique bien équilibrée. D'ailleurs, la prise en charge Dolby Vision garantit des contrastes profonds sur chaque film. La cadence de 120Hz apporte une fluidité constante au tracé des notes manuscrites. La triple certification TÜV Rheinland protège efficacement vos yeux lors des révisions nocturnes. Enfin, le niveau d'éclairage élevé maintient une lisibilité claire dans une pièce bien éclairée."
+                ]
+            },
+            {
+                "h2_title": "Performances Snapdragon 7s Gen 2 et Interface HyperOS",
+                "paragraphs": [
+                    "La puce octocœur Qualcomm Snapdragon 7s Gen 2 gravée en 4 nanomètres dispense une puissance maîtrisée. Son architecture équilibre les calculs pour préserver l'autonomie lors des usages récréatifs continus. En effet, le processeur graphique Adreno 710 assure l'exécution rapide des jeux 3D récents. La mémoire vive de 8 Go soutient un multitâche fiable sans fermetures applicatives inopinées. Vous passez instantanément d'une vidéo éducative vers votre boîte de courriels électroniques. De plus, la conception thermique interne régule le dégagement de chaleur sur le dos métallique.",
+                    "L'espace de stockage flash accueille vos séries entières et vos classeurs de cours sans difficulté. Les cadences de transfert internes accélèrent la copie de volumineuses bibliothèques de fichiers. Par conséquent, la fluidité générale reste intacte au cours de manipulations intensives. L'interface Xiaomi HyperOS optimise le partage d'écran entre votre tablette et vos smartphones associés. La disposition claire des fenêtres multiples permet d'organiser méthodiquement vos supports de révision. Ainsi, vous organisez vos activités numériques avec une belle simplicité et sans ralentissement."
+                ]
+            },
+            {
+                "h2_title": "Immersion Sonore Dolby Atmos et Batterie Longue Durée de 10000 mAh",
+                "paragraphs": [
+                    "Quatre haut-parleurs stéréo symétriques délivrent une scène acoustique ample et très bien découpée. Cette configuration permet de percevoir distinctement chaque parole sans devoir augmenter excessivement le son. De surcroît, la technologie Dolby Atmos enrichit l'écoute de vos bandes originales préférées. La caméra frontale de 8 mégapixels garantit des échanges visuels nets lors des appels vidéo. Le capteur arrière de 8 mégapixels numérise facilement vos documents écrits et schémas d'étude. En conséquence, vos séances d'apprentissage collaboratif s'organisent avec un confort de communication supérieur.",
+                    "La batterie haute capacité de 10000 mAh confère à l'appareil une autonomie de plusieurs journées. Vous pouvez enchaîner vos visionnages sans transporter constamment le câble d'alimentation avec vous. Grâce à la recharge rapide de 33 watts, la batterie refait rapidement le plein disponible. Cette commodité d'alimentation évite de patienter longuement lors des déplacements de loisirs. La puce Wi-Fi 6 assure des liaisons stables sur les bornes modernes de votre domicile. Enfin, la prise jack 3.5 mm autorise la connexion directe d'un casque audio conventionnel."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi POCO Pad",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi POCO Pad."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "280.0 x 181.9 x 7.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.571 kg (571 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre Gorilla Glass 3, corps monobloc en alliage d'aluminium"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Dark Gray), Bleu Nuit (Blue)"
+                        },
+                        {
+                            "label": "Conception",
+                            "valeur": "Châssis monocoque métallique rigide et tranches plates"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, 68 milliards de couleurs, Dolby Vision"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "12.1 pouces (~83.4% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "2.5K (1600 x 2560 pixels), ratio 16:10, ~249 ppp"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif dynamique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits (typique), 600 nits (HBM)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 3, triple certification TÜV Rheinland"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 7s Gen 2 (Gravure 4 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Adreno 710"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "256 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Slot microSDXC dédié jusqu'à 1.5 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "8 MP, f/2.0, capteur 1/4.0\", 1.12µm, autofocus AF"
+                        },
+                        {
+                            "label": "Fonctionnalités Caméra",
+                            "valeur": "Flash LED, HDR, mode document scanner"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "8 MP, f/2.3, cadrage automatique des visages"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Multimédia",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "4 haut-parleurs stéréo symétriques"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, certification Hi-Res Audio filaire et sans fil"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui, prise casque audio 3.5 mm présente"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "2 microphones avec réduction de bruit ambiant"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "10000 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge rapide 33W (PD / QC3+)"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 avec fonction OTG"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) bi-bande 2.4 GHz et 5 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2, A2DP, LE"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Accéléromètre, gyroscope, capteur de luminosité ambiante, capteur Hall"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android avec Xiaomi HyperOS Pad"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+Pad+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

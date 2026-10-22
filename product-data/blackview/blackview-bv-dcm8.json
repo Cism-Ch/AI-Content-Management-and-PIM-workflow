@@ -1,0 +1,321 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "DCM8",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/dcm8-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "185000",
+        "official_sku": "BV-DCM8"
+    },
+    "key_specifications": {
+        "processor": "Puce d'Affichage Dual Screen Ultra Controller",
+        "processor_ghz": "N/A",
+        "screen_size": "15.3 pouces (Écran Double Max)",
+        "screen_technology": "FHD IPS LCD Mat Anti-Reflets 100% sRGB",
+        "screen_resolution": "1920 x 1080 pixels",
+        "battery_capacity": "N/A (Alimentation directe USB-C)",
+        "ram_options": [
+            "Standard"
+        ],
+        "storage_options": [
+            "Standard"
+        ],
+        "ram_extension": "Non disponible",
+        "os": "Compatible Windows, macOS, Android, Linux",
+        "os_skin": "Plug & Play sans pilote",
+        "camera_main": "Non disponible",
+        "camera_selfie": "Non disponible",
+        "audio_config": "Double haut-parleur stéréo HD intégré",
+        "audio_tech": "Son Stéréo HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "Non disponible",
+        "card_slot": "Non disponible",
+        "charging_wired": "Dual USB-C & Mini HDMI",
+        "dimensions": "364.4 x 237.43 x 21 mm",
+        "weight": "1.2 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-DCM8-MASTER",
+        "Name": "Blackview DCM8",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "185000",
+        "Categories": "Matériels Informatique & Bureautique > Moniteurs Portable, Matériels Informatique & Bureautique",
+        "Tags": "Blackview, Blackview DCM8, Moniteur Portable, Double Écran, 15.3 Pouces, USB-C, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "Standard",
+        "Attribute 2 default": "Standard",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "Standard",
+        "Attribute 3 default": "Standard",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "1.2 kg",
+        "Attribute 4 default": "1.2 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview DCM8 : L'Extension Double Écran Portable 15.3 Pouces",
+        "brand_line": "Moniteur portable grand format double écran Blackview conçu pour les professionnels.",
+        "marketing_conclusion": "Commandez le Blackview DCM8 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview DCM8 propose une grande extension double écran de 15.3 pouces Full HD IPS, une connectique USB-C Plug & Play et un châssis robuste en aluminium.",
+        "features": [
+            {
+                "feature": "Grand Double Écran 15.3\" FHD IPS",
+                "benefice": "Surface d'affichage vaste pour lire facilement tous vos documents."
+            },
+            {
+                "feature": "Dalle Haute Définition 100% sRGB",
+                "benefice": "Rendu des couleurs précis et contrastes nets au quotidien."
+            },
+            {
+                "feature": "Connectique USB-C & Mini HDMI Directe",
+                "benefice": "Installation Plug & Play rapide sans besoin de logiciel tiers."
+            },
+            {
+                "feature": "Structure Aluminium 1.2 kg & Pied Inclinable",
+                "benefice": "Finition solide et grande stabilité d'installation sur bureau."
+            }
+        ],
+        "slogan_final": "Blackview DCM8 — La vue panoramique pour votre productivité nomade.",
+        "seo": {
+            "meta_title": "Acheter Blackview DCM8 (Double Écran 15.3\") à Abidjan | My-eStore",
+            "meta_description": "Découvrez le moniteur portable grand format Blackview DCM8 avec double écran 15.3 pouces Full HD et connectique USB-C. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview DCM8, moniteur portable Blackview, prix Abidjan, extension écran 15.3 pouces"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview DCM8",
+            "lsi_keywords": [
+                "Blackview DCM8",
+                "moniteur portable Blackview",
+                "prix Abidjan",
+                "extension écran PC portable Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "double écran 15.3 pouces",
+                "USB-C 1.2kg",
+                "écran portable FHD IPS",
+                "achat moniteur portable Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview DCM8 15.3\" : Double Écran Portable FHD IPS | My-eStore",
+            "meta_description": "Achetez le moniteur portable Blackview DCM8. Double écran 15.3 pouces Full HD IPS, USB-C et châssis aluminium. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview DCM8 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Diagonale Généreuse 15.3 Pouces",
+                    "benefice": "Lisibilité optimale des tableaux complexes et des lignes de code."
+                },
+                {
+                    "feature": "Panneau IPS 100% sRGB",
+                    "benefice": "Fidélité visuelle remarquable adaptée à l'édition graphique."
+                },
+                {
+                    "feature": "Alimentation USB-C Unifiée",
+                    "benefice": "Gestion simplifiée des câbles avec un seul fil de raccordement."
+                },
+                {
+                    "feature": "Support Pliable Ajustable",
+                    "benefice": "Orientation sur mesure pour un confort de travail ergonomique."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview DCM8 est une extension de moniteur portable double écran grand format et performante. Cet équipement répond parfaitement aux besoins des ingénieurs et analystes en Côte d'Ivoire. Par ailleurs, sa double dalle de 15.3 pouces offre une surface visuelle très confortable. De plus, la résolution Full HD de 1920 x 1080 pixels assure une clarté d'affichage remarquable. Le traitement mat anti-reflets protège les yeux contre la fatigue visuelle lors des sessions intenses. La connectique USB-C permet une mise en service instantanée sans installer de pilote. En effet, sa compatibilité multi-systèmes s'adapte à tous vos ordinateurs portables. Enfin, vous travaillez avec une aisance professionnelle totale.",
+        "sections": [
+            {
+                "h2_title": "Affichage FHD IPS 15.3 Pouces et Précision des Couleurs",
+                "paragraphs": [
+                    "Le Blackview DCM8 s'appuie sur deux dalles IPS de 15.3 pouces d'une grande définition. Sa résolution Full HD de 1920 x 1080 pixels restitue les détails avec une précision appréciable. De plus, la couverture de 100% de l'espace colorimétrique sRGB offre des teintes très naturelles. De surcroît, le traitement anti-reflets atténue efficacement les réverbérations sous éclairage artificiel. La stabilité des angles de vision à 178 degrés facilite les présentations d'équipe. Le confort d'affichage reste très élevé tout au long de la journée.",
+                    "La grande taille des dalles permet d'afficher plusieurs fenêtres côte à côte sans réduction de texte. Vous pouvez suivre un tableau financier tout en rédigeant vos synthèses sur le panneau secondaire. En effet, le pied arrière rétractable autorise un réglage d'inclinaison très précis. La faible consommation énergétique préserve l'autonomie de la batterie du PC hôte. Ainsi, votre productivité quotidienne à Abidjan atteint un excellent niveau."
+                ]
+            },
+            {
+                "h2_title": "Connectique Polyvalente USB-C et Ergonomie Audio",
+                "paragraphs": [
+                    "Le Blackview DCM8 dispose de deux ports USB-C multifonctions transmettant le flux vidéo et l'alimentation. En outre, la présence d'un port Mini HDMI permet le raccordement avec tout autre équipement multimédia. Vous branchez les câbles directement sur vos appareils sans aucune difficulté technique. La configuration d'affichage s'effectue automatiquement en mode étendu ou miroir. La manipulation de l'ensemble reste simple et réactive. L'expérience d'utilisation gagne en fluidité.",
+                    "Par ailleurs, l'appareil intègre un système audio de deux haut-parleurs stéréo très nets. Vous écoutez vos présentations vocales et participez à vos conférences avec une bonne clarté. De plus, la prise Jack 3.5 mm offre la possibilité de brancher un casque filaire rapidement. Cette conception audio complète évite l'ajout d'enceintes externes encombrantes. En somme, cette extension double écran répond à vos exigences professionnelles."
+                ]
+            },
+            {
+                "h2_title": "Châssis en Aluminium et Transport Sécurisé",
+                "paragraphs": [
+                    "La structure du Blackview DCM8 s'habille d'un alliage d'aluminium élégant et solide. Ce revêtement métallique protège efficacement les deux panneaux d'affichage contre les pressions mécaniques. Son poids de 1.2 kg assure un bon compromis entre robustesse et facilité d'emport. En effet, le mécanisme de fermeture replie les dalles l'une contre l'autre pour une sécurité maximale. Vous insérez l'extension repliée dans votre sac à dos en toute sérénité.",
+                    "La compatibilité matérielle est totale avec les systèmes Windows, macOS, Android et Linux. Cette souplesse d'intégration simplifie l'usage partagé au sein d'une entreprise. Le Blackview DCM8 s'impose comme un outil de choix pour dynamiser votre travail à Abidjan. En somme, son rapport qualité-prix en fait une opportunité particulièrement attractive. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview DCM8",
+                "subtitle": "Spécifications matérielles certifiées du moniteur portable Blackview DCM8."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions replié",
+                            "valeur": "364.4 x 237.43 x 21 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "1.2 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis grand format en alliage d'aluminium"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Extension double écran portable 15.3 pouces"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Nombre d'écrans",
+                            "valeur": "2 écrans portables IPS"
+                        },
+                        {
+                            "label": "Taille écran",
+                            "valeur": "15.3 pouces par écran"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1080 pixels (Full HD)"
+                        },
+                        {
+                            "label": "Gamme de couleurs",
+                            "valeur": "100% sRGB"
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "IPS Mat Anti-Reflets (178°)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Ports",
+                    "rows": [
+                        {
+                            "label": "Ports vidéo",
+                            "valeur": "2 x USB-C (DisplayPort + Power Delivery), 1 x Mini HDMI"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise Jack 3.5 mm & Haut-parleurs stéréo HD"
+                        },
+                        {
+                            "label": "Alimentation",
+                            "valeur": "Alimentation directe via USB-C (5V/3A)"
+                        },
+                        {
+                            "label": "Installation",
+                            "valeur": "Plug & Play (sans installation de pilote)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité",
+                    "rows": [
+                        {
+                            "label": "Compatibilité PC",
+                            "valeur": "Ordinateurs portables de 14 à 17.3 pouces"
+                        },
+                        {
+                            "label": "Systèmes d'exploitation",
+                            "valeur": "Windows 10/11, macOS, Android, Linux, ChromeOS"
+                        },
+                        {
+                            "label": "Modes d'affichage",
+                            "valeur": "Mode Étendu, Mode Miroir, Mode Portrait"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ergonomie",
+                    "rows": [
+                        {
+                            "label": "Support inclinable",
+                            "valeur": "Pied arrière pliable ajustabilité continue"
+                        },
+                        {
+                            "label": "Rotation",
+                            "valeur": "Charnière orientable jusqu'à 235°"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contenu",
+                    "rows": [
+                        {
+                            "label": "Câbles inclus",
+                            "valeur": "2 x Câbles USB-C vers USB-C, 1 x Câble Mini HDMI vers HDMI"
+                        },
+                        {
+                            "label": "Accessoires",
+                            "valeur": "Notice d'utilisation et étui de transport"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/dcm8-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "template_version": "3.4",
+    "product_type": "peripherique",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "W80 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/w80-pro-price"
+            }
+        ],
+        "pricing_reference": "33000",
+        "official_sku": "BV-W80-PRO"
+    },
+    "key_specifications": {
+        "processor": "Puce Smartwatch Low-Power Haute Vitesse",
+        "processor_ghz": "Connectivité Bluetooth 5.3 HD Call",
+        "screen_size": "1.91 pouces",
+        "screen_technology": "TFT HD Rectangulaire PANDA Glass",
+        "screen_resolution": "320 x 385 pixels",
+        "battery_capacity": "900 mAh (Jusqu'à 25 jours d'utilisation)",
+        "ram_options": [],
+        "storage_options": [],
+        "ram_extension": "N/A",
+        "os": "Compatible Android & iOS",
+        "os_skin": "Application InfoWear / FitCloudPro",
+        "camera_main": "N/A",
+        "camera_selfie": "N/A",
+        "audio_config": "Haut-parleur étanche & Microphone HD",
+        "audio_tech": "Appels Bluetooth & Lampe Torche LED intégrée",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "Suivi via GPS du smartphone",
+        "card_slot": "N/A",
+        "charging_wired": "Chargeur Magnétique 2-pin USB",
+        "dimensions": "55.65 x 46.80 x 13.70 mm",
+        "weight": "0.036 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-W80-PRO-MASTER",
+        "Name": "Blackview W80 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "33000",
+        "Categories": "Objets Connectés & Wearables > Montres connectées > Blackview Smartwatches, Objets Connectés & Wearables > Montres connectées, Objets Connectés & Wearables",
+        "Tags": "Blackview, Blackview W80 Pro, Montre Connectee 1.91 pouces, Lampe Torche LED, 900mAh, Appels Bluetooth, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Gris | Noir | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.036 kg",
+        "Attribute 4 default": "0.036 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview W80 Pro : Montre Connectée Écran 1.91 Pouces Lampe Torche LED 900 mAh Appels BT",
+        "brand_line": "La montre connectée rectangulaire renforcée Blackview dotée d'une torche LED et d'une batterie géante.",
+        "marketing_conclusion": "Commandez la Blackview W80 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview W80 Pro propose un grand écran de 1.91 pouces HD, une lampe torche LED intégrée au boîtier, les appels Bluetooth et une batterie de 900 mAh.",
+        "features": [
+            {
+                "feature": "Écran 1.91\" HD Rectangulaire",
+                "benefice": "Affichage net et lecture confortable des messages."
+            },
+            {
+                "feature": "Lampe Torche LED Intégrée",
+                "benefice": "Source d'éclairage d'appoint très utile en extérieur."
+            },
+            {
+                "feature": "Batterie Géante 900 mAh",
+                "benefice": "Autonomie étendue jusqu'à 25 jours d'utilisation."
+            },
+            {
+                "feature": "Appels Bluetooth HD & 100+ Sports",
+                "benefice": "Communications directes au poignet et suivi physique complet."
+            }
+        ],
+        "slogan_final": "Blackview W80 Pro — Le suivi complet et la lumière à votre poignet.",
+        "seo": {
+            "meta_title": "Acheter Blackview W80 Pro Montre Connectée à Abidjan | My-eStore",
+            "meta_description": "Découvrez la montre connectée Blackview W80 Pro avec écran 1.91\", lampe torche LED, 900 mAh et appels Bluetooth. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview W80 Pro, montre connectee 1.91 pouces, prix Abidjan, lampe torche 900mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview W80 Pro",
+            "lsi_keywords": [
+                "Blackview W80 Pro",
+                "montre connectee 1.9 pouces Blackview Abidjan",
+                "Blackview W80 Pro prix",
+                "montre rectangulaire lampe torche",
+                "montre 900 mAh appels bluetooth",
+                "accessoire connecte Côte d'Ivoire",
+                "achat montre W80 Pro Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview W80 Pro Montre : Écran 1.91\" & Torche LED | My-eStore",
+            "meta_description": "Achetez la montre connectée Blackview W80 Pro. Écran 1.91\" HD, lampe torche LED, batterie 900 mAh et appels Bluetooth. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview W80 Pro : Spécifications de la Montre Connectée 1.91 Pouces",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT 1.91 POUCES",
+            "items": [
+                {
+                    "feature": "Écran Tactile HD de 1.91 Pouce",
+                    "benefice": "Lisibilité visuelle optimale pour toutes vos données."
+                },
+                {
+                    "feature": "Lampe Torche LED Latérale",
+                    "benefice": "Source de lumière puissante accessible en un instant."
+                },
+                {
+                    "feature": "Batterie Géante de 900 mAh",
+                    "benefice": "Endurance remarquable durant de longues semaines."
+                },
+                {
+                    "feature": "Châssis Léger 36 Grammes",
+                    "benefice": "Port très léger pour vos activités physiques."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview W80 Pro est une montre connectée rectangulaire particulièrement robuste et complète. Cet équipement convient très bien aux professionnels et sportifs en Côte d'Ivoire. Par ailleurs, sa dalle tactile rectangulaire de 1.91 pouce en définition HD offre une lisibilité visuelle très claire. De plus, son verre PANDA Glass résiste très bien aux frottements. La batterie généreuse de 900 mAh permet de travailler en toute sérénité pendant 25 jours d'affilée. Son boîtier robuste de 13.7 mm garantit une prise en main très agréable. L'application dédiée sous Android et iOS simplifie l'accès à vos données de santé. Enfin, cette montre étanche constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 1.91 Pouces HD, Verre PANDA et Torche LED",
+                "paragraphs": [
+                    "La Blackview W80 Pro intègre une grande dalle tactile HD de 1.91 pouce en résolution 320 x 385 pixels. Sa vitre haute résistance restitue des détails d'une clarté impressionnante. De plus, la lampe torche LED intégrée gère facilement les activités nocturnes. De surcroît, le cadran renforcé protège la montre des rayures accidentelles. Votre montre reste protégée.",
+                    "La structure rigide conserve une stabilité remarquable face aux chocs du quotidien. Le changement de bracelet en silicone s'effectue en un instant. En effet, le boîtier étanche résiste aux projections d'eau en toutes circonstances. Cette conception soignée convient parfaitement aux entraînements de sport. Vos mesures de santé restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Appels Bluetooth HD, Suivi Cardiaque et 100+ Sports",
+                "paragraphs": [
+                    "La Blackview W80 Pro embarque un haut-parleur et un microphone haute définition intégrés. Cet équipement audio permet de passer des appels téléphoniques clairs depuis votre poignet. En outre, le capteur optique s'avère très pratique pour suivre votre rythme cardiaque en continu. La voix de votre interlocuteur reste très claire. Ainsi, la synchronisation Bluetooth 5.3 assure une réception instantanée de vos messages. La précision des alertes reste constante.",
+                    "Par ailleurs, les 100 modes sportifs intégrés analysent la distance parcourue. De plus, le suivi de la saturation en oxygène SpO2 surveille votre effort physique. Également, la fonction d'analyse du sommeil aide à mieux récupérer la nuit. De surcroît, le contrôle de la musique simplifie vos séances de sport. En somme, cette montre connectée réunit toutes les fonctionnalités avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 900 mAh et Étanchéité IP68",
+                "paragraphs": [
+                    "La batterie impressionnante de 900 mAh procure une autonomie énergétique supérieure. Cette importante réserve vous permet de l'utiliser durant 25 jours sans recharge. D'ailleurs, le connecteur magnétique inclu garantit un chargement rapide en moins de deux heures. En effet, la norme IP68 protège les composants internes contre la poussière et la sueur. Vos activités sportives se poursuivent sans interruption.",
+                    "La silhouette épurée avec boîtier rectangulaire offre une tenue naturelle et très légère. Son poids maîtrisé de 36 grammes témoigne du soin apporté au confort quotidien. D'autre part, la Blackview W80 Pro constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, sa lampe torche LED en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview W80 Pro",
+                "subtitle": "Spécifications matérielles certifiées de la montre connectée Blackview W80 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions boîtier",
+                            "valeur": "55.65 x 46.80 x 13.70 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.036 kg"
+                        },
+                        {
+                            "label": "Boîtier & Verre",
+                            "valeur": "Châssis polymère renforcé & Verre PANDA Glass"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Gris, Noir, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Éclairage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "1.91 pouce TFT HD Rectangulaire"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "320 x 385 pixels"
+                        },
+                        {
+                            "label": "Lampe torche",
+                            "valeur": "Torche LED latérale intégrée au boîtier"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fonctions Téléphonie & Audio",
+                    "rows": [
+                        {
+                            "label": "Appels Bluetooth",
+                            "valeur": "Émission et réception d'appels via haut-parleur et micro intégrés"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3 Low Energy"
+                        }
+                    ]
+                },
+                {
+                    "name": "Capteurs & Suivi de Santé",
+                    "rows": [
+                        {
+                            "label": "Fréquence cardiaque",
+                            "valeur": "Capteur optique PPG suivi 24h/24"
+                        },
+                        {
+                            "label": "Oxygène sanguin",
+                            "valeur": "Mesure du taux de SpO2"
+                        },
+                        {
+                            "label": "Analyse du sommeil",
+                            "valeur": "Suivi des phases de sommeil profond et léger"
+                        },
+                        {
+                            "label": "Modes sportifs",
+                            "valeur": "100+ modes d'entraînement (Course, Fitness, Marches, Vélo)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Étanchéité",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "900 mAh"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "20 à 25 jours en utilisation normale, 60 jours en veille"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 / 1 ATM (Résistant à la sueur, pluie et éclaboussures)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Compatibilité Système",
+                    "rows": [
+                        {
+                            "label": "Systèmes supportés",
+                            "valeur": "Android 6.0 ou supérieur, iOS 9.0 ou supérieur"
+                        },
+                        {
+                            "label": "Application compagnon",
+                            "valeur": "InfoWear / FitCloudPro"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/w80-pro-price"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,329 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "BV4800 Pro",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/bv4800-pro-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "85000",
+        "official_sku": "BV-BV4800-PRO"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.56 pouces",
+        "screen_technology": "HD+ IPS LCD Gorilla Glass 5",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5180 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM virtuelle",
+        "os": "Android 13 (Go Edition)",
+        "os_skin": "DokeOS 3.1",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur Smart-PA intégré",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge Rapide 10W USB-C",
+        "dimensions": "174.7 x 81.5 x 13.5 mm",
+        "weight": "0.285 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-BV4800-PRO-MASTER",
+        "Name": "Blackview BV4800 Pro",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "85000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview BV4800 Pro, Smartphone Durci, 4G, IP68, IP69K, 5180mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Orange | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.285 kg",
+        "Attribute 4 default": "0.285 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview BV4800 Pro : Le Smartphone Durci 4G Polyvalent",
+        "brand_line": "Smartphone résistant Blackview conçu pour les professionnels du terrain.",
+        "marketing_conclusion": "Commandez le Blackview BV4800 Pro sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview BV4800 Pro propose un écran 6.56 pouces HD+ Gorilla Glass, un processeur Octa-Core Tiger T606, une batterie de 5180 mAh et le blindage IP68/IP69K.",
+        "features": [
+            {
+                "feature": "Puce Unisoc Tiger T606 Octa-Core",
+                "benefice": "Exécution fluide de vos applications professionnelles au quotidien."
+            },
+            {
+                "feature": "Écran 6.56\" HD+ Gorilla Glass 5",
+                "benefice": "Affichage résistant aux rayures et aux chocs accidentels."
+            },
+            {
+                "feature": "Batterie 5180 mAh Longue Durée",
+                "benefice": "Autonomie solide permettant de tenir une journée complète de travail."
+            },
+            {
+                "feature": "Certifications IP68 & IP69K",
+                "benefice": "Étanchéité totale à l'eau et protection contre la poussière."
+            }
+        ],
+        "slogan_final": "Blackview BV4800 Pro — La fiabilité tout-terrain à prix accessible.",
+        "seo": {
+            "meta_title": "Acheter Blackview BV4800 Pro (4Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone durci Blackview BV4800 Pro avec écran 6.56, batterie 5180 mAh et étanchéité IP68. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview BV4800 Pro, smartphone durci Blackview, prix Abidjan, 4G IP68"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview BV4800 Pro",
+            "lsi_keywords": [
+                "Blackview BV4800 Pro",
+                "smartphone durci Blackview",
+                "prix Abidjan",
+                "smartphone incassable 4G",
+                "meilleur prix Côte d'Ivoire",
+                "Tiger T606 Octa-Core",
+                "batterie 5180 mAh",
+                "IP68 IP69K",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview BV4800 Pro 128 Go : Tiger T606 & 5180 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone durci Blackview BV4800 Pro. Processeur Tiger T606, écran 6.56 pouces, 4Go RAM et 128Go ROM. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview BV4800 Pro : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Processeur Tiger T606 Octa-Core",
+                    "benefice": "Réactivité constante pour la navigation web et les applications."
+                },
+                {
+                    "feature": "Écran HD+ Corning Gorilla Glass 5",
+                    "benefice": "Protection renforcée contre les fentes et la casse en extérieur."
+                },
+                {
+                    "feature": "Appareil Photo 13 MP HD",
+                    "benefice": "Prise de clichés précis pour documenter vos activités de chantier."
+                },
+                {
+                    "feature": "Conception Robuste IP68/IP69K",
+                    "benefice": "Protection certifiée contre l'eau, les immersions et les chutes."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview BV4800 Pro est un smartphone durci polyvalent et performant. Cet appareil convient parfaitement aux professionnels travaillant sur le terrain en Côte d'Ivoire. Par ailleurs, la puce Unisoc Tiger T606 assure une navigation très fluide. De plus, son écran HD+ de 6.56 pouces offre un grand confort visuel. Le verre Corning Gorilla Glass 5 préserve l'écran contre les rayures accidentelles. Sa batterie de 5180 mAh garantit une journée complète d'autonomie sans recharge. En effet, sa coque certifiée IP68 et IP69K résiste aux chocs et aux infiltrations d'eau. Enfin, vous travaillez en toute sérénité au quotidien.",
+        "sections": [
+            {
+                "h2_title": "Performance Matérielle et Fluidité Système",
+                "paragraphs": [
+                    "Le processeur Unisoc Tiger T606 du Blackview BV4800 Pro offre une réelle efficacité. Ses huit cœurs cadencés à 1.6 GHz gèrent facilement vos tâches quotidiennes. De plus, les 4 Go de mémoire RAM permettent un basculement fluide entre vos applications. De surcroît, le stockage interne de 128 Go conserve tous vos documents et photos professionnelles. La possibilité d'ajouter une carte MicroSD jusqu'à 1 To étend votre capacité de stockage. Les performances restent stables en toute situation.",
+                    "L'écran de 6.56 pouces HD+ affiche des images lumineuses et bien contrastées. Sa résolution de 1612 x 720 pixels garantit une lecture claire de vos cartes et messages. En effet, la sensibilité tactile réagit parfaitement aux commandes avec des mains humides. La coque renforcée protège efficacement le téléphone contre les vibrations et les secousses. Ainsi, votre outil de travail reste fonctionnel sur tous vos chantiers."
+                ]
+            },
+            {
+                "h2_title": "Châssis Blindé et Étanchéité Certifiée",
+                "paragraphs": [
+                    "Le Blackview BV4800 Pro est conçu pour résister aux environnements exigeants. Ses certifications IP68 et IP69K garantissent une étanchéité complète sous l'eau. En outre, la norme militaire MIL-STD-810H valide sa résistance aux chutes répétées de 1.5 mètre. Ses coins en caoutchouc renforcé absorbent la majorité des impacts mécaniques. L'appareil continue de fonctionner même en présence de poussière ou de boue. La solidité globale est au cœur de sa conception.",
+                    "Par ailleurs, l'appareil intègre un capteur photo arrière de 13 Mégapixels très pratique. Cette caméra capture rapidement vos photos de chantier ou de rapports d'intervention. De plus, la caméra selfie de 8 Mégapixels assure des visioconférences claires avec vos équipes. Le capteur NFC multifonction facilite vos paiements sans contact. En somme, ce smartphone robuste simplifie la vie des utilisateurs actifs."
+                ]
+            },
+            {
+                "h2_title": "Autonomie Énergétique et Ergonomie Nomade",
+                "paragraphs": [
+                    "La batterie intégrée de 5180 mAh offre une réserve d'énergie durable. Cet accumulateur vous évite de chercher une prise secteur au cours de votre journée. Le port USB-C moderne garantit une recharge simple et rapide en cas de besoin. En effet, le système d'exploitation Android 13 Go optimisé limite la consommation des applications en arrière-plan. Vos communications et navigations se poursuivent sans interruption.",
+                    "La prise en main du smartphone reste agréable avec un relief antidérapant au dos. Son poids de 285 grammes procure un excellent compromis entre compacité et robustesse. Le Blackview BV4800 Pro représente un choix judicieux pour s'équiper à Abidjan. En somme, son rapport qualité-prix en fait une opportunité très intéressante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview BV4800 Pro",
+                "subtitle": "Spécifications matérielles certifiées du smartphone durci Blackview BV4800 Pro."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "174.7 x 81.5 x 13.5 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.285 kg"
+                        },
+                        {
+                            "label": "Certifications",
+                            "valeur": "IP68, IP69K, MIL-STD-810H"
+                        },
+                        {
+                            "label": "Résistance",
+                            "valeur": "Étanche 1.5m (30 min), Chutes 1.5m, Poussière"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Orange, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.56 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1612 x 720 pixels"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 (12 nm) Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go LPDDR4X (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5180 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 500 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (Go Edition) avec DokeOS 3.1"
+                        },
+                        {
+                            "label": "Radio FM / Jack",
+                            "valeur": "Radio FM intégrée & Prise Jack 3.5mm"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/bv4800-pro-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

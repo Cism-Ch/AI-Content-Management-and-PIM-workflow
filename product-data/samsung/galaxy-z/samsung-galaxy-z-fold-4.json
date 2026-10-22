@@ -1,0 +1,463 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-z-v3.4-batch-2",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy Z Fold 4 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Z Series",
+        "commercial_name": "Samsung Galaxy Z Fold 4",
+        "category": "smartphone",
+        "sub_category": "foldable",
+        "release_year": 2022,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-Z-FOLD-4",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-Z-FOLD-4"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold4/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+4"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+4+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Z Fold 4 7.6\" Pliable 120Hz 12Go RAM Snapdragon 8+ Gen 1 4400mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-Z-FOLD-4",
+        "Name": "Samsung Galaxy Z Fold 4 - 7.6\" Pliable 120Hz - 12Go/256Go - 50MP - 4400mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "540000",
+        "Categories": "Smartphones > Samsung > Galaxy Z Series",
+        "Tags": "Samsung, Galaxy Z Fold 4, Galaxy Z Series, Smartphone Pliable, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 4400mAh, Snapdragon 8+ Gen 1, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Noir, Beige, Bordeaux",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go, 512 Go, 1 To",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Référence pliable grand format avec Barre des Tâches PC.",
+        "teaser": "Découvrez le Samsung Galaxy Z Fold 4 avec son grand écran pliable Dynamic AMOLED 2X de 7.6 pouces, son capteur photo 50MP et sa puce Snapdragon 8+ Gen 1.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Pliable 7.6\" Dynamic AMOLED",
+                "benefice": "Grand espace de travail multitâche immersif et barre des tâches style PC pour basculer rapidement"
+            },
+            {
+                "feature": "Puce Snapdragon 8+ Gen 1 & 12Go RAM",
+                "benefice": "Puissance de calcul optimisée et exécution véloce de vos applications d'entreprise"
+            },
+            {
+                "feature": "Triple Capteur 50MP avec OIS",
+                "benefice": "Photographies équilibrées et zoom optique 3x pour des détails soignés"
+            },
+            {
+                "feature": "Batterie 4400 mAh & Charge Rapide",
+                "benefice": "Autonomie solide pour votre journée et recharge sans fil pratique"
+            }
+        ],
+        "marketing_conclusion": "Le smartphone pliable polyvalent pensé pour renforcer votre efficacité professionnelle au quotidien.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Z Fold 4 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy Z Fold 4 au meilleur prix à Abidjan sur My-eStore. Écran pliable 7.6\" 120Hz, 12Go RAM, 50MP, 4400mAh et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy Z Fold 4 256Go : Écran 7.6\" & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy Z Fold 4 sur My-eStore. Écran pliable 7.6 pouces 120Hz, puce Snapdragon 8+ Gen 1, capteur 50MP, 4400 mAh et connectivité 5G.",
+            "focus_keyword": "Samsung Galaxy Z Fold 4",
+            "lsi_keywords": [
+                "Samsung Galaxy Z Fold 4 Abidjan",
+                "prix Samsung Z Fold 4",
+                "fiche technique Galaxy Z Fold 4",
+                "smartphone pliable Samsung 5G",
+                "Galaxy Z Fold 4 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy Z Fold 4 : Écran Pliable 7.6\", Capteur 50MP et Snapdragon 8+ Gen 1",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy Z Fold 4 propose une expérience bureautique complète sur smartphone. Son grand écran interne de 7.6 pouces offre un affichage spacieux très lumineux pour vos documents complexes. De plus, sa puce Snapdragon 8+ Gen 1 exécute les calculs graphiques avec une grande promptitude. Le châssis en aluminium renforcé assure une robustesse éprouvée face aux aléas de vos déplacements quotidiens. Enfin, son accumulateur de 4400 mAh garantit une disponibilité durable tout au long de votre journée de travail.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy Z Fold 4",
+            "items": [
+                {
+                    "feature": "Dalle Pliable 7.6\" 120Hz Adaptative",
+                    "benefice": "Grand confort visuel et affichage simultané de plusieurs applications actives"
+                },
+                {
+                    "feature": "Puce Snapdragon 8+ Gen 1 (4nm)",
+                    "benefice": "Exécution fluide de vos logiciels professionnels et efficacité énergétique accrue"
+                },
+                {
+                    "feature": "Barre des Tâches Multifonction",
+                    "benefice": "Navigation intuitive et bascule rapide entre vos logiciels ouverts"
+                },
+                {
+                    "feature": "Triple Capteur 50MP avec OIS",
+                    "benefice": "Photographies équilibrées et zoom optique 3x pour saisir chaque détail"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Pliable Immersif et Barre des Tâches",
+                "paragraphs": [
+                    "D'un côté, l'écran pliable de 7.6 pouces transforme vos consultations de données en véritable expérience sur grand format. La technologie Dynamic AMOLED offre une luminosité de pointe élevée pour une lisibilité claire en extérieur. La protection en verre ultra-mince renforce efficacement la dalle pliable contre les flexions répétées. Par ailleurs, l'écran externe de 6.2 pouces s'utilise aisément à une seule main pour vos réponses rapides. Le poids de 263 grammes est bien réparti pour limiter la fatigue lors de vos séances de lecture prolongées. Vous profitez ainsi d'un outil polyvalent adapté aux exigences des professionnels mobiles.",
+                    "D'un autre côté, la barre des tâches intégrée facilite la navigation entre vos logiciels sans revenir à l'écran d'accueil. Ce mécanisme ergonomique accélère vos flux de travail en multitâche partagé sur trois fenêtres. Les contrastes profonds mettent en valeur vos tableaux graphiques ainsi que vos flux vidéo haute définition. En outre, la sensibilité tactile accrue permet une prise de notes rapide avec le stylet dédié optionnel. Les lignes soignées confèrent une allure moderne et professionnelle à l'ensemble du boîtier. Ce smartphone associe grand espace d'affichage et élégance pour un usage quotidien serein."
+                ]
+            },
+            {
+                "h2_title": "Puissance Matérielle et Productivité Avancée",
+                "paragraphs": [
+                    "Tout d'abord, la puce Snapdragon 8+ Gen 1 traite les calculs complexes avec une grande réactivité. Les douze gigaoctets de mémoire vive soutiennent le fonctionnement simultané de plusieurs logiciels bureautiques exigeants. L'espace de stockage interne accueille vos dossiers d'entreprise volumineux et vos galeries de photos sans saturation. De surcroît, le circuit interne canalise la chaleur afin de conserver des performances stables et régulières. Les outils logiciels facilitent l'organisation personnalisée et la gestion de vos flux bureautiques. Vous réalisez vos démarches numériques avec une efficacité opérationnelle renforcée.",
+                    "Dans cette optique, la batterie haute capacité répartit intelligemment l'énergie entre les deux panneaux du téléphone. La compatibilité avec la recharge sans fil apporte un confort appréciable sur votre espace de travail personnel. L'architecture matérielle sécurisée Knox protège vos données confidentielles contre les tentatives d'accès malveillantes. Également, la connectivité cinq G ultrarapide accélère l'envoi de présentations lourdes lors de vos réunions nomades. Vos visioconférences conservent une stabilité audio et vidéo exemplaire sur les réseaux mobiles. Ce modèle constitue une plateforme professionnelle pérenne et polyvalente."
+                ]
+            },
+            {
+                "h2_title": "Polyvalence Photo 50MP et Autonomie Professionnelle",
+                "paragraphs": [
+                    "D'abord, le capteur principal de 50 mégapixels enregistre des scènes nettes et détaillées en toutes circonstances lumineuses. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé lors des prises. Le téléobjectif optique 3x rapproche les sujets distants sans dégradation de la netteté de l'image. De même, l'ultra grand-angle capture l'intégralité de vos paysages avec une fidélité géométrique soignée. Le mode Flex permet de poser le téléphone sur une table pour des prises de vue mains libres stables. Vous capturez des clichés de haute qualité prêts pour vos publications professionnelles.",
+                    "Enfin, l'accumulateur de 4400 mAh procure l'énergie indispensable pour couvrir vos journées de réunions les plus chargées. Le système d'alimentation intelligent coupe les processus inactifs pour préserver l'autonomie restante en veille. La recharge rapide filaire rétablit promptement la disponibilité de votre téléphone lors d'une courte pause. Par conséquent, vous travaillez en toute sérénité sans craindre de manquer d'énergie durant vos déplacements. Les matériaux sélectionnés garantissent une excellente tenue face aux contraintes du quotidien professionnel. Le Galaxy Z Fold 4 représente un investissement éprouvé alliant ergonomie et puissance."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Z Fold 4",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy Z Fold 4."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions Déplié",
+                            "valeur": "155.1 x 130.1 x 6.3 mm"
+                        },
+                        {
+                            "label": "Dimensions Plié",
+                            "valeur": "155.1 x 67.1 x 14.2-15.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.263 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus+, Cadre Armor Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IPX8 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Écran Principal (Interne)",
+                            "valeur": "7.6\" Foldable Dynamic AMOLED 2X, LTPO (1-120Hz), 2176 x 1812 pixels"
+                        },
+                        {
+                            "label": "Écran Secondaire (Externe)",
+                            "valeur": "6.2\" Dynamic AMOLED 2X, 120Hz, 2316 x 904 pixels"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (pic)"
+                        },
+                        {
+                            "label": "Support Stylet",
+                            "valeur": "Compatible S-Pen Fold Edition (sur écran principal)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8+ Gen 1 (4nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "256 Go / 512 Go / 1 To UFS 3.1"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, 23mm, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "10 MP, f/2.4, 66mm, Zoom optique 3x, PDAF, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 12mm, 123˚"
+                        },
+                        {
+                            "label": "Caméra Sous Écran (Interne)",
+                            "valeur": "4 MP, f/1.8 (UDC sous la dalle pliable)"
+                        },
+                        {
+                            "label": "Caméra Écran Externe",
+                            "valeur": "10 MP, f/2.2, 24mm"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 24 fps, 4K à 60 fps, 1080p à 240 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG avec Dolby Atmos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4400 mAh Li-Po double cellule"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide (50% en environ 30 minutes)"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Fast Wireless Charging"
+                        },
+                        {
+                            "label": "Partage d'Énergie",
+                            "valeur": "4.5W Wireless PowerShare inversé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 6E, Bluetooth 5.2, GPS, GLONASS, Galileo, UWB"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Dual SIM (Nano-SIM + eSIM / Multi-eSIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "Android avec One UI (Optimisé grand écran pliable)"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Mises à jour système et sécurité régulières"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold4/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+4"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Z+Fold+4+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graygreen",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-256-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graygreen",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "700000",
+            "sku_suffix": "12-GB-512-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graygreen",
+            "color_code": "GRIS",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "865000",
+            "sku_suffix": "12-GB-1-TB-GRIS"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "700000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Phantom Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "865000",
+            "sku_suffix": "12-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Beige",
+            "color_en": "Beige",
+            "color_code": "BEIGE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-256-GB-BEIGE"
+        },
+        {
+            "color_fr": "Beige",
+            "color_en": "Beige",
+            "color_code": "BEIGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "700000",
+            "sku_suffix": "12-GB-512-GB-BEIGE"
+        },
+        {
+            "color_fr": "Beige",
+            "color_en": "Beige",
+            "color_code": "BEIGE",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "865000",
+            "sku_suffix": "12-GB-1-TB-BEIGE"
+        },
+        {
+            "color_fr": "Bordeaux",
+            "color_en": "Burgundy",
+            "color_code": "BORDEAUX",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "540000",
+            "sku_suffix": "12-GB-256-GB-BORDEAUX"
+        },
+        {
+            "color_fr": "Bordeaux",
+            "color_en": "Burgundy",
+            "color_code": "BORDEAUX",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "700000",
+            "sku_suffix": "12-GB-512-GB-BORDEAUX"
+        },
+        {
+            "color_fr": "Bordeaux",
+            "color_en": "Burgundy",
+            "color_code": "BORDEAUX",
+            "ram": "12 Go",
+            "storage": "1 To",
+            "price": "865000",
+            "sku_suffix": "12-GB-1-TB-BORDEAUX"
+        }
+    ]
+}

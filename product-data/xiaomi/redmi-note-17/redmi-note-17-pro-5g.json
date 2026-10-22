@@ -1,0 +1,534 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-note-17-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Redmi Note 17 Pro 5G conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Note Series",
+        "commercial_name": "Redmi Note 17 Pro 5G",
+        "category": "smartphone",
+        "sub_category": "endurance-midrange-pro",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-NOTE-17-PRO-5G",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-NOTE-17-PRO-5G"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/redmi-note-17-pro-5g/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Redmi+Note+17+Pro+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Redmi+Note+17+Pro+5G+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone polyvalent et endurant Redmi Note 17 Pro 5G avec batterie 8340 mAh, puce Snapdragon 6s Gen 4 et écran AMOLED 120Hz."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 6s Gen 4 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "8340 mAh",
+        "charging_wired": "Charge turbo 45W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "MicroSDXC (hybride double SIM)",
+        "weight": "0.223 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-NOTE-17-PRO-5G",
+        "Name": "Redmi Note 17 Pro 5G - Dual SIM - Écran 6.83\" 120Hz - (6 Go|8 Go|12 Go & 128 Go|256 Go|512 Go) - 8340 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "195000",
+        "Categories": "Smartphones > Xiaomi > REDMI Series",
+        "Tags": "Xiaomi, Redmi Note 17 Pro 5G, Redmi Note Series, Smartphone, Android, 5G, Écran 120Hz, Capteur 108MP, 8340mAh, Charge 45W, Snapdragon 6s Gen 4, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Orange | Violet | Bleu Ciel",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go | 512 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go | 12 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.223 kg",
+        "Attribute 4 default": "0.223 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black Satin",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-ORANGE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "195000",
+            "sku_suffix": "6-GB-128-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black Satin",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-256-GB-ORANGE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "6 Go",
+            "storage": "256 Go",
+            "price": "215000",
+            "sku_suffix": "6-GB-256-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black Satin",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-ORANGE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "235000",
+            "sku_suffix": "8-GB-256-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black Satin",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "265000",
+            "sku_suffix": "8-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "265000",
+            "sku_suffix": "8-GB-512-GB-ORANGE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "265000",
+            "sku_suffix": "8-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "8 Go",
+            "storage": "512 Go",
+            "price": "265000",
+            "sku_suffix": "8-GB-512-GB-BLEU-CIEL"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black Satin",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Orange",
+            "color_en": "Orange",
+            "color_code": "ORANGE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-512-GB-ORANGE"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Purple",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu Ciel",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CIEL",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "290000",
+            "sku_suffix": "12-GB-512-GB-BLEU-CIEL"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Note 17",
+        "teaser": "Le smartphone 5G endurant Redmi Note 17 Pro 5G combine une généreuse batterie de 8340 mAh et la puce Snapdragon 6s Gen 4. Pourvu d'un bel écran AMOLED 1.5K 120Hz de 6.83 pouces et d'une charge rapide 45W, il offre une autonomie prolongée au quotidien.",
+        "top_features_detailed": [
+            {
+                "label": "Batterie Durable 8340 mAh",
+                "detail": "Autonomie importante autorisant jusqu'à trois jours d'utilisation sereine sans recharge."
+            },
+            {
+                "label": "Puce Snapdragon 6s Gen 4 5G",
+                "detail": "Architecture 4 nm économe assurant fluidité logicielle et maîtrise de la température."
+            },
+            {
+                "label": "Écran AMOLED 1.5K 120Hz",
+                "detail": "Grande dalle lumineuse de 6.83 pouces pour un confort de visionnage remarquable."
+            },
+            {
+                "label": "Capteur Photo 108MP OIS",
+                "detail": "Haute définition avec stabilisation optique pour capturer des scènes détaillées et nettes."
+            }
+        ],
+        "marketing_conclusion": "L'alliance réussie entre une autonomie de 8340 mAh, la réactivité 5G et un affichage AMOLED 1.5K 120Hz.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Redmi Note 17 Pro 5G à Abidjan | My-eStore",
+            "meta_description": "Commandez le Redmi Note 17 Pro 5G chez My-eStore. Batterie 8340 mAh, Snapdragon 6s Gen 4, écran AMOLED 120Hz et capteur 108MP au meilleur prix à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Redmi Note 17 Pro 5G : Snapdragon 6s Gen 4 & 8340 mAh | My-eStore",
+            "meta_description": "Découvrez le Redmi Note 17 Pro 5G chez My-eStore. Écran AMOLED 1.5K 120Hz, batterie 8340 mAh et Snapdragon 6s Gen 4 au meilleur tarif à Abidjan.",
+            "focus_keyword": "Redmi Note 17 Pro 5G",
+            "lsi_keywords": [
+                "Redmi Note 17 Pro 5G Abidjan",
+                "Redmi Note 17 Pro 5G prix Abidjan",
+                "smartphone 5G 8340 mAh",
+                "Snapdragon 6s Gen 4 Xiaomi",
+                "Redmi Note 17 Pro AMOLED 120Hz"
+            ]
+        },
+        "h1": "Redmi Note 17 Pro 5G : Snapdragon 6s Gen 4, Écran 120Hz et Batterie 8340 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Redmi Note 17 Pro 5G",
+            "items": [
+                {
+                    "feature": "Batterie longue durée 8340 mAh",
+                    "benefice": "Autonomie très confortable couvrant plusieurs jours sans stress de batterie"
+                },
+                {
+                    "feature": "Puce Snapdragon 6s Gen 4",
+                    "benefice": "Processeur réactif adapté au multitâche bureautique et aux applications sociales"
+                },
+                {
+                    "feature": "Écran AMOLED 1.5K 120Hz",
+                    "benefice": "Grand confort de consultation avec une lisibilité agréable sous la lumière du jour"
+                },
+                {
+                    "feature": "Appareil photo 108MP OIS",
+                    "benefice": "Clichés nets et précis de jour comme de nuit grâce à la stabilisation"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone 5G Redmi Note 17 Pro 5G allie une autonomie importante à un affichage de haute précision. En effet, sa grande batterie de 8340 mAh libère l'utilisateur de toute dépendance envers un chargeur mural quotidien. Sa dalle AMOLED 1.5K de 6.83 pouces à 120Hz procure ainsi un confort visuel particulièrement soigné. De plus, la puce Snapdragon 6s Gen 4 assure une fluidité continue pour toutes vos applications mobiles. Cet appareil équilibré accompagne fidèlement les journées actives des professionnels et étudiants exigeants à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Un Écran AMOLED 1.5K 120Hz et un Châssis Robuste IP68",
+                "paragraphs": [
+                    "La grande surface d'affichage de 6.83 pouces valorise le visionnage de contenus vidéo en haute définition. Sa résolution 1.5K garantit ainsi une clarté remarquable des textes lors de vos lectures quotidiennes prolongées. La fréquence dynamique de 120Hz adoucit les transitions visuelles lors du défilement des flux d'actualités. De surcroît, la forte luminosité de la dalle conserve une lisibilité appréciable sous le soleil direct d'Abidjan. Un verre trempé robuste protège l'écran contre les rayures accidentelles causées par vos clés en poche. Cette conception ergonomique procure un grand confort tactile pour naviguer sereinement tout au long du jour.",
+                    "Le boîtier aux lignes modernes bénéficie d'une certification IP68 contre la poussière et les immersions accidentelles. Son profil soigné assure par conséquent une excellente prise en main lors de vos nombreux déplacements extérieurs. Le lecteur d'empreintes digitales intégré garantit un accès instantané à vos données en toute sécurité. En outre, le double haut-parleur stéréo certifié Dolby Atmos restitue un son clair et immersif. La structure interne renforcée dissipe efficacement la chaleur lors des utilisations intensives de vos applications professionnelles. Les finitions satinées résistent aux traces de doigts pour conserver un aspect soigné en toute circonstance."
+                ]
+            },
+            {
+                "h2_title": "Processeur Snapdragon 6s Gen 4 et Module Photo 108MP",
+                "paragraphs": [
+                    "Le processeur Qualcomm Snapdragon 6s Gen 4 s'appuie sur une gravure économe en 4 nanomètres. Cette architecture moderne offre ainsi une belle rapidité d'exécution tout en limitant la chauffe interne. Les huit cœurs gèrent le multitâche bureautique et les réseaux sociaux sans aucun ralentissement gênant. Par ailleurs, la mémoire vive extensible maintient un grand nombre d'onglets ouverts en tâche de fond. Le modem 5G intégré télécharge vos fichiers volumineux et synchronise vos dossiers de travail en quelques secondes. Vos appels vidéo professionnels conservent une stabilité appréciable sans coupure de transmission sur le réseau cellulaire.",
+                    "Le capteur photographique principal de 108 mégapixels produit des images précises aux textures fines et nettes. Il capte en outre une abondance de lumière pour réussir vos photos de paysages en soirée. Les algorithmes de traitement numérique optimisent automatiquement l'exposition pour valoriser chaque détail de la scène. Dès lors, vos clichés conservent des contrastes naturels même sous un éclairage difficile ou tamisé. La caméra frontale capture des autoportraits nets pour vos réunions professionnelles et vos appels en famille. Cet ensemble optique complet répond aux attentes des passionnés de photographie spontanée et de partage rapide."
+                ]
+            },
+            {
+                "h2_title": "Batterie Longue Durée 8340 mAh et Charge Turbo 45W",
+                "paragraphs": [
+                    "La batterie imposante de 8340 mAh offre une réserve énergétique remarquable pour vos journées très intenses. Cette capacité accrue permet ainsi de travailler deux à trois jours complets sans solliciter de prise électrique. Vous naviguez en toute tranquillité sur vos messageries sans surveiller avec inquiétude la jauge de batterie. En effet, l'interface Xiaomi HyperOS 2 optimise judicieusement l'activité des applications inactives en veille. Le grand espace de stockage interne accueille vos documents, vos catalogues de travail et vos vidéos favorites. Vous conservez ainsi vos fichiers précieux à portée de main sans saturer la mémoire du téléphone.",
+                    "La technologie de charge rapide 45W redonne rapidement de l'énergie au téléphone en cas d'imprévu. Ce système permet par conséquent de récupérer de longues heures d'utilisation lors d'une brève pause déjeuner. Les multiples capteurs thermiques intégrés surveillent en permanence le rechargement afin de préserver l'accumulateur. De surcroît, la longévité de cette batterie garantit des performances stables au fil des années d'utilisation. Cette résistance globale représente un investissement sûr pour les usagers mobiles actifs en Côte d'Ivoire. Le smartphone Redmi Note 17 Pro 5G s'impose comme un allié d'endurance fiable pour votre quotidien."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Redmi Note 17 Pro 5G - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.45 x 78.27 x 8.6 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "223 g (0.223 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Châssis en polymère renforcé, dos satiné anti-traces"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black Satin), Orange (Orange), Violet (Purple), Bleu Ciel (Sky Blue)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant aux projections d'eau et à la poussière"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "AMOLED 120Hz, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.83 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2712 x 1220 pixels), 446 ppp"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "120Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1200 nits (HBM), 2400 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 6s Gen 4 (4 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno GPU"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go, 8 Go ou 12 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go, 256 Go ou 512 Go UFS 2.2"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Oui, via MicroSDXC (emplacement hybride)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS 2 basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Triple capteur : 108 MP principal (f/1.75, OIS) + 8 MP ultra grand-angle (f/2.2) + 2 MP macro"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "16 MP, f/2.4, enregistrement 1080p"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "8340 mAh non amovible technologie silicium-carbone"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 45W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double SIM hybride nano-SIM/microSD)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0 (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/redmi-note-17-pro-5g/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Redmi+Note+17+Pro+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Redmi+Note+17+Pro+5G+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

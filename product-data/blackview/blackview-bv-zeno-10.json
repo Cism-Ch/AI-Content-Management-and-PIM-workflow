@@ -1,0 +1,317 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Zeno 10 5G",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/products/zeno-10-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "135000",
+        "official_sku": "BV-ZENO-10"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Dimensity 5G Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "11.0 pouces",
+        "screen_technology": "2.4K IPS LCD 90Hz",
+        "screen_resolution": "1920 x 1200 pixels",
+        "battery_capacity": "8800 mAh",
+        "ram_options": [
+            "6 Go",
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 14",
+        "os_skin": "DokeOS_P 4.0",
+        "camera_main": "13 MP avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Quatre haut-parleurs stéréo Smart-PA",
+        "audio_tech": "Son Immersif 3D & Prise Jack 3.5mm",
+        "connectivity_nfc": "Non disponible",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Dual SIM 5G / MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge Rapide 33W USB-C",
+        "dimensions": "256.5 x 168 x 8.2 mm",
+        "weight": "0.517 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-ZENO-10-MASTER",
+        "Name": "Blackview Zeno 10 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "135000",
+        "Categories": "Tablettes > Blackview > Zeno Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Zeno 10, Tablette 5G, 11 Pouces, 8800mAh, 90Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir | Bleu | Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.517 kg",
+        "Attribute 4 default": "0.517 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Zeno 10 5G : Tablette 11 Pouces 2.4K 90Hz Batterie 8800 mAh",
+        "brand_line": "Tablette tactile 5G haute performance Blackview conçue pour la mobilité.",
+        "marketing_conclusion": "Commandez la Blackview Zeno 10 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Zeno 10 5G embarque un écran 11 pouces 2.4K 90Hz, une puce 5G Octa-Core, une batterie 8800 mAh 33W et 4 haut-parleurs stéréo.",
+        "features": [
+            {
+                "feature": "Dalle 11\" 2.4K 90Hz Immensive",
+                "benefice": "Confort visuel supérieur pour les présentations et le streaming."
+            },
+            {
+                "feature": "Puce MediaTek 5G Octa-Core",
+                "benefice": "Connectivité ultra-rapide et exécution fluide des applications pro."
+            },
+            {
+                "feature": "Batterie 8800 mAh & Charge 33W",
+                "benefice": "Autonomie confortable couvrant toute votre journée de travail."
+            },
+            {
+                "feature": "Quatre Haut-Parleurs Stéréo",
+                "benefice": "Qualité sonore riche et enveloppante pour vos visioconférences."
+            }
+        ],
+        "slogan_final": "Blackview Zeno 10 5G — La puissance tactile grand format.",
+        "seo": {
+            "meta_title": "Acheter Blackview Zeno 10 5G (8Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Blackview Zeno 10 5G avec écran 11 pouces 2.4K, batterie 8800 mAh et processeur 5G. Commandez au meilleur prix à Abidjan chez My-eStore.",
+            "keywords": "Blackview Zeno 10 5G, tablette Blackview, prix Abidjan, 11 pouces 8800mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Zeno 10 5G",
+            "lsi_keywords": [
+                "Blackview Zeno 10 5G",
+                "tablette Blackview 5G Abidjan",
+                "Blackview Zeno 10 prix",
+                "tablette 11 pouces 5G",
+                "batterie 8800 mAh 33W",
+                "tablette travail Côte d'Ivoire",
+                "achat tablette tactile Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Zeno 10 5G 11\" : 2.4K & 8800 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Zeno 10 5G. Écran 11 pouces 2.4K, processeur 5G Octa-Core, 8Go RAM et batterie 8800 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Zeno 10 5G : Spécifications et Performances Tactiles",
+        "experience_box": {
+            "box_title": "LES ATOUTS CLÉS DE LA TABLETTE",
+            "items": [
+                {
+                    "feature": "Affichage 11 Pouces 2.4K 90Hz",
+                    "benefice": "Clarté visuelle élevée et transitions très douces dans les menus."
+                },
+                {
+                    "feature": "Connectivité Cellulaire 5G Dual SIM",
+                    "benefice": "Accès Internet haut débit partout sans dépendre du Wi-Fi."
+                },
+                {
+                    "feature": "Accumulateur 8800 mAh Performant",
+                    "benefice": "Utilisation prolongée durant vos réunions et voyages."
+                },
+                {
+                    "feature": "Système Quad-Speaker Stéréo",
+                    "benefice": "Restitution audio claire et puissante pour vos vidéos."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Zeno 10 5G est une tablette tactile performante et très élégante. Cet équipement s'adapte très bien aux besoins professionnels et multimédias en Côte d'Ivoire. Par ailleurs, la puce MediaTek 5G assure des débits cellulaires rapides. De plus, son grand écran de 11.0 pouces à 90 Hz offre une visibilité très claire. La batterie de 8800 mAh permet de travailler en toute sérénité sans recharge permanente. Son boîtier affiné de 8.2 mm garantit une prise en main ergonomique au quotidien. L'interface DokeOS_P 4.0 sous Android 14 simplifie l'accès au mode PC. Enfin, cette tablette représente un investissement numérique très avantageux.",
+        "sections": [
+            {
+                "h2_title": "Écran 11 Pouces 2.4K 90Hz et Réactivité 5G",
+                "paragraphs": [
+                    "La Blackview Zeno 10 5G intègre une grande dalle IPS de 11.0 pouces en définition 2.4K. Sa résolution de 1920 x 1200 pixels restitue vos graphiques avec une grande précision. De plus, le taux de rafraîchissement de 90 Hz apporte une grande fluidité lors du défilement. De surcroît, le processeur 5G Octa-Core cadencé à 2.2 GHz gère rapidement vos logiciels de travail. Les 8 Go de mémoire RAM garantissent une stabilité appréciable lors du multitâche.",
+                    "Cependant, la mémoire interne de 128 Go ou 256 Go conserve l'ensemble de vos documents et projets. La présence d'un port MicroSD permet d'étendre la mémoire jusqu'à 1 To supplémentaire. En effet, le tiroir d'extension accueille deux cartes SIM 5G pour une connexion constante. Par conséquent, cette organisation matérielle facilite le partage de données lors de vos déplacements. Vos fichiers restent toujours facilement accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Capteurs Photo, Audio Quad-Speaker et Mode PC",
+                "paragraphs": [
+                    "La Blackview Zeno 10 5G possède un capteur photo arrière de 13 Mégapixels avec Flash LED. Cet objectif capture des visuels nets de vos documents et schémas professionnels. En outre, la caméra frontale de 8 Mégapixels s'avère très pratique pour les visioconférences claires. De même, les quatre haut-parleurs stéréo Smart-PA restituent un son immersif d'une belle netteté. Ainsi, la qualité d'écoute reste constante lors de vos appels vidéo. Vos présentations gagnent en impact.",
+                    "Par ailleurs, le mode PC intégré transforme l'interface tactile en environnement de bureau pratique. De plus, la connexion d'un clavier et d'une souris sans fil améliore votre productivité quotidienne. Également, la prise casque 3.5 mm permet le branchement de votre casque filaire. De surcroît, le module GPS multicanal assure un guidage précis lors de vos trajets professionnels. En somme, cette tablette réunit toutes les fonctions d'un ordinateur portable."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 8800 mAh et Charge Rapide 33W",
+                "paragraphs": [
+                    "La batterie intégrée de 8800 mAh offre une réserve énergétique particulièrement rassurante. Cette capacité importante permet de visionner vos cours et séries pendant de longues heures. D'ailleurs, le port USB-C prend en charge la charge rapide 33W pour recharger la tablette sans attente. En effet, le système Android 14 optimisé gère la consommation de manière intelligente. Vos sessions de travail se déroulent en toute sérénité.",
+                    "La silhouette affinée de 8.2 mm et le poids de 517 grammes s'emportent facilement. Sa finition en aluminium brossé apporte une touche de modernité hautement séduisante. D'autre part, la Blackview Zeno 10 5G constitue un choix très avantageux pour s'équiper à Abidjan. En somme, son tarif abordable en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Zeno 10 5G",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Blackview Zeno 10 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "256.5 x 168 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.517 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis en aluminium avec bords fins"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Noir, Bleu, Vert"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "11.0 pouces IPS LCD 2.4K"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1920 x 1200 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "MediaTek 5G Octa-Core 2.2 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go / 8 Go (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "13 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "8800 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "33W Fast Charge (USB-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G / 4G LTE Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 5 (802.11 ac), Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 14 (DokeOS_P 4.0 avec Mode PC)"
+                        },
+                        {
+                            "label": "Haut-parleurs & Audio",
+                            "valeur": "4 Haut-parleurs stéréo Smart-PA & Prise Jack 3.5 mm"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/products/zeno-10-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "template_version": "3.4",
+    "product_type": "tablet",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Tab 30 WiFi",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/tab30wifi-price?"
+            }
+        ],
+        "pricing_reference": "55000",
+        "official_sku": "BV-TAB-30-WIFI"
+    },
+    "key_specifications": {
+        "processor": "Allwinner A133P Quad-Core",
+        "processor_ghz": "Fréquence 1.8 GHz",
+        "screen_size": "10.1 pouces",
+        "screen_technology": "HD IPS LCD avec Protection Oculaire",
+        "screen_resolution": "1280 x 800 pixels",
+        "battery_capacity": "5100 mAh",
+        "ram_options": [
+            "2 Go"
+        ],
+        "storage_options": [
+            "64 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 6 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS_P 3.0",
+        "camera_main": "5 MP avec Flash LED",
+        "camera_selfie": "2 MP HD",
+        "audio_config": "Deux Haut-parleurs Stéréo Box",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "N/A",
+        "navigation_gps": "N/A (Connexion Wi-Fi 6)",
+        "card_slot": "Port MicroSD jusqu'à 1 To",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "246 x 162.7 x 9.85 mm",
+        "weight": "0.520 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-TAB-30-WIFI-MASTER",
+        "Name": "Blackview Tab 30 WiFi",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "55000",
+        "Categories": "Tablettes > Blackview > Tab Series, Tablettes > Blackview, Tablettes",
+        "Tags": "Blackview, Blackview Tab 30 WiFi, Tablette 10.1 pouces, Wi-Fi 6, 5100mAh, 64GB, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Gris",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "2 Go",
+        "Attribute 3 default": "2 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.520 kg",
+        "Attribute 4 default": "0.520 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Tab 30 WiFi : Tablette 10.1 Pouces HD Wi-Fi 6 2 Go RAM 64 Go 5100 mAh",
+        "brand_line": "La tablette multimédia familiale et éducative Blackview conçue pour l'apprentissage à la maison.",
+        "marketing_conclusion": "Commandez la Blackview Tab 30 WiFi sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "La Blackview Tab 30 WiFi propose un grand écran de 10.1 pouces HD, la connectivité sans fil Wi-Fi 6 rapide, 64 Go de stockage et une batterie 5100 mAh.",
+        "features": [
+            {
+                "feature": "Grand Écran 10.1\" HD IPS",
+                "benefice": "Lisibilité claire pour les cours en ligne et vidéos."
+            },
+            {
+                "feature": "Connexion Haut Débit Wi-Fi 6",
+                "benefice": "Streaming fluide et navigation web rapide sans latence."
+            },
+            {
+                "feature": "Mémoire 64 Go & Port MicroSD",
+                "benefice": "Espace suffisant pour vos applications et documents."
+            },
+            {
+                "feature": "Batterie 5100 mAh & Prise Jack",
+                "benefice": "Autonomie sereine durant les sessions d'apprentissage."
+            }
+        ],
+        "slogan_final": "Blackview Tab 30 WiFi — L'accès simple au multimédia à la maison.",
+        "seo": {
+            "meta_title": "Acheter Blackview Tab 30 WiFi (2Go/64Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez la tablette Wi-Fi Blackview Tab 30 WiFi avec écran 10.1\" HD, Wi-Fi 6 et batterie 5100 mAh. Achetez au meilleur prix chez My-eStore.",
+            "keywords": "Blackview Tab 30 WiFi, tablette 10.1 pouces, prix Abidjan, wifi 6 5100mAh 64GB"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Tab 30 WiFi",
+            "lsi_keywords": [
+                "Blackview Tab 30 WiFi",
+                "tablette wifi Blackview Abidjan",
+                "Blackview Tab 30 WiFi prix",
+                "tablette pas cher 10 pouces",
+                "tablette wifi 6 5100 mAh",
+                "tablette maison Côte d'Ivoire",
+                "achat tablette Tab 30 Abidjan",
+                "livraison rapide My-eStore"
+            ],
+            "meta_title": "Blackview Tab 30 WiFi 64 Go : Écran 10.1\" HD & 5100 mAh | My-eStore",
+            "meta_description": "Achetez la tablette Blackview Tab 30 WiFi. Écran 10.1\" HD IPS, Wi-Fi 6 haut débit, 64 Go de stockage et batterie 5100 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Tab 30 WiFi : Spécifications de la Tablette 10.1 Pouces Wi-Fi 6",
+        "experience_box": {
+            "box_title": "LES ATOUTS DU FORMAT FAMILIAL",
+            "items": [
+                {
+                    "feature": "Connectivité Wi-Fi 6 Moderne",
+                    "benefice": "Téléchargements réseau fluides et vitesse constante."
+                },
+                {
+                    "feature": "Grand Écran 10.1 Pouces HD",
+                    "benefice": "Confort visuel adapté aux cours et visioconférences."
+                },
+                {
+                    "feature": "Double Haut-Parleur Stéréo",
+                    "benefice": "Restitution sonore propre lors des lectures audio."
+                },
+                {
+                    "feature": "Boîtier Ergonomique 9.85 mm",
+                    "benefice": "Prise en main très agréable pour toute la famille."
+                }
+            ]
+        },
+        "intro_paragraph": "La Blackview Tab 30 WiFi est une tablette tactile 10.1 pouces particulièrement accessible et pratique. Cet équipement convient très bien aux étudiants et familles en Côte d'Ivoire. Par ailleurs, sa dalle IPS de 10.1 pouces en définition HD offre une lisibilité visuelle très claire. De plus, sa puce Wi-Fi 6 intégrée apporte une vitesse de connexion très fluide. La batterie de 5100 mAh permet de travailler en toute sérénité sans interruption. Son boîtier affiné de 9.85 mm garantit une prise en main très agréable. L'interface DokeOS_P 3.0 sous Android 13 simplifie l'accès à tous vos documents. Enfin, cette tablette familiale constitue un investissement particulièrement judicieux.",
+        "sections": [
+            {
+                "h2_title": "Écran 10.1 Pouces HD et Puce Quad-Core",
+                "paragraphs": [
+                    "La Blackview Tab 30 WiFi intègre une dalle IPS de 10.1 pouces en définition HD. Sa résolution de 1280 x 800 pixels restitue des détails d'une clarté impressionnante. De plus, les modes de protection oculaire réduisent la fatigue visuelle lors des lectures prolongées. De surcroît, le processeur Quad-Core cadencé à 1.8 GHz gère facilement vos logiciels d'apprentissage. Les 2 Go de mémoire RAM garantissent une gestion multitâche très fluide.",
+                    "La mémoire interne de 64 Go conserve l'ensemble de vos fichiers volumineux. La présence d'un port MicroSD permet d'étendre la capacité globale jusqu'à 1 To supplémentaire. En effet, la connectivité Wi-Fi 6 assure un streaming vidéo sans aucune saccade. Cette conception soignée protège le châssis en toutes circonstances. Vos applications d'étude restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Caméra 5 MP, Dual Speakers et Wi-Fi 6",
+                "paragraphs": [
+                    "La Blackview Tab 30 WiFi embarque un capteur photo arrière de 5 Mégapixels avec Flash LED. Cet objectif capture des images claires pour numériser vos devoirs d'école. En outre, la caméra frontale de 2 Mégapixels s'avère très pratique pour les réunions familiales. Les haut-parleurs stéréo intégrés optimisent la restitution audio avec netteté. Ainsi, la prise jack 3.5mm immortalise vos sessions d'écoute au casque. La précision sonore reste constante.",
+                    "Par ailleurs, le système Android 13 offre des fonctionnalités de sécurité renforcées. De plus, le mode contrôle parental permet d'encadrer l'utilisation des enfants. Également, l'association Bluetooth permet de connecter des écouteurs sans fil rapidement. De surcroît, la faible consommation d'énergie préserve la durée de batterie. En somme, cette tablette Wi-Fi réunit toutes les technologies avancées."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5100 mAh et Port USB-C",
+                "paragraphs": [
+                    "La batterie intégrée de 5100 mAh procure une autonomie énergétique bien équilibrée. Cette réserve efficace vous permet de l'utiliser durant plusieurs heures de navigation. D'ailleurs, le port USB-C prend en charge la recharge facile avec le câble fourni. En effet, la gestion thermique intelligente préserve la durée de vie de la batterie. Vos activités de loisir se poursuivent sans interruption.",
+                    "La silhouette épurée de 9.85 mm offre une tenue en main naturelle et très légère. Son poids maîtrisé de 520 grammes témoigne du soin apporté à la structure. D'autre part, la Blackview Tab 30 WiFi constitue un choix hautement stratégique pour s'équiper à Abidjan. En somme, son Wi-Fi 6 en fait une opportunité particulièrement attrayante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Tab 30 WiFi",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Blackview Tab 30 WiFi."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "246 x 162.7 x 9.85 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.520 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Châssis polymère renforcé mat"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Gris"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "10.1 pouces IPS LCD HD"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1280 x 800 pixels"
+                        },
+                        {
+                            "label": "Protection oculaire",
+                            "valeur": "Mode Confort des Yeux & Filtre de lumière bleue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Allwinner A133P Quad-Core 1.8 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "PowerVR GE8300"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "2 Go (+4 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "5 MP avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "2 MP HD"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Deux haut-parleurs stéréo Box"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5100 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W USB Type-C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Connectivité sans fil",
+                            "valeur": "Wi-Fi 6 (802.11 ax) Dual-Band 2.4G/5G, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Port audio",
+                            "valeur": "Prise jack casque 3.5 mm"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 (DokeOS_P 3.0)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/tab30wifi-price?"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

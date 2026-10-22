@@ -1,0 +1,521 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-20",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-s26-v3.4-batch",
+        "notes": "Fiche parent V3.4 certifiée du Samsung Galaxy S26 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy S Series",
+        "commercial_name": "Samsung Galaxy S26",
+        "category": "smartphone",
+        "sub_category": "flagship",
+        "release_year": 2026,
+        "release_quarter": "Q1",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-S26",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-S26"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S26"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+S26+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy S26 6.3\" 120Hz 12Go RAM 4300mAh 5G"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-S26",
+        "Name": "Samsung Galaxy S26 - 6.3\" 120Hz - 12Go/256Go - 50MP - 4300mAh - 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "850000",
+        "Categories": "Smartphones > Samsung > Galaxy S Series",
+        "Tags": "Samsung, Galaxy S26, Galaxy S Series, Smartphone, Android, 5G, Dynamic AMOLED 2X, Écran 120Hz, 50MP, 4300mAh, Galaxy AI, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Violet, Bleu, Noir, Blanc, Argent, Or Rose",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go, 256 Go, 512 Go",
+        "Attribute 2 default": "256Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "L'Excellence technologique Samsung au quotidien.",
+        "teaser": "Découvrez le Samsung Galaxy S26 avec son écran Dynamic AMOLED 2X de 6.3 pouces, sa puce de dernière génération et son triple module photo de 50 mégapixels.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Dynamic AMOLED 2X",
+                "benefice": "Dalle 6.3 pouces 120 Hz offrant une lisibilité remarquable en plein jour"
+            },
+            {
+                "feature": "Processeur Haute Performance",
+                "benefice": "Exécution fluide de vos applications professionnelles et multitâche rapide"
+            },
+            {
+                "feature": "Triple Capteur Photo 50MP",
+                "benefice": "Clichés précis et téléobjectif optique 3x pour immortaliser vos moments"
+            },
+            {
+                "feature": "Autonomie et Charge Rapide",
+                "benefice": "Batterie 4300 mAh avec recharge sans fil et gestion d'énergie intelligente"
+            }
+        ],
+        "marketing_conclusion": "Un smartphone équilibré et compact conçu pour répondre avec efficacité à toutes vos activités numériques.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy S26 (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Samsung Galaxy S26 au meilleur prix à Abidjan sur My-eStore. Écran Dynamic AMOLED 120Hz, 12Go RAM, 50MP et garantie officielle 24 mois."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Samsung Galaxy S26 256Go : Écran 120Hz & 50MP | My-eStore",
+            "meta_description": "Découvrez le Samsung Galaxy S26 sur My-eStore. Écran Dynamic AMOLED 6.3 pouces 120Hz, triple capteur 50MP, batterie 4300 mAh et connectivité 5G rapide.",
+            "focus_keyword": "Samsung Galaxy S26",
+            "lsi_keywords": [
+                "Samsung Galaxy S26 Abidjan",
+                "prix Samsung S26",
+                "fiche technique Galaxy S26",
+                "smartphone Samsung 5G",
+                "Galaxy S26 256Go"
+            ]
+        },
+        "h1": "Samsung Galaxy S26 : Performance, Écran 120Hz et Polyvalence 5G",
+        "intro_paragraph": "En premier lieu, le Samsung Galaxy S26 intègre un écran Dynamic AMOLED 2X très lumineux. Cette dalle tactile affiche une fluidité remarquable grâce à son rafraîchissement adaptatif de 120 Hz. De plus, son processeur moderne gravé en technologie avancée optimise le multitâche quotidien. L'appareil offre une prise en main agréable grâce à ses bordures fines et son châssis compact. Enfin, sa batterie endurante vous assure une autonomie stable tout au long de la journée.",
+        "experience_box": {
+            "box_title": "Points Clés du Samsung Galaxy S26",
+            "items": [
+                {
+                    "feature": "Affichage Adaptatif 120Hz",
+                    "benefice": "Fluidité visuelle optimale et consommation d'énergie maîtrisée"
+                },
+                {
+                    "feature": "Triple Capteur Polyvalent",
+                    "benefice": "Photos nettes de jour comme de nuit avec zoom optique 3x"
+                },
+                {
+                    "feature": "Connectivité 5G & Wi-Fi 7",
+                    "benefice": "Téléchargements ultrarapides et streaming sans ralentissement"
+                },
+                {
+                    "feature": "Protection IP68 Certifiée",
+                    "benefice": "Résistance éprouvée contre l'eau et les poussières du quotidien"
+                }
+            ]
+        },
+        "sections": [
+            {
+                "h2_title": "Affichage Fluide et Design Ergonomique",
+                "paragraphs": [
+                    "D'un côté, la dalle de 6.3 pouces procure une excellente visibilité même en plein soleil. La définition Full HD Plus garantit des images précises pour la lecture et le visionnage multimédia. Le verre de protection renforce la résistance face aux rayures du quotidien. Par ailleurs, le format compact de ce smartphone facilite son utilisation à une seule main. Les finitions soignées apportent une allure moderne adaptée à tous les environnements professionnels. Vous profitez ainsi d'un confort visuel adapté pour toutes vos applications mobiles courantes.",
+                    "D'un autre côté, le taux de rafraîchissement dynamique ajuste la fréquence selon vos usages. Cette gestion intelligente préserve l'énergie lors de la lecture de documents statiques. Les couleurs vives restent équilibrées pour réduire la fatigue oculaire lors des sessions prolongées. En outre, la technologie tactile réactive assure une navigation rapide et sans temps mort. Le design épuré s'accorde naturellement avec les accessoires officiels de la marque. Chaque détail ergonomique est pensé pour vous accompagner avec fiabilité au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Puissance de Calcul et Efficacité Énergétique",
+                "paragraphs": [
+                    "Tout d'abord, la puce nouvelle génération gère aisément les applications professionnelles et les jeux récents. Les douze gigaoctets de mémoire vive garantissent un passage instantané entre vos logiciels ouverts. Le stockage interne rapide permet d'enregistrer vos photos et vos vidéos haute définition. De surcroît, le système thermique dissipe la chaleur pour préserver des performances stables et continues. Les fonctionnalités d'intelligence artificielle accélèrent le traitement de vos requêtes quotidiennes. Vous gagnez un temps précieux lors de vos tâches de productivité mobile.",
+                    "Dans cette optique, l'optimisation logicielle assure une grande fluidité sous l'interface One UI. La sécurité matérielle protège vos données personnelles et vos informations bancaires sensibles. Les transferts de fichiers s'exécutent promptement grâce aux protocoles sans fil modernes. Également, la compatibilité cinq G offre des téléchargements fluides même en zone urbaine dense. Votre connexion reste stable pour vos appels vidéo et le streaming haute définition. L'ensemble matériel et logiciel forme une plateforme réactive et pérenne sur plusieurs années."
+                ]
+            },
+            {
+                "h2_title": "Module Photo Polyvalent et Autonomie Quotidienne",
+                "paragraphs": [
+                    "D'abord, le capteur principal de cinquante mégapixels capture des scènes nettes et détaillées. La stabilisation optique compense les mouvements involontaires pour éviter les flous de bougé. Le téléobjectif trois fois rapproche les sujets éloignés sans dégradation de la netteté. De même, l'ultra grand-angle élargit le champ pour les paysages et les photos de groupe. Le mode nuit améliore la clarté des prises de vue en conditions de faible luminosité. Vous réalisez des clichés équilibrés prêts à être partagés avec vos proches.",
+                    "Enfin, la batterie de quatre mille trois cents milliampères-heures accompagne votre rythme de travail. La recharge rapide permet de récupérer rapidement de l'énergie avant un déplacement important. La recharge sans fil apporte un confort appréciable sur votre bureau ou table de chevet. Par conséquent, vous restez joignable tout au long de la journée sans interruption inutile. La gestion intelligente adapte la consommation selon vos applications favorites. Ce modèle allie compacité et polyvalence pour répondre à tous vos besoins technologiques."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy S26",
+                "subtitle": "Spécifications matérielles du Samsung Galaxy S26."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "149.6 x 71.7 x 7.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.164 kg"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Verre Gorilla Glass Victus 2, Cadre Aluminium Armor"
+                        },
+                        {
+                            "label": "Étanchéité",
+                            "valeur": "IP68 (Immersion jusqu'à 1.5m pendant 30 min)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille d'Écran",
+                            "valeur": "6.3\""
+                        },
+                        {
+                            "label": "Technologie",
+                            "valeur": "Dynamic AMOLED 2X, LTPO"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "2340 x 1080 pixels (FHD+)"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "120 Hz adaptatif (1-120Hz)"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Octa-Core Hautes Performances (Gravure 2nm)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "RAM Virtuelle",
+                            "valeur": "RAM Plus jusqu'à 8 Go"
+                        },
+                        {
+                            "label": "Stockage (ROM)",
+                            "valeur": "128 Go / 256 Go / 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension (SD)",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Capteur Principal",
+                            "valeur": "50 MP, f/1.8, Dual Pixel PDAF, OIS"
+                        },
+                        {
+                            "label": "Téléobjectif",
+                            "valeur": "10 MP, f/2.4, Zoom optique 3x, OIS"
+                        },
+                        {
+                            "label": "Ultra Grand-angle",
+                            "valeur": "12 MP, f/2.2, 120˚"
+                        },
+                        {
+                            "label": "Selfie (Avant)",
+                            "valeur": "12 MP, f/2.2, Dual Pixel PDAF"
+                        },
+                        {
+                            "label": "Vidéo",
+                            "valeur": "8K à 30 fps, 4K à 60 fps, HDR10+"
+                        },
+                        {
+                            "label": "Configuration Audio",
+                            "valeur": "Haut-parleurs stéréo AKG"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, Audio 32-bit/384kHz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité & Techno",
+                            "valeur": "4300 mAh Li-Ion"
+                        },
+                        {
+                            "label": "Charge Filaire",
+                            "valeur": "25W rapide"
+                        },
+                        {
+                            "label": "Charge Sans-fil",
+                            "valeur": "15W sans fil, Partage d'énergie sans fil"
+                        },
+                        {
+                            "label": "Vitesse de Charge",
+                            "valeur": "50% en environ 30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Système",
+                    "rows": [
+                        {
+                            "label": "Réseaux",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G, 2G"
+                        },
+                        {
+                            "label": "Sans-fil & GPS",
+                            "valeur": "Wi-Fi 7, Bluetooth 5.4, GPS, GLONASS, Galileo"
+                        },
+                        {
+                            "label": "SIM & Card Slot",
+                            "valeur": "Nano-SIM + eSIM (Dual SIM)"
+                        },
+                        {
+                            "label": "Surcouche / Logiciel",
+                            "valeur": "One UI basé sur Android"
+                        },
+                        {
+                            "label": "Mises à jour",
+                            "valeur": "Jusqu'à 7 ans de mises à jour système et sécurité"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (Samsung Pay & Google Wallet)"
+                        },
+                        {
+                            "label": "Fonctions IA",
+                            "valeur": "Galaxy AI (Traduction instantanée, Retouche intelligente, Circle to Search)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S26"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+S26+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Violet",
+            "color_en": "Cobalt Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "850000",
+            "sku_suffix": "12-GB-128-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Cobalt Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1105000",
+            "sku_suffix": "12-GB-256-GB-VIOLET"
+        },
+        {
+            "color_fr": "Violet",
+            "color_en": "Cobalt Violet",
+            "color_code": "VIOLET",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1360000",
+            "sku_suffix": "12-GB-512-GB-VIOLET"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "850000",
+            "sku_suffix": "12-GB-128-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1105000",
+            "sku_suffix": "12-GB-256-GB-BLEU"
+        },
+        {
+            "color_fr": "Bleu",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1360000",
+            "sku_suffix": "12-GB-512-GB-BLEU"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "850000",
+            "sku_suffix": "12-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1105000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1360000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "850000",
+            "sku_suffix": "12-GB-128-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1105000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1360000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "850000",
+            "sku_suffix": "12-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1105000",
+            "sku_suffix": "12-GB-256-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver Shadow",
+            "color_code": "ARGENT",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1360000",
+            "sku_suffix": "12-GB-512-GB-ARGENT"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "12 Go",
+            "storage": "128 Go",
+            "price": "850000",
+            "sku_suffix": "12-GB-128-GB-OR-ROSE"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "1105000",
+            "sku_suffix": "12-GB-256-GB-OR-ROSE"
+        },
+        {
+            "color_fr": "Or Rose",
+            "color_en": "Pink Gold",
+            "color_code": "OR-ROSE",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "1360000",
+            "sku_suffix": "12-GB-512-GB-OR-ROSE"
+        }
+    ]
+}

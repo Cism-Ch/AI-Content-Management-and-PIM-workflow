@@ -1,0 +1,472 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-redmi-pad-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la tablette Xiaomi Redmi Pad SE 8.7 conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "Redmi Pad Series",
+        "commercial_name": "Xiaomi Redmi Pad SE 8.7",
+        "category": "tablet",
+        "sub_category": "tablet-compact-entry",
+        "release_year": 2024,
+        "release_quarter": "Q3",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "REDMI-PAD-SE-8-7",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "REDMI-PAD-SE-8-7"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+SE+8.7"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+SE+8.7+specifications"
+            }
+        ],
+        "disambiguation_notes": "Tablette compacte Xiaomi Redmi Pad SE 8.7 pouces HD+ 90Hz MediaTek Helio G85 batterie 6650 mAh Dolby Atmos."
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G85 (12 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "2 haut-parleurs stéréo Dolby Atmos",
+        "audio_tech": "Dolby Atmos et Hi-Res Audio",
+        "battery_capacity": "6650 mAh",
+        "charging_wired": "Charge rapide 18W",
+        "navigation_gps": "Positionnement Wi-Fi local",
+        "card_slot": "microSDXC jusqu'à 2 To",
+        "weight": "0.373 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "REDMI-PAD-SE-8-7",
+        "Name": "Xiaomi Redmi Pad SE 8.7 - Écran 8.7\" 90Hz - (4 Go|6 Go & 64 Go|128 Go) - 6650 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "95000",
+        "Categories": "Tablettes > Xiaomi > Redmi Pad",
+        "Tags": "Xiaomi, Redmi Pad SE 8.7, Redmi Pad Series, Tablette, Android, Écran 90Hz, Capteur 8MP, 6650mAh, Charge 18W, Helio G85, Dolby Atmos, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris | Vert | Bleu Clair",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go | 6 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.373 kg",
+        "Attribute 4 default": "0.373 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "Wi-Fi 5",
+        "Attribute 5 default": "Wi-Fi 5",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "95000",
+            "sku_suffix": "4-GB-64-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Aurora Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "95000",
+            "sku_suffix": "4-GB-64-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "95000",
+            "sku_suffix": "4-GB-64-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "110000",
+            "sku_suffix": "4-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Aurora Green",
+            "color_code": "VERT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "110000",
+            "sku_suffix": "4-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "110000",
+            "sku_suffix": "4-GB-128-GB-BLEU-CLAIR"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite Gray",
+            "color_code": "GRIS",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Vert",
+            "color_en": "Aurora Green",
+            "color_code": "VERT",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-VERT"
+        },
+        {
+            "color_fr": "Bleu Clair",
+            "color_en": "Sky Blue",
+            "color_code": "BLEU-CLAIR",
+            "ram": "6 Go",
+            "storage": "128 Go",
+            "price": "125000",
+            "sku_suffix": "6-GB-128-GB-BLEU-CLAIR"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi | Série Redmi Pad",
+        "teaser": "La tablette compacte Xiaomi Redmi Pad SE 8.7 associe un format maniable de 8.7 pouces à 90Hz au processeur MediaTek Helio G85. Sa batterie de 6650 mAh offre une autonomie prolongée au quotidien, complétée par un double haut-parleur stéréo Dolby Atmos.",
+        "top_features_detailed": [
+            {
+                "label": "Format Portatif 8.7\" 90Hz",
+                "detail": "Prise en main aisée à une seule main et défilement fluide adapté à la lecture et aux trajets nomades."
+            },
+            {
+                "label": "Processeur MediaTek Helio G85",
+                "detail": "Puce octocœur équilibrée assurant une navigation réactive dans les applications d'apprentissage."
+            },
+            {
+                "label": "Batterie Durable 6650 mAh",
+                "detail": "Grande autonomie couvrant vos journées de déplacement avec prise en charge de la charge 18W."
+            },
+            {
+                "label": "Double Haut-Parleur Stéréo",
+                "detail": "Diffusion sonore claire et spatiale certifiée Dolby Atmos pour vos vidéos et cours en ligne."
+            }
+        ],
+        "marketing_conclusion": "La tablette nomade compacte par excellence combinant ergonomie à une main, écran 90Hz et batterie de 6650 mAh.",
+        "trust_badges": [
+            "Garantie Officielle Xiaomi",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi Redmi Pad SE 8.7 à Abidjan | My-eStore",
+            "meta_description": "Commandez la Xiaomi Redmi Pad SE 8.7 à Abidjan chez My-eStore. Format 8.7 pouces 90Hz, MediaTek Helio G85 et batterie 6650 mAh au meilleur prix garanti."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Xiaomi Redmi Pad SE 8.7",
+            "lsi_keywords": [
+                "tablette compacte Xiaomi",
+                "Redmi Pad SE 8.7 pouces",
+                "MediaTek Helio G85",
+                "tablette légère Android",
+                "Dolby Atmos compacte"
+            ],
+            "meta_title": "Xiaomi Redmi Pad SE 8.7 64 Go : Écran 90Hz & Helio G85 | My-eStore",
+            "meta_description": "Découvrez la tablette compacte Xiaomi Redmi Pad SE 8.7 avec écran 90Hz de 8.7 pouces, puce Helio G85 et batterie 6650 mAh chez My-eStore."
+        },
+        "h1": "Xiaomi Redmi Pad SE 8.7 : Écran 8.7\" 90Hz, Processeur Helio G85 et Batterie 6650 mAh",
+        "experience_box": {
+            "box_title": "L'EXPÉRIENCE XIAOMI REDMI PAD SE 8.7",
+            "items": [
+                {
+                    "feature": "Écran Compact 8.7\" 90Hz",
+                    "benefice": "Confort de lecture nomade avec un encombrement minimal dans votre sacoche."
+                },
+                {
+                    "feature": "Puce MediaTek Helio G85",
+                    "benefice": "Navigation réactive dans vos livres numériques et logiciels de divertissement."
+                },
+                {
+                    "feature": "Batterie 6650 mAh 18W",
+                    "benefice": "Autonomie constante tout au long de la journée pour vos déplacements."
+                },
+                {
+                    "feature": "Deux Haut-Parleurs Stéréo",
+                    "benefice": "Écoute dynamique et claire de vos podcasts et morceaux favoris."
+                }
+            ]
+        },
+        "intro_paragraph": "La tablette tactile compacte Xiaomi Redmi Pad SE 8.7 séduit par sa grande maniabilité au quotidien. Son écran de 8.7 pouces propose un affichage soigné avec un taux de rafraîchissement de 90Hz. En effet, son gabarit contenu favorise une manipulation confortable à une seule main. De plus, le processeur MediaTek Helio G85 exécute sereinement les applications d'apprentissage usuelles. Ainsi, cet équipement léger accompagne fidèlement l'ensemble de vos sorties et voyages réguliers.",
+        "sections": [
+            {
+                "h2_title": "Format Portatif de 8.7 Pouces et Écran Lumineux 90Hz",
+                "paragraphs": [
+                    "Le châssis fin de la Xiaomi Redmi Pad SE 8.7 pèse seulement 373 grammes pour un transport commode. Sa taille réduite se glisse aisément dans une sacoche d'épaule sans encombrer vos affaires. L'ergonomie générale autorise une lecture continue de plusieurs heures sans la moindre fatigue musculaire. Par ailleurs, la coque dorsale mate assure une préhension stable lors des déplacements urbains. Les bordures équilibrées évitent tout contact involontaire avec la surface active de l'écran. En outre, la solidité de conception protège les composants internes face aux petits chocs.",
+                    "La dalle tactile développe une luminosité de 600 nits pour une bonne lisibilité en plein jour. Ce niveau d'éclairage facilite grandement le repérage cartographique lors de vos déplacements quotidiens. D'ailleurs, la fréquence de 90Hz procure un confort visuel instantané lors du défilement des textes. La certification TÜV Rheinland protège efficacement vos yeux contre la fatigue des lumières bleues. Le format 5:3 équilibre harmonieusement l'affichage des bandes dessinées et livres électroniques. Enfin, le traitement oléophobe maintient la surface propre face aux traces de doigts répétées."
+                ]
+            },
+            {
+                "h2_title": "Performances Pratiques Helio G85 et Réactivité Logicielle",
+                "paragraphs": [
+                    "Le processeur octocœur MediaTek Helio G85 garantit une navigation fluide entre vos applications courantes. Ses cœurs Cortex-A75 délivrent une puissance suffisante pour la consultation de vidéos en ligne. En effet, la puce graphique Mali-G52 assure une bonne stabilité dans les jeux récréatifs éducatifs. La mémoire vive extensible facilite le passage direct d'un cours numérique vers une prise de notes. L'ouverture des dossiers s'opère sans délai grâce à une gestion mémoire bien calibrée. De plus, le pilotage thermique maintient une température agréable lors des usages prolongés.",
+                    "L'espace de stockage accueille aisément vos livres électroniques et vos morceaux de musique favoris. Les temps de chargement réduits permettent d'accéder rapidement à vos contenus pédagogiques indispensables. Par conséquent, la manipulation de gros fichiers de lecture conserve une réactivité appréciable. Le tiroir pour carte mémoire supporte des cartes microSD supplémentaires jusqu'à deux téraoctets. L'interface Xiaomi HyperOS simplifie l'organisation des fenêtres sur ce format compact très intuitif. Ainsi, chaque membre de la famille utilise l'appareil avec un confort immédiat et durable."
+                ]
+            },
+            {
+                "h2_title": "Audio Stéréo Dolby Atmos et Autonomie Généreuse de 6650 mAh",
+                "paragraphs": [
+                    "Deux haut-parleurs stéréo symétriques diffusent un son clair et bien équilibré au quotidien. Cette configuration acoustique restitue fidèlement les timbres vocaux dans les vidéos éducatives. De surcroît, le traitement Dolby Atmos rehausse la présence spatiale de vos morceaux préférés. La caméra avant de 5 mégapixels suffit largement pour garder le contact avec vos proches. Le capteur arrière de 8 mégapixels numérise facilement vos devoirs et documents administratifs courants. En conséquence, vos communications à distance et vos partages visuels s'effectuent sans aucune difficulté.",
+                    "La batterie de 6650 mAh procure une réserve d'énergie rassurante pour une journée complète. Vous pouvez visionner plusieurs épisodes consécutifs sans scruter avec inquiétude l'indicateur de charge. Grâce à la recharge filaire de 18 watts, la batterie refait rapidement le plein. Cette commodité d'alimentation écourte sensiblement le temps passé branché à une prise secteur. La puce Wi-Fi bi-bande assure un débit stable pour télécharger vos livres de cours. Enfin, la prise jack 3.5 mm autorise l'utilisation de vos écouteurs filaires habituels."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique Complète : Xiaomi Redmi Pad SE 8.7",
+                "subtitle": "Spécifications matérielles certifiées de la tablette Xiaomi Redmi Pad SE 8.7."
+            },
+            "sections": [
+                {
+                    "name": "Design & Châssis",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "211.6 x 125.5 x 8.8 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.373 kg (373 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, dos texturé mat et contours profilés"
+                        },
+                        {
+                            "label": "Coloris Officiels",
+                            "valeur": "Gris (Graphite Gray), Vert (Aurora Green), Bleu Clair (Sky Blue)"
+                        },
+                        {
+                            "label": "Conception",
+                            "valeur": "Format ultra-compact manipulable d'une seule main"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie d'Écran",
+                            "valeur": "IPS LCD, 1 milliard de couleurs"
+                        },
+                        {
+                            "label": "Taille & Diagonale",
+                            "valeur": "8.7 pouces (~75.7% de ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition & Résolution",
+                            "valeur": "HD+ (800 x 1340 pixels), ratio 5:3, ~179 ppp"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "90 Hz dynamique"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "500 nits (typique), 600 nits (mode extérieur HBM)"
+                        },
+                        {
+                            "label": "Protection Oculaire",
+                            "valeur": "Double certification TÜV Rheinland faible lumière bleue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Plateforme",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "MediaTek Helio G85 (Gravure 12 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce Graphique (GPU)",
+                            "valeur": "Mali-G52 MC2"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go ou 6 Go LPDDR4X"
+                        },
+                        {
+                            "label": "Stockage Interne",
+                            "valeur": "64 Go ou 128 Go eMMC 5.1"
+                        },
+                        {
+                            "label": "Extension Carte Mémoire",
+                            "valeur": "Slot microSDXC dédié jusqu'à 2 To"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière Principale",
+                            "valeur": "8 MP, f/2.0, capteur 1/4.0\", 1.12µm, AF"
+                        },
+                        {
+                            "label": "Fonctionnalités Caméra",
+                            "valeur": "HDR, mode document, panorama"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Arrière",
+                            "valeur": "1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Frontale Selfie",
+                            "valeur": "5 MP, f/2.2, capteur 1/5.0\", 1.12µm"
+                        },
+                        {
+                            "label": "Enregistrement Vidéo Frontale",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio & Multimédia",
+                    "rows": [
+                        {
+                            "label": "Haut-parleurs",
+                            "valeur": "2 haut-parleurs stéréo symétriques"
+                        },
+                        {
+                            "label": "Technologies Audio",
+                            "valeur": "Dolby Atmos, certification Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise Jack 3.5mm",
+                            "valeur": "Oui, prise audio casque 3.5 mm présente"
+                        },
+                        {
+                            "label": "Microphones",
+                            "valeur": "1 microphone avec réduction de bruit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de Batterie",
+                            "valeur": "6650 mAh (typique) non amovible"
+                        },
+                        {
+                            "label": "Puissance de Charge Filaire",
+                            "valeur": "Charge rapide 18W (Power Delivery)"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 avec fonction OTG"
+                        },
+                        {
+                            "label": "Charge Sans Fil",
+                            "valeur": "Non"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Normes Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, bi-bande 2.4 GHz et 5 GHz"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.3, A2DP, LE"
+                        },
+                        {
+                            "label": "Capteurs Intégrés",
+                            "valeur": "Accéléromètre, boussole électronique, capteur de lumière ambiante, capteur Hall"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android avec surcouche Xiaomi HyperOS Pad"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+SE+8.7"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+Redmi+Pad+SE+8.7+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

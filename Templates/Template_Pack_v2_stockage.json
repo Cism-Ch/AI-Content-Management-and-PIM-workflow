@@ -1,0 +1,228 @@
+{
+    "template_version": "3.4",
+    "product_type": "stockage",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "",
+        "target_model": "",
+        "generation_date": ""
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "",
+                "url": ""
+            }
+        ],
+        "pricing_reference": "",
+        "official_sku": ""
+    },
+    "key_specifications": {
+        "processor": "",
+        "dimensions": "",
+        "weight": ""
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "[MARQUE]-[MODELE]-SKU",
+        "Name": "[MARQUE] [MODELE]",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "PRIX_FCFA",
+        "Categories": "High-Tech > Stockage > [MARQUE]",
+        "Tags": "[MARQUE], [MODELE], Stockage, [TYPOLOGIE_SSD_EXTERNE/NVME/DISQUE_DUR], [INTERFACE_USB_C/THUNDERBOLT], [VITESSE_LECTURE_MO_S], [FORMAT_PORTABLE/INTERNE], Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Noir/Gris",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go | 1 To | 2 To",
+        "Attribute 2 default": "512 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.XXX kg",
+        "Attribute 4 default": "0.XXX kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "[MARQUE] [MODELE] : TAGLINE",
+        "brand_line": "",
+        "marketing_conclusion": "",
+        "teaser": "",
+        "features": [
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            },
+            {
+                "feature": "",
+                "benefice": ""
+            }
+        ],
+        "slogan_final": "",
+        "seo": {
+            "meta_title": "",
+            "meta_description": "",
+            "keywords": ""
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "",
+            "lsi_keywords": [],
+            "meta_title": "",
+            "meta_description": ""
+        },
+        "h1": "",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                },
+                {
+                    "feature": "",
+                    "benefice": ""
+                }
+            ]
+        },
+        "intro_paragraph": "",
+        "sections": [
+            {
+                "h2_title": "",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "h2_title": "",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "h2_title": "",
+                "paragraphs": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "full_specs": {
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        }
+    },
+    "full_specs": {
+        "header": {
+            "title": "Fiche Technique : [MARQUE] [MODELE]",
+            "subtitle": "Spécifications matérielles certifiées du [MARQUE] [MODELE]."
+        },
+        "sections": [
+            {
+                "name": "Design & Physique",
+                "rows": [
+                    {
+                        "label": "Dimensions",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Poids",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Format (2.5\"/3.5\"/M.2/USB)",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Matériaux",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Performances",
+                "rows": [
+                    {
+                        "label": "Capacité",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Interface",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Vitesse de lecture",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Vitesse d'écriture",
+                        "valeur": ""
+                    }
+                ]
+            },
+            {
+                "name": "Compatibilité & Sécurité",
+                "rows": [
+                    {
+                        "label": "Compatibilité OS",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Chiffrement matériel",
+                        "valeur": ""
+                    },
+                    {
+                        "label": "Garantie",
+                        "valeur": ""
+                    }
+                ]
+            }
+        ],
+        "footer": {
+            "sources": [
+                {
+                    "name": "Site Officiel",
+                    "url": ""
+                },
+                {
+                    "name": "Source Tierce",
+                    "url": ""
+                }
+            ],
+            "disclaimer": "Données extraites des fiches techniques officielles. Les spécifications peuvent varier selon les régions."
+        }
+    }
+}

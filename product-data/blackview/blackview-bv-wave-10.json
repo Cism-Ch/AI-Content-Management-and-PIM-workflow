@@ -1,0 +1,326 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "Blackview",
+        "target_model": "Wave 10",
+        "generation_date": "2026-07-28"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "Blackview Official Store",
+                "url": "https://store.blackview.hk/fr/products/wave-10-price"
+            },
+            {
+                "name": "GSMArena",
+                "url": "https://www.gsmarena.com/"
+            }
+        ],
+        "pricing_reference": "65000",
+        "official_sku": "BV-WAVE-10"
+    },
+    "key_specifications": {
+        "processor": "Unisoc Tiger T606 Octa-Core",
+        "processor_ghz": "Fréquence 1.6 GHz",
+        "screen_size": "6.88 pouces",
+        "screen_technology": "HD+ IPS LCD 90Hz",
+        "screen_resolution": "1640 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "8 Go"
+        ],
+        "storage_options": [
+            "128 Go",
+            "256 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 16 Go via RAM virtuelle",
+        "os": "Android 13",
+        "os_skin": "DokeOS 4.0",
+        "camera_main": "13 MP (Capteur Samsung) avec Flash LED",
+        "camera_selfie": "8 MP HD",
+        "audio_config": "Haut-parleur Smart-PA stéréo",
+        "audio_tech": "Son HD & Prise Jack 3.5mm",
+        "connectivity_nfc": "NFC Multifonction compatible Google Pay",
+        "navigation_gps": "GPS + GLONASS + Beidou + Galileo",
+        "card_slot": "Triple slot (2 Nano SIM + MicroSD jusqu'à 1 To)",
+        "charging_wired": "Charge 10W USB-C",
+        "dimensions": "171.9 x 78 x 9.1 mm",
+        "weight": "0.205 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "BV-WAVE-10-MASTER",
+        "Name": "Blackview Wave 10",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "50",
+        "Regular price": "65000",
+        "Categories": "Smartphones > Blackview > BV Series, Smartphones > Blackview, Smartphones",
+        "Tags": "Blackview, Blackview Wave 10, Smartphone 4G, 6.88 Pouces, 5000mAh, 90Hz, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Bleu | Noir | Vert | Orange",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go | 256 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "8 Go",
+        "Attribute 3 default": "8 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.205 kg",
+        "Attribute 4 default": "0.205 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1"
+    },
+    "short_description": {
+        "title_format": "Blackview Wave 10 : Le Smartphone Grand Écran 6.88 Pouces 90Hz",
+        "brand_line": "Smartphone 4G élégant Blackview offrant une expérience visuelle immersive.",
+        "marketing_conclusion": "Commandez le Blackview Wave 10 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le Blackview Wave 10 propose un très grand écran de 6.88 pouces 90Hz, un processeur Octa-Core T606, une batterie de 5000 mAh et un appareil photo 13 MP.",
+        "features": [
+            {
+                "feature": "Grand Écran 6.88\" HD+ 90Hz",
+                "benefice": "Affichage très spacieux idéal pour la lecture et le streaming."
+            },
+            {
+                "feature": "Puce Unisoc Tiger T606 Octa-Core",
+                "benefice": "Lancement fluide des applications et navigation Internet réactive."
+            },
+            {
+                "feature": "Batterie 5000 mAh Longue Durée",
+                "benefice": "Autonomie confortable de plus d'une journée en usage actif."
+            },
+            {
+                "feature": "Finesse 9.1 mm & Poids 205g",
+                "benefice": "Tenue en main ergonomique et design moderne au quotidien."
+            }
+        ],
+        "slogan_final": "Blackview Wave 10 — L'immersion grand écran accessible.",
+        "seo": {
+            "meta_title": "Acheter Blackview Wave 10 (8Go/128Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone Blackview Wave 10 avec écran 90Hz 6.88 pouces, batterie 5000 mAh et processeur T606. Commandez au meilleur prix avec livraison à Abidjan chez My-eStore.",
+            "keywords": "Blackview Wave 10, smartphone Blackview, prix Abidjan, 6.88 pouces 5000mAh"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "Blackview Wave 10",
+            "lsi_keywords": [
+                "Blackview Wave 10",
+                "smartphone Blackview",
+                "prix Abidjan",
+                "smartphone grand écran Abidjan",
+                "meilleur prix Côte d'Ivoire",
+                "Tiger T606 Octa-Core",
+                "batterie 5000 mAh",
+                "écran 6.88 pouces 90Hz",
+                "achat smartphone Abidjan",
+                "livraison rapide Côte d'Ivoire"
+            ],
+            "meta_title": "Blackview Wave 10 90Hz : 6.88\" & 5000 mAh | My-eStore",
+            "meta_description": "Achetez le smartphone Blackview Wave 10. Écran 90Hz 6.88 pouces, processeur Tiger T606, 8Go RAM et batterie 5000 mAh. Profitez de la livraison rapide à Abidjan."
+        },
+        "h1": "Blackview Wave 10 : Spécifications et Performances Complètes",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS EN UN COUP D'ŒIL",
+            "items": [
+                {
+                    "feature": "Surface d'Affichage Généreuse 6.88\"",
+                    "benefice": "Confort visuel supérieur pour visionner des vidéos et séries."
+                },
+                {
+                    "feature": "Fluidité 90Hz du Défilement",
+                    "benefice": "Navigation agréable et transitions rapides dans les applications."
+                },
+                {
+                    "feature": "Mémoire RAM 8 Go Extensible",
+                    "benefice": "Gestion aisée du multitâche quotidien sans blocage."
+                },
+                {
+                    "feature": "Batterie 5000 mAh Optimisée",
+                    "benefice": "Réserve d'énergie solide assurant une journée d'utilisation."
+                }
+            ]
+        },
+        "intro_paragraph": "Le Blackview Wave 10 est un smartphone grand écran élégant et performant. Cet appareil convient très bien aux utilisateurs friands de contenus multimédias en Côte d'Ivoire. Par ailleurs, la puce Unisoc Tiger T606 garantit une navigation fluide. De plus, son très grand écran de 6.88 pouces 90Hz offre une immersion visuelle remarquable. La batterie de 5000 mAh permet d'utiliser votre téléphone sans crainte de panne en cours de journée. Sa finition moderne assure une prise en main très agréable malgré sa grande taille. En effet, l'interface DokeOS 4.0 sous Android 13 simplifie les commandes au quotidien. Enfin, vous profitez de vos applications avec une réelle aisance.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 6.88 Pouces 90Hz et Réactivité T606",
+                "paragraphs": [
+                    "Le Blackview Wave 10 intègre un écran IPS de 6.88 pouces en définition HD+. Sa résolution de 1640 x 720 pixels restitue des détails nets pour une lecture confortable de vos textes. De plus, le taux de rafraîchissement de 90 Hz apporte une fluidité constante lors du défilement. De surcroît, le processeur Tiger T606 à huit cœurs cadencés à 1.6 GHz gère rapidement vos tâches quotidiennes. Les 8 Go de mémoire RAM garantissent un basculement fluide entre vos applications. Les performances restent très stables tout au long de la journée.",
+                    "La mémoire interne de 128 Go ou 256 Go stocke facilement vos photos et fichiers multimédias. L'ajout d'une carte MicroSD jusqu'à 1 To permet d'étendre la capacité globale de stockage. En effet, le triple emplacement accueille deux cartes Nano SIM et une carte mémoire simultanément. Cette organisation matérielle facilite la séparation de vos usages personnels et professionnels. Vos contenus restent toujours accessibles à tout moment."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 13 MP et Connectivité Complète",
+                "paragraphs": [
+                    "Le Blackview Wave 10 est doté d'un capteur photo arrière principal de 13 Mégapixels. Cette caméra capture rapidement vos photos de paysage et vos souvenirs en famille. En outre, la caméra frontale de 8 Mégapixels assure des visioconférences claires avec vos proches. Les modes scènes optimisent le rendu des couleurs sous différents éclairages. La captation vidéo en haute définition immortalise vos vidéos avec clarté. La création de souvenirs devient très simple.",
+                    "Par ailleurs, le module NFC multifonction vous permet de réaliser des paiements sans contact. Le lecteur d'empreintes digitales latéral déverrouille l'appareil en une fraction de seconde. De plus, la prise audio Jack 3.5 mm permet le raccordement de votre casque filaire préféré. La connectivité Wi-Fi et Bluetooth 5.0 garantit des liaisons stables avec tous vos accessoires. En somme, ce smartphone réunit toutes les fonctions indispensables."
+                ]
+            },
+            {
+                "h2_title": "Autonomie 5000 mAh et Finesse du Châssis",
+                "paragraphs": [
+                    "La batterie intégrée de 5000 mAh offre une réserve énergétique très rassurante. Cet accumulateur vous permet de profiter de vos appels et jeux sans recharge constante. Le port USB-C pratique permet de recharger l'appareil facilement avec n'importe quel câble standard. En effet, le système d'exploitation Android 13 optimisé limite les consommations d'énergie superflues. Vos communications se déroulent sans interruption au quotidien.",
+                    "La silhouette affinée de 9.1 mm confère au téléphone une prise en main ergonomique. Son poids maîtrisé de 205 grammes s'oublie rapidement dans votre poche ou votre sac. Le Blackview Wave 10 constitue un choix très avantageux pour s'équiper à Abidjan. En somme, son rapport qualité-prix en fait une opportunité hautement séduisante. Vous bénéficiez de la livraison rapide assurée par My-eStore."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Blackview Wave 10",
+                "subtitle": "Spécifications matérielles certifiées du smartphone Blackview Wave 10."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.9 x 78 x 9.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.205 kg"
+                        },
+                        {
+                            "label": "Finition",
+                            "valeur": "Boîtier fin avec texture antidérapante au dos"
+                        },
+                        {
+                            "label": "Coloris",
+                            "valeur": "Bleu, Noir, Vert, Orange"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Taille écran",
+                            "valeur": "6.88 pouces IPS LCD HD+"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90 Hz"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1640 x 720 pixels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances Matérielles",
+                    "rows": [
+                        {
+                            "label": "Processeur (CPU)",
+                            "valeur": "Unisoc Tiger T606 (12 nm) Octa-Core 1.6 GHz"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali-G57 MP1"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "8 Go LPDDR4X (+8 Go d'extension virtuelle)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go / 256 Go (extensible par MicroSD jusqu'à 1 To)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière principale",
+                            "valeur": "13 MP (Capteur Samsung) avec Flash LED"
+                        },
+                        {
+                            "label": "Caméra selfie",
+                            "valeur": "8 MP HD"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité batterie",
+                            "valeur": "5000 mAh"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "10W (USB-C)"
+                        },
+                        {
+                            "label": "Autonomie veille",
+                            "valeur": "Jusqu'à 480 heures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Système & Connectivité",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE / 3G / 2G Dual SIM"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.0"
+                        },
+                        {
+                            "label": "NFC",
+                            "valeur": "Oui (compatible Google Pay)"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface DokeOS 4.0"
+                        },
+                        {
+                            "label": "Biométrie",
+                            "valeur": "Empreinte digitale latérale + Déverrouillage facial"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Blackview Official Store",
+                        "url": "https://store.blackview.hk/fr/products/wave-10-price"
+                    },
+                    {
+                        "name": "GSMArena",
+                        "url": "https://www.gsmarena.com/"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "cart_link": "javascript:void(0);",
+            "cart_onclick": "document.querySelector('.single_add_to_cart_button').click();",
+            "cart_label": "Ajouter au panier"
+        }
+    }
+}

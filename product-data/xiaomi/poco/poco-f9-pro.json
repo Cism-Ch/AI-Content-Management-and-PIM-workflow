@@ -1,0 +1,406 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO F9 Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO F Series",
+        "commercial_name": "Xiaomi POCO F9 Pro",
+        "category": "smartphone",
+        "sub_category": "flagship-compact-speed",
+        "release_year": 2025,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-F9-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-F9-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/poco-f9-pro/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone haut de gamme Xiaomi POCO F9 Pro doté d'un écran 6.59 pouces processeur Snapdragon 8 Elite capteur 200MP batterie 6330 mAh et charge turbo 100W."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio",
+        "battery_capacity": "6330 mAh",
+        "charging_wired": "Charge turbo filaire 100W",
+        "navigation_gps": "GPS double fréquence, GLONASS, Beidou, Galileo, QZSS",
+        "card_slot": "Non (double nano-SIM)",
+        "weight": "0.206 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-F9-PRO",
+        "Name": "Xiaomi POCO F9 Pro - Dual SIM - Écran 6.59\" 144Hz - (12 Go & 256 Go|512 Go) - 6330 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "385000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO F9 Pro, POCO F Series, Smartphone, Android, 5G, Écran 144Hz, Capteur 200MP, 6330mAh, Charge 100W, Snapdragon 8 Elite, IP68, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc | Vert Clair",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go",
+        "Attribute 2 default": "256 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go",
+        "Attribute 3 default": "12 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.206 kg",
+        "Attribute 4 default": "0.206 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Aurora Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "385000",
+            "sku_suffix": "12-GB-256-GB-VERT-CLAIR"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "425000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "425000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Vert Clair",
+            "color_en": "Aurora Green",
+            "color_code": "VERT-CLAIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "425000",
+            "sku_suffix": "12-GB-512-GB-VERT-CLAIR"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO F Series",
+        "teaser": "Le smartphone Xiaomi POCO F9 Pro réunit un écran compact de 6.59 pouces à 144Hz et le processeur Snapdragon 8 Elite. Équipé d'un capteur photo 200MP et d'une batterie de 6330 mAh avec charge turbo 100W, il délivre une réactivité continue pour le travail et le multimédia.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Compact 6.59\" 144Hz",
+                "benefice": "Format ergonomique très maniable offrant une fluidité visuelle soignée."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Elite",
+                "benefice": "Architecture 3 nm moderne délivrant une puissance stable sans ralentissement."
+            },
+            {
+                "feature": "Capteur Photo 200MP OIS",
+                "benefice": "Précision d'image élevée autorisant des recadrages nets en toute circonstance."
+            },
+            {
+                "feature": "Batterie 6330 mAh & 100W",
+                "benefice": "Grande réserve énergétique assurant une autonomie complète doublée d'une charge rapide."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone haut de gamme compact combinant vélocité de calcul, photo haute résolution et charge rapide.",
+        "trust_badges": [
+            "Garantie 12 Mois Constructeur",
+            "Livraison Express à Abidjan",
+            "Service Client My-eStore Réactif"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO F9 Pro (12Go/256Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F9 Pro chez My-eStore. Écran 6.59\" 144Hz, puce Snapdragon 8 Elite, capteur 200MP et batterie 6330 mAh disponibles à Abidjan.",
+            "focus_keywords": [
+                "Xiaomi POCO F9 Pro",
+                "POCO F9 Pro prix Abidjan",
+                "smartphone Snapdragon 8 Elite",
+                "POCO F9 Pro Abidjan"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO F9 Pro : Snapdragon 8 Elite & 200MP | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO F9 Pro chez My-eStore. Écran 6.59\" 144Hz, Snapdragon 8 Elite, capteur 200MP et batterie 6330 mAh au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO F9 Pro : Snapdragon 8 Elite, Capteur 200MP et Batterie 6330 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO F9 Pro",
+            "items": [
+                {
+                    "feature": "Écran AMOLED 6.59 pouces",
+                    "benefice": "Format compact hautement ergonomique allié à un taux de rafraîchissement 144Hz"
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Elite",
+                    "benefice": "Performances de premier plan capables de traiter les calculs les plus intenses"
+                },
+                {
+                    "feature": "Capteur photo 200MP OIS",
+                    "benefice": "Niveau de piqué exceptionnel permettant des recadrages sans perte de netteté"
+                },
+                {
+                    "feature": "Batterie 6330 mAh & 100W",
+                    "benefice": "Grande autonomie quotidienne doublée d'une vitesse de recharge éclair"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO F9 Pro allie ergonomie compacte et performances matérielles de tout premier plan. Sa dalle AMOLED de 6.59 pouces restitue des couleurs naturelles avec une clarté visuelle équilibrée. De plus, la fréquence adaptative de 144Hz assure une grande douceur lors de chaque interaction tactile. Le processeur Qualcomm Snapdragon 8 Elite traite par ailleurs les algorithmes de photographie computationnelle sans délai. Enfin, la batterie de 6330 mAh avec charge 100W garantit une autonomie pérenne à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Écran AMOLED 144Hz Compact et Lisibilité Extérieure",
+                "paragraphs": [
+                    "Le panneau AMOLED de 6.59 pouces du POCO F9 Pro assure un confort de lecture optimal. La résolution fine fait ressortir les détails graphiques avec une précision appréciable en toute circonstance. De surcroît, le taux de rafraîchissement adaptatif de 144Hz supprime tout effet de saccade tactile. La luminance de crête élevée maintient une visibilité claire sous la lumière du soleil tropical. Les bordures symétriques très minces maximisent en outre la surface d'affichage sans alourdir le boîtier. Vous profitez d'un affichage soigné adapté à la consultation prolongée de vos documents d'entreprise.",
+                    "Le verre de protection renforcé préserve la face avant contre les rayures et frottements quotidiens. Le profil compact de 157.4 millimètres simplifie la manipulation de l'appareil d'une seule main. Par conséquent, la prise en main reste sûre et stable lors de vos déplacements citadins. Les deux haut-parleurs stéréo symétriques diffusent un son enveloppant certifié Dolby Atmos et Hi-Res. Cette spatialisation sonore améliore donc la clarté des échanges vocaux pendant vos appels professionnels. Cet environnement acoustique de qualité transforme vos sessions de détente en un moment plaisant."
+                ]
+            },
+            {
+                "h2_title": "Puce Snapdragon 8 Elite et Capteur Photo 200 MP OIS",
+                "paragraphs": [
+                    "La plateforme Qualcomm Snapdragon 8 Elite exécute les calculs graphiques intensifs avec une grande stabilité. Sa gravure en 3 nanomètres réduit l'échauffement interne pour préserver la cadence des cœurs logiques. Ainsi, les jeux compétitifs et logiciels de montage fonctionnent sans ralentissement ni perte de fluidité. La mémoire vive de 12 Go soutient un multitâche fluide sans recharger les fenêtres actives. Le stockage interne rapide permet en conséquence d'ouvrir les fichiers volumineux en une seconde. L'interface logicielle Xiaomi HyperOS optimise la réactivité globale du système lors des usages denses.",
+                    "Le capteur photographique principal de 200 mégapixels enregistre des scènes avec un piqué remarquable. La stabilisation optique OIS neutralise immédiatement les micromouvements lors des prises de vue nocturnes. De plus, le traitement d'image dynamique équilibre l'exposition des clichés pris en contre-jour. L'objectif grand-angle capture de larges perspectives sans distorsion géométrique sur les bords d'image. Vous obtenez dès lors des photographies d'une grande netteté prêtes pour vos publications professionnelles. La caméra frontale assure des portraits précis pour vos réunions en visioconférence à distance."
+                ]
+            },
+            {
+                "h2_title": "Batterie Durable de 6330 mAh et Charge Turbo 100W",
+                "paragraphs": [
+                    "La batterie conséquente de 6330 mAh offre une réserve énergétique rassurante pour votre travail. Elle permet de franchir deux journées d'utilisation professionnelle connectée sans recharge intermédiaire nécessaire. En effet, la gestion intelligente de l'énergie réduit la consommation des applications en veille. Le bloc de charge turbo 100W restaure l'ensemble de l'autonomie en une trentaine de minutes. Le système de dissipation thermique préserve également la sécurité électrique tout au long du branchement. Vous gagnez un temps précieux au quotidien en éliminant les longues attentes de charge.",
+                    "Le boîtier étanche certifié IP68 résiste aux projections d'eau et aux environnements poussiéreux variés. Sa compacité extérieure de 6.59 pouces garantit un port discret dans toutes les poches. Par ailleurs, la connectivité 5G et Wi-Fi 7 assure des transferts de données ultra-rapides. Cette connectivité moderne fluidifie grandement le téléchargement de vos fichiers professionnels en déplacement. Cet ensemble de prestations équilibrées confirme assurément l'excellence du POCO F9 Pro en Côte d'Ivoire. Le Xiaomi POCO F9 Pro s'impose comme un smartphone compact, puissant et durable au quotidien."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO F9 Pro - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "157.4 x 75.2 x 8.7 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "206 g (0.206 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre en alliage d'aluminium, dos en verre trempé satiné"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Blanc (White), Vert Clair (Aurora Green)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "IP68 résistant à l'eau et à la poussière"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED, 68 milliards de couleurs, Dolby Vision, HDR10+"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.59 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "1.5K (2670 x 1200 pixels)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "144Hz adaptatif"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "1600 nits (HBM), 2600 nits (pic)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Qualcomm Snapdragon 8 Elite Gen 5 (3 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Qualcomm Adreno 830"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "12 Go LPDDR5X"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "256 Go ou 512 Go UFS 4.0"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Non"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 200 MP (f/1.65, OIS) + ultra grand-angle 50 MP + téléobjectif 50 MP"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "32 MP, f/2.2, HDR"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleurs stéréo symétriques, Dolby Atmos, Hi-Res Audio"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Non (audio USB Type-C)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6330 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire turbo 100W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G, 4G LTE, 3G, 2G (Double nano-SIM)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.4"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C (OTG)"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/poco-f9-pro/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F9+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

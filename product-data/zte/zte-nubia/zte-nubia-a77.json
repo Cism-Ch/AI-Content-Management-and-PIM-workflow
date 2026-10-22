@@ -1,0 +1,242 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Nubia A77",
+        "generation_date": "2026-09-02"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A77"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Nubia+A77+specifications"
+            }
+        ],
+        "pricing_reference": "115000",
+        "official_sku": "ZTE-NUBIA-A77"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T7250 (12 nm) Octa-Core",
+        "processor_ghz": "Fréquence 1.8 GHz",
+        "screen_size": "6.75 pouces",
+        "screen_technology": "IPS LCD 120Hz Affichage Fluide",
+        "screen_resolution": "1570 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible via mémoire virtuelle",
+        "os": "Android 15",
+        "os_skin": "MyOS 15",
+        "camera_main": "Double capteur 50 MP (Principal 50 MP f/1.8 PDAF + Capteur Auxiliaire)",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur multimédia avec prise jack 3.5mm",
+        "audio_tech": "Son clair & microphone avec réduction de bruit",
+        "connectivity_nfc": "Non spécifié",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM / Port MicroSD dédié",
+        "charging_wired": "Charge rapide 22.5W USB-C",
+        "dimensions": "168.0 x 77.0 x 8.3 mm",
+        "weight": "0.193 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-NUBIA-A77-MASTER",
+        "Name": "ZTE Nubia A77",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "20",
+        "Regular price": "115000",
+        "Categories": "Smartphones > ZTE > Nubia Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, Nubia A77, Smartphone 4G, 120Hz, 50MP, 5000mAh, Unisoc T7250, Abidjan",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir, Bleu, Or",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.193 kg",
+        "Attribute 4 default": "0.193 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Nubia A77 : Écran 120 Hz 6.75\" Capteur 50 MP et Batterie 5000 mAh",
+        "brand_line": "Le smartphone 4G élégant offrant un écran 120 Hz fluide et un capteur photo 50 MP.",
+        "marketing_conclusion": "Commandez votre ZTE Nubia A77 sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Nubia A77 propose une dalle fluide 120Hz de 6.75 pouces, un capteur principal 50 MP, une batterie 5000 mAh et une charge rapide 22.5W.",
+        "features": [
+            {
+                "feature": "Écran 6.75\" IPS LCD 120Hz",
+                "benefice": "Défilement très fluide pour toutes vos applications préférées."
+            },
+            {
+                "feature": "Capteur Photo Principal 50 MP",
+                "benefice": "Prises de vue nettes avec un bon niveau de détail."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 22.5W",
+                "benefice": "Alimentation continue tout au long de votre journée active."
+            },
+            {
+                "feature": "Processeur Octa-Core & 128 Go",
+                "benefice": "Réactivité stable et espace de stockage généreux."
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter ZTE Nubia A77 (4Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Achetez le ZTE Nubia A77 au meilleur prix à Abidjan sur My-eStore. Écran 120Hz de 6.75 pouces, capteur photo 50 MP, 128 Go et batterie 5000 mAh."
+        }
+    },
+    "long_description": {
+        "h1": "ZTE Nubia A77 : Écran 6.75\" 90Hz, Double Capteur 50 MP et Batterie 5000 mAh",
+        "intro_paragraph": "Le ZTE Nubia A77 répond avec pertinence aux besoins des utilisateurs connectés recherchant un équipement complet à Abidjan. En effet, sa dalle de 6.75 pouces propose une fréquence de rafraîchissement rapide à 120 Hz. De plus, sa puce Unisoc T7250 assure une utilisation fluide de vos messageries et applications. Son capteur photo principal de 50 Mégapixels produit des images précises. Par ailleurs, la batterie de 5000 mAh supporte une charge rapide efficace de 22.5W. Vous achetez votre smartphone en toute sérénité sur la boutique My-eStore.",
+        "sections": [
+            {
+                "title": "Écran 120Hz Fluide et Processeur Octa-Core",
+                "paragraphs": [
+                    "Le ZTE Nubia A77 embarque une dalle IPS LCD mesurant 6.75 pouces de diagonale. Sa fréquence de 120 Hz apporte une réactivité agréable lors de la consultation de vos documents. Ainsi, les vidéos et les pages web défilent sans saccade sous vos yeux. La puce Unisoc T7250 intègre huit cœurs pour un fonctionnement régulier.",
+                    "La mémoire vive de 4 Go permet de passer sereinement d'un outil à un autre. En effet, le stockage interne de 128 Go conserve vos fichiers personnels en nombre. D'ailleurs, un lecteur de carte mémoire autorise une extension facile en cas de besoin. Vous disposez d'un espace suffisant pour vos photos et vidéos."
+                ]
+            },
+            {
+                "title": "Module Photo 50 MP et Confort Logiciel",
+                "paragraphs": [
+                    "Le module dorsal intègre un capteur principal de 50 Mégapixels avec mise au point rapide. Cet équipement capture des prises de vue lumineuses sous un éclairage diurne naturel. De plus, le capteur auxiliaire optimise les portraits pour un rendu net. La caméra frontale de 8 Mégapixels facilite vos autoportraits quotidiens.",
+                    "L'interface logicielle MyOS sous Android 15 propose une navigation claire et intuitive. En outre, le capteur d'empreintes latéral renforce la sécurité de vos données privées. La prise jack 3.5 mm permet de brancher vos écouteurs sans adaptateur supplémentaire. Cet appareil réunit ainsi des fonctions pratiques pour la vie active."
+                ]
+            },
+            {
+                "title": "Batterie 5000 mAh et Recharge Filaire 22.5W",
+                "paragraphs": [
+                    "La batterie de 5000 mAh fournit une alimentation équilibrée pour vos journées chargées. Par ailleurs, la technologie de charge rapide 22.5W réduit notablement le temps de branchement. Vous reprenez rapidement vos communications sans craindre de manquer d'énergie. Vos déplacements urbains se déroulent dans une grande tranquillité d'esprit.",
+                    "Le design épuré présente une épaisseur maîtrisée de 8.3 mm pour un poids de 193 grammes. Ainsi, la manipulation reste aisée d'une seule main au quotidien. En somme, ce modèle combine élégance et autonomie à un tarif très avantageux. Vous pouvez passer commande en toute sécurité sur My-eStore. La livraison à Abidjan est assurée avec rapidité et rigueur."
+                ]
+            }
+        ],
+        "full_specs": {
+            "design_physique": {
+                "Dimensions": "168.0 x 77.0 x 8.3 mm",
+                "Poids": "0.193 kg (193 g)",
+                "Matériaux": "Châssis ergonomique, coque texturée élégante",
+                "Coloris officiels": "Noir (Black), Bleu (Blue), Or (Gold)"
+            },
+            "affichage_ecran": {
+                "Taille de l'écran": "6.75 pouces (~84.5% ratio écran-corps)",
+                "Technologie de dalle": "IPS LCD, 120Hz",
+                "Définition": "HD+ (1570 x 720 pixels, ~256 ppi)",
+                "Fréquence de rafraîchissement": "120 Hz",
+                "Particularité": "Bords affinés et format ergonomique 19.5:9"
+            },
+            "performances_systeme": {
+                "Processeur (SoC)": "Unisoc T7250 (12 nm)",
+                "Architecture CPU": "Octa-Core (2x1.8 GHz Cortex-A75 + 6x1.6 GHz Cortex-A55)",
+                "Puce graphique (GPU)": "Mali-G57",
+                "Mémoire RAM": "4 Go",
+                "Stockage interne": "128 Go (extensible via carte microSDXC)",
+                "Système d'exploitation": "Android 15 avec interface MyOS"
+            },
+            "photographie_video": {
+                "Capteur principal arrière": "50 MP (f/1.8, grand-angle, PDAF) + capteur auxiliaire",
+                "Caméra frontale (Selfie)": "8 MP (f/2.0)",
+                "Enregistrement vidéo": "1080p à 30 fps"
+            },
+            "batterie_alimentation": {
+                "Capacité de la batterie": "5000 mAh (Li-Po non amovible)",
+                "Puissance de charge": "Charge rapide 22.5W filaire",
+                "Protocole de charge": "USB Power Delivery / Fast Charge"
+            },
+            "connectivite_reseau": {
+                "Réseaux cellulaires": "4G LTE, 3G, 2G",
+                "Carte SIM": "Dual Nano SIM",
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac dual-band",
+                "Bluetooth": "Bluetooth 5.2 avec A2DP et LE",
+                "Prise casque": "Jack 3.5 mm",
+                "Port USB": "USB Type-C 2.0 réversible"
+            },
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A77"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Nubia+A77+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        },
+        "seo": {
+            "meta_title": "ZTE Nubia A77 128Go : Écran 120Hz & Capteur 50MP | My-eStore",
+            "meta_description": "Fiche technique du ZTE Nubia A77. Écran fluide 120Hz de 6.75 pouces, capteur 50 MP, mémoire 128 Go et batterie 5000 mAh avec charge 22.5W à Abidjan."
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Black"
+        },
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Bleu",
+            "color_fr": "Bleu",
+            "color_en": "Blue"
+        },
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Or",
+            "color_fr": "Or",
+            "color_en": "Gold"
+        }
+    ]
+}

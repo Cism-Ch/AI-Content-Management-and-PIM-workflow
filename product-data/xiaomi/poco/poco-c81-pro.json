@@ -1,0 +1,452 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-28",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO C81 Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO C Series",
+        "commercial_name": "Xiaomi POCO C81 Pro",
+        "category": "smartphone",
+        "sub_category": "entry-level-display",
+        "release_year": 2025,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-C81-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-C81-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/product/poco-c81-pro/specs/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+C81+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+C81+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone grand format Xiaomi POCO C81 Pro avec écran 6.9 pouces processeur UNISOC T7250 batterie 6000 mAh et mémoire extensible."
+    },
+    "key_specifications": {
+        "processor": "UNISOC T7250 (12 nm, Octa-core)",
+        "ram_extension": "Extension dynamique de RAM",
+        "audio_config": "Haut-parleur mono puissant",
+        "audio_tech": "Optimisation sonore intégrée",
+        "battery_capacity": "6000 mAh",
+        "charging_wired": "Charge filaire 15W",
+        "navigation_gps": "GPS, GLONASS, Galileo",
+        "card_slot": "MicroSDXC (emplacement dédié)",
+        "weight": "0.208 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-C81-PRO",
+        "Name": "Xiaomi POCO C81 Pro - Dual SIM - Écran 6.9\" 90Hz - (6 Go|8 Go & 64 Go|128 Go|256 Go) - 6000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "95000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO C81 Pro, POCO C Series, Smartphone, Android, 4G, Écran 6.9\", 6000mAh, Charge 15W, UNISOC T7250, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Or | Turquoise",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go | 128 Go | 256 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "6 Go | 8 Go",
+        "Attribute 3 default": "6 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.208 kg",
+        "Attribute 4 default": "0.208 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G",
+        "Attribute 5 default": "4G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "6 Go",
+            "storage": "64 Go",
+            "price": "95000",
+            "sku_suffix": "6-GB-64-GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "6 Go",
+            "storage": "64 Go",
+            "price": "95000",
+            "sku_suffix": "6-GB-64-GB-OR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Green",
+            "color_code": "TURQUOISE",
+            "ram": "6 Go",
+            "storage": "64 Go",
+            "price": "95000",
+            "sku_suffix": "6-GB-64-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "115000",
+            "sku_suffix": "8-GB-128-GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "115000",
+            "sku_suffix": "8-GB-128-GB-OR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Green",
+            "color_code": "TURQUOISE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "115000",
+            "sku_suffix": "8-GB-128-GB-TURQUOISE"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Or",
+            "color_en": "Gold",
+            "color_code": "OR",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-OR"
+        },
+        {
+            "color_fr": "Turquoise",
+            "color_en": "Green",
+            "color_code": "TURQUOISE",
+            "ram": "8 Go",
+            "storage": "256 Go",
+            "price": "135000",
+            "sku_suffix": "8-GB-256-GB-TURQUOISE"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO — Gamme C Series Écran Géant & Batterie 6000 mAh",
+        "teaser": "Le smartphone 4G Xiaomi POCO C81 Pro offre un écran panoramique de 6.9 pouces à 90Hz et le processeur huit cœurs UNISOC T7250. Équipé d'une batterie généreuse de 6000 mAh avec charge 15W et d'un capteur 50 MP, il garantit un grand confort au meilleur prix à Abidjan.",
+        "top_features_detailed": [
+            {
+                "feature_title": "Grand Écran Spacieux 6.9\" 90Hz",
+                "badge": "Affichage",
+                "lead_benefit": "Surface visuelle très large et navigation 90Hz",
+                "technical_detail": "Dalle IPS 6.9 pouces rafraîchie à 90Hz offrant une lisibilité optimale sur vos textes et vidéos.",
+                "daily_impact": "Lecture sans contrainte de documents et défilement tactile fluide au quotidien."
+            },
+            {
+                "feature_title": "Batterie Durable 6000 mAh",
+                "badge": "Autonomie",
+                "lead_benefit": "Deux journées complètes d'usage continu",
+                "technical_detail": "Accumulateur haute capacité de 6000 mAh avec connectique réversible USB Type-C.",
+                "daily_impact": "Disponibilité permanente sans nécessité de recharger l'appareil en cours de journée."
+            },
+            {
+                "feature_title": "Puce UNISOC T7250 Octa-Core",
+                "badge": "Performances",
+                "lead_benefit": "Fonctionnement fluide des applications courantes",
+                "technical_detail": "Architecture huit cœurs 12 nm équilibrée avec mémoire vive dynamique extensible.",
+                "daily_impact": "Exécution fiable de votre messagerie, des appels et des réseaux sociaux sans lenteur."
+            },
+            {
+                "feature_title": "Capteur Photo 50 MP avec IA",
+                "badge": "Photographie",
+                "lead_benefit": "Photos nettes et souvenirs détaillés",
+                "technical_detail": "Module photo haute définition 50 mégapixels avec traitement d'exposition automatique.",
+                "daily_impact": "Clichés lumineux et réussis de votre quotidien prêts à être partagés."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone grand format économique combinant autonomie prolongée de 6000 mAh, grand écran immersif 90Hz et tarif avantageux.",
+        "trust_badges": [
+            {
+                "icon": "shield-check",
+                "text": "Garantie Officielle 12 Mois"
+            },
+            {
+                "icon": "truck",
+                "text": "Livraison Express à Abidjan"
+            },
+            {
+                "icon": "credit-card",
+                "text": "Paiement Sécurisé à la Livraison"
+            },
+            {
+                "icon": "refresh-cw",
+                "text": "Service Après-Vente Réactif"
+            }
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO C81 Pro (8Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO C81 Pro chez My-eStore. Écran géant 6.9 pouces 90Hz, batterie 6000 mAh et processeur huit cœurs au tarif le plus bas à Abidjan."
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO C81 Pro 256Go : UNISOC T7250 & 6000 mAh | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO C81 Pro chez My-eStore. Écran géant 6.9 pouces, batterie 6000 mAh et processeur huit cœurs au prix le plus bas à Abidjan."
+        },
+        "h1": "Xiaomi POCO C81 Pro : UNISOC T7250, Écran 6.9\" 90Hz et Batterie 6000 mAh",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO C81 Pro",
+            "items": [
+                {
+                    "feature": "Écran spacieux 6.9 pouces",
+                    "benefice": "Surface d'affichage extra large adaptée à la lecture et au visionnage vidéo"
+                },
+                {
+                    "feature": "Batterie longue durée 6000 mAh",
+                    "benefice": "Autonomie étendue idéale pour rester connecté sans interruption"
+                },
+                {
+                    "feature": "Puce UNISOC T7250",
+                    "benefice": "Fonctionnement fluide des applications courantes de messagerie et de gestion"
+                },
+                {
+                    "feature": "Mémoire extensible",
+                    "benefice": "Stockage modulable grâce au port dédié pour carte MicroSD"
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone 4G Xiaomi POCO C81 Pro combine une grande diagonale d'écran et une autonomie remarquable. Sa dalle panoramique de 6.9 pouces procure en effet un confort de lecture spacieux pour toutes vos tâches. Le processeur huit cœurs UNISOC T7250 pilote les applications usuelles avec une belle stabilité opérationnelle. La batterie de 6000 mAh garantit par ailleurs plus de deux journées d'utilisation sans recharge intermédiaire. Cet appareil accessible et équilibré constitue un outil performant pour les usagers actifs à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Grand Écran 6.9 Pouces 90Hz et Visibilité Confortable",
+                "paragraphs": [
+                    "La dalle imposante de 6.9 pouces offre un vaste champ visuel pour tous vos contenus multimédias. Cette surface d'affichage élargie facilite la saisie de messages et la lecture de longs courriels professionnels. Le taux de rafraîchissement à 90Hz assure ainsi un glissement tactile doux au fil des applications. La luminosité s'équilibre automatiquement pour préserver une bonne lisibilité lors des journées ensoleillées. Le mode lecture atténue en outre les lumières vives pour protéger votre repos visuel en soirée. Vous examinez vos photographies et vos vidéos dans des conditions visuelles très confortables.",
+                    "La coque en polycarbonate robuste résiste très bien aux contraintes physiques des trajets quotidiens. Le verre frontal protège la surface tactile contre les chocs et les rayures involontaires. Les bordures affinées facilitent en effet la tenue en main malgré les dimensions imposantes du téléphone. Le revêtement arrière mat retient peu les traces grasses consécutives aux manipulations fréquentes. Cette qualité d'assemblage améliore par conséquent la durabilité globale du smartphone dans le temps. Vous circulez en ville l'esprit tranquille avec un appareil solide et maniable en poche."
+                ]
+            },
+            {
+                "h2_title": "Processeur UNISOC T7250 et Ergonomie Logicielle",
+                "paragraphs": [
+                    "La puce UNISOC T7250 intègre huit cœurs cadencés pour répondre rapidement à vos sollicitations. Cette conception thermique économe évite toute élévation excessive de température lors des appels vocaux. Le processeur graphique anime également avec régularité les jeux légers et les vidéos en streaming. La mémoire vive dynamique permet de conserver vos applications favorites ouvertes en arrière-plan. Le stockage interne spacieux accélère de plus le chargement des gros fichiers de travail enregistrés. L'interface logicielle Xiaomi HyperOS optimise l'attribution des ressources pour assurer une réactivité sans à-coups.",
+                    "Le capteur d'empreinte digitale situé sur la tranche déverrouille l'appareil d'un effleurement du pouce. La reconnaissance faciale intégrée propose une méthode complémentaire pour allumer l'écran principal. Le tiroir d'extension mémoire accueille par ailleurs une carte MicroSD pour vos archives de données. La prise jack audio maintient la connexion directe avec vos écouteurs filaires habituels. Ces caractéristiques matérielles rendent donc l'usage de ce téléphone particulièrement simple et pratique. Vos proches accèdent sans complication à toutes les fonctionnalités essentielles pour communiquer au quotidien."
+                ]
+            },
+            {
+                "h2_title": "Batterie Durable 6000 mAh et Module Photo 50 MP",
+                "paragraphs": [
+                    "La batterie haute densité de 6000 mAh garantit une disponibilité continue pour vos longues semaines actives. Vous travaillez en toute tranquillité sans emporter systématiquement votre bloc de recharge avec vous. Le système de charge 15W permet ainsi de réalimenter l'accumulateur de façon sécurisée et progressive. Le port moderne USB Type-C offre une insertion réversible commode lors de chaque branchement. Le module de gestion protège également la batterie contre les surchauffes pendant les recharges prolongées. Cette endurance rassurante élimine toute contrainte d'énergie lors de vos déplacements à Abidjan.",
+                    "Le capteur photo principal de 50 mégapixels capte des images nettes aux teintes réalistes et équilibrées. Les algorithmes d'exposition automatique ajustent les contrastes selon la lumière disponible en intérieur. Le mode portrait sépare en outre votre sujet du décor pour mettre en valeur les visages. La caméra frontale capture des autoportraits nets pour alimenter vos échanges sur les réseaux sociaux. Le haut-parleur intégré restitue par conséquent un son puissant pour entendre clairement les appels entrants. Ce smartphone grand format représente ainsi un investissement hautement avantageux pour tous les budgets."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO C81 Pro - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "171.5 x 79.4 x 8.1 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "208 g (0.208 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Coque en polycarbonate texturé, face avant en verre trempé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Or (Gold), Turquoise (Green)"
+                        },
+                        {
+                            "label": "Indice de protection",
+                            "valeur": "Protection contre les poussières et éclaboussures"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "IPS LCD, 90Hz, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.9 pouces"
+                        },
+                        {
+                            "label": "Résolution",
+                            "valeur": "HD+ (1640 x 720 pixels)"
+                        },
+                        {
+                            "label": "Taux de rafraîchissement",
+                            "valeur": "90Hz"
+                        },
+                        {
+                            "label": "Luminosité",
+                            "valeur": "600 nits (HBM)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Matériel",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "UNISOC T7250 (12 nm, Octa-core)"
+                        },
+                        {
+                            "label": "Processeur graphique (GPU)",
+                            "valeur": "Mali GPU"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "6 Go ou 8 Go"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "64 Go, 128 Go ou 256 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Oui, port MicroSD dédié jusqu'à 1 To"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Multimédia",
+                    "rows": [
+                        {
+                            "label": "Caméra arrière",
+                            "valeur": "Capteur principal 50 MP (f/1.8) avec IA + capteur d'assistance"
+                        },
+                        {
+                            "label": "Caméra frontale",
+                            "valeur": "8 MP, f/2.0"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Haut-parleur mono puissant"
+                        },
+                        {
+                            "label": "Prise jack 3.5mm",
+                            "valeur": "Oui"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "6000 mAh non amovible"
+                        },
+                        {
+                            "label": "Charge rapide",
+                            "valeur": "Charge filaire 15W"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseaux",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "4G LTE, 3G, 2G (Double nano-SIM + MicroSD)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac)"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.0"
+                        },
+                        {
+                            "label": "Port USB",
+                            "valeur": "USB Type-C 2.0"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/product/poco-c81-pro/specs/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+C81+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+C81+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

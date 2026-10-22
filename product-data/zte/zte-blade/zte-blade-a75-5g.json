@@ -1,0 +1,377 @@
+{
+    "template_version": "3.4",
+    "product_type": "smartphone",
+    "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+    "metadata": {
+        "target_brand": "ZTE",
+        "target_model": "Blade A75 5G",
+        "generation_date": "2026-09-01"
+    },
+    "sourcing": {
+        "specs_sources": [
+            {
+                "name": "ZTE Official Store",
+                "url": "https://ztedevices.com/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A75+5G"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=ZTE+Blade+A75+5G+specifications"
+            }
+        ],
+        "pricing_reference": "95000",
+        "official_sku": "ZTE-BLADE-A75-5G"
+    },
+    "key_specifications": {
+        "processor": "Unisoc T760 5G (6 nm) Octa-Core",
+        "processor_ghz": "Fréquence 2.2 GHz",
+        "screen_size": "6.60 pouces",
+        "screen_technology": "IPS LCD 120Hz avec Live Island",
+        "screen_resolution": "1612 x 720 pixels",
+        "battery_capacity": "5000 mAh",
+        "ram_options": [
+            "4 Go"
+        ],
+        "storage_options": [
+            "128 Go"
+        ],
+        "ram_extension": "Extensible jusqu'à 8 Go via RAM dynamique",
+        "os": "Android 13",
+        "os_skin": "MyOS 13",
+        "camera_main": "50 MP Haute Définition avec IA et capteur de profondeur",
+        "camera_selfie": "8 MP",
+        "audio_config": "Haut-parleur optimisé DTS Audio",
+        "audio_tech": "Son spatial DTS & prise casque 3.5mm",
+        "connectivity_nfc": "Non disponible sur cette version",
+        "navigation_gps": "GPS + GLONASS + Galileo",
+        "card_slot": "Dual Nano SIM + emplacement microSDXC",
+        "charging_wired": "Charge rapide 18W USB-C",
+        "dimensions": "163.6 x 74.9 x 8.3 mm",
+        "weight": "0.192 kg"
+    },
+    "woocommerce_csv": {
+        "ID": "",
+        "Type": "variable",
+        "SKU": "ZTE-BLADE-A75-5G-MASTER",
+        "Name": "ZTE Blade A75 5G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "30",
+        "Regular price": "95000",
+        "Categories": "Smartphones > ZTE > Blade Series, Smartphones > ZTE, Smartphones",
+        "Tags": "ZTE, ZTE Blade A75 5G, Smartphone 5G, Écran 120Hz, Live Island, 50MP, 5000mAh, Abidjan",
+        "Attribute 1 name": "Color",
+        "Attribute 1 value(s)": "Noir, Vert",
+        "Attribute 1 default": "Noir",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "128 Go",
+        "Attribute 2 default": "128 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.192 kg",
+        "Attribute 4 default": "0.192 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 default": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "title_format": "ZTE Blade A75 5G : Écran 6.6 Pouces 120Hz Puce 5G et 5000 mAh",
+        "brand_line": "Le smartphone 5G accessible associant un affichage ultra fluide 120 Hz et un stockage de 128 Go.",
+        "marketing_conclusion": "Commandez votre ZTE Blade A75 5G sur My-eStore avec livraison rapide à Abidjan.",
+        "teaser": "Le ZTE Blade A75 5G propose un écran 120Hz de 6.6 pouces avec Live Island, la puce Unisoc T760 5G, un capteur photo 50 MP et une batterie 5000 mAh.",
+        "features": [
+            {
+                "feature": "Écran 6.6\" HD+ 120Hz & Live Island",
+                "benefice": "Défilement ultra fluide et notifications dynamiques."
+            },
+            {
+                "feature": "Puce Unisoc T760 Gravée en 6nm 5G",
+                "benefice": "Téléchargements rapides et excellente efficacité énergétique."
+            },
+            {
+                "feature": "Capteur Photo Principal 50 MP",
+                "benefice": "Prises de vue nettes et lumineuses au quotidien."
+            },
+            {
+                "feature": "Batterie 5000 mAh & Charge 18W",
+                "benefice": "Autonomie prolongée et recharge efficace en USB-C."
+            }
+        ],
+        "slogan_final": "ZTE Blade A75 5G — La vitesse 5G et la fluidité 120 Hz à portée de main.",
+        "seo": {
+            "meta_title": "Acheter ZTE Blade A75 5G (4Go/128Go) à Abidjan | My-eStore",
+            "meta_description": "Découvrez le smartphone 5G ZTE Blade A75 5G avec écran 120Hz, caméra 50 MP, 128 Go et batterie 5000 mAh. Commandez au meilleur prix sur My-eStore.",
+            "keywords": "ZTE Blade A75 5G, smartphone 5G pas cher Abidjan, 120Hz, 128Go stockage, prix My-eStore"
+        }
+    },
+    "long_description": {
+        "seo": {
+            "focus_keyword": "ZTE Blade A75 5G",
+            "lsi_keywords": [
+                "ZTE Blade A75 5G",
+                "smartphone ZTE Blade A75 5G Abidjan",
+                "ZTE Blade A75 5G prix",
+                "téléphone écran 120hz 5g",
+                "smartphone 5g économique",
+                "téléphone photo 50 mp 128 go",
+                "achat smartphone 5g My-eStore",
+                "livraison rapide Abidjan"
+            ],
+            "meta_title": "ZTE Blade A75 5G 128 Go : Écran 120Hz & Puce 5G 6nm | My-eStore",
+            "meta_description": "Achetez le ZTE Blade A75 5G. Écran 6.6 pouces 120Hz avec Live Island, puce 5G 6nm, capteur 50 MP et batterie 5000 mAh. Livraison rapide à Abidjan."
+        },
+        "h1": "ZTE Blade A75 5G : Puce Unisoc T760 5G, Écran 120Hz et Capteur 50 MP",
+        "experience_box": {
+            "box_title": "LES POINTS FORTS DU ZTE BLADE A75 5G",
+            "items": [
+                {
+                    "feature": "Dalle 120Hz Ultra Fluide",
+                    "benefice": "Confort visuel supérieur lors de la navigation."
+                },
+                {
+                    "feature": "Connectivité 5G Haute Vitesse",
+                    "benefice": "Streaming et transferts de fichiers instantanés."
+                },
+                {
+                    "feature": "Capteur 50 Mégapixels",
+                    "benefice": "Clichés nets avec un bon niveau de détail."
+                },
+                {
+                    "feature": "Batterie 5000 mAh Durable",
+                    "benefice": "Autonomie constante tout au long de la journée."
+                }
+            ]
+        },
+        "intro_paragraph": "Le ZTE Blade A75 5G démocratise l'accès aux réseaux très haut débit avec une remarquable aisance. Cet appareil répond idéalement aux besoins des utilisateurs à la recherche de rapidité à Abidjan. En effet, sa dalle de 6.6 pouces bénéficie d'un taux de rafraîchissement élevé à 120 Hz. De plus, la fonction Live Island affiche vos alertes interactives au sommet de l'écran. La puce Unisoc T760 gravée en 6 nanomètres combine puissance et économie d'énergie. Par ailleurs, la batterie de 5000 mAh assure une autonomie solide pour toutes vos journées. Enfin, vous bénéficiez du service d'accompagnement fiable proposé par My-eStore.",
+        "sections": [
+            {
+                "h2_title": "Dalle 120Hz avec Live Island et Processeur 5G",
+                "paragraphs": [
+                    "Le ZTE Blade A75 5G intègre un écran IPS de 6.6 pouces cadencé à une fréquence de 120 Hz. Cette vitesse d'affichage élimine les flous de mouvement et rend le défilement extrêmement fluide. Ainsi, vos applications et vos flux d'actualités s'animent avec une souplesse remarquable. De surcroît, le processeur Unisoc T760 5G intègre huit cœurs performants atteignant 2.2 GHz. La mémoire vive de 4 Go soutient une gestion multitâche stable pour vos usages quotidiens.",
+                    "Le stockage interne de 128 Go en norme rapide accueille l'ensemble de vos documents et photos. D'ailleurs, la compatibilité avec les cartes microSD permet d'augmenter cet espace de stockage. En outre, la connexion 5G garantit des débits très véloces pour vos vidéos en ligne. La finition arrière offre une tenue en main ergonomique et moderne. Vous profitez d'une réactivité constante lors de vos sessions numériques."
+                ]
+            },
+            {
+                "h2_title": "Appareil Photo 50 MP et Confort Multimédia",
+                "paragraphs": [
+                    "Le module photographique principal de 50 Mégapixels saisit des images nettes et lumineuses. Cet objectif bénéficie du traitement logiciel par intelligence artificielle pour optimiser les contrastes. De plus, le capteur auxiliaire affine le découpage des portraits pour un flou d'arrière-plan harmonieux. La caméra frontale de 8 Mégapixels assure des visioconférences claires et nettes. Ainsi, vos clichés en famille conservent une excellente fidélité des couleurs.",
+                    "La prise jack 3.5 mm et le système audio DTS garantissent une écoute musicale détaillée. En effet, les sons ressortent avec une spatialisation agréable lors du visionnage de vos séries. Également, le port USB-C facilite la recharge grâce à son branchement réversible. Le lecteur d'empreintes situé sur la tranche autorise un déverrouillage très rapide. Vous bénéficiez d'une expérience multimédia équilibrée."
+                ]
+            },
+            {
+                "h2_title": "Batterie 5000 mAh et Charge 18W Sécurisée",
+                "paragraphs": [
+                    "La batterie de 5000 mAh procure une longévité énergétique adaptée aux journées les plus actives. Cette capacité conséquente vous permet d'utiliser le réseau 5G sans interruption imprévue. Par ailleurs, la technologie de charge rapide 18W permet de faire le plein en toute sécurité. En effet, vous récupérez une autonomie confortable en quelques dizaines de minutes de charge. Vos communications professionnelles restent assurées en permanence.",
+                    "Le châssis soigné présente un poids mesuré de 192 grammes pour une épaisseur de 8.3 mm. D'autre part, les lignes élégantes apportent une touche valorisante au smartphone. En somme, le ZTE Blade A75 5G constitue une opportunité majeure pour profiter de la 5G à tarif contenu. Vous pouvez effectuer votre commande directement sur la boutique My-eStore. La livraison à Abidjan se déroule dans des conditions optimales de rapidité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : ZTE Blade A75 5G",
+                "subtitle": "Spécifications matérielles certifiées du smartphone ZTE Blade A75 5G."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "163.6 x 74.9 x 8.3 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.192 kg (192 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade en verre, dos soigné à reflets diamant"
+                        },
+                        {
+                            "label": "Coloris officiels",
+                            "valeur": "Noir (Diamond Black), Vert (Mint Green)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Affichage & Écran",
+                    "rows": [
+                        {
+                            "label": "Taille de l'écran",
+                            "valeur": "6.60 pouces (~85.0% ratio écran-corps)"
+                        },
+                        {
+                            "label": "Technologie de dalle",
+                            "valeur": "IPS LCD avec fonction Live Island"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "HD+ (1612 x 720 pixels, 20:9, ~267 ppi)"
+                        },
+                        {
+                            "label": "Fréquence de rafraîchissement",
+                            "valeur": "120 Hz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Système",
+                    "rows": [
+                        {
+                            "label": "Processeur (SoC)",
+                            "valeur": "Unisoc T760 5G (6 nm)"
+                        },
+                        {
+                            "label": "Architecture CPU",
+                            "valeur": "Octa-Core (4x2.2 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Mali-G57 MC4"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go (extensible jusqu'à 8 Go via RAM dynamique)"
+                        },
+                        {
+                            "label": "Stockage interne",
+                            "valeur": "128 Go"
+                        },
+                        {
+                            "label": "Extension de stockage",
+                            "valeur": "Emplacement pour carte mémoire microSDXC"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Android 13 avec interface MyOS 13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photographie & Vidéo",
+                    "rows": [
+                        {
+                            "label": "Capteur principal arrière",
+                            "valeur": "50 MP (f/1.8, autofocus PDAF, flash LED)"
+                        },
+                        {
+                            "label": "Capteur de profondeur",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (Selfie)",
+                            "valeur": "8 MP (f/2.0)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "1080p à 30 fps, 720p à 30 fps"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Alimentation",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (Li-Po non amovible)"
+                        },
+                        {
+                            "label": "Puissance de charge",
+                            "valeur": "Charge rapide 18W filaire"
+                        },
+                        {
+                            "label": "Connecteur",
+                            "valeur": "USB Type-C 2.0 réversible"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux cellulaires",
+                            "valeur": "5G SA/NSA, 4G LTE, 3G WCDMA, 2G GSM"
+                        },
+                        {
+                            "label": "Carte SIM",
+                            "valeur": "Dual Nano SIM (double veille)"
+                        },
+                        {
+                            "label": "Wi-Fi",
+                            "valeur": "Wi-Fi 802.11 a/b/g/n/ac dual-band"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "valeur": "Bluetooth 5.2 avec A2DP et LE"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Prise jack 3.5 mm et son immersif DTS Audio"
+                        },
+                        {
+                            "label": "Sécurité biométrique",
+                            "valeur": "Lecteur d'empreintes digitales latéral"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande.",
+                "sources": [
+                    {
+                        "name": "ZTE Official Store",
+                        "url": "https://ztedevices.com/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A75+5G"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=ZTE+Blade+A75+5G+specifications"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Noir",
+            "color_fr": "Noir",
+            "color_en": "Diamond Black"
+        },
+        {
+            "ram": "4 Go",
+            "rom": "128 Go",
+            "storage": "128 Go",
+            "color": "Vert",
+            "color_fr": "Vert",
+            "color_en": "Mint Green"
+        }
+    ]
+}

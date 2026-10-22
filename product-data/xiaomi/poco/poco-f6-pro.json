@@ -1,0 +1,393 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-09-21",
+        "workflow": "production-industrielle-v3",
+        "confidence_level": "high",
+        "batch_id": "xiaomi-poco-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée du smartphone Xiaomi POCO F6 Pro conforme aux standards My-eStore."
+    },
+    "product_identity": {
+        "brand": "Xiaomi",
+        "product_line": "POCO F Series",
+        "commercial_name": "Xiaomi POCO F6 Pro",
+        "category": "smartphone",
+        "sub_category": "smartphone-flagship-pro",
+        "release_year": 2024,
+        "release_quarter": "Q2",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "POCO-F6-PRO",
+        "regional_variants": [
+            {
+                "region": "Global",
+                "sku": "POCO-F6-PRO"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Xiaomi Official Store",
+                "url": "https://www.mi.com/global/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F6+Pro"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Xiaomi+POCO+F6+Pro+specifications"
+            }
+        ],
+        "disambiguation_notes": "Smartphone haut de gamme Xiaomi POCO F6 Pro avec écran AMOLED WQHD+ 120Hz processeur Snapdragon 8 Gen 2 charge HyperCharge 120W et capteur Light Fusion 800 50MP OIS."
+    },
+    "key_specifications": {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 (4 nm)",
+        "ram_extension": "Extension dynamique de RAM jusqu'à 16 Go",
+        "audio_config": "Double haut-parleurs stéréo symétriques Dolby Atmos",
+        "audio_tech": "Dolby Atmos et certification Hi-Res Audio sans fil",
+        "battery_capacity": "5000 mAh",
+        "charging_wired": "Charge HyperCharge 120W",
+        "navigation_gps": "GPS double bande, GLONASS, Galileo, BDS, NavIC",
+        "card_slot": "Non compatible carte mémoire",
+        "weight": "0.209 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "POCO-F6-PRO",
+        "Name": "Xiaomi POCO F6 Pro - Dual SIM - Écran 6.67\" WQHD+ AMOLED 120Hz - (12 Go & 256 Go / 12 Go & 512 Go / 16 Go & 1 To) - 5000 mAh",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "Short description": "",
+        "Description": "",
+        "In stock?": "1",
+        "Stock": "15",
+        "Regular price": "325000",
+        "Categories": "Smartphones > Xiaomi > POCO Series",
+        "Tags": "Xiaomi, POCO F6 Pro, POCO F Series, Smartphone, 5G, Écran WQHD+, Écran 120Hz, Capteur 50MP, OIS, 5000mAh, Charge 120W, Snapdragon 8 Gen 2, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Noir | Blanc",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "256 Go | 512 Go | 1 To",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "12 Go | 16 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.209 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "5G",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "325000",
+            "sku_suffix": "12-GB-256-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "256 Go",
+            "price": "325000",
+            "sku_suffix": "12-GB-256-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "365000",
+            "sku_suffix": "12-GB-512-GB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "12 Go",
+            "storage": "512 Go",
+            "price": "365000",
+            "sku_suffix": "12-GB-512-GB-BLANC"
+        },
+        {
+            "color_fr": "Noir",
+            "color_en": "Black",
+            "color_code": "NOIR",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "425000",
+            "sku_suffix": "16-GB-1-TB-NOIR"
+        },
+        {
+            "color_fr": "Blanc",
+            "color_en": "White",
+            "color_code": "BLANC",
+            "ram": "16 Go",
+            "storage": "1 To",
+            "price": "425000",
+            "sku_suffix": "16-GB-1-TB-BLANC"
+        }
+    ],
+    "short_description": {
+        "brand_line": "Xiaomi POCO F Series",
+        "teaser": "Le smartphone Xiaomi POCO F6 Pro réunit un écran Flow AMOLED WQHD+ 120Hz et le processeur Qualcomm Snapdragon 8 Gen 2. Doté du capteur Light Fusion 800 de 50 MP stabilisé et d'une recharge HyperCharge 120W, il procure une réactivité optimale pour vos activités multimédias et professionnelles.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran WQHD+ AMOLED 120Hz",
+                "benefice": "Précision d'image très soignée et clarté appréciable pour afficher chaque détail."
+            },
+            {
+                "feature": "Recharge HyperCharge 120W",
+                "benefice": "Restauration complète de l'énergie en une vingtaine de minutes seulement."
+            },
+            {
+                "feature": "Puce Snapdragon 8 Gen 2",
+                "benefice": "Calculs graphiques avancés et multitâche sans heurt pour vos logiciels exigeants."
+            },
+            {
+                "feature": "Capteur Light Fusion 800 OIS",
+                "benefice": "Gestion soignée de la lumière pour des photographies détaillées de nuit."
+            }
+        ],
+        "marketing_conclusion": "Le smartphone haut de gamme conçu pour allier affichage haute définition et vélocité de calcul.",
+        "trust_badges": [
+            "Garantie 12 Mois Constructeur",
+            "Livraison Express à Abidjan",
+            "Service Client My-eStore Réactif"
+        ],
+        "seo": {
+            "meta_title": "Acheter Xiaomi POCO F6 Pro à Abidjan | My-eStore",
+            "meta_description": "Commandez le Xiaomi POCO F6 Pro chez My-eStore. Écran WQHD+ 120Hz, puce Snapdragon 8 Gen 2, capteur 50 MP et charge 120W au meilleur prix à Abidjan.",
+            "focus_keywords": [
+                "Xiaomi POCO F6 Pro",
+                "POCO F6 Pro prix Abidjan",
+                "smartphone Snapdragon 8 Gen 2",
+                "POCO F6 Pro Abidjan"
+            ]
+        }
+    },
+    "long_description": {
+        "seo": {
+            "meta_title": "Xiaomi POCO F6 Pro : WQHD+ & Charge 120W | My-eStore",
+            "meta_description": "Découvrez le Xiaomi POCO F6 Pro chez My-eStore. Écran WQHD+ 120Hz, puce Snapdragon 8 Gen 2 et charge 120W au meilleur prix à Abidjan."
+        },
+        "h1": "Xiaomi POCO F6 Pro : Écran WQHD+ AMOLED, Snapdragon 8 Gen 2 et Charge 120W",
+        "experience_box": {
+            "box_title": "Points Clés du Xiaomi POCO F6 Pro",
+            "items": [
+                {
+                    "feature": "Écran WQHD+ AMOLED 120Hz",
+                    "benefice": "Précision d'image très soignée et clarté appréciable pour afficher chaque détail."
+                },
+                {
+                    "feature": "Recharge HyperCharge 120W",
+                    "benefice": "Restauration complète de l'énergie en une vingtaine de minutes seulement."
+                },
+                {
+                    "feature": "Puce Snapdragon 8 Gen 2",
+                    "benefice": "Calculs graphiques avancés et multitâche sans heurt pour vos logiciels exigeants."
+                },
+                {
+                    "feature": "Capteur Light Fusion 800 OIS",
+                    "benefice": "Gestion soignée de la lumière pour des photographies détaillées de nuit."
+                }
+            ]
+        },
+        "intro_paragraph": "Le smartphone Xiaomi POCO F6 Pro s'adresse aux utilisateurs recherchant une réactivité matérielle élevée. Sa dalle WQHD+ de 6.67 pouces diffuse des contrastes équilibrés avec une clarté appréciable. De plus, la fréquence de 120Hz assure une navigation tactile très fluide sur chaque écran. Le processeur Qualcomm Snapdragon 8 Gen 2 gère par ailleurs les charges logicielles intenses avec aisance. Enfin, la batterie de 5000 mAh avec charge 120W garantit une alimentation rapide à Abidjan.",
+        "sections": [
+            {
+                "h2_title": "Dalle Flow AMOLED WQHD+ Lumineuse et Finition en Verre Texturé",
+                "paragraphs": [
+                    "L'écran Flow AMOLED de 6.67 pouces propose une résolution WQHD+ atteignant 3200 par 1440 pixels. Cette finesse d'affichage supérieure permet de visualiser des textes fins sans fatigue visuelle. De surcroît, le pic de luminosité montant à 4000 nits autorise une lecture limpide dehors. Le taux de rafraîchissement adaptatif de 120Hz s'ajuste dynamiquement selon les contenus visualisés. La technologie PWM à 3840Hz atténue en outre les scintillements lors des utilisations nocturnes. Vous profitez d'une précision graphique très soignée pour vos travaux graphiques et vos séries.",
+                    "Le châssis en métal brossé apporte une rigidité rassurante lors des manipulations fréquentes. Le dos en verre aux reflets texturés procure une sensation agréable au creux de la paume. Par conséquent, la prise en main reste équilibrée malgré la présence de composants internes denses. Les deux haut-parleurs stéréo certifiés Dolby Atmos diffusent une acoustique enveloppante et distincte. Cette scène sonore met donc en valeur vos morceaux préférés ainsi que vos appels professionnels. Cet environnement multimédia soigné transforme vos séances de visionnage en un moment divertissant."
+                ]
+            },
+            {
+                "h2_title": "Capteur Light Fusion 800 de 50 MP et Stabilisation Optique OIS",
+                "paragraphs": [
+                    "Le module photo principal repose sur un capteur Light Fusion 800 de 50 mégapixels. Sa taille de capteur généreuse capte davantage de luminosité dans les scènes urbaines sombres. Ainsi, les clichés conservent des couleurs fidèles sans bruit numérique excessif lors des soirées. Le stabilisateur optique matériel compense les légers tremblements pour sécuriser la netteté des images. Le mode rafale haute cadence enregistre en conséquence de nombreuses images nettes par seconde. Cet enregistrement véloce aide à figer les mouvements vifs pendant vos activités sportives préférées.",
+                    "L'objectif ultra grand-angle de 8 mégapixels élargit la perspective sur les architectures environnantes. La caméra macro dédiée permet de photographier des objets minuscules avec un bon piqué. De plus, l'algorithme Xiaomi Imaging Engine 2.0 optimise le traitement des tons de peau. L'enregistrement vidéo montant jusqu'en résolution 8K restitue des détails d'une belle netteté. Vous disposez dès lors d'un outil photographique agile pour concevoir vos albums souvenirs quotidiens. La caméra frontale de 16 mégapixels garantit des appels en visioconférence précisément cadrés."
+                ]
+            },
+            {
+                "h2_title": "Puce Qualcomm Snapdragon 8 Gen 2 et Recharge HyperCharge 120W",
+                "paragraphs": [
+                    "La puce haut de gamme Qualcomm Snapdragon 8 Gen 2 délivre des calculs graphiques soutenus. Son architecture avancée en 4 nanomètres réduit la consommation électrique sur les charges standards. En effet, le processeur s'adapte en temps réel aux sollicitations des jeux 3D compétitifs. Le système de dissipation LiquidCool 4.0 évacue la chaleur interne sur une surface conductrice élargie. La mémoire vive allant jusqu'à 16 Go simplifie également l'exécution de nombreux logiciels simultanés. Vous conservez une cadence fluide sans baisse de régime lors de vos sessions multitâches.",
+                    "La batterie de 5000 mAh assure une utilisation soutenue tout au long de la journée. La technologie HyperCharge 120W autorise une réalimentation intégrale en une vingtaine de minutes seulement. Par ailleurs, le double processeur Surge P2 veille à l'équilibre thermique de la batterie. Cette surveillance électrique préserve la durabilité des cellules au fil des mois de recharge. Ce bouquet technologique complet répond assurément aux besoins des utilisateurs connectés à Abidjan. Le Xiaomi POCO F6 Pro constitue un investissement pérenne associant puissance et confort visuel."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Spécifications Techniques Complètes",
+                "subtitle": "Xiaomi POCO F6 Pro - Fiche technique officielle certifiée"
+            },
+            "sections": [
+                {
+                    "name": "Design et Dimensions",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "160.9 x 75.0 x 8.2 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "209 g (0.209 kg)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Cadre en aluminium, dos en verre texturé"
+                        },
+                        {
+                            "label": "Couleurs disponibles",
+                            "valeur": "Noir (Black), Blanc (White)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran et Affichage",
+                    "rows": [
+                        {
+                            "label": "Type d'écran",
+                            "valeur": "Flow AMOLED WQHD+, 68 milliards de couleurs, 120Hz, Dolby Vision, HDR10+, 4000 nits en pic"
+                        },
+                        {
+                            "label": "Taille",
+                            "valeur": "6.67 pouces (~89.0% ratio écran/corps)"
+                        },
+                        {
+                            "label": "Définition",
+                            "valeur": "WQHD+ (1440 x 3200 pixels, ratio 20:9, ~526 ppi)"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Corning Gorilla Glass 5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances et Système",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "Qualcomm Snapdragon 8 Gen 2 (4 nm, Octa-core jusqu'à 3.2 GHz)"
+                        },
+                        {
+                            "label": "Puce graphique (GPU)",
+                            "valeur": "Adreno 740"
+                        },
+                        {
+                            "label": "Système d'exploitation",
+                            "valeur": "Xiaomi HyperOS basé sur Android 14"
+                        },
+                        {
+                            "label": "Options Mémoire & Stockage",
+                            "valeur": "12 Go + 256 Go / 12 Go + 512 Go / 16 Go + 1 To (LPDDR5X, UFS 4.0)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Appareil Photo et Vidéo",
+                    "rows": [
+                        {
+                            "label": "Caméra principale",
+                            "valeur": "50 MP Light Fusion 800 (f/1.6, 1/1.55\", OIS, Dual Pixel PDAF)"
+                        },
+                        {
+                            "label": "Caméra ultra grand-angle",
+                            "valeur": "8 MP (f/2.2, 118°)"
+                        },
+                        {
+                            "label": "Caméra macro",
+                            "valeur": "2 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Caméra frontale (selfie)",
+                            "valeur": "16 MP (f/2.4)"
+                        },
+                        {
+                            "label": "Enregistrement vidéo",
+                            "valeur": "8K à 24 fps, 4K jusqu'à 60 fps, gyroscope-EIS"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie et Charge",
+                    "rows": [
+                        {
+                            "label": "Capacité de la batterie",
+                            "valeur": "5000 mAh (non amovible)"
+                        },
+                        {
+                            "label": "Charge filaire",
+                            "valeur": "HyperCharge 120W (100% en ~19 min)"
+                        },
+                        {
+                            "label": "Port de charge",
+                            "valeur": "USB Type-C 2.0 compatible OTG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité et Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseau mobile",
+                            "valeur": "5G SA/NSA / 4G LTE / 3G / 2G (Double SIM Nano)"
+                        },
+                        {
+                            "label": "Wi-Fi & Bluetooth",
+                            "valeur": "Wi-Fi 7 (802.11 be), Bluetooth 5.3"
+                        },
+                        {
+                            "label": "Capteurs",
+                            "valeur": "Empreinte digitale sous l'écran, accéléromètre, gyroscope, boussole"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "Double haut-parleurs stéréo Dolby Atmos, Hi-Res Audio"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Xiaomi Official Store",
+                        "url": "https://www.mi.com/global/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F6+Pro"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Xiaomi+POCO+F6+Pro+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    }
+}

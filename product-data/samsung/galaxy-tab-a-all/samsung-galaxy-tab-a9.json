@@ -1,0 +1,427 @@
+{
+    "schema_version": "3.4",
+    "product_type": "tech",
+    "generation_metadata": {
+        "generated_date": "2026-08-21",
+        "workflow": "generate-product-data",
+        "confidence_level": "high",
+        "batch_id": "samsung-tab-a-v3.4-batch-1",
+        "notes": "Fiche parent V3.4 certifiée de la Samsung Galaxy Tab A9 conforme au CSV officiel."
+    },
+    "product_identity": {
+        "brand": "Samsung",
+        "product_line": "Galaxy Tab A Series",
+        "commercial_name": "Samsung Galaxy Tab A9",
+        "category": "tablet",
+        "sub_category": "tablet-compact",
+        "release_year": 2023,
+        "release_quarter": "Q4",
+        "status": "available"
+    },
+    "model_numbers": {
+        "primary_sku": "SAMSUNG-GALAXY-TAB-A9",
+        "regional_variants": [
+            {
+                "region": "International",
+                "sku": "SAMSUNG-GALAXY-TAB-A9"
+            }
+        ],
+        "verification_sources": [
+            {
+                "name": "Samsung Official Store",
+                "url": "https://www.samsung.com/us/tablets/galaxy-tab-a9/"
+            },
+            {
+                "name": "Recherche Générique",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9"
+            },
+            {
+                "name": "Recherche Spécialisée IA",
+                "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+specifications"
+            }
+        ],
+        "disambiguation_notes": "Modèle parent certifié Samsung Galaxy Tab A9 8.7 pouces Helio G99 5100mAh 4G LTE"
+    },
+    "key_specifications": {
+        "processor": "MediaTek Helio G99 (6nm) Octa-Core",
+        "ram_extension": "RAM Plus jusqu'à 4 Go",
+        "audio_config": "2 Haut-parleurs stéréo",
+        "audio_tech": "Dolby Atmos",
+        "battery_capacity": "5100 mAh",
+        "charging_wired": "Charge 15W",
+        "navigation_gps": "GPS, GLONASS, Galileo, Beidou",
+        "card_slot": "Nano-SIM / Slot MicroSD jusqu'à 1 To",
+        "weight": "0.332 kg"
+    },
+    "woocommerce_csv": {
+        "Type": "variable",
+        "SKU": "SAMSUNG-GALAXY-TAB-A9",
+        "Name": "Samsung Galaxy Tab A9 - Écran 8.7\" - (4 Go|8 Go & 64 Go|128 Go) - 5100mAh 4G",
+        "Published": "1",
+        "Visibility in catalog": "visible",
+        "In stock?": "1",
+        "Stock": "10",
+        "Regular price": "135000",
+        "Categories": "Tablettes > Samsung > Galaxy Tab A Series",
+        "Tags": "Samsung, Galaxy Tab A9, Galaxy Tab A Series, Tablette, Tablette Android, 4G, 5100mAh, Helio G99, Écran 8.7 Pouces, Abidjan, My-eStore",
+        "Attribute 1 name": "Couleur",
+        "Attribute 1 value(s)": "Gris, Argent, Bleu Marine",
+        "Attribute 1 default": "Gris",
+        "Attribute 1 visible": "1",
+        "Attribute 1 global": "1",
+        "Attribute 2 name": "Stockage",
+        "Attribute 2 value(s)": "64 Go, 128 Go",
+        "Attribute 2 default": "64 Go",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1",
+        "Attribute 3 name": "RAM",
+        "Attribute 3 value(s)": "4 Go, 8 Go",
+        "Attribute 3 default": "4 Go",
+        "Attribute 3 visible": "1",
+        "Attribute 3 global": "1",
+        "Attribute 4 name": "Poids",
+        "Attribute 4 value(s)": "0.332 kg",
+        "Attribute 4 default": "0.332 kg",
+        "Attribute 4 visible": "1",
+        "Attribute 4 global": "1",
+        "Attribute 5 name": "Réseau",
+        "Attribute 5 value(s)": "4G LTE, Wi-Fi 5, Bluetooth 5.3, GPS",
+        "Attribute 5 visible": "1",
+        "Attribute 5 global": "1"
+    },
+    "short_description": {
+        "brand_line": "La Tablette Compacte 8.7 Pouces avec Puce Helio G99 et Haut-Parleurs Dolby Atmos.",
+        "teaser": "Découvrez la Samsung Galaxy Tab A9 avec sa dalle ergonomique de 8.7 pouces, son processeur MediaTek Helio G99, ses deux haut-parleurs stéréo et son autonomie de 5100 mAh dans un châssis léger de 332 grammes.",
+        "top_features_detailed": [
+            {
+                "feature": "Écran Compact 8.7\" WXGA+",
+                "benefice": "Tenue agréable d'une seule main et confort de lecture optimisé pour les trajets"
+            },
+            {
+                "feature": "Puce MediaTek Helio G99 Octa-Core",
+                "benefice": "Exécution fluide de vos logiciels bureautiques, vidéos et jeux quotidiens"
+            },
+            {
+                "feature": "Deux Haut-Parleurs Stéréo Dolby Atmos",
+                "benefice": "Scène sonore claire et immersive lors de vos sessions de streaming et visioconférences"
+            },
+            {
+                "feature": "Châssis Métallique Fin & Batterie 5100 mAh",
+                "benefice": "Design soigné et endurance fiable pour vous accompagner toute la journée"
+            }
+        ],
+        "marketing_conclusion": "La tablette compacte et économique par excellence associant mobilité 8.7 pouces, fluidité logicielle et connectivité 4G.",
+        "trust_badges": [
+            "Garantie Officielle Samsung",
+            "Livraison Sécurisée à Abidjan",
+            "Service Client My-eStore Dédié"
+        ],
+        "seo": {
+            "meta_title": "Acheter Samsung Galaxy Tab A9 à Abidjan | My-eStore",
+            "meta_description": "Commandez la tablette Samsung Galaxy Tab A9 4G à Abidjan sur My-eStore. Écran 8.7\", Helio G99, 5100 mAh, livraison express et garantie officielle 24 mois.",
+            "focus_keywords": [
+                "Samsung Galaxy Tab A9",
+                "Galaxy Tab A9 Abidjan",
+                "Galaxy Tab A9 prix",
+                "Tablette compacte Samsung pas cher"
+            ]
+        }
+    },
+    "long_description": {
+        "h1": "Samsung Galaxy Tab A9 : Écran 8.7\", Helio G99 et Batterie 5100 mAh",
+        "seo": {
+            "meta_title": "Samsung Galaxy Tab A9 4G : Écran 8.7\" & Helio G99 | My-eStore",
+            "meta_description": "Découvrez la Samsung Galaxy Tab A9 4G sur My-eStore. Écran 8.7\", puce Helio G99, haut-parleurs Dolby Atmos, batterie 5100 mAh et connectivité LTE.",
+            "focus_keyword": "Samsung Galaxy Tab A9",
+            "lsi_keywords": [
+                "Samsung Galaxy Tab A9 Abidjan",
+                "prix Samsung Galaxy Tab A9",
+                "fiche technique Tab A9",
+                "tablette 8 pouces Samsung",
+                "Galaxy Tab A9 64Go"
+            ]
+        },
+        "experience_box": {
+            "box_title": "Points Clés de la Samsung Galaxy Tab A9",
+            "items": [
+                {
+                    "feature": "Dalle Compacte 8.7\" WXGA+",
+                    "benefice": "Format très maniable pour la lecture nomade et le divertissement"
+                },
+                {
+                    "feature": "Puce MediaTek Helio G99",
+                    "benefice": "Performances stables pour vos applications et navigation internet"
+                },
+                {
+                    "feature": "Haut-Parleurs Stéréo Dolby Atmos",
+                    "benefice": "Son spatialisé pour vos films et cours en direct"
+                },
+                {
+                    "feature": "Batterie 5100 mAh & Connectivité 4G",
+                    "benefice": "Autonomie équilibrée et connexion réseau en permanence"
+                }
+            ]
+        },
+        "energy_rating": "Non spécifiée (voir sur emballage constructeur)",
+        "intro_paragraph": "En premier lieu, la Samsung Galaxy Tab A9 se distingue par son format compact et sa prise en main aisée. Sa dalle de 8.7 pouces délivre une lisibilité claire pour toutes vos lectures nomades. De plus, son processeur Helio G99 exécute vos requêtes habituelles avec une grande régularité. Le châssis au profil fin assure une prise en main très naturelle et reposante. Enfin, sa batterie de 5100 mAh vous accompagne durant toute votre journée sans encombre.",
+        "sections": [
+            {
+                "h2_title": "Format Compact 8.7 Pouces et Maniabilité Nomade",
+                "paragraphs": [
+                    "D'un côté, le gabarit de huit virgule sept pouces se manipule confortablement d'une seule main pendant vos trajets. La technologie d'affichage assure un défilement de texte très souple sans effet de fatigue visuelle. Les contrastes équilibrés mettent en valeur vos livres numériques ainsi que vos vidéos favorites. Par ailleurs, la luminosité s'adapte automatiquement à l'éclairage ambiant pour préserver votre confort oculaire. Le poids réduit de trois cent trente-deux grammes évite toute sensation de lourdeur dans les mains. Vous profitez ainsi d'un appareil tactile très maniable adapté à un mode de vie actif.",
+                    "D'un autre côté, le châssis aux finitions métalliques assure une belle résistance mécanique face aux frottements du quotidien. L'épaisseur contenue de huit millimètres permet de glisser la tablette dans une poche de veste ou un sac à dos. Les bordures encadrent la surface tactile avec harmonie pour garantir une préhension ferme et sécurisée. En outre, la surface en verre renforcé résiste efficacement aux rayures légères causées par les clés. Les haut-parleurs stéréo diffusent un son spatial pour vos appels téléphoniques mains libres. Ce modèle rassemble élégance contemporaine et compacité éprouvée pour vos activités mobiles."
+                ]
+            },
+            {
+                "h2_title": "Productivité Nomade et Fonctions Pratiques",
+                "paragraphs": [
+                    "Tout d'abord, la connexion 4G LTE intégrée garantit un accès continu à vos courriels professionnels sans dépendre du Wi-Fi. Le mode multi-fenêtres permet de consulter une fiche descriptive tout en rédigeant un compte-rendu en vis-à-vis. L'interface One UI offre des icônes lisibles et une organisation simplifiée de l'ensemble de vos dossiers. De surcroît, les outils de sécurité Knox protègent vos codes et données confidentielles contre les intrusions extérieures. Les fonctionnalités de bien-être numérique facilitent le suivi précis de votre temps d'utilisation quotidienne. Vous travaillez avec un confort régulier où que vous soyez.",
+                    "Dans cette optique, la caméra avant vous cadre bien lors des appels vidéo avec vos collaborateurs ou proches. Le microphone intégré retransmet distinctement votre voix sans distorsion gênante lors des échanges oraux. La prise audio jack permet de brancher facilement vos écouteurs filaires traditionnels lors de vos voyages. Également, la fonction de transfert sans fil envoie vos documents vers votre ordinateur en un simple clic. Toutes vos données restent protégées sur votre espace de stockage sécurisé sans manipulation complexe. Cet outil polyvalent soutient efficacement l'ensemble de vos besoins courants."
+                ]
+            },
+            {
+                "h2_title": "Puce Énergétique Helio G99 et Batterie Équilibrée",
+                "paragraphs": [
+                    "D'abord, le processeur Helio G99 gravé en six nanomètres gère avec souplesse vos applications bureautiques et réseaux sociaux. La mémoire vive allant jusqu'à huit gigaoctets évite tout ralentissement superflu lors du passage d'un logiciel à l'autre. L'espace de stockage accueille aisément vos documents de travail et peut s'étendre via une carte mémoire additionnelle. De même, la liaison Bluetooth assure une connexion stable avec vos accessoires sans fil habituels. Le capteur de proximité optimise l'extinction de l'écran lors du transport en sacoche fermée. Vous naviguez ainsi dans un environnement technologique stable et réactif.",
+                    "Enfin, l'accumulateur de 5100 mAh procure l'énergie requise pour franchir sereinement une longue journée de déplacement professionnel. Le port de charge USB-C facilite le rechargement avec le câble de votre téléphone sans encombrement de matériel. La gestion logicielle optimise la dépense énergétique en fonction de vos activités réelles pour prolonger l'autonomie restante. Par conséquent, vous lisez et travaillez sans chercher sans cesse une prise murale libre. Les composants de marque ont fait leurs preuves pour assurer une fiabilité continue au fil des années. La Galaxy Tab A9 constitue un choix judicieux associant mobilité et accessibilité."
+                ]
+            }
+        ],
+        "full_specs": {
+            "header": {
+                "title": "Fiche Technique : Samsung Galaxy Tab A9",
+                "subtitle": "Spécifications matérielles de la <strong>Samsung Galaxy Tab A9</strong>."
+            },
+            "sections": [
+                {
+                    "name": "Design & Physique",
+                    "rows": [
+                        {
+                            "label": "Dimensions",
+                            "valeur": "211.0 x 124.7 x 8.0 mm"
+                        },
+                        {
+                            "label": "Poids",
+                            "valeur": "0.332 kg (332 g)"
+                        },
+                        {
+                            "label": "Matériaux",
+                            "valeur": "Façade Verre, Dos et Cadre en Aluminium"
+                        },
+                        {
+                            "label": "Étanchéité & Normes",
+                            "valeur": "Non certifié étanche"
+                        },
+                        {
+                            "label": "Format",
+                            "valeur": "Tablette tactile compacte 8.7 pouces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Écran & Affichage",
+                    "rows": [
+                        {
+                            "label": "Technologie",
+                            "valeur": "TFT LCD, 16 millions de couleurs"
+                        },
+                        {
+                            "label": "Taille & Définition",
+                            "valeur": "8.7 pouces (22.10 cm), 1340 x 800 pixels (WXGA+), 179 ppi, ratio 5:3"
+                        },
+                        {
+                            "label": "Taux de Rafraîchissement",
+                            "valeur": "60 Hz"
+                        },
+                        {
+                            "label": "Protection",
+                            "valeur": "Verre renforcé"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performances & Mémoire",
+                    "rows": [
+                        {
+                            "label": "Processeur",
+                            "valeur": "MediaTek Helio G99 (6nm) Octa-Core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+                        },
+                        {
+                            "label": "Mémoire RAM",
+                            "valeur": "4 Go / 8 Go"
+                        },
+                        {
+                            "label": "Stockage Interne (ROM)",
+                            "valeur": "64 Go / 128 Go"
+                        },
+                        {
+                            "label": "Extension Mémoire",
+                            "valeur": "Support Carte MicroSDXC jusqu'à 1 To (slot dédié)"
+                        },
+                        {
+                            "label": "Système d'Exploitation",
+                            "valeur": "Android 13 évolutif vers Android 15 avec One UI 6.1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Photo, Vidéo & Audio",
+                    "rows": [
+                        {
+                            "label": "Caméra Arrière",
+                            "valeur": "8 MP, f/2.0, Autofocus, Enregistrement Vidéo 1080p à 30 fps"
+                        },
+                        {
+                            "label": "Caméra Avant",
+                            "valeur": "2 MP, Enregistrement Vidéo pour appels vidéo"
+                        },
+                        {
+                            "label": "Audio",
+                            "valeur": "2 Haut-parleurs stéréo, Dolby Atmos, Prise Jack 3.5mm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batterie & Autonomie",
+                    "rows": [
+                        {
+                            "label": "Capacité",
+                            "valeur": "5100 mAh Li-Po non amovible"
+                        },
+                        {
+                            "label": "Charge",
+                            "valeur": "Charge filaire 15W"
+                        },
+                        {
+                            "label": "Autonomie",
+                            "valeur": "Jusqu'à 13 heures en lecture vidéo continue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Connectivité & Réseau",
+                    "rows": [
+                        {
+                            "label": "Réseaux & SIM",
+                            "valeur": "4G LTE, 3G, 2G, Emplacement Nano-SIM"
+                        },
+                        {
+                            "label": "Sans-fil",
+                            "valeur": "Wi-Fi 5 (802.11 a/b/g/n/ac) bi-bande, Bluetooth 5.3, GPS, GLONASS, BDS, GALILEO"
+                        },
+                        {
+                            "label": "Port & Sécurité",
+                            "valeur": "USB Type-C 2.0, Prise Jack 3.5mm, Reconnaissance faciale"
+                        }
+                    ]
+                }
+            ],
+            "footer": {
+                "sources": [
+                    {
+                        "name": "Samsung Official Store",
+                        "url": "https://www.samsung.com/us/tablets/galaxy-tab-a9/"
+                    },
+                    {
+                        "name": "Recherche Générique",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9"
+                    },
+                    {
+                        "name": "Recherche Spécialisée IA",
+                        "url": "https://www.google.com/search?q=Samsung+Galaxy+Tab+A9+specifications"
+                    }
+                ],
+                "disclaimer": "Avis de non-responsabilité (Spécifications) : Les caractéristiques techniques et les images de l'appareil sont fournies à titre purement indicatif et proviennent des données officielles des constructeurs et autres sources. Des variations peuvent survenir selon les lots de fabrication et les régions d'importation. Nous vous invitons à vérifier scrupuleusement la configuration exacte que vous avez sélectionnée dans vos options d'achat avant de valider définitivement votre commande."
+            }
+        },
+        "cta": {
+            "top_link": "#",
+            "top_label": "Remonter pour commander",
+            "boutiques_link": "https://my-estore.com/boutiques-officielles/",
+            "boutiques_label": "Nos Boutiques Officielles"
+        }
+    },
+    "paired_variants": [
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "135000",
+            "sku_suffix": "4-GB-64-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "175000",
+            "sku_suffix": "4-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Gris",
+            "color_en": "Graphite",
+            "color_code": "GRIS",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-128-GB-GRIS"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "135000",
+            "sku_suffix": "4-GB-64-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "175000",
+            "sku_suffix": "4-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Argent",
+            "color_en": "Silver",
+            "color_code": "ARGENT",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-128-GB-ARGENT"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "4 Go",
+            "storage": "64 Go",
+            "price": "135000",
+            "sku_suffix": "4-GB-64-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "4 Go",
+            "storage": "128 Go",
+            "price": "175000",
+            "sku_suffix": "4-GB-128-GB-BLEU-MARINE"
+        },
+        {
+            "color_fr": "Bleu Marine",
+            "color_en": "Navy",
+            "color_code": "BLEU-MARINE",
+            "ram": "8 Go",
+            "storage": "128 Go",
+            "price": "215000",
+            "sku_suffix": "8-GB-128-GB-BLEU-MARINE"
+        }
+    ]
+}
