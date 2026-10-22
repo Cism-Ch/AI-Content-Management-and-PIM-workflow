@@ -19,8 +19,8 @@ Ce skill définit la procédure opérationnelle pour **rechercher, structurer et
 ### 0. Identité & Liaison Workflow
 
 - Ce skill est **strictement dédié** au workflow `/generate-product-data`.
-- **NE PAS** confondre avec les workflows `production-industrielle-v2` ou `produce-appliance` qui génèrent du HTML/CSV.
-- **NE PAS** mélanger les schémas JSON de ce workflow avec les `Template_Pack_v2_*.json` existants.
+- **NE PAS** confondre avec les workflows `production-industrielle-v3` ou `produce-appliance` qui génèrent du HTML/CSV.
+- **NE PAS** mélanger les schémas JSON de ce workflow avec les `Template_Pack_v3_*.json` existants.
 - Les fichiers générés sont stockés dans `product-data/` (séparé de `products/` et `products-appliance/`).
 
 ### 1. Précision Absolue des Model Numbers (CRITIQUE)

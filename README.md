@@ -1,235 +1,269 @@
 # 🤖 Système Industriel & Écosystème Agentique My-eStore (V3.4)
 
-> **Plateforme E-Commerce WordPress & WooCommerce — Marché Côte d'Ivoire (Prix FCFA)**  
+> **Plateforme E-Commerce WordPress & WooCommerce**  
 > **Architecture Normative :** V3.4 *Parent-First Audit Gate* | **Gouvernance :** [AGENTS.md](AGENTS.md)
 
 [![Version](https://img.shields.io/badge/Norme-V3.4_Parent--First-blue.svg)](.)
 [![Architecture](https://img.shields.io/badge/Système-Multi--Agents_Autonomes-green.svg)](.)
-[![AIOSEO](https://img.shields.io/badge/AIOSEO_Score-100%25_Conforme-brightgreen.svg)](.)
-[![Cartesian Error](https://img.shields.io/badge/Erreur_Cartésienne-0%25_(paired__variants)-success.svg)](.)
-[![Gains de Productivité](https://img.shields.io/badge/Temps_Gagné->98%25-orange.svg)](.)
+[![Python](https://img.shields.io/badge/Python-3.12-yellow.svg)](requirements.txt)
 
----
-
-## 🏆 Chiffres Clés Consolidés & Métriques d'Impact
-
-Le système a transformé une gestion artisanale manuelle en une véritable **usine de production industrielle automatisée et déterministe**.
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                          RÉSULTATS MAJEURS DE L'USINE                       │
-├────────────────────────────────┬────────────────────────────────────────────┤
-│ 📄 Fiches HTML Générées         │ 5 148 Fichiers (Longues + Courtes)         │
-│ 🧠 Modèles Parents Certifiés   │ 379 Fichiers JSON Sources de Vérité (PIM)  │
-│ 📦 Total Packs Données JSON     │ 1 347 Fichiers JSON Structurés             │
-│ 🛒 Catalogues Exports CSV       │ 82 CSV WooCommerce prêts à l'import        │
-│ 🏷️ Lignes Produits Exportées    │ 1 597+ Variantes & Parents avec SKUs       │
-│ 🏷️ Marques Couvertes            │ 25+ Marques Internationales Leaders        │
-│ 🛠️ Scripts & Outils Python      │ 54 Scripts d'Audit, Génération & Pipeline  │
-│ 🗂️ Catégories Store Mappées     │ 127 Catégories Hiérarchiques WooCommerce   │
-│ 💰 Matrices Tarifaires FCFA     │ 50+ Grilles de Prix Dynamiques (Pricing/)  │
-│ 📐 Templates Métiers Créés      │ 9 Gabarits Déterministes Spécialisés       │
-│ 🎯 Taux de Conformité AIOSEO    │ 100% sur les lots audités (Formule 15/41)  │
-│ 🛡️ Taux d'Erreur Cartésienne    │ 0% (Élimination via paired_variants)       │
-│ 📉 Gain de Masse Salariale      │ -70% par rapport à une équipe de saisie    │
-│ ⚡ Gain de Temps de Production   │ > 98% (30h vs 2 500h pour 1 000 fiches)     │
-└────────────────────────────────┴────────────────────────────────────────────┘
-```
+Usine de production de fiches produits WooCommerce pilotée par des agents IA.
+Le dépôt sépare l'**intelligence produit** (JSON parents certifiés, source de vérité) de la **production marketing** (HTML long/court + CSV d'import WooCommerce).
 
 ---
 
 ## 📋 Table des Matières
 
-1. [Architecture V3.4 (Parent-First Audit Gate)](#-1-architecture-v34-parent-first-audit-gate)
-2. [Cartographie des 5 Agents Spécialisés](#-2-cartographie-des-5-agents-spécialisés)
+1. [Architecture V3.4 (Parent-First Audit Gate)](#️-1-architecture-v34-parent-first-audit-gate)
+2. [Workflows Agentiques](#-2-workflows-agentiques)
 3. [Les 3 Personas Industriels](#-3-les-3-personas-industriels)
-4. [Répertoires et Fichiers Clés du Système](#-4-répertoires-et-fichiers-clés-du-système)
-5. [Standards de Qualité & Règles d'Or](#-5-standards-de-qualité--règles-dor)
-6. [Quick Start & Commandes Opérationnelles](#-6-quick-start--commandes-opérationnelles)
-7. [Catalogue des Marques Déployées](#-7-catalogue-des-marques-déployées)
-8. [Pipelines Documentés & Références](#-8-pipelines-documentés--références)
+4. [Normes JSON V3.4](#-4-normes-json-v34)
+5. [Structure du Dépôt](#-5-structure-du-dépôt)
+6. [Installation & Commandes](#-6-installation--commandes)
+7. [Règles d'Or](#-7-règles-dor)
+8. [Références](#-8-références)
 
 ---
 
 ## 🗺️ 1. Architecture V3.4 (Parent-First Audit Gate)
 
-L'innovation maîtresse de la version **V3.4** réside dans le principe du **Parent-First Audit Gate** :  
-Tous les contrôles qualité techniques, sémantiques et SEO sont exécutés **sur le Modèle Parent (`product-data/`) AVANT toute duplication de variante**.  
-
-Cette approche élimine 100% de la réplication d'erreurs sur les fiches filles :
+Tous les contrôles qualité (techniques, éditoriaux, SEO) sont exécutés **sur le modèle parent (`product-data/`) AVANT toute duplication de variante**.
+Une erreur corrigée sur le parent ne se réplique donc jamais sur les déclinaisons.
 
 ```mermaid
 graph TD
-    A[Recherche Constructeur & Sources Certifiées] --> B[1. /generate-product-data : JSON Parent Certifié]
-    B --> C[2. /production-industrielle-v3 : Rédaction 3 Personas]
-    C --> D{3. /audit-product-pack : GATE AUDIT QA BLOQUANT}
-    D -- Échec QA --> C
-    D -- PASS 100% --> E[4. Duplication Variantes & Compilation HTML Déterministe]
-    E --> F[5. Build CSV WooCommerce Final & Liaisons IDs Store]
+    A["Sources constructeur & bases tech certifiées"] --> B["1. /generate-product-data : JSON parent certifié"]
+    B --> C["2. /production-industrielle-v3 : rédaction 3 Personas"]
+    C --> D{"3. /audit-product-pack : GATE QA BLOQUANT"}
+    D -- "Échec QA" --> C
+    D -- "PASS" --> E["4. Duplication des variantes & compilation HTML"]
+    E --> F["5. Build CSV WooCommerce final"]
 ```
 
 ---
 
-## 🤖 2. Cartographie des 5 Agents Spécialisés
+## 🤖 2. Workflows Agentiques
 
-L'usine agentique est articulée autour de rôles strictement découplés :
+Orchestrés par `/master-orchestrator`, les workflows sont définis dans [.agents/workflows/](.agents/workflows/).
 
-| Slash Command | Persona & Responsabilité | Workflow Associé |
+| Slash Command | Rôle | Fichier |
 | :--- | :--- | :--- |
-| **`/master-orchestrator`** | **Chef d'Atelier V3.4** : Orchestre l'ensemble de la chaîne de production de bout en bout (Data ➔ Rédaction ➔ QA ➔ Build). | [.agents/workflows/master-orchestrator.md](.agents/workflows/master-orchestrator.md) |
-| **`/generate-product-data`** | **Agent Investigateur** : Extrait et normalise les données techniques constructeurs dans les JSON parents sources de vérité. | [.agents/workflows/generate-product-data.md](.agents/workflows/generate-product-data.md) |
-| **`/production-industrielle-v3`** | **Master Router V3.4** : Pilote la rédaction séquentielle des 3 Personas sur le JSON parent certifié. | [.agents/workflows/production-industrielle-v3.md](.agents/workflows/production-industrielle-v3.md) |
-| **`/audit-product-pack`** | **Agent QA Checker** : Gatekeeper bloquant. Valide l'absence d'hyperboles, la formule AIOSEO 15/41 et les SKUs. | [.agents/workflows/audit-product-pack.md](.agents/workflows/audit-product-pack.md) |
-| **`/script-specialist`** | **Technicien Python** : Seul agent autorisé à modifier, débugger et exécuter les scripts Python du système. | [.agents/workflows/script-specialist.md](.agents/workflows/script-specialist.md) |
-| **`/produce-appliance`** | **Maker Électroménager** : Production industrielle spécialisée pour le Gros & Petit Électroménager et la Climatisation. | [.agents/workflows/produce-appliance.md](.agents/workflows/produce-appliance.md) |
+| **`/master-orchestrator`** | Chef d'Atelier : orchestre la chaîne Data ➔ Rédaction ➔ QA ➔ Duplication ➔ CSV | [master-orchestrator.md](.agents/workflows/master-orchestrator.md) |
+| **`/production-industrielle-v3`** | Master Router : rédaction des 3 Personas sur le JSON parent (Tech & Appliance) | [production-industrielle-v3.md](.agents/workflows/production-industrielle-v3.md) |
+| **`/generate-product-data`** | Agent Investigateur : extraction et validation des données techniques certifiées | [generate-product-data.md](.agents/workflows/generate-product-data.md) |
+| **`/audit-product-pack`** | Agent QA Checker : audit strict des JSON et exécution des scripts de validation | [audit-product-pack.md](.agents/workflows/audit-product-pack.md) |
+| **`/script-specialist`** | Technicien : seul agent habilité à créer ou débugger les scripts Python | [script-specialist.md](.agents/workflows/script-specialist.md) |
+| **`/produce-appliance`** | Maker Électroménager : production des fiches Gros/Petit Électroménager & Climatisation | [produce-appliance.md](.agents/workflows/produce-appliance.md) |
+| **`/WORKFLOW_COMPLET`** | Carte d'État-Major de l'usine agentique | [WORKFLOW_COMPLET.md](.agents/workflows/WORKFLOW_COMPLET.md) |
+
+Compléments :
+
+- **Sous-workflows** : [copywriting_rules_v3.md](.agents/workflows/sub_workflows/copywriting_rules_v3.md), [build_remediation_rules_v3.md](.agents/workflows/sub_workflows/build_remediation_rules_v3.md)
+- **Directive constitutionnelle** : [VERIFICATION_IMPERATIVE.md](.agents/directives/VERIFICATION_IMPERATIVE.md) (vérification obligatoire des données produits)
+- **Skills métier** ([.agents/skills/](.agents/skills/)) : `aioseo-verification`, `appliance-factory`, `content-quality-validator`, `copywriting-remediation`, `product-intelligence`
+- **Skills à usage restreint** : `autonomous-agents`, `content-creator`, `prompt-engineering`, `rag-engineer`
 
 ---
 
 ## 🎭 3. Les 3 Personas Industriels
 
-Afin de garantir un contenu haut de gamme, sans blabla marketing ni dérive algorithmique, la rédaction applique séquentiellement 3 rôles :
+Ils interviennent séquentiellement sur le modèle parent (détail complet dans [AGENTS.md](AGENTS.md#-3-rôles-et-responsabilités-des-3-personas-industriels)).
 
 ### ✍️ Persona 1 : Copywriter Factualité Dynamique & Usage Quotidien
-* **Zéro Hyperbole** : Proscription formelle des termes pompeux (*"ultime"*, *"révolutionnaire"*, *"inégalé"*, *"exceptionnel"*).
-* **Calibrage par Gamme** : Registre adapté aux attentes réelles du client :
-  * *Entrée de gamme* : Fiabilité pratique, simplicité d'accès, robustesse, autonomie.
-  * *Milieu de gamme* : Polyvalence, fluidité multimédia (90Hz/120Hz), rapport qualité/prix.
-  * *Flagship / Haut de gamme* : Précision des composants, puissance brute, finitions premium (titane, IP68).
-* **Pureté de l'Introduction** : Focus 100% produit dans l'`intro_paragraph` (interdiction des mentions promotionnelles de réassurance boutique).
+- **Zéro hyperbole** : termes comme *"ultime"*, *"révolutionnaire"*, *"inégalé"*, *"exceptionnel"* sont proscrits.
+- **Ton calibré par gamme** :
+  - *Entrée de gamme* : simplicité, fiabilité, robustesse, maîtrise du budget.
+  - *Milieu de gamme* : polyvalence, réactivité, confort multimédia, rapport performance/prix.
+  - *Haut de gamme* : composants de pointe, productivité exigeante, durabilité des matériaux.
+- **Contextualisation par typologie** : smartphones, PC/tablettes, audio & montres, électroménager.
+- **Pureté de l'introduction** : aucune mention promotionnelle boutique dans `intro_paragraph`.
 
 ### 🔍 Persona 2 : Expert SEO AIOSEO
-* **Formule Fixe 15/41 (36.5%)** : 15 phrases avec mots de transition sur 41 pour un score optimal AIOSEO (cible 31% à 49%).
-* **Fluidité Syntaxique (Fin du Métronome)** : Connecteurs logiques insérés au cœur des propositions (*"...assure par conséquent..."*, *"...permet ainsi de..."*).
-* **Longueur des Phrases** : 100% de phrases courtes (≤ 20 mots, 0% de phrases longues tolérées).
-* **SEO Meta Titles Standard B** :
-  * `short_description.seo.meta_title` : `Acheter [MARQUE] [MODÈLE] ([RAM]/[ROM]) à Abidjan | My-eStore` (50-60 car.)
-  * `long_description.seo.meta_title` : `[MARQUE] [MODÈLE] [ROM] : [Top Spec 1] & [Top Spec 2] | My-eStore`
-  * `long_description.h1` : `[MARQUE] [MODÈLE] : [Top Spec 1], [Top Spec 2] et [Top Spec 3]`
-* **10 à 14 Tags WooCommerce Enrichis** : Bloc dense et géolocalisé (Marque, Modèle, Gamme, Réseau, Écran, SoC, Batterie, Abidjan, My-eStore).
+- **Phrases ≤ 20 mots** (0 % de phrases longues).
+- **Transitions entre 30 % et 50 %**, formule cible **15/41 (36,5 %)** : 3 dans l'intro, 4 par section H2.
+- **Fluidité syntaxique** : connecteurs placés au cœur des propositions, pas en début systématique.
+- **Orthographe** : `My-eStore` (sans espace).
+- **Titres Standard B** :
+  - `short_description.seo.meta_title` : `Acheter [MARQUE] [MODÈLE] ([RAM]/[ROM]) à Abidjan | My-eStore` (50-60 car.)
+  - `long_description.seo.meta_title` : `[MARQUE] [MODÈLE] [ROM] : [Top Spec 1] & [Top Spec 2] | My-eStore` (50-60 car.)
+  - `long_description.h1` : `[MARQUE] [MODÈLE] : [Top Spec 1], [Top Spec 2] et [Top Spec 3]`
+- **Volumes** : description longue 450-650 mots, intro ≤ 100 mots, paragraphes H2 de 45-60 mots.
+- **Tags WooCommerce** : 10 à 14 tags dédoublonnés (Marque, Modèle, Série, Typologie/OS, Réseau, Écran, Photo, Batterie, Chipset, Points forts, `Abidjan`, `My-eStore`).
 
 ### ⚙️ Persona 3 : Intégrateur & Auditeur QA
-* **Standard `paired_variants`** : Couplage strict des configurations réelles (RAM/ROM/Couleur). Interdiction du produit cartésien aveugle.
-* **Règle Stricte des 3 Liens Sources** : 1 lien officiel constructeur + 2 requêtes de recherche neutres. **0 lien sortant vers des concurrents**.
-* **Attributs WooCommerce Ordre Officiel** :
-  1. `Couleur` | 2. `Stockage` | 3. `RAM` | 4. `Processeur` *(PC)* ou `Poids` *(format `X.XXX kg`)* | 5. `Réseau`.
+- **Unicité stricte des SKUs** et exactitude des métadonnées.
+- **Gate bloquant `paired_variants`** : conformité aux configurations officielles, aucune variation cartésienne fantôme.
+- **Audit Python** : `validate_product_data.py`, `audit_aioseo_sentences.py`, `copywriting_remediation.py`.
+- **Rendu HTML sans warning** : tous les placeholders `<!-- SPEC_* -->` renseignés.
 
 ---
 
-## 📂 4. Répertoires et Fichiers Clés du Système
+## 📐 4. Normes JSON V3.4
 
-```
-wordpress/
-├── AGENTS.md                                # Charte d'Excellence & Source de Vérité V3.4
-├── Categories_produits_du_store.csv         # Taxonomie officielle (127 catégories store)
-│
-├── product-data/                            # CŒUR PIM : 379 Fiches Parents JSON Certifiées
-│   ├── xiaomi/                              # (Flagships, Poco, Redmi Note, Pad)
-│   ├── samsung/                             # (Galaxy S, Z Fold/Flip, Galaxy A, Tab, Watch)
-│   ├── blackview/                           # (Séries BV/BL, Shark, Color, Tab, Active)
-│   ├── apple/                               # (iPhone 11 à 16 Pro Max, iPad, Watch, Mac)
-│   └── ...                                  # (HiFuture, Google Pixel, Honor, ZTE, etc.)
-│
-├── products/                                # USINE DE COMPILATION TECH (Packs HTML & JSON)
-│   └── [marque]-[série]/[variante]/         # long-*.html, short-*.html, pack-data-*.json
-│
-├── products-appliance/                      # USINE GROS & PETIT ÉLECTROMÉNAGER
-│   └── [marque]/                            # (Nasco, Hisense, Midea, Beko, TCL, etc.)
-│
-├── Templates/                               # 9 GABARITS MÉTIERS STRUCTURELS
-│   ├── Template_Pack_v2_smartphone.json     # Smartphones & Téléphonie
-│   ├── Template_Pack_v2_appliance.json      # Électroménager & Climatisation
-│   ├── Template_Pack_v2_pc_portable.json    # Laptops & PC Bureau
-│   ├── Template_Pack_v2_wearable.json       # Montres & Bracelets connectés
-│   ├── Template_Pack_v2_audio.json          # Casques & Écouteurs sans fil
-│   ├── TEMPLATE_LONG.html                   # Rendu HTML responsive description longue
-│   └── TEMPLATE_SHORT.html                  # Rendu HTML épuré description courte
-│
-├── Pricing/                                 # 50+ MATRICES DE PRIX & CONVERSIONS EN FCFA
-│   ├── price_map_*.json                     # Tables de correspondances de prix Côte d'Ivoire
-│   └── Pricing_*.xlsx                       # Grilles de calcul des majorations de stockage
-│
-├── pipelines/                               # STANDARDS OPÉRATIONNELS FORMALISÉS
-│   ├── pipeline_production_v3.4_Parent-First_Audit_Gate.md
-│   ├── pipeline_liaison_id_v3.4.md          # Réconciliation à 4 niveaux des IDs Store
-│   └── pipeline_mise_a_jour_categories_v3.4.md
-│
-├── scripts/                                 # 54 OUTILS & SCRIPTS PYTHON D'AUTOMATISATION
-│   ├── build-product-pack-v2.py             # Compilateur JSON ➔ HTML + CSV
-│   ├── rebuild_[marque]_catalog.py          # Scripts de reconstruction massive de catalogue
-│   ├── copywriting_remediation.py           # Détecteur & assainisseur d'hyperboles
-│   └── tools/data_processing/               # Outils d'audit AIOSEO & vérification de structure
-│
-└── .agents/                                 # ÉCOSYSTÈME DES WORKFLOWS & SKILLS IA
-    ├── workflows/                           # Fichiers de guidage des 5 agents spécialisés
-    └── skills/                              # Compétences métier (AIOSEO, PIM, Remediation)
+S'appliquent aux JSON parents, aux `pack-data-*.json` et aux `Templates/Template_Pack_v3_*.json`.
+
+| Règle | Exigence |
+| :--- | :--- |
+| Version | `"template_version": "3.4"` |
+| Tableau de specs | `full_specs` (Tech) ou `full_specs_table` (Appliance) **dans** `long_description`, juste au-dessus de `cta` |
+| CTA | `top_link: "#"`, `top_label: "Remonter pour commander"`, `boutiques_link: "https://my-estore.com/boutiques-officielles/"`, `boutiques_label: "Nos Boutiques Officielles"` |
+| Attributs WooCommerce | 1 `Couleur` · 2 `Stockage` · 3 `RAM` · 4 `Processeur` (PC) ou `Poids` (`X.XXX kg`) · 5 `Réseau` |
+| Déclinaisons | Bloc `paired_variants` à la racine dès la création du parent si les couples RAM/ROM/Couleur sont dépendants ; attributs 1-3, `ram_options` et `storage_options` strictement synchronisés |
+| Sources | Exactement 3 : `[MARQUE] Official Store` (page produit officielle), `Recherche Générique` (Google), `Recherche Spécialisée IA` (Google + `specifications`) — aucun lien vers des sites tiers |
+
+Exemple de déclinaison couplée :
+
+```json
+"paired_variants": [
+    {
+        "color_fr": "Noir",
+        "color_en": "Obsidian Black",
+        "color_code": "NOIR",
+        "ram": "12 Go",
+        "storage": "512 Go",
+        "price": "550000",
+        "sku_suffix": "512GB-12GB-NOIR"
+    }
+]
 ```
 
 ---
 
-## 🚨 5. Standards de Qualité & Règles d'Or
+## 📂 5. Structure du Dépôt
 
-1. **Interdiction Formelle du Procédural Scripté** : Il est strictement interdit d'utiliser des scripts pour générer à la chaîne du texte marketing sans âme. La rédaction doit être unitaire, réfléchie et adaptée au produit.
-2. **Le Tableau `full_specs` est DANS la Description Longue** : Positionné immédiatement au-dessus des boutons CTA.
-3. **Poids Obligatoire en Kilogrammes** : Renseigné sous `Attribute 4 name`: `"Poids"`, `Attribute 4 value(s)`: `"{poids} kg"`.
-4. **Zéro Lien Vers les Concurrents** : Seules les 3 sources standardisées (Boutique constructeur + 2 requêtes neutres) sont admises.
-5. **Idempotence & Zéro Doublon** : Grâce à `link_store_ids_v3.4.py`, les ré-imports mettent à jour les fiches existantes sans altérer l'indexation SEO existante.
+```
+AI-Content-Management-workflow/
+├── AGENTS.md                          # Charte d'excellence V3.4 (source de vérité opérationnelle)
+├── README.md
+├── requirements.txt                   # Dépendances Python (beautifulsoup4, openpyxl, requests)
+├── Categories_produits_du_store.csv   # Taxonomie des catégories WooCommerce (126 entrées)
+│
+├── .agents/
+│   ├── AGENTS.md
+│   ├── workflows/                     # 7 workflows + sub_workflows/
+│   ├── skills/                        # 9 skills
+│   └── directives/                    # VERIFICATION_IMPERATIVE.md
+│
+├── product-data/                      # PIM : 379 JSON parents certifiés
+│   ├── [marque]/[série]/[slug].json
+│   └── [marque]/[marque]_models_parent.csv   # Source racine (à ne jamais modifier)
+│
+├── Templates/                         # Gabarits Tech
+│   ├── Template_Pack_v3_*.json        # 9 gabarits : smartphone, pc_portable, pc_bureau, wearable,
+│   │                                  #   audio, stockage, peripherique, imprimante, appliance
+│   ├── Template_ProductData_tech.json / Template_ProductData_appliance.json
+│   ├── TEMPLATE_LONG.html / TEMPLATE_SHORT.html / TEMPLATE_SPECS.html
+│   └── Template-products-list-for-import.csv
+│
+├── Template-Appliance/                # TEMPLATE_APPLIANCE_LONG.html / TEMPLATE_APPLIANCE_SHORT.html
+├── Pricing/                           # 64 JSON (price maps, règles couleurs) + 229 CSV tarifaires
+├── config/                            # brand_official_domains.json, price-mappings.json
+├── pipelines/                         # Procédures V3.4 (production, liaison IDs, catégories, HiFuture)
+├── Docs/                              # Documentation complémentaire
+│
+└── scripts/                           # 48 scripts Python (hors __init__.py)
+    ├── build-product-pack-v3.py       # Compilateur JSON ➔ HTML long/court + CSV
+    ├── generate_appliance_csv.py      # Export CSV Électroménager
+    ├── rebuild_[marque]_catalog.py    # Reconstruction catalogue : blackview, hifuture, honor,
+    │                                  #   oukitel, samsung, xiaomi, zte
+    ├── validate_html_template.py / check_duplicates.py
+    └── tools/
+        ├── product_data/              # Audit structure, validation, specs manquantes, duplication
+        ├── data_processing/           # Audit AIOSEO, remédiation copywriting, CSV WooCommerce, IDs store
+        ├── analysis/ · appliance/ · extraction/
+        ├── sociam_stock_processing/   # Traitement des stocks fournisseur
+        └── SCRIPTS_LIBRARY.md         # Catalogue des scripts
+```
+
+> [!NOTE]
+> Les sorties compilées (`products/`, `products-appliance/`, `products-gaming/`, `Exports/`) sont générées localement et exclues du dépôt via [.gitignore](.gitignore).
+
+### Catalogue PIM actuel (`product-data/`)
+
+| Marque | JSON parents | Séries |
+| :--- | :---: | :--- |
+| Xiaomi | 91 | flagship, pad, poco, poco-pad, redmi-a, redmi-note-13/14/15/17, redmi-pad |
+| Samsung | 88 | galaxy-a, galaxy-m, galaxy-s10 ➔ s26, galaxy-tab-a/s, galaxy-watch, galaxy-z |
+| Blackview | 83 | — |
+| ZTE | 43 | zte-axon, zte-blade, zte-nubia (incl. RedMagic) |
+| HiFuture | 30 | — |
+| Apple | 17 | iphone-14 ➔ iphone-17 |
+| Google | 15 | google-pixel-all |
+| Honor | 7 | choice, magic, n |
+| Oukitel | 5 | — |
+| **Total** | **379** | |
 
 ---
 
-## ⚡ 6. Quick Start & Commandes Opérationnelles
+## ⚡ 6. Installation & Commandes
 
-### A. Auditer un Modèle Parent (Vérification QA Bloquante)
+### Installation
+
 ```bash
-# Vérifier la conformité de structure JSON V3.4
+python -m venv .venv
+.venv\Scripts\activate          # Windows (Linux/macOS : source .venv/bin/activate)
+pip install -r requirements.txt
+```
+
+### A. Audit QA d'un parent ou d'une marque (Gate bloquant)
+
+```bash
+# Structure JSON V3.4
 python scripts/tools/product_data/audit_json_structure.py --dir "product-data/xiaomi"
 
-# Vérifier le score AIOSEO et la formule 15/41
+# AIOSEO par lot (phrases ≤ 20 mots, formule 15/41)
 python scripts/tools/data_processing/audit_batch_aioseo.py --dir "product-data/xiaomi"
 
-# Détecter et nettoyer les éventuelles hyperboles
-python scripts/copywriting_remediation.py detect --products-dir "product-data/xiaomi"
+# AIOSEO détaillé sur un fichier unique
+python scripts/tools/data_processing/audit_aioseo_sentences.py "product-data/xiaomi/poco/poco-f7.json"
+
+# Validation des données produit
+python scripts/tools/product_data/validate_product_data.py --input "product-data/xiaomi/poco/poco-f7.json"
+
+# Spécifications manquantes (poids, classe énergétique)
+python scripts/tools/product_data/check_missing_specs.py
 ```
 
-### B. Compiler un Modèle ou Reconstruire un Catalogue Complet
+### B. Remédiation des hyperboles
+
 ```bash
-# Compiler un pack individuel vers HTML & CSV
-python scripts/build-product-pack-v2.py --data "product-data/xiaomi/poco/poco-f7.json" --outdir "products/poco-f7" --modele "poco-f7"
-
-# Reconstruire tout le catalogue d'une marque (exemple Xiaomi)
-python scripts/rebuild_xiaomi_catalog.py
+python scripts/tools/data_processing/copywriting_remediation.py detect --products-dir "product-data/xiaomi" --output "hyperboles-xiaomi.md"
+python scripts/tools/data_processing/copywriting_remediation.py rewrite --products-dir "product-data/xiaomi"
 ```
 
-### C. Réconcilier les IDs avec le Store en Ligne
+### C. Compilation HTML & CSV
+
 ```bash
-# Lier les identifiants WooCommerce existants pour éviter les doublons
-python scripts/link_store_ids_v3.4.py --csv "products/import-v2-xiaomi.csv"
+# Pack individuel
+python scripts/build-product-pack-v3.py --data "product-data/xiaomi/poco/poco-f7.json" --outdir "products/poco-f7" --modele "poco-f7"
+
+# Catalogue complet d'une marque (ex : série Poco de Xiaomi)
+python scripts/rebuild_xiaomi_catalog.py --series poco
 ```
 
----
+### D. Liaison des IDs du store
 
-## 🏷️ 7. Catalogue des Marques Déployées
-
-| Pôle | Marques Traitées & Validées | Volumes |
-| :--- | :--- | :---: |
-| **High-Tech & Mobilité** | Xiaomi, Redmi, Poco, Samsung Galaxy, Apple, Blackview, Oscal, ZTE, Nubia, RedMagic, Google Pixel, HiFuture, Honor, Huawei, Infinix, Tecno, Itel, Oukitel, Oraimo, SanDisk, Black Shark. | **2 551 Fiches HTML** <br>(379 Parents PIM) |
-| **Électroménager & Froid** | Nasco, Hisense, Midea, Samsung Appliance, TCL, Beko, Toshiba, Carrier, Philips, Electrolux, Unionaire, Galaxy Appliance. | **2 588 Fiches HTML** <br>(191 Catégories) |
-| **Gaming** | Sony PlayStation (PS4 Slim, PS4 Pro, Manettes & Jeux). | **9 Fiches HTML** |
+Voir [pipeline_liaison_id_v3.4.md](pipelines/pipeline_liaison_id_v3.4.md) et [link_store_ids_v3.4.py](scripts/tools/data_processing/link_store_ids_v3.4.py) (chemins d'export store configurés dans le script).
 
 ---
 
-## 📚 8. Pipelines Documentés & Références
+## 🚨 7. Règles d'Or
 
-* [Charte d'Excellence & Système Agentique V3.4](AGENTS.md)
-* [Rapport d'Audit Final & Bilan Consultant Content Manager](Docs/CV/fiche_projet_cv.md)
-* [Étude Comparative d'Effort : Manuel vs Agentique](Docs/rapport-comparatif-effort-humain-vs-ia.md)
-* [Pipeline V3.4 Parent-First Audit Gate](pipelines/pipeline_production_v3.4_Parent-First_Audit_Gate.md)
-* [Taxonomie des Catégories Store](Categories_produits_du_store.csv)
+1. **Rédaction unitaire obligatoire** : chaque JSON parent est rédigé modèle par modèle. Aucun script ne doit générer les paragraphes marketing ; seuls l'audit, l'extraction technique et la compilation sont scriptés.
+2. **Audit immédiat** : chaque parent rédigé passe `audit_aioseo_sentences.py` et `validate_product_data.py` avant duplication.
+3. **Extraction croisée à 3 niveaux** : CSV racine `[marque]_models_parent.csv` ➔ fiches constructeur et bases tech ➔ intégration complète dans `full_specs`.
+4. **Fichiers racines intouchables** : les `*_models_parent.csv` ne sont jamais modifiés ni supprimés.
+5. **Zéro lien concurrent** : seules les 3 sources standardisées figurent dans les JSON et le HTML.
+6. **Workspace propre** : aucun script temporaire conservé après la fin d'une tâche.
 
 ---
 
-<div align="center">
+## 📚 8. Références
 
-**Système Industriel E-Commerce My-eStore**  
-*Ingénierie de Contenu PIM • Norme V3.4 Parent-First • 100% Déterministe*
-
-</div>
+- [Charte d'Excellence V3.4](AGENTS.md)
+- [Pipeline Production V3.4 Parent-First Audit Gate](pipelines/pipeline_production_v3.4_Parent-First_Audit_Gate.md)
+- [Pipeline Liaison des IDs Store](pipelines/pipeline_liaison_id_v3.4.md)
+- [Pipeline Mise à Jour des Catégories](pipelines/pipeline_mise_a_jour_categories_v3.4.md)
+- [Pipeline HiFuture](pipelines/pipeline_hifuture_v3.4.md)
+- [Bibliothèque des Scripts](scripts/tools/SCRIPTS_LIBRARY.md)
+- [Taxonomie des Catégories Store](Categories_produits_du_store.csv)

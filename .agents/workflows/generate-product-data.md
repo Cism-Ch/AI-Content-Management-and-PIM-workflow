@@ -11,7 +11,7 @@ Ce workflow génère des **fichiers JSON de référence** contenant des données
 
 > **⚠️ RÈGLE D'OR** : Ce workflow ne génère ni HTML, ni CSV. Il produit des fichiers JSON de données produits pures, stockés dans `product-data/`.
 
-> **🔗 INDÉPENDANT** : Ce workflow est autonome et ne s'enchaîne PAS automatiquement avec les workflows `production-industrielle-v2` ou `produce-appliance`. Il peut être utilisé comme source de vérification.
+> **🔗 INDÉPENDANT** : Ce workflow est autonome et ne s'enchaîne PAS automatiquement avec les workflows `production-industrielle-v3` ou `produce-appliance`. Il peut être utilisé comme source de vérification.
 
 ---
 

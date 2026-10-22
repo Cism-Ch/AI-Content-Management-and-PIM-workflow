@@ -28,9 +28,9 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
-WORKSPACE_ROOT = r"c:\Users\My-eStore-PC2\My-eStore-workspace\wordpress"
+WORKSPACE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCTS_DIR   = os.path.join(WORKSPACE_ROOT, "products", "hifuture-all")
-BUILD_SCRIPT   = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v2.py")
+BUILD_SCRIPT   = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v3.py")
 CSV_OUT        = os.path.join(PRODUCTS_DIR, "import-v2-hifuture-all.csv")
 
 # En-têtes WooCommerce avec colonne Parent pour les variations
@@ -294,7 +294,7 @@ def main():
             except Exception as e:
                 print(f"  [WARN] Impossible de maj product-data pour {slug}: {e}")
 
-        # 4. Compiler via build-product-pack-v2.py avec --serie hifuture-all
+        # 4. Compiler via build-product-pack-v3.py avec --serie hifuture-all
         cmd = [
             sys.executable, BUILD_SCRIPT,
             "--data", pack_data_path,

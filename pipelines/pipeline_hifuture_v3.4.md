@@ -87,9 +87,9 @@ python scripts/tools/data_processing/audit_aioseo_sentences.py "products/hifutur
   - **Déclinaisons Enfants (`variation`)** : Nom parent propre + **uniquement la couleur individuelle représentée**.
     *(Exemple)* : `HiFuture ColorBuds 2 - Écouteurs Sans Fil TWS - Bluetooth 5.3 - Drivers 10mm - Boîtier 300mAh - IPX5 - Noir`
 
-* **Compilation des Fiches HTML (`build-product-pack-v2.py`)** :
+* **Compilation des Fiches HTML (`build-product-pack-v3.py`)** :
   ```bash
-  python scripts/build-product-pack-v2.py --data "products/hifuture-all/hifuture-[slug]/pack-data-hifuture-[slug].json" --outdir "products/hifuture-all/hifuture-[slug]" --modele [slug] --serie hifuture-all --skip-validation
+  python scripts/build-product-pack-v3.py --data "products/hifuture-all/hifuture-[slug]/pack-data-hifuture-[slug].json" --outdir "products/hifuture-all/hifuture-[slug]" --modele [slug] --serie hifuture-all --skip-validation
   ```
   * Génère les fichiers HTML rendus nettoyés (0 commentaire, 0 saut de ligne cosmétique) :
     - `short-[slug].html`

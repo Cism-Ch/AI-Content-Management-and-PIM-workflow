@@ -17,9 +17,10 @@ try:
 except ImportError:
     from format_product_names import get_formatted_name
 
-pd_dir = r"c:\Users\My-eStore-PC2\My-eStore-workspace\wordpress\product-data\blackview"
-products_dir = r"c:\Users\My-eStore-PC2\My-eStore-workspace\wordpress\products\blackview-all"
-build_script = r"c:\Users\My-eStore-PC2\My-eStore-workspace\wordpress\scripts\build-product-pack-v2.py"
+WORKSPACE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+pd_dir = os.path.join(WORKSPACE_ROOT, "product-data", "blackview")
+products_dir = os.path.join(WORKSPACE_ROOT, "products", "blackview-all")
+build_script = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v3.py")
 master_csv_path = os.path.join(products_dir, "import-v2-blackview-all.csv")
 
 CSV_HEADERS = [
@@ -210,7 +211,7 @@ def main():
             with open(variant_json_path, 'w', encoding='utf-8') as f_out:
                 json.dump(variant_data, f_out, ensure_ascii=False, indent=4)
                 
-            # Run build-product-pack-v2.py
+            # Run build-product-pack-v3.py
             cmd = [
                 sys.executable,
                 build_script,

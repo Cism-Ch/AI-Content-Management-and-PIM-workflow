@@ -42,7 +42,7 @@ La production industrielle repose sur un écosystème de **5 Agents Spécialisé
 
 ## 📐 2. Normes de Version & Structure JSON (Standard V3.4)
 
-Tous les packs produits JSON (`pack-data-*.json` et `Templates/Template_Pack_v2_*.json`) doivent impérativement respecter la norme **V3.4** :
+Tous les packs produits JSON (`pack-data-*.json` et `Templates/Template_Pack_v3_*.json`) doivent impérativement respecter la norme **V3.4** :
 
 - **Version** : `"template_version": "3.4"`.
 - **Emplacement du bloc `full_specs`** : Le tableau des spécifications techniques complet (`full_specs` pour la Tech ou `full_specs_table` pour l'Électroménager) doit être impérativement positionné **à l'intérieur de `long_description`**, immédiatement au-dessus du bloc `cta`.
@@ -153,8 +153,8 @@ Tout échec lors de l'audit nécessite l'exécution des scripts de remédiation 
   ```
 - **Assainissement des Hyperboles sur Parents** :
   ```bash
-  python scripts/copywriting_remediation.py detect --products-dir "product-data/[marque]"
-  python scripts/copywriting_remediation.py rewrite --products-dir "product-data/[marque]"
+  python scripts/tools/data_processing/copywriting_remediation.py detect --products-dir "product-data/[marque]" --output "hyperboles-[marque].md"
+  python scripts/tools/data_processing/copywriting_remediation.py rewrite --products-dir "product-data/[marque]"
   ```
 - **Audit des Spécifications Manquantes** :
   ```bash
@@ -162,7 +162,7 @@ Tout échec lors de l'audit nécessite l'exécution des scripts de remédiation 
   ```
 - **Compilation HTML** :
   ```bash
-  python scripts/build-product-pack-v2.py --data "[path_to_json]" --outdir "[path_to_out]" --modele "[slug]"
+  python scripts/build-product-pack-v3.py --data "[path_to_json]" --outdir "[path_to_out]" --modele "[slug]"
   ```
 
 ---

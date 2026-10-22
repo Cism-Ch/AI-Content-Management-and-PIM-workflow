@@ -1,7 +1,7 @@
 # 🛡️ DIRECTIVE IMPÉRATIVE : Vérification des Données Produits
 
 > **STATUT** : CONSTITUTIONNELLE — Cette directive s'applique à TOUS les workflows de production sans exception.
-> Elle est référencée par : `/production-industrielle-v2`, `/generate-product-data`, `/produce-appliance`, `/WORKFLOW_COMPLET`.
+> Elle est référencée par : `/production-industrielle-v3`, `/generate-product-data`, `/produce-appliance`, `/WORKFLOW_COMPLET`.
 
 ---
 

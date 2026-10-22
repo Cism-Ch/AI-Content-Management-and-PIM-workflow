@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Build Product Pack V2.1 — Générateur industriel HTML/CSV depuis JSON.
+Build Product Pack V3.4 — Générateur industriel HTML/CSV depuis JSON.
 
 Ce script lit un fichier JSON structuré (moule rempli) et génère :
   - short-[modele].html   (description courte WooCommerce)
@@ -15,7 +15,7 @@ Supporte deux groupes de templates :
   - APPLIANCE : électroménager (specs intégrées au LONG, pas de fichier SPECS séparé)
 
 Usage :
-  python build-product-pack-v2.py --data "path/to/pack-data.json" --outdir "path/to/output" --modele "slug-modele"
+  python build-product-pack-v3.py --data "path/to/pack-data.json" --outdir "path/to/output" --modele "slug-modele"
 """
 
 import json
@@ -662,7 +662,7 @@ def build_long_tech_html(data: dict) -> str:
     for key, val in replacements.items():
         html = html.replace(key, str(val))
 
-    # --- SÉCURITÉ QUALITÉ V2.1 : Détection des placeholders non remplis ---
+    # --- SÉCURITÉ QUALITÉ V3.4 : Détection des placeholders non remplis ---
     import re
     # Regex qui capture tout le contenu des placeholders non remplacés
     orphans = re.findall(r"<!-- ((?:SPEC_|VAR_|SECTION_|BOX_|TITRE_|INTRO_)[A-Z0-9_/-]+) -->", html)
@@ -1184,7 +1184,7 @@ def validate_json(data: dict, group: str) -> list[str]:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Builder de Pack Produit V2.1 — Génération industrielle depuis JSON"
+        description="Builder de Pack Produit V3.4 — Génération industrielle depuis JSON"
     )
     parser.add_argument("--data", required=True, help="Chemin vers le fichier pack-data JSON")
     parser.add_argument("--outdir", required=True, help="Dossier de sortie des fichiers HTML")
@@ -1244,7 +1244,7 @@ def main():
     )
     print(f"[OK] Prix ajouté dans {os.path.basename(price_path)}")
 
-    print(f"\n[DONE] Build V2.1 terminé pour '{args.modele}' (groupe {group.upper()})")
+    print(f"\n[DONE] Build V3.4 terminé pour '{args.modele}' (groupe {group.upper()})")
 
 
 if __name__ == "__main__":

@@ -39,7 +39,7 @@ if sys.platform == "win32":
 PRODUCT_DATA_DIR = os.path.join(WORKSPACE_ROOT, "product-data", "zte")
 PARENT_CSV_PATH = os.path.join(PRODUCT_DATA_DIR, "zte_models_parent.csv")
 PRODUCTS_DIR = os.path.join(WORKSPACE_ROOT, "products", "zte-all")
-BUILD_SCRIPT = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v2.py")
+BUILD_SCRIPT = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v3.py")
 CSV_OUT_PATH = os.path.join(PRODUCTS_DIR, "import-v2-zte-all.csv")
 
 CSV_HEADERS = [
@@ -195,7 +195,7 @@ def main():
         with open(pack_data_path, "w", encoding="utf-8") as f_out:
             json.dump(data, f_out, ensure_ascii=False, indent=4)
 
-        # Compiler via build-product-pack-v2.py
+        # Compiler via build-product-pack-v3.py
         cmd = [
             sys.executable, BUILD_SCRIPT,
             "--data", pack_data_path,

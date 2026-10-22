@@ -39,7 +39,7 @@ Ce workflow est le **point d'entrée unique** de l'usine de production de My-eSt
 
 ### Étape 4 : Compilation HTML sur Modèle Parent (Sans Duplication Physique)
 - La duplication vers des sous-dossiers physiques par variante est **désactivée**.
-- L'Orchestrateur exécute la compilation HTML directement sur le modèle parent : `python scripts/build-product-pack-v2.py --data "products/[serie-all]/[slug]/pack-data-[slug].json" --outdir "products/[serie-all]/[slug]" --modele [slug] --serie [serie-all] --skip-validation`.
+- L'Orchestrateur exécute la compilation HTML directement sur le modèle parent : `python scripts/build-product-pack-v3.py --data "products/[serie-all]/[slug]/pack-data-[slug].json" --outdir "products/[serie-all]/[slug]" --modele [slug] --serie [serie-all] --skip-validation`.
 
 ### Étape 5 : Export CSV WooCommerce & Génération Parent-Enfant
 - L'Orchestrateur lance le script de compilation finale qui génère le CSV consolidé `import-v2-[serie-all].csv` avec les relations **Parent-Enfant (Ligne `variable` Parent + N Lignes `variation` Enfants)**.

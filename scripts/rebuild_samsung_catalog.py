@@ -28,10 +28,10 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
-WORKSPACE_ROOT = r"c:\Users\My-eStore-PC2\My-eStore-workspace\wordpress"
+WORKSPACE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCT_DATA_DIR = os.path.join(WORKSPACE_ROOT, "product-data", "samsung")
 PARENT_CSV_PATH = os.path.join(PRODUCT_DATA_DIR, "samsung_models_parent.csv")
-BUILD_SCRIPT = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v2.py")
+BUILD_SCRIPT = os.path.join(WORKSPACE_ROOT, "scripts", "build-product-pack-v3.py")
 
 CSV_HEADERS = [
     "ID", "Type", "SKU", "Name", "Published", "Visibility in catalog",
@@ -262,7 +262,7 @@ def process_series(target_series: str):
         with open(pack_data_path, "w", encoding="utf-8") as f_out:
             json.dump(data, f_out, ensure_ascii=False, indent=4)
 
-        # Compiler via build-product-pack-v2.py vers model_dir
+        # Compiler via build-product-pack-v3.py vers model_dir
         cmd = [
             sys.executable, BUILD_SCRIPT,
             "--data", pack_data_path,

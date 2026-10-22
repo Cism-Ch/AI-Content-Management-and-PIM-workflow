@@ -47,8 +47,8 @@ Ce document est le **point d'entrée et de routage** de notre chaîne de product
     ```
 *   **Assainissement des Hyperboles par Lot (Batch)** :
     ```bash
-    python scripts/copywriting_remediation.py detect --products-dir "product-data/[marque]"
-    python scripts/copywriting_remediation.py rewrite --products-dir "product-data/[marque]"
+    python scripts/tools/data_processing/copywriting_remediation.py detect --products-dir "product-data/[marque]" --output "hyperboles-[marque].md"
+    python scripts/tools/data_processing/copywriting_remediation.py rewrite --products-dir "product-data/[marque]"
     ```
 *   *Seuls les JSON Parents ayant obtenu le statut **100% PASS** sur l'ensemble de la suite d'audits sont autorisés à passer en Phase C.*
 
@@ -56,7 +56,7 @@ Ce document est le **point d'entrée et de routage** de notre chaîne de product
 > **💡 STRATÉGIE PARENT-ENFANT (V3.4)** : La duplication de sous-dossiers physiques par variante est **désactivée**. La compilation HTML s'exécute directement sur le modèle parent unique.
 *   **Compilation HTML Parent** :
     ```bash
-    python scripts/build-product-pack-v2.py --data "products/[serie-all]/[slug]/pack-data-[slug].json" --outdir "products/[serie-all]/[slug]" --modele "[slug]" --serie "[serie-all]" --skip-validation
+    python scripts/build-product-pack-v3.py --data "products/[serie-all]/[slug]/pack-data-[slug].json" --outdir "products/[serie-all]/[slug]" --modele "[slug]" --serie "[serie-all]" --skip-validation
     ```
     * Génère `short-[slug].html` et `long-[slug].html` dans le dossier produit parent `products/[serie-all]/[slug]/`.
 

@@ -8,7 +8,7 @@ description: "[V3.4 - Rôle Technique] Instructions de compilation V3.4, gestion
 Ce document rassemble les instructions pour le **Spécialiste Script & Build Technique**. Il régit l'exécution des outils de compilation et la génération des exports CSV WooCommerce sous la norme **V3.4 Parent-First**.
 
 *   **Lien vers le Master Router** : [production-industrielle-v3.md](../production-industrielle-v3.md)
-*   **Compilateur Maître** : [build-product-pack-v2.py](../../../scripts/build-product-pack-v2.py)
+*   **Compilateur Maître** : [build-product-pack-v3.py](../../../scripts/build-product-pack-v3.py)
 *   **Répertoire des Tarifs FCFA** : [Pricing/](../../../Pricing/)
 
 ---
@@ -41,7 +41,7 @@ Ce document rassemble les instructions pour le **Spécialiste Script & Build Tec
 Sous la norme V3.4, la création de sous-dossiers physiques individuels par variante est **désactivée**. La compilation HTML s'exécute directement sur le modèle parent :
 
 ```bash
-python scripts/build-product-pack-v2.py \
+python scripts/build-product-pack-v3.py \
   --data "product-data/[marque]/[slug].json" \
   --outdir "products/[slug]" \
   --modele "[slug]" \

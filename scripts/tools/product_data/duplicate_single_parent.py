@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Duplique un modèle parent V3.4 validé (PASS) vers ses dossiers de variantes physiques sous products/blackview-all/
-et lance la compilation HTML avec build-product-pack-v2.py.
+et lance la compilation HTML avec build-product-pack-v3.py.
 """
 
 import json
@@ -12,12 +12,13 @@ import re
 import copy
 import sys
 import subprocess
+from pathlib import Path
 
-base_dir = r"c:\Users\My-eStore-PC2\My-eStore-workspace\wordpress"
+base_dir = str(Path(__file__).resolve().parents[3])
 csv_parent_path = os.path.join(base_dir, "products", "blackview-all", "blackview_models_parent.csv")
 parent_data_dir = os.path.join(base_dir, "product-data", "blackview")
 out_products_dir = os.path.join(base_dir, "products", "blackview-all")
-builder_script = os.path.join(base_dir, "scripts", "build-product-pack-v2.py")
+builder_script = os.path.join(base_dir, "scripts", "build-product-pack-v3.py")
 
 def slugify(text):
     if not text: return ""

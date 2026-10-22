@@ -10,7 +10,7 @@ Tous les scripts anciens, doublons ou obsolètes ont été assainis. Seuls les c
 
 ```text
 scripts/
-├── build-product-pack-v2.py        # Compilateur Maître Tech (JSON -> HTML Long/Short + CSV)
+├── build-product-pack-v3.py        # Compilateur Maître Tech (JSON -> HTML Long/Short + CSV)
 ├── generate_appliance_csv.py       # Compilateur Maître Électroménager (CSV d'import consolidé)
 ├── validate_html_template.py       # Validateur structurel des templates HTML
 ├── check_duplicates.py             # Détecteur de doublons de modèles et dossiers
@@ -38,7 +38,7 @@ scripts/
 
 | Script | Rôle & Usage | Commande d'Exécution |
 | :--- | :--- | :--- |
-| **`build-product-pack-v2.py`** | Compilateur unifié V3.4 : injecte les spécifications techniques du JSON dans les templates HTML `LONG` et `SHORT`, et génère la ligne WooCommerce CSV. | `python scripts/build-product-pack-v2.py --data <path_json> --outdir <out_dir> --modele <slug>` |
+| **`build-product-pack-v3.py`** | Compilateur unifié V3.4 : injecte les spécifications techniques du JSON dans les templates HTML `LONG` et `SHORT`, et génère la ligne WooCommerce CSV. | `python scripts/build-product-pack-v3.py --data <path_json> --outdir <out_dir> --modele <slug>` |
 | **`generate_appliance_csv.py`** | Générateur maître CSV pour l'électroménager (Froid, Lavage, Cuisson, Climatisation) en lisant directement les données dans `Pricing/`. | `python scripts/generate_appliance_csv.py --category refrigerateur --brand beko` |
 | **`validate_html_template.py`** | Validation stricte de conformité du balisage HTML pour éviter les balises orphelines ou mal fermées. | `python scripts/validate_html_template.py --file <path_to_html>` |
 | **`rebuild_[marque]_catalog.py`** | Reconstructeurs officiels par marque : régénèrent l'intégralité du catalogue d'une marque en s'appuyant sur les JSON parents validés. | `python scripts/rebuild_xiaomi_catalog.py`<br>`python scripts/rebuild_samsung_catalog.py` |

@@ -85,7 +85,7 @@ python scripts/tools/data_processing/audit_aioseo_sentences.py "products/[marque
 * **Duplication Physique Désactivée** : La création de sous-dossiers physiques par variante est désactivée.
 * **Compilation HTML Directe** : Générer les descriptions HTML sur le modèle parent unique :
   ```bash
-  python scripts/build-product-pack-v2.py --data "products/[marque]-all/[slug]/pack-data-[slug].json" --outdir "products/[marque]-all/[slug]" --modele [slug] --serie [marque]-all --skip-validation
+  python scripts/build-product-pack-v3.py --data "products/[marque]-all/[slug]/pack-data-[slug].json" --outdir "products/[marque]-all/[slug]" --modele [slug] --serie [marque]-all --skip-validation
   ```
   * Génère `short-[slug].html` et `long-[slug].html` dans le dossier parent `products/[marque]-all/[slug]/`.
 

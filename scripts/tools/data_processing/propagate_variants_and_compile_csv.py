@@ -7,7 +7,7 @@ Script de Propagation & Compilation Global (V3.4).
 
 Options:
   --serie SERIE        Slug de la série (ex: blackview-all, hifuture-all). Défaut: blackview-all
-  --skip-rebuild       Ne pas relancer build-product-pack-v2.py, collecter les CSV existants directement.
+  --skip-rebuild       Ne pas relancer build-product-pack-v3.py, collecter les CSV existants directement.
   --delete-local       Supprimer les CSV individuels après consolidation dans le CSV global.
 """
 
@@ -56,7 +56,7 @@ def main():
         # 1. Build HTML & CSV local (sauf si --skip-rebuild)
         if not args.skip_rebuild:
             cmd_build = [
-                PYTHON_EXE, "scripts/build-product-pack-v2.py",
+                PYTHON_EXE, "scripts/build-product-pack-v3.py",
                 "--data", str(json_path),
                 "--outdir", str(pdir),
                 "--modele", pdir.name,

@@ -19,15 +19,15 @@ Avant d'engager la rédaction unitaire sur le modèle parent, l'agent doit séle
 
 | Typologie de Produit | Fichier Gabarit JSON V3.4 | Exemples Types |
 | :--- | :--- | :--- |
-| **Smartphone / Tablette** | [Template_Pack_v2_smartphone.json](../../../Templates/Template_Pack_v2_smartphone.json) | Galaxy S24 Ultra, iPhone 16 Pro, Poco F7, Redmi Pad 2 |
-| **PC Portable (Laptop)** | [Template_Pack_v2_pc_portable.json](../../../Templates/Template_Pack_v2_pc_portable.json) | MacBook Pro, HP Pavilion, Blackview AceBook |
-| **PC Bureau / Mini PC / AIO** | [Template_Pack_v2_pc_bureau.json](../../../Templates/Template_Pack_v2_pc_bureau.json) | iMac, Dell OptiPlex, Mini PC MP200 |
-| **Périphérique & Accessoire** | [Template_Pack_v2_peripherique.json](../../../Templates/Template_Pack_v2_peripherique.json) | Clavier Logitech, Souris sans fil, Chargeurs |
-| **Stockage Amovible / SSD** | [Template_Pack_v2_stockage.json](../../../Templates/Template_Pack_v2_stockage.json) | SSD NVMe Samsung, Clé SanDisk, MicroSD |
-| **Imprimante & Scanner** | [Template_Pack_v2_imprimante.json](../../../Templates/Template_Pack_v2_imprimante.json) | HP LaserJet, Canon MegaTank, Epson EcoTank |
-| **Audio (Écouteurs, Casques, Enceintes)** | [Template_Pack_v2_audio.json](../../../Templates/Template_Pack_v2_audio.json) | AirPods Pro, HiFuture FutureMate, JBL Flip |
-| **Wearable (Montres & Bracelets)** | [Template_Pack_v2_wearable.json](../../../Templates/Template_Pack_v2_wearable.json) | Apple Watch, Galaxy Watch Ultra, HiFuture Aura |
-| **Électroménager & Froid** | [Template_Pack_v2_appliance.json](../../../Templates/Template_Pack_v2_appliance.json) | Réfrigérateurs Nasco/Hisense, Climatiseurs Midea |
+| **Smartphone / Tablette** | [Template_Pack_v3_smartphone.json](../../../Templates/Template_Pack_v3_smartphone.json) | Galaxy S24 Ultra, iPhone 16 Pro, Poco F7, Redmi Pad 2 |
+| **PC Portable (Laptop)** | [Template_Pack_v3_pc_portable.json](../../../Templates/Template_Pack_v3_pc_portable.json) | MacBook Pro, HP Pavilion, Blackview AceBook |
+| **PC Bureau / Mini PC / AIO** | [Template_Pack_v3_pc_bureau.json](../../../Templates/Template_Pack_v3_pc_bureau.json) | iMac, Dell OptiPlex, Mini PC MP200 |
+| **Périphérique & Accessoire** | [Template_Pack_v3_peripherique.json](../../../Templates/Template_Pack_v3_peripherique.json) | Clavier Logitech, Souris sans fil, Chargeurs |
+| **Stockage Amovible / SSD** | [Template_Pack_v3_stockage.json](../../../Templates/Template_Pack_v3_stockage.json) | SSD NVMe Samsung, Clé SanDisk, MicroSD |
+| **Imprimante & Scanner** | [Template_Pack_v3_imprimante.json](../../../Templates/Template_Pack_v3_imprimante.json) | HP LaserJet, Canon MegaTank, Epson EcoTank |
+| **Audio (Écouteurs, Casques, Enceintes)** | [Template_Pack_v3_audio.json](../../../Templates/Template_Pack_v3_audio.json) | AirPods Pro, HiFuture FutureMate, JBL Flip |
+| **Wearable (Montres & Bracelets)** | [Template_Pack_v3_wearable.json](../../../Templates/Template_Pack_v3_wearable.json) | Apple Watch, Galaxy Watch Ultra, HiFuture Aura |
+| **Électroménager & Froid** | [Template_Pack_v3_appliance.json](../../../Templates/Template_Pack_v3_appliance.json) | Réfrigérateurs Nasco/Hisense, Climatiseurs Midea |
 
 ---
 
