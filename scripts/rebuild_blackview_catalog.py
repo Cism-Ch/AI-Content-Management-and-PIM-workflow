@@ -15,7 +15,9 @@ if TOOLS_DP_DIR not in sys.path:
 try:
     from tools.data_processing.format_product_names import get_formatted_name
 except ImportError:
-    from format_product_names import get_formatted_name
+    # Repli : sans le formateur, le Name du JSON (woocommerce_csv) est conservé (voir calcul du nom)
+    get_formatted_name = None
+    print("[WARN] format_product_names introuvable : nomenclature V3.4 non appliquée, Name du JSON conservé.")
 
 WORKSPACE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 pd_dir = os.path.join(WORKSPACE_ROOT, "product-data", "blackview")
@@ -203,7 +205,10 @@ def main():
             v_woo["SKU"] = variant_sku
             
             # Name calculation via official nomenclature V3.4 (Enriched Vendor Title)
-            final_name = get_formatted_name(data, variant_data)
+            if get_formatted_name:
+                final_name = get_formatted_name(data, variant_data)
+            else:
+                final_name = v_woo.get("Name") or commercial_name
             v_woo["Name"] = final_name
             
             # Write variant json file
