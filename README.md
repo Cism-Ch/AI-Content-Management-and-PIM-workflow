@@ -1,4 +1,4 @@
-# 🤖 Système Industriel & Écosystème Agentique My-eStore (V3.4)
+# 🤖 Système Industriel & Écosystème Agentique (V3.4)
 
 > **Plateforme E-Commerce WordPress & WooCommerce**  
 > **Architecture Normative :** V3.4 *Parent-First Audit Gate* | **Gouvernance :** [AGENTS.md](AGENTS.md)
@@ -7,7 +7,7 @@
 [![Architecture](https://img.shields.io/badge/Système-Multi--Agents_Autonomes-green.svg)](.)
 [![Python](https://img.shields.io/badge/Python-3.12-yellow.svg)](requirements.txt)
 
-Usine de production de fiches produits WooCommerce pilotée par des agents IA.
+Workflow de production de fiches produits WooCommerce pilotée par des agents IA via un IDE Agentique (Claude Code, Antigravity, Codex, VSode, etc.).
 Le dépôt sépare l'**intelligence produit** (JSON parents certifiés, source de vérité) de la **production marketing** (HTML long/court + CSV d'import WooCommerce).
 
 ---
