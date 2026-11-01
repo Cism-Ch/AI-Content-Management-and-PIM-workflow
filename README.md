@@ -136,7 +136,7 @@ AI-Content-Management-workflow/
 ├── AGENTS.md                          # Charte d'excellence V3.4 (source de vérité opérationnelle)
 ├── README.md
 ├── requirements.txt                   # Dépendances Python (beautifulsoup4, openpyxl, requests)
-├── Categories_produits_du_store.csv   # Taxonomie des catégories WooCommerce (126 entrées)
+├── Categories_produits_du_store.csv   # Taxonomie des catégories WooCommerce (placeholder d'usage, évolutif)
 │
 ├── .agents/
 │   ├── AGENTS.md
@@ -144,7 +144,7 @@ AI-Content-Management-workflow/
 │   ├── skills/                        # 9 skills
 │   └── directives/                    # VERIFICATION_IMPERATIVE.md
 │
-├── product-data/                      # PIM : 379 JSON parents certifiés
+├── product-data/                      # PIM : JSON parents certifiés (source de vérité produit)
 │   ├── [marque]/[série]/[slug].json
 │   └── [marque]/[marque]_models_parent.csv   # Source racine (à ne jamais modifier)
 │
@@ -161,7 +161,7 @@ AI-Content-Management-workflow/
 ├── pipelines/                         # Procédures V3.4 (production, liaison IDs, catégories, HiFuture)
 ├── Docs/                              # Documentation complémentaire
 │
-└── scripts/                           # 48 scripts Python (hors __init__.py)
+└── scripts/                           # Scripts Python (évolutifs, ajustables selon les besoins)
     ├── build-product-pack-v3.py       # Compilateur JSON ➔ HTML long/court + CSV
     ├── generate_appliance_csv.py      # Export CSV Électroménager
     ├── rebuild_[marque]_catalog.py    # Reconstruction catalogue : blackview, hifuture, honor,
@@ -178,20 +178,22 @@ AI-Content-Management-workflow/
 > [!NOTE]
 > Les sorties compilées (`products/`, `products-appliance/`, `products-gaming/`, `Exports/`) sont générées localement et exclues du dépôt via [.gitignore](.gitignore).
 
-### Catalogue PIM actuel (`product-data/`)
+### Portée PIM du workflow V3.4 (`product-data/`)
 
-| Marque | JSON parents | Séries |
-| :--- | :---: | :--- |
-| Xiaomi | 91 | flagship, pad, poco, poco-pad, redmi-a, redmi-note-13/14/15/17, redmi-pad |
-| Samsung | 88 | galaxy-a, galaxy-m, galaxy-s10 ➔ s26, galaxy-tab-a/s, galaxy-watch, galaxy-z |
-| Blackview | 83 | — |
-| ZTE | 43 | zte-axon, zte-blade, zte-nubia (incl. RedMagic) |
-| HiFuture | 30 | — |
-| Apple | 17 | iphone-14 ➔ iphone-17 |
-| Google | 15 | google-pixel-all |
-| Honor | 7 | choice, magic, n |
-| Oukitel | 5 | — |
-| **Total** | **379** | |
+Le dossier `product-data/` joue le rôle de **PIM (Product Information Management)** léger du workflow V3.4. Il est cité ici de façon générique : son contenu (marques, séries, volumes) évolue en continu et n'est pas figé dans ce document.
+
+Le PIM V3.4 couvre :
+
+- **Source de vérité unique** : un JSON parent certifié par modèle (specs, `paired_variants`, SEO, descriptions, attributs et tags WooCommerce, 3 sources neutres).
+- **Organisation** : `[marque]/[série]/[slug].json`, avec le CSV racine `[marque]_models_parent.csv` comme référence matérielle intouchable.
+- **Cycle de vie** : extraction ➔ rédaction ➔ audit QA (gate parent-first) ➔ duplication des variantes ➔ compilation HTML ➔ CSV WooCommerce.
+- **Hors périmètre** : stock et tarification (`Pricing/`, `sociam_stock_processing/`), et liaison des IDs du store, traités par des pipelines dédiés.
+
+> [!NOTE]
+> **Catégories** : la taxonomie actuelle ([Categories_produits_du_store.csv](Categories_produits_du_store.csv)) est un **placeholder d'usage**. Elle peut être affinée, restructurée ou étendue à tout moment, selon l'évolution du catalogue.
+
+> [!TIP]
+> **Scripts** : les scripts de `scripts/` ne sont pas figés. Ils peuvent être **améliorés ou ajustés dynamiquement** selon les contraintes et besoins du moment, afin de ne jamais bloquer le workflow. En cas de blocage, appliquer la règle d'AGENTS.md : signaler le problème, corriger le script via `/script-specialist`, puis reprendre le travail.
 
 ---
 
